@@ -5,6 +5,10 @@
 
 I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and much more...
 
+[![](https://img.shields.io/badge/-@__ediri-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/_ediri)
+[![](https://img.shields.io/badge/-@dirien-%23181717?style=for-the-badge&logo=github)](https://github.com/dirien)
+![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 ## 💻 Technologies & Tools
 
@@ -47,6 +51,6 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dirien)
-[![GitHub followers](https://img.shields.io/github/followers/dirien.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/dirien.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dirien?tab=followers)
 
 🧿
