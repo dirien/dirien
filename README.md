@@ -10,6 +10,15 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
+## 🏗️ My Projects
+
+[K3SAIR 🏴‍☠️️ ('Corsair')](https://github.com/dirien/k3sair-cli)
+
+k3sair is a cli for the installation of k3s in an Air-Gapped environment.
+
+The idea is born, during the installation attempt in my company. So we are using this cli too, for our own installations. It is build completely on zero-trust, k3sair is not saving anything.
+
+
 ## 💻 Technologies & Tools
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
