@@ -18,6 +18,9 @@ k3sair is a cli for the installation of k3s in an Air-Gapped environment.
 
 The idea is born, during the installation attempt in my company. So we are using this cli too, for our own installations. It is build completely on zero-trust, k3sair is not saving anything.
 
+[minectl 🗺](https://github.com/dirien/minectl)
+
+minectl is a cli for creating Minecraft server on different cloud provider.
 
 ## 💻 Technologies & Tools
 
