@@ -1,6 +1,5 @@
 <img style="" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 
-
 ## 👉 Engin Diri
 
 I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and much more...
@@ -9,14 +8,14 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 [![](https://img.shields.io/badge/-@dirien-%23181717?style=for-the-badge&logo=github)](https://github.com/dirien)
 ![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-
 ## 🏗️ My Projects
 
 [K3SAIR 🏴‍☠️️ ('Corsair')](https://github.com/dirien/k3sair-cli)
 
 k3sair is a cli for the installation of k3s in an Air-Gapped environment.
 
-The idea is born, during the installation attempt in my company. So we are using this cli too, for our own installations. It is build completely on zero-trust, k3sair is not saving anything.
+The idea is born, during the installation attempt in my company. So we are using this cli too, for our own
+installations. It is build completely on zero-trust, k3sair is not saving anything.
 
 [minectl 🗺](https://github.com/dirien/minectl)
 
@@ -28,7 +27,7 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
-  
+
 ##
 
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
@@ -46,6 +45,7 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 
 ##
+
 <img alt="Scaleway" src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -57,7 +57,6 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 <img alt="Civo" src="https://img.shields.io/badge/civo-%23239DFF.svg?style=for-the-badge&logo=civo&logoColor=white"/>
 <img alt="Linode" src="https://img.shields.io/badge/linode-%2300A95C?style=for-the-badge&logo=linode&logoColor=white"/>
 <img alt="Hetzner" src="https://img.shields.io/badge/hetzner-%23d50c2d?style=for-the-badge&logo=hetzner&logoColor=white"/>
-
 
 ## ⚡ GitHub Stats
 
