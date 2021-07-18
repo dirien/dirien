@@ -46,16 +46,17 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 
 ##
 
-<img alt="Scaleway" src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img alt="Azure" src="https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img alt="OpenStack" src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white"/>
-<img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-<img alt="CloudFundry" src="https://img.shields.io/badge/CloudFoundry-%230167ff.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white"/> <img alt="Civo" src="https://img.shields.io/badge/civo-%23239DFF.svg?style=for-the-badge&logo=civo&logoColor=white"/>
-<img alt="Linode" src="https://img.shields.io/badge/linode-%2300A95C?style=for-the-badge&logo=linode&logoColor=white"/>
-<img alt="Hetzner" src="https://img.shields.io/badge/hetzner-%23d50c2d?style=for-the-badge&logo=hetzner&logoColor=white"/>
+![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white")
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white")
+![Azure](https://img.shields.io/badge/azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white")
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white")
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white")
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white")
+![CloudFundry](https://img.shields.io/badge/CloudFoundry-%230167ff.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white") 
+![Civo](https://img.shields.io/badge/civo-%23239DFF.svg?style=for-the-badge&logo=civo&logoColor=white")
+![Linode](https://img.shields.io/badge/linode-%2300A95C?style=for-the-badge&logo=linode&logoColor=white")
+![Hetzner](https://img.shields.io/badge/hetzner-%23d50c2d?style=for-the-badge&logo=hetzner&logoColor=white")
 
 ## ⚡ GitHub Stats
 
