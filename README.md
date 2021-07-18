@@ -46,14 +46,14 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 
 ##
 
-![Scaleway](https://img.shields.io/badge/SCALEWAY-34f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) 
+![Scaleway](https://img.shields.io/badge/SCALEWAY-4f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white")
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white")
 ![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white")
 ![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white")
 ![OpenStack](https://img.shields.io/badge/Openstack-f01742.svg?style=for-the-badge&logo=openstack&logoColor=white")
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white")
-![CloudFundry](https://img.shields.io/badge/CloudFoundry-0167ff.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white") 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white")
+![CloudFundry](https://img.shields.io/badge/CloudFoundry-0C9ED5.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white") 
 ![Civo](https://img.shields.io/badge/civo-239DFF.svg?style=for-the-badge&logo=civo&logoColor=white")
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white")
 ![Hetzner](https://img.shields.io/badge/hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white")
