@@ -32,7 +32,6 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 ##
 
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-<img alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -45,6 +44,8 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+##
 <img alt="Scaleway" src="https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -53,6 +54,9 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 <img alt="OpenStack" src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white"/>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 <img alt="CloudFundry" src="https://img.shields.io/badge/CloudFoundry-%230167ff.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white"/>
+<img alt="Civo" src="https://img.shields.io/badge/civo-%23239DFF.svg?style=for-the-badge&logo=civo&logoColor=white"/>
+<img alt="Linode" src="https://img.shields.io/badge/linode-%2300A95C?style=for-the-badge&logo=linode&logoColor=white"/>
+<img alt="Hetzner" src="https://img.shields.io/badge/hetzner-%23d50c2d?style=for-the-badge&logo=hetzner&logoColor=white"/>
 
 
 ## ⚡ GitHub Stats
