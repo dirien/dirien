@@ -53,8 +53,7 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="OpenStack" src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white"/>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-<img alt="CloudFundry" src="https://img.shields.io/badge/CloudFoundry-%230167ff.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white"/>
-<img alt="Civo" src="https://img.shields.io/badge/civo-%23239DFF.svg?style=for-the-badge&logo=civo&logoColor=white"/>
+<img alt="CloudFundry" src="https://img.shields.io/badge/CloudFoundry-%230167ff.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white"/> <img alt="Civo" src="https://img.shields.io/badge/civo-%23239DFF.svg?style=for-the-badge&logo=civo&logoColor=white"/>
 <img alt="Linode" src="https://img.shields.io/badge/linode-%2300A95C?style=for-the-badge&logo=linode&logoColor=white"/>
 <img alt="Hetzner" src="https://img.shields.io/badge/hetzner-%23d50c2d?style=for-the-badge&logo=hetzner&logoColor=white"/>
 
