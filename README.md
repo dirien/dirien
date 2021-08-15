@@ -57,6 +57,9 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 ![Civo](https://img.shields.io/badge/civo-239DFF.svg?style=for-the-badge&logo=civo&logoColor=white)
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white)
+![Equinix Metal](https://img.shields.io/badge/equinix--metal-d10810?style=for-the-badge&logo=equinixmetal&logoColor=white)
+![Vultr](https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
+![OVH](https://img.shields.io/badge/ovh-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 
 ## ⚡ GitHub Stats
 
