@@ -21,6 +21,10 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 
 minectl is a cli for creating Minecraft server on different cloud provider.
 
+[minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter)
+
+This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
+
 ## 💻 Technologies & Tools
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -46,20 +50,21 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 
 ##
 
-![Scaleway](https://img.shields.io/badge/SCALEWAY-4f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) 
+![Scaleway](https://img.shields.io/badge/SCALEWAY-4f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/Openstack-f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![CloudFundry](https://img.shields.io/badge/CloudFoundry-0C9ED5.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white) 
+![CloudFundry](https://img.shields.io/badge/CloudFoundry-0C9ED5.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white)
 ![Civo](https://img.shields.io/badge/civo-239DFF.svg?style=for-the-badge&logo=civo&logoColor=white)
 ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Equinix Metal](https://img.shields.io/badge/equinix--metal-d10810?style=for-the-badge&logo=equinixmetal&logoColor=white)
 ![Vultr](https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## ⚡ GitHub Stats
 
