@@ -1,4 +1,4 @@
-<img style="" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
+<img style="](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 
 ## 👉 Engin Diri
 
@@ -7,7 +7,6 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 [![](https://img.shields.io/badge/-@__ediri-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/_ediri)
 [![](https://img.shields.io/badge/-@dirien-%23181717?style=for-the-badge&logo=github)](https://github.com/dirien)
 ![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
 ## 🏗️ My Projects
 
 [K3SAIR 🏴‍☠️️ ('Corsair')](https://github.com/dirien/k3sair-cli)
@@ -25,28 +24,37 @@ minectl is a cli for creating Minecraft server on different cloud provider.
 
 This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
 
+## 🎓 Certificates & Trainings
+
+[![CKAD: Certified Kubernetes Application Developer](certificates/ckad-certified-kubernetes-application-developer.png)](https://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7/public_url)
+[![LFS458: Kubernetes Administration](certificates/lfs458-kubernetes-administration.png)](https://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88/public_url)
+[![LFD459: Kubernetes for App Developers](certificates/lfs458-kubernetes-administration.png)](https://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701/public_url)
+
 ## 💻 Technologies & Tools
 
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ##
 
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img alt="Rancher" src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white"/>
-<img alt="Vagrant" src="https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white"/>
-<img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-<img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img alt="Terraform" src="https://img.shields.io/badge/pulumi-black.svg?style=for-the-badge&logo=pulumi&logoColor=white"/>
-<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-1563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-1A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/pulumi-8A3391.svg?style=for-the-badge&logo=pulumi&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Rancher](https://img.shields.io/badge/rancher-0075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C.svg?style=for-the-badge&logo=&logoColor=white)
 
 ##
 
@@ -65,13 +73,12 @@ This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 pro
 ![Vultr](https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
 ![OVH](https://img.shields.io/badge/ovh-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
 ![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Ionos Cloud](https://img.shields.io/badge/ionos--cloud-003D8F?style=for-the-badge&logo=ionos&logoColor=white)
+![VEXXHOST](https://img.shields.io/badge/VEXXHOST-2A1659?style=for-the-badge&logo=vexxhost&logoColor=white)
 
 ## ⚡ GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=dirien&show_icons=true&count_private=true&theme=dracula" />
-</p>
-
+![dirien](https://github-readme-stats.vercel.app/api?username=dirien&show_icons=true&count_private=true&theme=dracula)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dirien)
 [![GitHub followers](https://img.shields.io/github/followers/dirien.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/dirien?tab=followers)
