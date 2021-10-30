@@ -6,7 +6,8 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 [![](https://img.shields.io/badge/-@__ediri-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/_ediri)
 [![](https://img.shields.io/badge/-@dirien-%23181717?style=for-the-badge&logo=github)](https://github.com/dirien)
-![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ediri/)
+[![](https://img.shields.io/badge/dirien-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://openprofile.dev/profile/dirien)
 ## 🏗️ My Projects
 
 [K3SAIR 🏴‍☠️️ ('Corsair')](https://github.com/dirien/k3sair-cli)
@@ -26,6 +27,7 @@ This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 pro
 
 ## 🎓 Certificates & Trainings
 
+[![CKAD: Certified Kubernetes Administrator](certificates/cka-certified-kubernetes-administrator.png)](https://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6/public_url)
 [![CKAD: Certified Kubernetes Application Developer](certificates/ckad-certified-kubernetes-application-developer.png)](https://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7/public_url)
 [![LFS458: Kubernetes Administration](certificates/linux_foundation.png)](https://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88/public_url)
 [![LFD459: Kubernetes for App Developers](certificates/linux_foundation.png)](https://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701/public_url)
