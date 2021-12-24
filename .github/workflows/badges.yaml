@@ -1,16 +1,19 @@
-name: Update badges
+name: Update badges from credly
 
 on:
+  schedule:
+    - cron: "0 0 * * *"
   pull_request:
 
 jobs:
   update-readme:
-    name: Update Readme with badges
+    name: Update Readme with badges from credly
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
+      - name: Update Readme with badges from credly
         uses: pemtajo/badge-readme@2.1.0
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Update badges from credly"
           CREDLY_USER: engin-diri
+          CREDLY_SORT: POPULAR
