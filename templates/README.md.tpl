@@ -55,8 +55,8 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 
 ## 🎓 Certificates & Trainings
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+{{"<!--START_SECTION:badges-->" | safe}}
+{{"<!--END_SECTION:badges-->" | safe}}
 
 ## 💻 Technologies & Tools
 
