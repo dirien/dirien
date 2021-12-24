@@ -1,0 +1,28 @@
+name: readme-scribe
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */1 * *'
+  push:
+    branches:
+      - 'master'
+
+jobs:
+  readme-scribe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
+        with:
+          template: templates/README.md.tpl
+          writeTo: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@abd87b7d94702070bef78dc1d56b6928b8fa9ecc
+        with:
+          commit_message: 'Update generated README'
+          branch: master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
