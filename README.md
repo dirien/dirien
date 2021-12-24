@@ -78,7 +78,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-
 ## 💻 Technologies & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
