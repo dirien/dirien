@@ -1,8 +1,8 @@
 name: Update badges
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  pull_request:
+
 jobs:
   update-readme:
     name: Update Readme with badges
