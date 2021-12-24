@@ -20,6 +20,14 @@ jobs:
           writeTo: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      - name: update task id
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "badges_tag"
+          replace: |
+            <!--START_SECTION:badges-->
+            <!--END_SECTION:badges-->
+          include: README.md
       - uses: stefanzweifel/git-auto-commit-action@abd87b7d94702070bef78dc1d56b6928b8fa9ecc
         with:
           commit_message: 'Update generated README'
