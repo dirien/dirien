@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.1.0
-        env:
+        with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Update badges from credly"
           CREDLY_USER: engin-diri
