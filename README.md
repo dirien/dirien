@@ -1,5 +1,3 @@
-<img style="](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
-
 ## 👉 Engin Diri
 
 I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and much more...
