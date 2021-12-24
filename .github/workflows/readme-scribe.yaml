@@ -20,7 +20,7 @@ jobs:
           writeTo: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-      - name: update task id
+      - name: replace placeholder for tags
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "badges_tag"
