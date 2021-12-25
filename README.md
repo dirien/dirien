@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (today)
-- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (today)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (today)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (today)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
+- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (1 day ago)
+- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (1 day ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.7.1](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.7.1), today) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
-- [dirien/tfu](https://github.com/dirien/tfu) ([v0.4.1](https://github.com/dirien/tfu/releases/tag/v0.4.1), today) - tfu is a terraform helper to update the providers.
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.1](https://github.com/dirien/pulumi-github/releases/tag/v0.2.1), today) - Pulumi program to manage my GitHub repositories
-- [dirien/k3sair-cli](https://github.com/dirien/k3sair-cli) ([0.3.1](https://github.com/dirien/k3sair-cli/releases/tag/0.3.1), today) - K3SAIR 🏴‍☠️️ (&#39;Corsair&#39;) is a cli for the installation of k3s in an Air-Gapped environment.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.7.1](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.7.1), 1 day ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
+- [dirien/tfu](https://github.com/dirien/tfu) ([v0.4.1](https://github.com/dirien/tfu/releases/tag/v0.4.1), 1 day ago) - tfu is a terraform helper to update the providers.
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.1](https://github.com/dirien/pulumi-github/releases/tag/v0.2.1), 1 day ago) - Pulumi program to manage my GitHub repositories
+- [dirien/k3sair-cli](https://github.com/dirien/k3sair-cli) ([0.3.1](https://github.com/dirien/k3sair-cli/releases/tag/0.3.1), 1 day ago) - K3SAIR 🏴‍☠️️ (&#39;Corsair&#39;) is a cli for the installation of k3s in an Air-Gapped environment.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
+- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world&#39;s most hated IT stickers - 2549 stars
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) - 237 stars
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 - 178 stars
 - [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 8 stars
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. - 414 stars
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. - 415 stars
 - [goreleaser/supply-chain-example](https://github.com/goreleaser/supply-chain-example) - Example goreleaser &#43; github actions config with keyless signing and SBOM generation - 25 stars
 - [pulumiverse/kubernetes-sdks](https://github.com/pulumiverse/kubernetes-sdks) -  - 4 stars
-- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2&#43; - 13821 stars
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2&#43; - 13822 stars
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.  - 1925 stars
 - [AlexsJones/prop-rep](https://github.com/AlexsJones/prop-rep) - Find out which organisations are best represented in a repository - 3 stars
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes - 35201 stars
-- [flathub/org.jreleaser.cli](https://github.com/flathub/org.jreleaser.cli) -  - 1 stars
-- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) - Fast container image distribution plugin with lazy pulling - 497 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
