@@ -13,31 +13,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (2 days ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (2 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (2 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (3 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (3 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.3.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.3.2), 1 day ago) - Node-red Helm Chart
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.7.1](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.7.1), 2 days ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
-- [dirien/tfu](https://github.com/dirien/tfu) ([v0.4.1](https://github.com/dirien/tfu/releases/tag/v0.4.1), 2 days ago) - tfu is a terraform helper to update the providers.
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.1](https://github.com/dirien/pulumi-github/releases/tag/v0.2.1), 2 days ago) - Pulumi program to manage my GitHub repositories
-- [dirien/k3sair-cli](https://github.com/dirien/k3sair-cli) ([0.3.1](https://github.com/dirien/k3sair-cli/releases/tag/0.3.1), 2 days ago) - K3SAIR 🏴‍☠️️ (&#39;Corsair&#39;) is a cli for the installation of k3s in an Air-Gapped environment.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.4.0](https://github.com/simple-icons/simple-icons/releases/tag/6.4.0), 1 day ago) - SVG icons for popular brands
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.3.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.3.2), 2 days ago) - Node-red Helm Chart
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.7.1](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.7.1), 3 days ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
+- [dirien/tfu](https://github.com/dirien/tfu) ([v0.4.1](https://github.com/dirien/tfu/releases/tag/v0.4.1), 3 days ago) - tfu is a terraform helper to update the providers.
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.1](https://github.com/dirien/pulumi-github/releases/tag/v0.2.1), 3 days ago) - Pulumi program to manage my GitHub repositories
 
 #### ⭐ Latest repositories I starred
 
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme - 1939 stars
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme - 1944 stars
 - [ptkdev/all-shields-cli](https://github.com/ptkdev/all-shields-cli) - 🦌 Tool to help automate your badges from dotfiles for your markdown.  - 24 stars
-- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours! - 2990 stars
-- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world&#39;s most hated IT stickers - 3285 stars
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) - 237 stars
+- [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours! - 2991 stars
+- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world&#39;s most hated IT stickers - 3896 stars
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) - 238 stars
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 - 179 stars
-- [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 8 stars
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. - 415 stars
-- [goreleaser/supply-chain-example](https://github.com/goreleaser/supply-chain-example) - Example goreleaser &#43; github actions config with keyless signing and SBOM generation - 26 stars
+- [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme) - Add badges in your Readme - 9 stars
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. - 416 stars
+- [goreleaser/supply-chain-example](https://github.com/goreleaser/supply-chain-example) - Example goreleaser &#43; github actions config with keyless signing and SBOM generation - 27 stars
 - [pulumiverse/kubernetes-sdks](https://github.com/pulumiverse/kubernetes-sdks) -  - 4 stars
 
 #### 👥 Latest follower
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
