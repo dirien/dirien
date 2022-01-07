@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (1 day ago)
-- [sigstore/friends](https://github.com/sigstore/friends) - Sigstore user stories (1 day ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
+- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (2 days ago)
+- [sigstore/friends](https://github.com/sigstore/friends) - Sigstore user stories (2 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (3 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.14.0](https://github.com/dirien/minectl/releases/tag/v0.14.0), 4 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.5.0](https://github.com/simple-icons/simple-icons/releases/tag/6.5.0), 4 days ago) - SVG icons for popular brands
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 5 days ago) - Declarative continuous deployment for Kubernetes.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.14.0](https://github.com/dirien/minectl/releases/tag/v0.14.0), 5 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.5.0](https://github.com/simple-icons/simple-icons/releases/tag/6.5.0), 5 days ago) - SVG icons for popular brands
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.2.28](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.2.28), 1 week ago) - Argo-CD Autopilot
 
 #### ⭐ Latest repositories I starred
 
-- [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design - 771 stars
+- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage. - 47 stars
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust - 3002 stars
+- [manekinekko/awesome-devcontainers](https://github.com/manekinekko/awesome-devcontainers) - A curated list of awesome tools and resources about devcontainers for common programming languages and technology stacks to boost your developer productivity 🚀 - 22 stars
+- [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design - 772 stars
 - [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) - Export helm stats into the Prometheus format - 133 stars
-- [gitpod-io/template-ocaml](https://github.com/gitpod-io/template-ocaml) - A template for OCaml, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud. - 10 stars
+- [gitpod-io/template-ocaml](https://github.com/gitpod-io/template-ocaml) - A template for OCaml, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud. - 13 stars
 - [null-channel/cluster-api-provider-civo](https://github.com/null-channel/cluster-api-provider-civo) - capc (cap ka) is a cluster api provider for the civo platform created for the hackathon for fun! Interested in helping drive it forward? you are more then welcome to join in! - 2 stars
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit - 949 stars
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit - 951 stars
 - [tohjustin/kube-lineage](https://github.com/tohjustin/kube-lineage) - A CLI tool to display all dependencies or dependents of an object in a Kubernetes cluster. - 127 stars
-- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) - 1971 stars
-- [aquasecurity/appshield](https://github.com/aquasecurity/appshield) - Security configuration checks for popular cloud native applications and infrastructure. - 92 stars
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create &amp; extract archives, and compress &amp; decompress files of various formats - 3397 stars
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features - 23126 stars
+- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using) - 1972 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
