@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [sigstore/friends](https://github.com/sigstore/friends) - Sigstore user stories (4 days ago)
-- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [emberstack/docker-azure-pipelines-agent](https://github.com/emberstack/docker-azure-pipelines-agent) - Docker based agent for Azure Pipelines (1 day ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (2 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.15.0](https://github.com/dirien/minectl/releases/tag/v0.15.0), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24), 1 day ago) - Azure DevOps Extension for GoReleaser
+- [emberstack/docker-azure-pipelines-agent](https://github.com/emberstack/docker-azure-pipelines-agent) ([v2.2.26](https://github.com/emberstack/docker-azure-pipelines-agent/releases/tag/v2.2.26), 1 day ago) - Docker based agent for Azure Pipelines
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.15.0](https://github.com/dirien/minectl/releases/tag/v0.15.0), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.24](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.24), 2 days ago) - Azure DevOps Extension for GoReleaser
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.5.0](https://github.com/simple-icons/simple-icons/releases/tag/6.5.0), 1 week ago) - SVG icons for popular brands
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 1 week ago) - Declarative continuous deployment for Kubernetes.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image - 29419 stars
+- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters - 82 stars
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image - 29434 stars
 - [strongjz/cosign-aws-codepipeline](https://github.com/strongjz/cosign-aws-codepipeline) - Example code repo for blog post https://chainguard.dev/posts/2022-01-07-cosign-aws-codepipeline - 3 stars
 - [flemay/3musketeers](https://github.com/flemay/3musketeers) - Test, build, and deploy your apps from anywhere, the same way! - 103 stars
 - [emberstack/docker-azure-pipelines-agent](https://github.com/emberstack/docker-azure-pipelines-agent) - Docker based agent for Azure Pipelines - 18 stars
-- [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier - 323 stars
-- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage. - 136 stars
-- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust - 3047 stars
-- [manekinekko/awesome-devcontainers](https://github.com/manekinekko/awesome-devcontainers) - A curated list of awesome tools and resources about devcontainers for common programming languages and technology stacks to boost your developer productivity 🚀 - 79 stars
+- [awslabs/aws-lambda-powertools-typescript](https://github.com/awslabs/aws-lambda-powertools-typescript) - A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier - 337 stars
+- [iximiuz/client-go-examples](https://github.com/iximiuz/client-go-examples) - Collection of mini-programs demonstrating Kubernetes client-go usage. - 139 stars
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust - 3052 stars
+- [manekinekko/awesome-devcontainers](https://github.com/manekinekko/awesome-devcontainers) - A curated list of awesome tools and resources about devcontainers for common programming languages and technology stacks to boost your developer productivity 🚀 - 83 stars
 - [xlayers/xlayers](https://github.com/xlayers/xlayers) - ✨ Generate code from your design - 773 stars
-- [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) - Export helm stats into the Prometheus format - 133 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
