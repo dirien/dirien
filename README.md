@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [stackitcloud/conferences-agenda](https://github.com/stackitcloud/conferences-agenda) - List of all conferences 🗣️, it would make sense to participate as Engineer, Dev Advocate or whole company (3 days ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Example of a Pulumi program to manage a Scaleway server (4 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (5 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (1 day ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 day ago)
+- [stackitcloud/conferences-agenda](https://github.com/stackitcloud/conferences-agenda) - List of all conferences 🗣️, it would make sense to participate as Engineer, Dev Advocate or whole company (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.7.0](https://github.com/simple-icons/simple-icons/releases/tag/6.7.0), 1 day ago) - SVG icons for popular brands
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.8](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.8), 3 days ago) - Terraform Civo provider
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.12](https://github.com/alexellis/arkade/releases/tag/0.8.12), 3 days ago) - Open Source Kubernetes Marketplace
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [pulumi/pulumi-az-pipelines-task](https://github.com/pulumi/pulumi-az-pipelines-task) ([v1.0.15](https://github.com/pulumi/pulumi-az-pipelines-task/releases/tag/v1.0.15), 4 days ago) - Azure Pipelines task extension for running Pulumi apps.
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.8.0](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.8.0), 1 day ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.16.0](https://github.com/dirien/minectl/releases/tag/v0.16.0), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [inlets/inlets-pro](https://github.com/inlets/inlets-pro) ([0.9.3](https://github.com/inlets/inlets-pro/releases/tag/0.9.3), 1 day ago) - Secure HTTP and TCP tunnels that just work
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.7.0](https://github.com/simple-icons/simple-icons/releases/tag/6.7.0), 2 days ago) - SVG icons for popular brands
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.8](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.8), 4 days ago) - Terraform Civo provider
 
 #### ⭐ Latest repositories I starred
 
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development. - 15055 stars
+- [devopstales/trivy-operator](https://github.com/devopstales/trivy-operator) - Kubernetes Operator based on the open-source container vulnerability scanner Trivy. - 8 stars
+- [AlexsJones/action-helm-datree](https://github.com/AlexsJones/action-helm-datree) -  - 5 stars
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development. - 15122 stars
 - [jaxxstorm/pulumi-scaleway](https://github.com/jaxxstorm/pulumi-scaleway) -  - 4 stars
-- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens - 993 stars
+- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens - 995 stars
 - [the-gophers/gophercon-2021](https://github.com/the-gophers/gophercon-2021) - Microsoft @ GopherCon 2021! - 18 stars
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform - 18339 stars
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform - 18344 stars
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees - 231 stars
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml - 186 stars
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go - 28 stars
-- [pyrsia/pyrsia](https://github.com/pyrsia/pyrsia) - Zero-Trust Decentralized Package Network - 18 stars
-- [kubernetes-sigs/depstat](https://github.com/kubernetes-sigs/depstat) - depstat is a dependency analyzer for Go modules enabled projects. It runs as part of the Kubernetes CI pipeline to help evaluate dependency updates to Kubernetes. - 26 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
