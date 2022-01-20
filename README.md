@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (2 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (2 days ago)
-- [stackitcloud/conferences-agenda](https://github.com/stackitcloud/conferences-agenda) - List of all conferences 🗣️, it would make sense to participate as Engineer, Dev Advocate or whole company (5 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (5 days ago)
+- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (3 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (3 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.9](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.9), 1 day ago) - Terraform Civo provider
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [civo/cli](https://github.com/civo/cli) ([v1.0.10](https://github.com/civo/cli/releases/tag/v1.0.10), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.8.0](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.8.0), 2 days ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.16.0](https://github.com/dirien/minectl/releases/tag/v0.16.0), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.13](https://github.com/alexellis/arkade/releases/tag/0.8.13), 1 day ago) - Open Source Kubernetes Marketplace
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.9](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.9), 2 days ago) - Terraform Civo provider
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [civo/cli](https://github.com/civo/cli) ([v1.0.10](https://github.com/civo/cli/releases/tag/v1.0.10), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.8.0](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.8.0), 3 days ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
 
 #### ⭐ Latest repositories I starred
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! - 21622 stars
+- [Issif/falco-talon](https://github.com/Issif/falco-talon) - Falco Talon is a Response Engine for managing threats in your Kubernetes - 12 stars
+- [nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes) - This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices. - 11 stars
+- [konveyor/forklift](https://github.com/konveyor/forklift) - Forklift project top-level repository - 4 stars
+- [umbracle/go-web3](https://github.com/umbracle/go-web3) - Ethereum Golang API - 200 stars
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is your K8s best friend for creating, validating, debugging and managing manifests! - 215 stars
+- [kubermatic-labs/kubeone-oidc-auditlog-example](https://github.com/kubermatic-labs/kubeone-oidc-auditlog-example) - Example for KubeOne with OIDC Authentication and Audit Logging - 1 stars
 - [vfarcic/crossplane-kubevela-argocd-demo](https://github.com/vfarcic/crossplane-kubevela-argocd-demo) -  - 19 stars
 - [devopstales/trivy-operator](https://github.com/devopstales/trivy-operator) - Kubernetes Operator based on the open-source container vulnerability scanner Trivy. - 8 stars
 - [AlexsJones/action-helm-datree](https://github.com/AlexsJones/action-helm-datree) - Datree helm plugin as a GitHub action - 5 stars
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development. - 15178 stars
-- [jaxxstorm/pulumi-scaleway](https://github.com/jaxxstorm/pulumi-scaleway) -  - 4 stars
-- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens - 995 stars
-- [the-gophers/gophercon-2021](https://github.com/the-gophers/gophercon-2021) - Microsoft @ GopherCon 2021! - 18 stars
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform - 18353 stars
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of conferences&#39;s date in order to help conferences organizers &amp; attendees - 238 stars
-- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml - 188 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
