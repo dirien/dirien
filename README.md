@@ -14,31 +14,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 #### 👷 I'm currently working on
 
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (today)
-- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (3 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (5 days ago)
+- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (6 days ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([v0.9.0](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/v0.9.0), today) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.13](https://github.com/alexellis/arkade/releases/tag/0.8.13), 3 days ago) - Open Source Kubernetes Marketplace
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.9](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.9), 4 days ago) - Terraform Civo provider
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 4 days ago) - Declarative continuous deployment for Kubernetes.
-- [civo/cli](https://github.com/civo/cli) ([v1.0.10](https://github.com/civo/cli/releases/tag/v1.0.10), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([minecraft-exporter-0.1.4](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/minecraft-exporter-0.1.4), 1 day ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.13](https://github.com/alexellis/arkade/releases/tag/0.8.13), 4 days ago) - Open Source Kubernetes Marketplace
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.9](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.9), 5 days ago) - Terraform Civo provider
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [civo/cli](https://github.com/civo/cli) ([v1.0.10](https://github.com/civo/cli/releases/tag/v1.0.10), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 
 #### ⭐ Latest repositories I starred
 
-- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. - 106 stars
-- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers - 6287 stars
-- [xoofx/grpc-curl](https://github.com/xoofx/grpc-curl) - grpc-curl is a command line tool for interacting with gRPC servers - 32 stars
-- [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator) - Catalogue all images of a Kubernetes cluster to Git with Syft - 7 stars
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! - 21793 stars
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts - 724 stars
+- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path - 75 stars
+- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. - 109 stars
+- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers - 6290 stars
+- [xoofx/grpc-curl](https://github.com/xoofx/grpc-curl) - grpc-curl is a command line tool for interacting with gRPC servers - 34 stars
+- [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator) - Catalogue all images of a Kubernetes cluster to Git with Syft - 8 stars
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! - 21819 stars
 - [Issif/falco-talon](https://github.com/Issif/falco-talon) - Falco Talon is a Response Engine for managing threats in your Kubernetes - 12 stars
 - [nmeisenzahl/hijack-kubernetes](https://github.com/nmeisenzahl/hijack-kubernetes) - This repo includes a demo that shows how a Kubernetes cluster can be hijacked and how to prevent it using common best practices. - 11 stars
 - [konveyor/forklift](https://github.com/konveyor/forklift) - Forklift project top-level repository - 5 stars
-- [umbracle/go-web3](https://github.com/umbracle/go-web3) - Ethereum Golang API - 202 stars
-- [kubeshop/monokle](https://github.com/kubeshop/monokle) - Monokle is your K8s best friend for creating, validating, debugging and managing manifests! - 226 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
