@@ -13,31 +13,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
+- [dirien/vcluster-webinar](https://github.com/dirien/vcluster-webinar) - Demo Repository for vcluster Webinar (1 day ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (2 days ago)
-- [dirien/.github](https://github.com/dirien/.github) - Repository for default files (6 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (6 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 week ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project. (3 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.5.0](https://github.com/sigstore/cosign/releases/tag/v1.5.0), 1 day ago) - Container Signing
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([minecraft-exporter-0.1.4](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/minecraft-exporter-0.1.4), 3 days ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.13](https://github.com/alexellis/arkade/releases/tag/0.8.13), 6 days ago) - Open Source Kubernetes Marketplace
+- [openfaas/faasd](https://github.com/openfaas/faasd) ([0.15.0-rc2](https://github.com/openfaas/faasd/releases/tag/0.15.0-rc2), 1 day ago) - A lightweight &amp; portable faas engine
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.5.0](https://github.com/sigstore/cosign/releases/tag/v1.5.0), 2 days ago) - Container Signing
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([minecraft-exporter-0.1.4](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/minecraft-exporter-0.1.4), 4 days ago) - This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.13](https://github.com/alexellis/arkade/releases/tag/0.8.13), 1 week ago) - Open Source Kubernetes Marketplace
 - [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.9](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.9), 1 week ago) - Terraform Civo provider
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### ⭐ Latest repositories I starred
 
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. - 331 stars
-- [weaveworks/kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon - 1357 stars
-- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts - 726 stars
-- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path - 80 stars
-- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. - 109 stars
-- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers - 6315 stars
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. - 330 stars
+- [weaveworks/kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon - 1358 stars
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts - 727 stars
+- [csantanapr/awesome-learn](https://github.com/csantanapr/awesome-learn) - Cloud Native Learning Path - 84 stars
+- [microsoft/foss-fund](https://github.com/microsoft/foss-fund) - The Microsoft FOSS Fund provides a direct way for Microsoft engineers to participate in the nomination and selection process to help communities and projects they are passionate about. The FOSS Fund provides $10,000 sponsorships to open source projects as selected by Microsoft employees. - 111 stars
+- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers - 6322 stars
 - [xoofx/grpc-curl](https://github.com/xoofx/grpc-curl) - grpc-curl is a command line tool for interacting with gRPC servers - 36 stars
-- [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator) - Catalogue all images of a Kubernetes cluster to Git with Syft - 14 stars
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! - 21877 stars
+- [ckotzbauer/sbom-operator](https://github.com/ckotzbauer/sbom-operator) - Catalogue all images of a Kubernetes cluster to Git with Syft - 15 stars
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! - 21900 stars
 - [Issif/falco-talon](https://github.com/Issif/falco-talon) - Falco Talon is a Response Engine for managing threats in your Kubernetes - 15 stars
 
 #### 👥 Latest follower
@@ -50,11 +50,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/vcluster-webinar](https://github.com/dirien/vcluster-webinar) - Demo Repository for vcluster Webinar
 - [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Example of a Pulumi program to manage a Scaleway server
 - [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies
 - [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation
 - [dirien/.github](https://github.com/dirien/.github) - Repository for default files
-- [dirien/gophercon-turkey-2021](https://github.com/dirien/gophercon-turkey-2021) - My GopherCon Turkey 2021 Demo repo
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
