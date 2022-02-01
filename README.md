@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (today)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (today)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 day ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0-rc1), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.16.2](https://github.com/dirien/minectl/releases/tag/v0.16.2), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.3.2-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.3.2-helm), 1 day ago) - Minecraft Prometheus exporter
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.25](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.25), 1 day ago) - Azure DevOps Extension for GoReleaser
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.8.0](https://github.com/simple-icons/simple-icons/releases/tag/6.8.0), 1 day ago) - SVG icons for popular brands
+- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.0.0](https://github.com/sigstore/cosign-installer/releases/tag/v2.0.0), 1 day ago) - Cosign Github Action
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.5.1](https://github.com/sigstore/cosign/releases/tag/v1.5.1), 1 day ago) - Container Signing
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.4.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.4.0), 1 day ago) - Node-red Helm Chart
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0-rc1), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.16.2](https://github.com/dirien/minectl/releases/tag/v0.16.2), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 
 #### ⭐ Latest repositories I starred
 
+- [kubernetes-sigs/kube-scheduler-simulator](https://github.com/kubernetes-sigs/kube-scheduler-simulator) - A web-based simulator for the Kubernetes scheduler - 307 stars
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Security monitoring for the GitHub-hosted runner - 11 stars
-- [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format - 1921 stars
+- [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format - 1924 stars
 - [aws-samples/aws-pipeline-demo-with-tekton](https://github.com/aws-samples/aws-pipeline-demo-with-tekton) -  - 5 stars
-- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts. - 137 stars
-- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content - 6528 stars
+- [stefanprodan/kustomizer](https://github.com/stefanprodan/kustomizer) - An experimental package manager for distributing Kubernetes configuration as OCI artifacts. - 138 stars
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content - 6530 stars
 - [ContainerSolutions/trow](https://github.com/ContainerSolutions/trow) - Container Registry and Image Management for Kubernetes Clusters - 658 stars
 - [fawazsiddiqi/slides_to_pages](https://github.com/fawazsiddiqi/slides_to_pages) -  - 1 stars
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams - 26454 stars
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams - 26466 stars
 - [vmware-tanzu/carvel-kapp-controller](https://github.com/vmware-tanzu/carvel-kapp-controller) - Continuous delivery and package management for Kubernetes. - 114 stars
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. - 333 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
