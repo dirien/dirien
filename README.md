@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) - go/template is a tool for jumpstarting production-ready Golang projects quickly. (1 day ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (3 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
-- [SchwarzIT/.github](https://github.com/SchwarzIT/.github) - Default community health files for the SchwarzIT organization. (3 days ago)
+- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) - go/template is a tool for jumpstarting production-ready Golang projects quickly. (2 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (4 days ago)
+- [SchwarzIT/.github](https://github.com/SchwarzIT/.github) - Default community health files for the SchwarzIT organization. (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) ([v0.3.0](https://github.com/SchwarzIT/go-template/releases/tag/v0.3.0), 1 day ago) - go/template is a tool for jumpstarting production-ready Golang projects quickly.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.10.0](https://github.com/simple-icons/simple-icons/releases/tag/6.10.0), 2 days ago) - SVG icons for popular brands
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.14](https://github.com/alexellis/arkade/releases/tag/0.8.14), 3 days ago) - Open Source Kubernetes Marketplace
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.4.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.4.0-helm), 3 days ago) - Minecraft Prometheus exporter
+- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) ([v0.3.0](https://github.com/SchwarzIT/go-template/releases/tag/v0.3.0), 2 days ago) - go/template is a tool for jumpstarting production-ready Golang projects quickly.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.10.0](https://github.com/simple-icons/simple-icons/releases/tag/6.10.0), 3 days ago) - SVG icons for popular brands
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.14](https://github.com/alexellis/arkade/releases/tag/0.8.14), 4 days ago) - Open Source Kubernetes Marketplace
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.4.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.4.0-helm), 4 days ago) - Minecraft Prometheus exporter
 
 #### ⭐ Latest repositories I starred
 
-- [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes - 419 stars
-- [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable - 819 stars
+- [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices - 352 stars
+- [livecodingturkey/manifesto](https://github.com/livecodingturkey/manifesto) - Manifesto for any kind of OSS contribution - 8 stars
+- [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes - 422 stars
+- [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable - 821 stars
 - [brumhard/pulumi-k3s](https://github.com/brumhard/pulumi-k3s) - Native Pulumi provider for k3s :rocket: - 4 stars
-- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books - 8256 stars
-- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM) - 1798 stars
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books - 8261 stars
+- [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) - Cloud Security Posture Management (CSPM) - 1807 stars
 - [lukesampson/figlet](https://github.com/lukesampson/figlet) - Figlet in Go - 117 stars
-- [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. - 108 stars
+- [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. - 111 stars
 - [AppThreat/cdxgen](https://github.com/AppThreat/cdxgen) - Creates CycloneDX Software Bill-of-Materials (SBOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI//CD pipeline with automatic submission to Dependency Track server. - 52 stars
-- [dxrto/diet-coke](https://github.com/dxrto/diet-coke) - one weird trick DevOps engineers don&#39;t want you to know! - 3 stars
-- [soraro/kurt](https://github.com/soraro/kurt) - A restart tracker that gives context to what is restarting in your cluster - 36 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
