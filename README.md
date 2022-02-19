@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) - go/template is a tool for jumpstarting production-ready Golang projects quickly. (4 days ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (6 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (6 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) - go/template is a tool for jumpstarting production-ready Golang projects quickly. (5 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [civo/cli](https://github.com/civo/cli) ([v1.0.16](https://github.com/civo/cli/releases/tag/v1.0.16), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.11](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.11), 2 days ago) - Terraform Civo provider
-- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) ([v0.3.0](https://github.com/SchwarzIT/go-template/releases/tag/v0.3.0), 4 days ago) - go/template is a tool for jumpstarting production-ready Golang projects quickly.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.10.0](https://github.com/simple-icons/simple-icons/releases/tag/6.10.0), 5 days ago) - SVG icons for popular brands
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.5.2](https://github.com/sigstore/cosign/releases/tag/v1.5.2), 1 day ago) - Container Signing
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.4.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.4.2), 1 day ago) - Node-red Helm Chart
+- [civo/cli](https://github.com/civo/cli) ([v1.0.16](https://github.com/civo/cli/releases/tag/v1.0.16), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.11](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.11), 3 days ago) - Terraform Civo provider
+- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) ([v0.3.0](https://github.com/SchwarzIT/go-template/releases/tag/v0.3.0), 5 days ago) - go/template is a tool for jumpstarting production-ready Golang projects quickly.
 
 #### ⭐ Latest repositories I starred
 
-- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. - 3789 stars
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues - 10543 stars
+- [google/k8s-digester](https://github.com/google/k8s-digester) - Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. - 25 stars
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) - DefSec is a collection of Infrastructure-as-Code rules. - 19 stars
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew. - 3793 stars
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues - 10651 stars
 - [solo-io/bumblebee](https://github.com/solo-io/bumblebee) - Get eBPF programs running from the cloud to the kernel in 1 line of bash - 746 stars
 - [kubernetes-sigs/security-profiles-operator](https://github.com/kubernetes-sigs/security-profiles-operator) - The Kubernetes Security Profiles Operator - 279 stars
-- [kbrew-dev/kbrew](https://github.com/kbrew-dev/kbrew) - kbrew is homebrew for Kubernetes - 154 stars
+- [kbrew-dev/kbrew](https://github.com/kbrew-dev/kbrew) - kbrew is homebrew for Kubernetes - 162 stars
 - [aquasecurity/postee](https://github.com/aquasecurity/postee) - Integrate Aqua Security vulnerability scanning with ALM systems (JIRA, ServiceNow) and messaging systems (MS Teams, Slack and Simple Email) - 89 stars
-- [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa) - A curated list of OPA related tools, frameworks and articles - 313 stars
-- [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices - 387 stars
-- [livecodingturkey/manifesto](https://github.com/livecodingturkey/manifesto) - Manifesto for any kind of OSS contribution - 8 stars
-- [estesp/manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes - 424 stars
+- [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa) - A curated list of OPA related tools, frameworks and articles - 316 stars
+- [krol3/container-security-checklist](https://github.com/krol3/container-security-checklist) - Checklist for container security - devsecops practices - 395 stars
 
 #### 👥 Latest follower
 
+- [Kaktor](https://github.com/Kaktor) - Felix Kammerer
+- [ozby](https://github.com/ozby) - ozby
 - [cliffordfajardo](https://github.com/cliffordfajardo) - Clifford Fajardo 
 - [canbax](https://github.com/canbax) - yusuf
 - [zhufenggood](https://github.com/zhufenggood) - 
-- [rickKoch](https://github.com/rickKoch) - Rick Koch
-- [abdulmajid18](https://github.com/abdulmajid18) - 
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
