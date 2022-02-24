@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 day ago)
-- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes (3 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (5 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (5 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (6 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (2 days ago)
+- [google/ko](https://github.com/google/ko) - Build and deploy Go applications on Kubernetes (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.26](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.26), 1 day ago) - Azure DevOps Extension for GoReleaser
-- [civo/cli](https://github.com/civo/cli) ([v1.0.19](https://github.com/civo/cli/releases/tag/v1.0.19), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) ([v1.2.0](https://github.com/patrickdappollonio/kubectl-slice/releases/tag/v1.2.0), 1 day ago) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
-- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) ([0.14.2](https://github.com/openfaas/faas-netes/releases/tag/0.14.2), 1 day ago) - Serverless Functions For Kubernetes
-- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.0.1](https://github.com/sigstore/cosign-installer/releases/tag/v2.0.1), 2 days ago) - Cosign Github Action
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.6.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.6.0), 1 day ago) - Node-red Helm Chart
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.26](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.26), 2 days ago) - Azure DevOps Extension for GoReleaser
+- [civo/cli](https://github.com/civo/cli) ([v1.0.19](https://github.com/civo/cli/releases/tag/v1.0.19), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) ([v1.2.0](https://github.com/patrickdappollonio/kubectl-slice/releases/tag/v1.2.0), 2 days ago) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
+- [openfaas/faas-netes](https://github.com/openfaas/faas-netes) ([0.14.2](https://github.com/openfaas/faas-netes/releases/tag/0.14.2), 2 days ago) - Serverless Functions For Kubernetes
 
 #### ⭐ Latest repositories I starred
 
+- [Azure/AlwaysOn](https://github.com/Azure/AlwaysOn) - AlwaysOn provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. - 32 stars
+- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt - 1521 stars
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software - 75854 stars
+- [chainguard-dev/actions](https://github.com/chainguard-dev/actions) - A collection of reusable Github Actions workflows. - 4 stars
 - [loft-sh/jspolicy](https://github.com/loft-sh/jspolicy) - jsPolicy - Easier &amp; Faster Kubernetes Policies using JavaScript or TypeScript - 146 stars
 - [MarkXA/aca-to-k8s](https://github.com/MarkXA/aca-to-k8s) - A utility for migrating Azure Container Apps to full AKS. - 1 stars
 - [lazyfrosch/dslmodem_exporter](https://github.com/lazyfrosch/dslmodem_exporter) - Prometheus exporter for DSL modems - 3 stars
 - [crumbhole/argocd-lovely-plugin](https://github.com/crumbhole/argocd-lovely-plugin) - A plugin to make Argo CD behave like we&#39;d like. - 23 stars
-- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. - 2540 stars
+- [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources. - 2541 stars
 - [jpetazzo/registrish](https://github.com/jpetazzo/registrish) - Dirty hack to run a read-only, public Docker registry on almost any static file hosting service (e.g. NGINX, Netlify, S3...) - 127 stars
-- [chainguard-dev/apko](https://github.com/chainguard-dev/apko) -  - 30 stars
-- [sethvargo/now-or-never-resource-optimizer](https://github.com/sethvargo/now-or-never-resource-optimizer) - A resource optimizer for Now or Never, written in Go, compiled to WASM, run in the browser. - 12 stars
-- [iam-mhaseeb/StandupMonkey](https://github.com/iam-mhaseeb/StandupMonkey) - A self hosted slack bot to conduct standups &amp; generate reports. - 56 stars
-- [google/k8s-digester](https://github.com/google/k8s-digester) - Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize. - 34 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
