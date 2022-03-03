@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (2 days ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 - [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([2.2.2-iep](https://github.com/SchwarzIT/node-red-chart/releases/tag/2.2.2-iep), 1 day ago) - Node-red Helm Chart
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.13](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.13), 2 days ago) - Terraform Civo provider
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.37.4](https://github.com/docker-slim/docker-slim/releases/tag/1.37.4), 2 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.12.0](https://github.com/simple-icons/simple-icons/releases/tag/6.12.0), 3 days ago) - SVG icons for popular brands
-- [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([2.2.2-iep](https://github.com/SchwarzIT/node-red-chart/releases/tag/2.2.2-iep), 2 days ago) - Node-red Helm Chart
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.13](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.13), 3 days ago) - Terraform Civo provider
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.37.4](https://github.com/docker-slim/docker-slim/releases/tag/1.37.4), 3 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.12.0](https://github.com/simple-icons/simple-icons/releases/tag/6.12.0), 4 days ago) - SVG icons for popular brands
+- [civo/cli](https://github.com/civo/cli) ([v1.0.22](https://github.com/civo/cli/releases/tag/v1.0.22), 6 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 
 #### ⭐ Latest repositories I starred
 
-- [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner) -  - 3 stars
-- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - K8s Airgap Buddy - 186 stars
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 - 6 stars
+- [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner) -  - 4 stars
+- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - K8s Airgap Buddy - 188 stars
 - [thomast1906/DevOps-Journey-Using-Azure-DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) - A DevOps journey using Azure DevOps (CI/CD, reporting, terraform, AKS) - 107 stars
-- [atombender/ktail](https://github.com/atombender/ktail) - ktail is a tool to easily tail Kubernetes logs. - 172 stars
-- [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3) - This is a list of the content I shared about Web3 for the upcoming 100 days - 267 stars
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment. - 147 stars
-- [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners - 1517 stars
+- [atombender/ktail](https://github.com/atombender/ktail) - ktail is a tool to easily tail Kubernetes logs. - 173 stars
+- [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3) - This is a list of the content I shared about Web3 for the upcoming 100 days - 270 stars
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - mirrord lets you easily mirror traffic from your production environment to your development environment. - 149 stars
+- [actions-runner-controller/actions-runner-controller](https://github.com/actions-runner-controller/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners - 1523 stars
 - [keel-hq/keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet &amp; Deployment updates - 1935 stars
-- [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repo provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. - 228 stars
-- [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt - 1536 stars
+- [Azure/Mission-Critical](https://github.com/Azure/Mission-Critical) - This repository provides a design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads. - 236 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
