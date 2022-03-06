@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (2 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (5 days ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.6.0](https://github.com/sigstore/cosign/releases/tag/v1.6.0), 1 day ago) - Container Signing
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([2.2.2-iep](https://github.com/SchwarzIT/node-red-chart/releases/tag/2.2.2-iep), 4 days ago) - Node-red Helm Chart
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.13](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.13), 5 days ago) - Terraform Civo provider
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.37.4](https://github.com/docker-slim/docker-slim/releases/tag/1.37.4), 5 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.12.0](https://github.com/simple-icons/simple-icons/releases/tag/6.12.0), 6 days ago) - SVG icons for popular brands
+- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.1.0](https://github.com/sigstore/cosign-installer/releases/tag/v2.1.0), 1 day ago) - Cosign Github Action
+- [civo/cli](https://github.com/civo/cli) ([v1.0.23](https://github.com/civo/cli/releases/tag/v1.0.23), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.6.0](https://github.com/sigstore/cosign/releases/tag/v1.6.0), 2 days ago) - Container Signing
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([2.2.2-iep](https://github.com/SchwarzIT/node-red-chart/releases/tag/2.2.2-iep), 5 days ago) - Node-red Helm Chart
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.13](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.13), 6 days ago) - Terraform Civo provider
 
 #### ⭐ Latest repositories I starred
 
+- [fatih/semgroup](https://github.com/fatih/semgroup) - Like errgroup/waitgroup, but only runs a maximum of tasks at any time. - 133 stars
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! - 22560 stars
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads - 94 stars
-- [kyma-incubator/terraform-provider-kind](https://github.com/kyma-incubator/terraform-provider-kind) - Terraform Provider for kind (Kubernetes IN Docker) - 66 stars
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. - 17502 stars
+- [kyma-incubator/terraform-provider-kind](https://github.com/kyma-incubator/terraform-provider-kind) - Terraform Provider for kind (Kubernetes IN Docker) - 71 stars
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. - 17508 stars
 - [prometheus-msteams/prometheus-msteams](https://github.com/prometheus-msteams/prometheus-msteams) - Forward Prometheus Alert Manager notifications to Microsoft Teams. - 380 stars
-- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 - 7 stars
+- [aymanbagabas/nyancatsh](https://github.com/aymanbagabas/nyancatsh) - Nyancat over SSH 🐱 - 8 stars
 - [mgbrodi/demorunner](https://github.com/mgbrodi/demorunner) -  - 5 stars
-- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - K8s Airgap Buddy - 189 stars
+- [defenseunicorns/zarf](https://github.com/defenseunicorns/zarf) - K8s Airgap Buddy - 191 stars
 - [thomast1906/DevOps-Journey-Using-Azure-DevOps](https://github.com/thomast1906/DevOps-Journey-Using-Azure-DevOps) - A DevOps journey using Azure DevOps (CI/CD, reporting, terraform, AKS) - 107 stars
-- [atombender/ktail](https://github.com/atombender/ktail) - ktail is a tool to easily tail Kubernetes logs. - 174 stars
-- [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3) - This is a list of the content I shared about Web3 for the upcoming 100 days - 278 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
