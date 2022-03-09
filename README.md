@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit (1 day ago)
 - [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (5 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (2 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) ([0.1](https://github.com/dirien/quick-bites/releases/tag/0.1), 1 day ago) - Quick Bites of different technologies
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.9.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.9.0), 1 day ago) - Node-red Helm Chart
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.13.0](https://github.com/simple-icons/simple-icons/releases/tag/6.13.0), 2 days ago) - SVG icons for popular brands
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.10.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.10.0), 1 day ago) - Node-red Helm Chart
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.15](https://github.com/alexellis/arkade/releases/tag/0.8.15), 1 day ago) - Open Source Kubernetes Marketplace
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) ([0.1](https://github.com/dirien/quick-bites/releases/tag/0.1), 2 days ago) - Quick Bites of different technologies
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), 3 days ago) - Declarative continuous deployment for Kubernetes.
 
 #### ⭐ Latest repositories I starred
 
+- [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner) - An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities - 28 stars
+- [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles - 149 stars
+- [lightrun-platform/koolkits](https://github.com/lightrun-platform/koolkits) - 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes. - 65 stars
 - [gofish-bot/gofish-bot](https://github.com/gofish-bot/gofish-bot) -  - 7 stars
 - [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes - 318 stars
 - [cloud-native-skunkworks/ubuntu-operator](https://github.com/cloud-native-skunkworks/ubuntu-operator) - Control Ubuntu from Kubernetes. - 7 stars
 - [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) - Three containers with useful tools for troubleshooting - 1 stars
-- [fatih/semgroup](https://github.com/fatih/semgroup) - Like errgroup/waitgroup, but only runs a maximum of tasks at any time. - 161 stars
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! - 22619 stars
+- [fatih/semgroup](https://github.com/fatih/semgroup) - Like errgroup/waitgroup, but only runs a maximum of tasks at any time. - 175 stars
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code! - 22639 stars
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads - 95 stars
-- [kyma-incubator/terraform-provider-kind](https://github.com/kyma-incubator/terraform-provider-kind) - Terraform Provider for kind (Kubernetes IN Docker) - 73 stars
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. - 17518 stars
-- [prometheus-msteams/prometheus-msteams](https://github.com/prometheus-msteams/prometheus-msteams) - Forward Prometheus Alert Manager notifications to Microsoft Teams. - 381 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
