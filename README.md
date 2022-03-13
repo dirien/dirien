@@ -13,25 +13,25 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (3 days ago)
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (4 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (4 days ago)
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) ([v1.2.1](https://github.com/patrickdappollonio/kubectl-slice/releases/tag/v1.2.1), 1 day ago) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.2.31](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.2.31), 2 days ago) - Argo-CD Autopilot
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.17.1](https://github.com/dirien/minectl/releases/tag/v0.17.1), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.10.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.10.1), 3 days ago) - Node-red Helm Chart
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) ([v1.2.1](https://github.com/patrickdappollonio/kubectl-slice/releases/tag/v1.2.1), 2 days ago) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.2.31](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.2.31), 3 days ago) - Argo-CD Autopilot
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.17.1](https://github.com/dirien/minectl/releases/tag/v0.17.1), 4 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 
 #### ⭐ Latest repositories I starred
 
 - [vulkan-go/vulkan](https://github.com/vulkan-go/vulkan) - Vulkan API bindings for Go programming language - 616 stars
 - [tinkerbell/cluster-api-provider-tinkerbell](https://github.com/tinkerbell/cluster-api-provider-tinkerbell) - Cluster API Infrastructure Provider for Tinkerbell - 36 stars
-- [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner) - An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities - 33 stars
+- [estafette/estafette-vulnerability-scanner](https://github.com/estafette/estafette-vulnerability-scanner) - An application that regularly scans all containers in a Kubernetes cluster for vulnerabilities - 34 stars
 - [comtrya/comtrya](https://github.com/comtrya/comtrya) - Configuration Management for Localhost / dotfiles - 151 stars
 - [lightrun-platform/koolkits](https://github.com/lightrun-platform/koolkits) - 🧰 Opinionated, language-specific, batteries-included debug container images for Kubernetes. - 73 stars
 - [gofish-bot/gofish-bot](https://github.com/gofish-bot/gofish-bot) -  - 7 stars
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
