@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
-- [dirien/pulumi-civo-redis-flux](https://github.com/dirien/pulumi-civo-redis-flux) - Playing around with Pulumi, Civo and Redis with Flux (5 days ago)
-- [helm/chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository (5 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (5 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
+- [helm/chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository (6 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (6 days ago)
+- [dirien/pulumi-civo-redis-flux](https://github.com/dirien/pulumi-civo-redis-flux) - Playing around with Pulumi, Civo and Redis with Flux (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [google/ko](https://github.com/google/ko) ([v0.11.1](https://github.com/google/ko/releases/tag/v0.11.1), 1 day ago) - Build and deploy Go applications on Kubernetes
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.12.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.12.0), 2 days ago) - Node-red Helm Chart
-- [civo/cli](https://github.com/civo/cli) ([v1.0.25](https://github.com/civo/cli/releases/tag/v1.0.25), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
-- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.0](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.0), 6 days ago) - Argo-CD Autopilot
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.14.0](https://github.com/simple-icons/simple-icons/releases/tag/6.14.0), 1 week ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.15.0](https://github.com/simple-icons/simple-icons/releases/tag/6.15.0), 1 day ago) - SVG icons for popular brands
+- [google/ko](https://github.com/google/ko) ([v0.11.1](https://github.com/google/ko/releases/tag/v0.11.1), 2 days ago) - Build and deploy Go applications on Kubernetes
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.12.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.12.0), 3 days ago) - Node-red Helm Chart
+- [civo/cli](https://github.com/civo/cli) ([v1.0.25](https://github.com/civo/cli/releases/tag/v1.0.25), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.0](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.0), 1 week ago) - Argo-CD Autopilot
 
 #### ⭐ Latest repositories I starred
 
-- [bytedance/keyhouse](https://github.com/bytedance/keyhouse) - Keyhouse is a skeleton of general-purpose Key Management System written in Rust. - 116 stars
-- [neotoolkit/dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command - 137 stars
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 7393 stars
+- [bytedance/keyhouse](https://github.com/bytedance/keyhouse) - Keyhouse is a skeleton of general-purpose Key Management System written in Rust. - 122 stars
+- [neotoolkit/dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command - 138 stars
 - [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development - 2136 stars
 - [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent - 464 stars
 - [permitio/OPToggles](https://github.com/permitio/OPToggles) - Easily sync open-policy rules to your feature toggles   - 46 stars
-- [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules - 32 stars
+- [cbrgm/promcheck](https://github.com/cbrgm/promcheck) - A tool and exporter to identify faulty Prometheus rules - 35 stars
 - [dracula/discourse](https://github.com/dracula/discourse) - 🧛🏻‍♂️ Dark theme for Discourse - 8 stars
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. - 274 stars
 - [whiteducksoftware/azure-meetup-rosenheim](https://github.com/whiteducksoftware/azure-meetup-rosenheim) -  - 7 stars
-- [zalando/skipper](https://github.com/zalando/skipper) - An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress - 2660 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
