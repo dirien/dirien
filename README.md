@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (6 days ago)
-- [helm/chartmuseum](https://github.com/helm/chartmuseum) - Host your own Helm Chart Repository (1 week ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
 - [dirien/pulumi-civo-redis-flux](https://github.com/dirien/pulumi-civo-redis-flux) - Playing around with Pulumi, Civo and Redis with Flux (1 week ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.0-rc6](https://github.com/aquasecurity/starboard/releases/tag/v0.15.0-rc6), 1 day ago) - Kubernetes-native security toolkit
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.31.1](https://github.com/dexidp/dex/releases/tag/v2.31.1), 2 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [google/ko](https://github.com/google/ko) ([v0.11.2](https://github.com/google/ko/releases/tag/v0.11.2), 2 days ago) - Build and deploy Go applications on Kubernetes
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.37.5](https://github.com/docker-slim/docker-slim/releases/tag/1.37.5), 3 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.0-rc6](https://github.com/aquasecurity/starboard/releases/tag/v0.15.0-rc6), 2 days ago) - Kubernetes-native security toolkit
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.31.1](https://github.com/dexidp/dex/releases/tag/v2.31.1), 3 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+- [google/ko](https://github.com/google/ko) ([v0.11.2](https://github.com/google/ko/releases/tag/v0.11.2), 3 days ago) - Build and deploy Go applications on Kubernetes
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.37.5](https://github.com/docker-slim/docker-slim/releases/tag/1.37.5), 4 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
 #### ⭐ Latest repositories I starred
 
-- [pclainchard/excalidrawLib](https://github.com/pclainchard/excalidrawLib) - My custom Excalidraw library - 13 stars
-- [github/MVG](https://github.com/github/MVG) - MVG = Minimum Viable Governance - 227 stars
-- [rancher/wrangler](https://github.com/rancher/wrangler) - Write controllers like a boss - 157 stars
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible, 10x faster, ZooKeeper free, JVM free! - 3629 stars
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 - 11820 stars
+- [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension - 56 stars
+- [cueblox/blox](https://github.com/cueblox/blox) - CueBlox CLI - 37 stars
+- [cuebernetes/cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang - 37 stars
+- [pclainchard/excalidrawLib](https://github.com/pclainchard/excalidrawLib) - My custom Excalidraw library - 15 stars
+- [github/MVG](https://github.com/github/MVG) - MVG = Minimum Viable Governance - 253 stars
+- [rancher/wrangler](https://github.com/rancher/wrangler) - Write controllers like a boss - 158 stars
 - [openshift/service-ca-operator](https://github.com/openshift/service-ca-operator) - Controller to mint and manage serving certificates for Kubernetes services - 36 stars
-- [aws-samples/crossplane-aws-blueprints](https://github.com/aws-samples/crossplane-aws-blueprints) - Crossplane bespoke composition blueprints for AWS resources - 34 stars
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. - 7425 stars
-- [bytedance/keyhouse](https://github.com/bytedance/keyhouse) - Keyhouse is a skeleton of general-purpose Key Management System written in Rust. - 129 stars
-- [neotoolkit/dummy](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command - 140 stars
-- [kubernetes-sigs/kui](https://github.com/kubernetes-sigs/kui) - A hybrid command-line/UI development experience for cloud-native development - 2136 stars
-- [permitio/opal](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent - 468 stars
+- [aws-samples/crossplane-aws-blueprints](https://github.com/aws-samples/crossplane-aws-blueprints) - Crossplane bespoke composition blueprints for AWS resources - 40 stars
 
 #### 👥 Latest follower
 
+- [asingh016](https://github.com/asingh016) - 
 - [waleedboss7](https://github.com/waleedboss7) - Waleed Saleem
 - [Udi-Hofesh](https://github.com/Udi-Hofesh) - 
 - [elliotwutingfeng](https://github.com/elliotwutingfeng) - 
 - [aviramha](https://github.com/aviramha) - Aviram Hassan
-- [eljoth](https://github.com/eljoth) - Lars Hick
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
