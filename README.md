@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
 - [dirien/pulumi-civo-redis-flux](https://github.com/dirien/pulumi-civo-redis-flux) - Playing around with Pulumi, Civo and Redis with Flux (1 week ago)
 - [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.0-rc6](https://github.com/aquasecurity/starboard/releases/tag/v0.15.0-rc6), 3 days ago) - Kubernetes-native security toolkit
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 3 days ago) - Declarative continuous deployment for Kubernetes.
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.31.1](https://github.com/dexidp/dex/releases/tag/v2.31.1), 4 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [google/ko](https://github.com/google/ko) ([v0.11.2](https://github.com/google/ko/releases/tag/v0.11.2), 4 days ago) - Build and deploy Go applications on Kubernetes
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.37.5](https://github.com/docker-slim/docker-slim/releases/tag/1.37.5), 5 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.0-rc7](https://github.com/aquasecurity/starboard/releases/tag/v0.15.0-rc7), 1 day ago) - Kubernetes-native security toolkit
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 4 days ago) - Declarative continuous deployment for Kubernetes.
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.31.1](https://github.com/dexidp/dex/releases/tag/v2.31.1), 5 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+- [google/ko](https://github.com/google/ko) ([v0.11.2](https://github.com/google/ko/releases/tag/v0.11.2), 5 days ago) - Build and deploy Go applications on Kubernetes
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.37.5](https://github.com/docker-slim/docker-slim/releases/tag/1.37.5), 6 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 
 #### ⭐ Latest repositories I starred
 
+- [Qovery/replibyte](https://github.com/Qovery/replibyte) - Synchronize your cloud databases and hide sensitive data 🕵️‍♀️ - 73 stars
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! - 1394 stars
-- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications. - 283 stars
+- [blst-security/cherrybomb](https://github.com/blst-security/cherrybomb) - Stop half-done API specifications! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by validating your API specifications. - 284 stars
 - [opsgenie/kubernetes-event-exporter](https://github.com/opsgenie/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering - 816 stars
-- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible, 10x faster, ZooKeeper free, JVM free! - 3640 stars
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 - 11830 stars
+- [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible, 10x faster, ZooKeeper free, JVM free! - 3649 stars
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 - 11831 stars
 - [weaveworks/vscode-gitops-tools](https://github.com/weaveworks/vscode-gitops-tools) - GitOps Visual Studio Code Extension - 59 stars
 - [cueblox/blox](https://github.com/cueblox/blox) - CueBlox CLI - 37 stars
 - [cuebernetes/cuebectl](https://github.com/cuebernetes/cuebectl) - Truly declarative kubernetes manifests via cuelang - 37 stars
 - [pclainchard/excalidrawLib](https://github.com/pclainchard/excalidrawLib) - My custom Excalidraw library - 15 stars
-- [github/MVG](https://github.com/github/MVG) - MVG = Minimum Viable Governance - 255 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
