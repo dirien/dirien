@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (2 days ago)
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (2 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (5 days ago)
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (5 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (6 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (3 days ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (6 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (6 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.21](https://github.com/alexellis/arkade/releases/tag/0.8.21), 1 day ago) - Open Source Kubernetes Marketplace
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1), 1 day ago) - Container Signing
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.656.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.656.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.16](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.16), 1 day ago) - Terraform Civo provider
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.1](https://github.com/aquasecurity/starboard/releases/tag/v0.15.1), 2 days ago) - Kubernetes-native security toolkit
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.658.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.658.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.22](https://github.com/alexellis/arkade/releases/tag/0.8.22), 1 day ago) - Open Source Kubernetes Marketplace
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.2](https://github.com/aquasecurity/starboard/releases/tag/v0.15.2), 1 day ago) - Kubernetes-native security toolkit
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.7.1](https://github.com/sigstore/cosign/releases/tag/v1.7.1), 2 days ago) - Container Signing
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.16](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.16), 2 days ago) - Terraform Civo provider
 
 #### ⭐ Latest repositories I starred
 
+- [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets - 375 stars
+- [microcumulus/ca-injector](https://github.com/microcumulus/ca-injector) -  - 3 stars
 - [AlexsJones/cluster-api-control-plane-provider-microk8s](https://github.com/AlexsJones/cluster-api-control-plane-provider-microk8s) -  - 1 stars
-- [gotway/gotway](https://github.com/gotway/gotway) - ☸️ Cloud native API Gateway powered with in-redis cache - 46 stars
+- [gotway/gotway](https://github.com/gotway/gotway) - ☸️ Cloud native API Gateway powered with in-redis cache - 49 stars
 - [OctopusSamples/content-team-apps](https://github.com/OctopusSamples/content-team-apps) -  - 1 stars
-- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes - 1613 stars
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products - 3348 stars
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program - 16393 stars
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines - 3368 stars
+- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes - 1618 stars
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products - 3356 stars
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program - 16406 stars
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines - 3463 stars
 - [quintush/helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. - 175 stars
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! - 600 stars
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone! - 391 stars
 
 #### 👥 Latest follower
 
-- [Piotr1215](https://github.com/Piotr1215) - Piotr Zaniewski
-- [truth999](https://github.com/truth999) - Truth Dev
-- [kritika-sharma130](https://github.com/kritika-sharma130) - Kritika sharma
-- [Altinger-Robert](https://github.com/Altinger-Robert) - Ich weiß schon
-- [22388o](https://github.com/22388o) - 22388o⚡️ 
+- [Vishwa4444](https://github.com/Vishwa4444) - Vishwa K Angolkar
+- [Mgaurav01](https://github.com/Mgaurav01) - 
+- [J0SAL](https://github.com/J0SAL) - Joy Almeida
+- [korallin](https://github.com/korallin) - korallin
+- [amanj752](https://github.com/amanj752) - Aman Jha
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
