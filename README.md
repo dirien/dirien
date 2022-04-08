@@ -13,19 +13,19 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (today)
-- [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace) - Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters (3 days ago)
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (3 days ago)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (3 days ago)
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (6 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
+- [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace) - Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters (4 days ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (4 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (4 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.5.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.5.0-helm), today) - Minecraft Prometheus exporter
-- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.2](https://github.com/antfu/case-police/releases/tag/v0.5.2), today) - 🚨 Make the case correct, PLEASE!
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.660.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.660.0), today) - Fig adds autocomplete to your terminal.
-- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.2.0](https://github.com/sigstore/cosign-installer/releases/tag/v2.2.0), today) - Cosign Github Action
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.22](https://github.com/alexellis/arkade/releases/tag/0.8.22), 1 day ago) - Open Source Kubernetes Marketplace
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.5.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.5.0-helm), 1 day ago) - Minecraft Prometheus exporter
+- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.2](https://github.com/antfu/case-police/releases/tag/v0.5.2), 1 day ago) - 🚨 Make the case correct, PLEASE!
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.660.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.660.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.2.0](https://github.com/sigstore/cosign-installer/releases/tag/v2.2.0), 1 day ago) - Cosign Github Action
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.22](https://github.com/alexellis/arkade/releases/tag/0.8.22), 2 days ago) - Open Source Kubernetes Marketplace
 
 #### ⭐ Latest repositories I starred
 
@@ -36,9 +36,9 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 - [gotway/gotway](https://github.com/gotway/gotway) - ☸️ Cloud native API Gateway powered with in-redis cache - 51 stars
 - [OctopusSamples/content-team-apps](https://github.com/OctopusSamples/content-team-apps) -  - 1 stars
 - [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes - 1619 stars
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products - 3361 stars
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products - 3363 stars
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program - 16412 stars
-- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines - 3564 stars
+- [dagger/dagger](https://github.com/dagger/dagger) - A portable devkit for CI/CD pipelines - 3583 stars
 
 #### 👥 Latest follower
 
