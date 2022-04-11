@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
-- [goreleaser/.github](https://github.com/goreleaser/.github) -  (2 days ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (3 days ago)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace (3 days ago)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (6 days ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Kubernetes Marketplace (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
+- [goreleaser/.github](https://github.com/goreleaser/.github) -  (3 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (4 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.666.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.666.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.3](https://github.com/aquasecurity/starboard/releases/tag/v0.15.3), 2 days ago) - Kubernetes-native security toolkit
-- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.3](https://github.com/antfu/case-police/releases/tag/v0.5.3), 2 days ago) - 🚨 Make the case correct, PLEASE!
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.5.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.5.0-helm), 3 days ago) - Minecraft Prometheus exporter
-- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.2.0](https://github.com/sigstore/cosign-installer/releases/tag/v2.2.0), 3 days ago) - Cosign Github Action
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.668.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.668.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [openfaas/faasd](https://github.com/openfaas/faasd) ([0.16.0-rc1](https://github.com/openfaas/faasd/releases/tag/0.16.0-rc1), 1 day ago) - A lightweight &amp; portable faas engine
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.2](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.2), 1 day ago) - Argo-CD Autopilot
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.18.0](https://github.com/simple-icons/simple-icons/releases/tag/6.18.0), 1 day ago) - SVG icons for popular brands
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.3](https://github.com/aquasecurity/starboard/releases/tag/v0.15.3), 3 days ago) - Kubernetes-native security toolkit
 
 #### ⭐ Latest repositories I starred
 
-- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter - 1182 stars
-- [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources - 639 stars
-- [gofireflyio/validiac](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Infrastructure-as-Code best practices, hygiene &amp; security. - 100 stars
-- [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules - 25 stars
-- [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets - 376 stars
+- [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively - 411 stars
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. - 1741 stars
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. - 2776 stars
+- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter - 1186 stars
+- [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources - 662 stars
+- [gofireflyio/validiac](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Infrastructure-as-Code best practices, hygiene &amp; security. - 101 stars
+- [Azure/bicep-registry-modules](https://github.com/Azure/bicep-registry-modules) - Bicep registry modules - 27 stars
+- [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) - An Argo CD plugin to retrieve secrets from Secret Management tools and inject them into Kubernetes secrets - 377 stars
 - [microcumulus/ca-injector](https://github.com/microcumulus/ca-injector) -  - 4 stars
 - [AlexsJones/cluster-api-control-plane-provider-microk8s](https://github.com/AlexsJones/cluster-api-control-plane-provider-microk8s) -  - 1 stars
-- [gotway/gotway](https://github.com/gotway/gotway) - ☸️ Cloud native API Gateway powered with in-redis cache - 51 stars
-- [OctopusSamples/content-team-apps](https://github.com/OctopusSamples/content-team-apps) -  - 1 stars
-- [grafana/tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes - 1622 stars
 
 #### 👥 Latest follower
 
+- [yasir002](https://github.com/yasir002) - Yasir Qureshi
 - [Kshitiz-Mhto](https://github.com/Kshitiz-Mhto) - Kshitiz Mhto
 - [Prathamesh-Shaniware](https://github.com/Prathamesh-Shaniware) - Prathamesh Shaniware
 - [madanpatil](https://github.com/madanpatil) - Madan Patil
 - [VinodPhalke](https://github.com/VinodPhalke) - 
-- [sumanpaikcs](https://github.com/sumanpaikcs) - Suman Paik
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
