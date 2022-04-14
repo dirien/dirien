@@ -13,48 +13,48 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) - Three containers with useful tools for troubleshooting (1 day ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (3 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (5 days ago)
-- [goreleaser/.github](https://github.com/goreleaser/.github) -  (5 days ago)
+- [dirien/azure-devops-tools-extension](https://github.com/dirien/azure-devops-tools-extension) - Some missing plugins (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) - Three containers with useful tools for troubleshooting (2 days ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.0), 1 day ago) - Node-red Helm Chart
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.4](https://github.com/aquasecurity/starboard/releases/tag/v0.15.4), 1 day ago) - Kubernetes-native security toolkit
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.7.2](https://github.com/sigstore/cosign/releases/tag/v1.7.2), 1 day ago) - Container Signing
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.3.0](https://github.com/dergeberl/multitool-container/releases/tag/v0.3.0), 1 day ago) - Three containers with useful tools for troubleshooting
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.671.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.671.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.2](https://github.com/dirien/pulumi-github/releases/tag/v0.2.2), 1 day ago) - Pulumi program to manage my GitHub repositories
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.27](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.27), 1 day ago) - Azure DevOps Extension for GoReleaser
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.675.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.675.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.2.1](https://github.com/sigstore/cosign-installer/releases/tag/v2.2.1), 1 day ago) - Cosign Github Action
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.0), 2 days ago) - Node-red Helm Chart
 
 #### ⭐ Latest repositories I starred
 
-- [FairwindsOps/reckoner](https://github.com/FairwindsOps/reckoner) - Declaratively install and manage multiple Helm chart releases - 255 stars
+- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. - 2080 stars
+- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project - 1020 stars
+- [FairwindsOps/reckoner](https://github.com/FairwindsOps/reckoner) - Declaratively install and manage multiple Helm chart releases - 257 stars
 - [hugoprudente/charts](https://github.com/hugoprudente/charts) - FoundryVTT from 0.6.6 to 9.xxx - 13 stars
 - [kedacore/charts](https://github.com/kedacore/charts) - Helm charts for KEDA - 60 stars
 - [thycotic/tss-k8s](https://github.com/thycotic/tss-k8s) - Secret Server Kubernetes Integration - 4 stars
 - [anchore/kubernetes-admission-controller](https://github.com/anchore/kubernetes-admission-controller) - Service implementation for a Kubernetes Dynamic Webhook controller for interacting with Anchore Engine - 48 stars
 - [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively - 413 stars
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. - 1800 stars
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. - 3034 stars
-- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter - 1191 stars
-- [ksoclabs/awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources - 679 stars
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI. - 1810 stars
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive. - 3170 stars
 
 #### 👥 Latest follower
 
+- [derroh](https://github.com/derroh) - Derrick Abucheri
 - [sde12345](https://github.com/sde12345) - Saswata De
 - [xmayukx](https://github.com/xmayukx) - Mayukh Hazari
-- [alphacoder1998](https://github.com/alphacoder1998) - 
+- [alphacoder1998](https://github.com/alphacoder1998) - Rishabh Kumar
 - [yasir002](https://github.com/yasir002) - Yasir Qureshi
-- [Kshitiz-Mhto](https://github.com/Kshitiz-Mhto) - Kshitiz Mhto
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/azure-devops-tools-extension](https://github.com/dirien/azure-devops-tools-extension) - Some missing plugins
 - [dirien/pulumi-civo-redis-flux](https://github.com/dirien/pulumi-civo-redis-flux) - Playing around with Pulumi, Civo and Redis with Flux
 - [dirien/goreleaser-tap](https://github.com/dirien/goreleaser-tap)
 - [dirien/goreleaser-rig](https://github.com/dirien/goreleaser-rig)
 - [dirien/gcp-gke-iac](https://github.com/dirien/gcp-gke-iac) - Playing around with GCP
-- [dirien/vcluster-webinar](https://github.com/dirien/vcluster-webinar) - Demo Repository for vcluster Webinar
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
