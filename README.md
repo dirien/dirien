@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
-- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (2 days ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Example of a Pulumi program to manage a Scaleway server (2 days ago)
-- [dirien/pulumi-civo-flux-bucket](https://github.com/dirien/pulumi-civo-flux-bucket) - Playing around with Pulumi, Civo and Flux with S3 Buckets (2 days ago)
-- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls (1 day ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (2 days ago)
+- [dirien/pulumi-civo-flux-bucket](https://github.com/dirien/pulumi-civo-flux-bucket) - Playing around with Pulumi, Civo and Flux with S3 Buckets (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.5](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.5), 1 day ago) - Argo-CD Autopilot
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.19.0](https://github.com/simple-icons/simple-icons/releases/tag/6.19.0), 1 day ago) - SVG icons for popular brands
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) ([v1.2.2](https://github.com/patrickdappollonio/kubectl-slice/releases/tag/v1.2.2), 4 days ago) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.678.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.678.0), 5 days ago) - Fig adds autocomplete to your terminal.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.682.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.682.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.1), 1 day ago) - Node-red Helm Chart
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.5](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.5), 2 days ago) - Argo-CD Autopilot
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.19.0](https://github.com/simple-icons/simple-icons/releases/tag/6.19.0), 2 days ago) - SVG icons for popular brands
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
 - [nabsul/kcert](https://github.com/nabsul/kcert) - KCert: A Simple Let&#39;s Encrypt Manager for Kubernetes - 54 stars
 - [matheusfm/httpbin-chart](https://github.com/matheusfm/httpbin-chart) - Helm chart to install httpbin on Kubernetes - 1 stars
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - A framework for cloud and serverless apps - 246 stars
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - A framework for cloud and serverless apps - 257 stars
 - [vmware/kube-fluentd-operator](https://github.com/vmware/kube-fluentd-operator) - Auto-configuration of Fluentd daemon-set based on Kubernetes metadata - 274 stars
-- [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with - 473 stars
+- [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with - 474 stars
 - [rawkode/chappaai](https://github.com/rawkode/chappaai) -  - 2 stars
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.  - 10153 stars
-- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. - 2080 stars
-- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project - 1021 stars
-- [FairwindsOps/reckoner](https://github.com/FairwindsOps/reckoner) - Declaratively install and manage multiple Helm chart releases - 262 stars
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.  - 10425 stars
+- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. - 2081 stars
+- [ossf/criticality_score](https://github.com/ossf/criticality_score) - Gives criticality score for an open source project - 1022 stars
+- [FairwindsOps/reckoner](https://github.com/FairwindsOps/reckoner) - Declaratively install and manage multiple Helm chart releases - 263 stars
 
 #### 👥 Latest follower
 
@@ -50,11 +50,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls
 - [dirien/pulumi-civo-flux-bucket](https://github.com/dirien/pulumi-civo-flux-bucket) - Playing around with Pulumi, Civo and Flux with S3 Buckets
 - [dirien/azure-devops-tools-extension](https://github.com/dirien/azure-devops-tools-extension) - Some missing plugins
 - [dirien/goreleaser-tap](https://github.com/dirien/goreleaser-tap)
 - [dirien/goreleaser-rig](https://github.com/dirien/goreleaser-rig)
-- [dirien/gcp-gke-iac](https://github.com/dirien/gcp-gke-iac) - Playing around with GCP
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
