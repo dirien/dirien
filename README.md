@@ -13,48 +13,48 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls (today)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [dirien/pulumi-civo-flux-bucket](https://github.com/dirien/pulumi-civo-flux-bucket) - Playing around with Pulumi, Civo and Flux with S3 Buckets (4 days ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (today)
+- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls (1 day ago)
+- [dirien/rancher-argocd-plugins](https://github.com/dirien/rancher-argocd-plugins) - How to use plugins in ArgoCd (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.686.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.686.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.18](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.18), 1 day ago) - Terraform Civo provider
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.3), 1 day ago) - Node-red Helm Chart
-- [civo/cli](https://github.com/civo/cli) ([v1.0.26](https://github.com/civo/cli/releases/tag/v1.0.26), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.691.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.691.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.18](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.18), 2 days ago) - Terraform Civo provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.3), 2 days ago) - Node-red Helm Chart
+- [civo/cli](https://github.com/civo/cli) ([v1.0.26](https://github.com/civo/cli/releases/tag/v1.0.26), 2 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 
 #### ⭐ Latest repositories I starred
 
-- [Azure/terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) - Terraform provider for Azure Resource Manager Rest API - 44 stars
-- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management - 365 stars
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 - 12447 stars
+- [digitalocean/DOKS](https://github.com/digitalocean/DOKS) - Managed Kubernetes designed for simple and cost effective container orchestration. - 75 stars
+- [Azure/terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) - Terraform provider for Azure Resource Manager Rest API - 47 stars
+- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management - 394 stars
 - [nabsul/kcert](https://github.com/nabsul/kcert) - KCert: A Simple Let&#39;s Encrypt Manager for Kubernetes - 54 stars
 - [matheusfm/httpbin-chart](https://github.com/matheusfm/httpbin-chart) - Helm chart to install httpbin on Kubernetes - 1 stars
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - A framework for cloud and serverless apps - 260 stars
+- [nitrictech/nitric](https://github.com/nitrictech/nitric) - A framework for cloud and serverless apps - 262 stars
 - [vmware/kube-fluentd-operator](https://github.com/vmware/kube-fluentd-operator) - Auto-configuration of Fluentd daemon-set based on Kubernetes metadata - 275 stars
-- [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with - 474 stars
+- [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with - 476 stars
 - [rawkode/chappaai](https://github.com/rawkode/chappaai) -  - 2 stars
-- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.  - 10542 stars
-- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. - 2086 stars
 
 #### 👥 Latest follower
 
+- [Lalman888](https://github.com/Lalman888) - Lalman Thakur
 - [PriyanshiNegi](https://github.com/PriyanshiNegi) - Priyanshi Negi
 - [devratapuri](https://github.com/devratapuri) - Devrata puri
 - [iamzeeali](https://github.com/iamzeeali) - Md Zeeshan Ali
 - [murugii](https://github.com/murugii) - 
-- [Abishekcs](https://github.com/Abishekcs) - Abishek
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/rancher-argocd-plugins](https://github.com/dirien/rancher-argocd-plugins) - How to use plugins in ArgoCd
 - [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls
 - [dirien/pulumi-civo-flux-bucket](https://github.com/dirien/pulumi-civo-flux-bucket) - Playing around with Pulumi, Civo and Flux with S3 Buckets
 - [dirien/azure-devops-tools-extension](https://github.com/dirien/azure-devops-tools-extension) - Some missing plugins
 - [dirien/goreleaser-tap](https://github.com/dirien/goreleaser-tap)
-- [dirien/goreleaser-rig](https://github.com/dirien/goreleaser-rig)
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
