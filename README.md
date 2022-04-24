@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (1 day ago)
-- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (1 day ago)
-- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls (2 days ago)
-- [dirien/rancher-argocd-plugins](https://github.com/dirien/rancher-argocd-plugins) - How to use plugins in ArgoCd (2 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
+- [dirien/rancher-argocd-plugins](https://github.com/dirien/rancher-argocd-plugins) - How to use plugins in ArgoCd (1 day ago)
+- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (2 days ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (2 days ago)
+- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.692.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.692.1), 1 day ago) - Fig adds autocomplete to your terminal.
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.18](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.18), 3 days ago) - Terraform Civo provider
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.3), 3 days ago) - Node-red Helm Chart
-- [civo/cli](https://github.com/civo/cli) ([v1.0.26](https://github.com/civo/cli/releases/tag/v1.0.26), 3 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.697.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.697.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.18](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.18), 4 days ago) - Terraform Civo provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.3), 4 days ago) - Node-red Helm Chart
+- [civo/cli](https://github.com/civo/cli) ([v1.0.26](https://github.com/civo/cli/releases/tag/v1.0.26), 4 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
 
 #### ⭐ Latest repositories I starred
 
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly - 860 stars
-- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 - 12461 stars
-- [digitalocean/DOKS](https://github.com/digitalocean/DOKS) - Managed Kubernetes designed for simple and cost effective container orchestration. - 76 stars
+- [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM - 823 stars
+- [go-pg/pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance - 5050 stars
+- [David-VTUK/CKA-StudyGuide](https://github.com/David-VTUK/CKA-StudyGuide) - Study guide for the CKA exam - 802 stars
+- [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill! - 6382 stars
+- [chainguard-dev/melange](https://github.com/chainguard-dev/melange) - build APKs from source code - 38 stars
+- [chainguard-dev/nginx-image-demo](https://github.com/chainguard-dev/nginx-image-demo) - nginx image demo - 2 stars
+- [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly - 877 stars
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 - 12469 stars
+- [digitalocean/DOKS](https://github.com/digitalocean/DOKS) - Managed Kubernetes designed for simple and cost effective container orchestration. - 77 stars
 - [Azure/terraform-provider-azapi](https://github.com/Azure/terraform-provider-azapi) - Terraform provider for Azure Resource Manager Rest API - 50 stars
-- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management - 411 stars
-- [nabsul/kcert](https://github.com/nabsul/kcert) - KCert: A Simple Let&#39;s Encrypt Manager for Kubernetes - 54 stars
-- [matheusfm/httpbin-chart](https://github.com/matheusfm/httpbin-chart) - Helm chart to install httpbin on Kubernetes - 1 stars
-- [nitrictech/nitric](https://github.com/nitrictech/nitric) - A framework for cloud and serverless apps - 265 stars
-- [vmware/kube-fluentd-operator](https://github.com/vmware/kube-fluentd-operator) - Auto-configuration of Fluentd daemon-set based on Kubernetes metadata - 275 stars
-- [instana/robot-shop](https://github.com/instana/robot-shop) - Sample microservices application for playing with - 476 stars
 
 #### 👥 Latest follower
 
+- [AMRUTH-SANTOSH](https://github.com/AMRUTH-SANTOSH) - 
 - [Lalman888](https://github.com/Lalman888) - Lalman Thakur
 - [PriyanshiNegi](https://github.com/PriyanshiNegi) - Priyanshi Negi
 - [devratapuri](https://github.com/devratapuri) - Devrata puri
 - [iamzeeali](https://github.com/iamzeeali) - Md Zeeshan Ali
-- [murugii](https://github.com/murugii) - 
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
