@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (today)
-- [dirien/rancher-argocd-plugins](https://github.com/dirien/rancher-argocd-plugins) - How to use plugins in ArgoCd (2 days ago)
-- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (3 days ago)
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (3 days ago)
-- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls (4 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/rancher-argocd-plugins](https://github.com/dirien/rancher-argocd-plugins) - How to use plugins in ArgoCd (3 days ago)
+- [dirien/digitalocean-kubernetes-challenge](https://github.com/dirien/digitalocean-kubernetes-challenge) - Deploy a GitOps CI/CD implementation (4 days ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (4 days ago)
+- [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.701.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.701.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.18](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.18), 5 days ago) - Terraform Civo provider
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.3), 5 days ago) - Node-red Helm Chart
-- [civo/cli](https://github.com/civo/cli) ([v1.0.26](https://github.com/civo/cli/releases/tag/v1.0.26), 5 days ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) ([v1.9.1](https://github.com/norwoodj/helm-docs/releases/tag/v1.9.1), 1 day ago) - A tool for automatically generating markdown documentation for helm charts
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.701.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.701.0), 2 days ago) - Fig adds autocomplete to your terminal.
+- [civo/terraform-provider-civo](https://github.com/civo/terraform-provider-civo) ([v1.0.18](https://github.com/civo/terraform-provider-civo/releases/tag/v1.0.18), 6 days ago) - Terraform Civo provider
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.3), 6 days ago) - Node-red Helm Chart
 
 #### ⭐ Latest repositories I starred
 
-- [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language. - 4661 stars
-- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. - 116 stars
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases - 7173 stars
-- [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting - 10309 stars
-- [dghubble/go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1 - 1445 stars
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces - 3145 stars
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. - 1342 stars
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries - 1747 stars
-- [reposaur/reposaur](https://github.com/reposaur/reposaur) - Audit your GitHub data using custom policies written in Rego - 48 stars
-- [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM - 828 stars
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) -  - 3099 stars
+- [AlexsJones/dotfiles](https://github.com/AlexsJones/dotfiles) -  - 4 stars
+- [aykutkardas/svgps-online](https://github.com/aykutkardas/svgps-online) - Online SVG Parser Tool - 16 stars
+- [gaia-pipeline/gaia](https://github.com/gaia-pipeline/gaia) - Build powerful pipelines in any programming language. - 4676 stars
+- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. - 118 stars
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases - 7175 stars
+- [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting - 10312 stars
+- [dghubble/go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1 - 1447 stars
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces - 3148 stars
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers is a Golang library that providing a friendly API to run Docker container. It is designed to create runtime environment to use during your automatic tests. - 1344 stars
 
 #### 👥 Latest follower
 
+- [peeyushguleria](https://github.com/peeyushguleria) - Peeyush Guleria
+- [VismayaSathyan](https://github.com/VismayaSathyan) - Vismaya S
+- [jeannesexton](https://github.com/jeannesexton) - 
 - [AMRUTH-SANTOSH](https://github.com/AMRUTH-SANTOSH) - 
 - [Lalman888](https://github.com/Lalman888) - Lalman Thakur
-- [PriyanshiNegi](https://github.com/PriyanshiNegi) - Priyanshi Negi
-- [devratapuri](https://github.com/devratapuri) - Devrata puri
-- [iamzeeali](https://github.com/iamzeeali) - Md Zeeshan Ali
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
