@@ -13,48 +13,48 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/no-yaml](https://github.com/dirien/no-yaml) - No YAML deployments to K8s (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
-- [dirien/pulumi-linode-flux-jspolicy](https://github.com/dirien/pulumi-linode-flux-jspolicy) - How to use jsPolicy (4 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (5 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
+- [dirien/pulumi-java-azure-kubernetes](https://github.com/dirien/pulumi-java-azure-kubernetes) - Playing with the new Pulumi Java (today)
+- [dirien/no-yaml](https://github.com/dirien/no-yaml) - No YAML deployments to K8s (2 days ago)
+- [dirien/pulumi-linode-flux-jspolicy](https://github.com/dirien/pulumi-linode-flux-jspolicy) - How to use jsPolicy (5 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (5 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.713.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.713.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) ([v0.4.0](https://github.com/SchwarzIT/go-template/releases/tag/v0.4.0), 1 day ago) - go/template is a tool for jumpstarting production-ready Golang projects quickly.
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.4.1](https://github.com/dergeberl/multitool-container/releases/tag/v0.4.1), 3 days ago) - Three containers with useful tools for troubleshooting
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.20.0](https://github.com/simple-icons/simple-icons/releases/tag/6.20.0), 3 days ago) - SVG icons for popular brands
-- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.6](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.6), 6 days ago) - Argo-CD Autopilot
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.714.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.714.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [SchwarzIT/go-template](https://github.com/SchwarzIT/go-template) ([v0.4.0](https://github.com/SchwarzIT/go-template/releases/tag/v0.4.0), 2 days ago) - go/template is a tool for jumpstarting production-ready Golang projects quickly.
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.4.1](https://github.com/dergeberl/multitool-container/releases/tag/v0.4.1), 4 days ago) - Three containers with useful tools for troubleshooting
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.20.0](https://github.com/simple-icons/simple-icons/releases/tag/6.20.0), 4 days ago) - SVG icons for popular brands
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.6](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.6), 1 week ago) - Argo-CD Autopilot
 
 #### ⭐ Latest repositories I starred
 
+- [23technologies/gardener-extension-shoot-flux](https://github.com/23technologies/gardener-extension-shoot-flux) - In this repository, the development of the gardener extension, which deploys the flux controllers automatically to shoot clusters, takes place. - 6 stars
+- [helmwave/helmwave](https://github.com/helmwave/helmwave) - 🌊 Helmwave is true release manager - 240 stars
 - [imjasonh/ImJasonH](https://github.com/imjasonh/ImJasonH) -  - 25 stars
-- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity - 1160 stars
+- [jaksi/sshesame](https://github.com/jaksi/sshesame) - An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity - 1161 stars
 - [remyleone/crossplane-scaleway-provider](https://github.com/remyleone/crossplane-scaleway-provider) - Scaleway provider for Crossplane  - 5 stars
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Seal your applications all dependencies and kubernetes into CloudImage! Build Deliver and Run user-defined clusters in one command. - 1086 stars
 - [cruise-automation/isopod](https://github.com/cruise-automation/isopod) - An expressive DSL and framework for Kubernetes configuration without YAML - 406 stars
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor - 29235 stars
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language - 1340 stars
-- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. - 39038 stars
-- [Noovolari/leapp](https://github.com/Noovolari/leapp) - Leapp is the DevTool to access your cloud - 971 stars
-- [abahmed/kwatch](https://github.com/abahmed/kwatch) - :eyes: monitor &amp; detect crashes in your Kubernetes(K8s) cluster instantly - 605 stars
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor - 29247 stars
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language - 1341 stars
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator. - 39052 stars
 
 #### 👥 Latest follower
 
+- [dhanapal703278](https://github.com/dhanapal703278) - 
 - [Ankitsharma991](https://github.com/Ankitsharma991) - Ankit Kumar Sharma
 - [adityagautam17719](https://github.com/adityagautam17719) - 
 - [peeyushguleria](https://github.com/peeyushguleria) - Peeyush Guleria
 - [VismayaSathyan](https://github.com/VismayaSathyan) - Vismaya S
-- [jeannesexton](https://github.com/jeannesexton) - 
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-java-azure-kubernetes](https://github.com/dirien/pulumi-java-azure-kubernetes) - Playing with the new Pulumi Java
 - [dirien/pulumi-linode-flux-jspolicy](https://github.com/dirien/pulumi-linode-flux-jspolicy) - How to use jsPolicy
 - [dirien/rancher-argocd-plugins](https://github.com/dirien/rancher-argocd-plugins) - How to use plugins in ArgoCd
 - [dirien/pulumi-do-flux-webhooks-kcert](https://github.com/dirien/pulumi-do-flux-webhooks-kcert) - How to create a flux webhook with kcert tls
 - [dirien/pulumi-civo-flux-bucket](https://github.com/dirien/pulumi-civo-flux-bucket) - Playing around with Pulumi, Civo and Flux with S3 Buckets
-- [dirien/azure-devops-tools-extension](https://github.com/dirien/azure-devops-tools-extension) - Some missing plugins
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
