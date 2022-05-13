@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (3 days ago)
-- [dirien/pulumi-azure-flux-weave-ui](https://github.com/dirien/pulumi-azure-flux-weave-ui) - Playing around with the Weave GitOps UI (3 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (6 days ago)
-- [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples) -  (6 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (4 days ago)
+- [dirien/pulumi-azure-flux-weave-ui](https://github.com/dirien/pulumi-azure-flux-weave-ui) - Playing around with the Weave GitOps UI (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
+- [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples) -  (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.723.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.723.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) ([v1.10.0](https://github.com/norwoodj/helm-docs/releases/tag/v1.10.0), 2 days ago) - A tool for automatically generating markdown documentation for helm charts
-- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.7](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.7), 3 days ago) - Argo-CD Autopilot
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.21.0](https://github.com/simple-icons/simple-icons/releases/tag/6.21.0), 4 days ago) - SVG icons for popular brands
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc1), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [civo/cli](https://github.com/civo/cli) ([v1.0.27](https://github.com/civo/cli/releases/tag/v1.0.27), 1 day ago) - Our Command Line Interface (CLI) for interacting with your Civo resources
+- [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) ([2.25.0](https://github.com/falcosecurity/falcosidekick/releases/tag/2.25.0), 1 day ago) - Connect Falco to your ecosystem
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.724.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.724.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) ([v1.10.0](https://github.com/norwoodj/helm-docs/releases/tag/v1.10.0), 3 days ago) - A tool for automatically generating markdown documentation for helm charts
+- [argoproj-labs/argocd-autopilot](https://github.com/argoproj-labs/argocd-autopilot) ([v0.3.7](https://github.com/argoproj-labs/argocd-autopilot/releases/tag/v0.3.7), 4 days ago) - Argo-CD Autopilot
 
 #### ⭐ Latest repositories I starred
 
-- [epinio/epinio](https://github.com/epinio/epinio) - Opinionated platform that runs on Kubernetes, that takes you from App to URL in one step. - 235 stars
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Open source Kubernetes troubleshooting and automation platform - 419 stars
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system - 2378 stars
+- [epinio/epinio](https://github.com/epinio/epinio) - Opinionated platform that runs on Kubernetes, that takes you from App to URL in one step. - 238 stars
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps core - 274 stars
-- [candrewlee14/webman](https://github.com/candrewlee14/webman) - Simple cross-platform package manager - 13 stars
+- [candrewlee14/webman](https://github.com/candrewlee14/webman) - Add, remove, and manage different versions of web-distributed software binaries. No elevated permissions required! - 13 stars
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI. - 110 stars
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management - 2358 stars
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management - 2362 stars
 - [psampaz/go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates. - 574 stars
 - [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore) - A better kubectl explain with the fuzzy finder - 121 stars
-- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream. - 1410 stars
-- [promlabs/promlens-public](https://github.com/promlabs/promlens-public) - Public repository for PromLens documentation, issues, bugs, and feature requests - 122 stars
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes - 12672 stars
+- [kubernetes/git-sync](https://github.com/kubernetes/git-sync) - A sidecar app which clones a git repo and keeps it in sync with the upstream. - 1411 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
