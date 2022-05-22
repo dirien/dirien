@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
-- [dirien/pulumi-civo-kubecon](https://github.com/dirien/pulumi-civo-kubecon) - Playing around with the Civo Valencia Region (2 days ago)
-- [dirien/pulumi-gke-flux-jspolicy](https://github.com/dirien/pulumi-gke-flux-jspolicy) - How to use jsPolicy (1 week ago)
+- [dirien/pulumi-gke-flux-jspolicy](https://github.com/dirien/pulumi-gke-flux-jspolicy) - How to use jsPolicy (1 day ago)
+- [dirien/pulumi-civo-kubecon](https://github.com/dirien/pulumi-civo-kubecon) - Playing around with the Civo Valencia Region (3 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (3 days ago)
 - [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 week ago)
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 3 days ago) - Declarative continuous deployment for Kubernetes.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.730.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.730.0), 4 days ago) - Fig adds autocomplete to your terminal.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.22.0](https://github.com/simple-icons/simple-icons/releases/tag/6.22.0), 5 days ago) - SVG icons for popular brands
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 4 days ago) - Declarative continuous deployment for Kubernetes.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.730.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.730.0), 5 days ago) - Fig adds autocomplete to your terminal.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([6.22.0](https://github.com/simple-icons/simple-icons/releases/tag/6.22.0), 6 days ago) - SVG icons for popular brands
 - [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.24](https://github.com/alexellis/arkade/releases/tag/0.8.24), 1 week ago) - Open Source Marketplace For Kubernetes
 
 #### ⭐ Latest repositories I starred
 
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration - 2221 stars
-- [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. - 2315 stars
+- [innobead/huber](https://github.com/innobead/huber) - Huber 📦, Package Manager for GitHub repos - 89 stars
+- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration - 2224 stars
+- [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code. - 2317 stars
 - [WhatsApp/waraft](https://github.com/WhatsApp/waraft) - An Erlang implementation of RAFT from WhatsApp - 425 stars
-- [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning. - 262 stars
-- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. - 895 stars
-- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes - 1445 stars
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability - 3299 stars
-- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement - 997 stars
+- [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning. - 365 stars
+- [aya-rs/aya](https://github.com/aya-rs/aya) - Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. - 907 stars
+- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes - 1446 stars
+- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability - 3304 stars
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement - 1011 stars
 - [Soluto/kamus](https://github.com/Soluto/kamus) -  An open source, git-ops, zero-trust secret encryption and decryption solution for Kubernetes applications - 833 stars
-- [onelittlenightmusic/opactl](https://github.com/onelittlenightmusic/opactl) - A simple tool for converting Rego (OPA) rule into command. - 20 stars
 
 #### 👥 Latest follower
 
+- [sonishivam10](https://github.com/sonishivam10) - ShivamS
 - [matheusfm](https://github.com/matheusfm) - Matheus Moraes
 - [curx](https://github.com/curx) - Thorsten Schifferdecker
 - [Amit7785kushwaha](https://github.com/Amit7785kushwaha) - amit_kushwaha
 - [mmfalcao](https://github.com/mmfalcao) - Marcel F. Falcão
-- [MD-ARFIN](https://github.com/MD-ARFIN) - MD ARFIN
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
