@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (2 weeks ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (today)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
 - [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (2 weeks ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 weeks ago)
 - [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.6](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.6), 1 day ago) - Node-red Helm Chart
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.789.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.789.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) ([2.26.0](https://github.com/falcosecurity/falcosidekick/releases/tag/2.26.0), 3 days ago) - Connect Falco to your ecosystem
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.28](https://github.com/alexellis/arkade/releases/tag/0.8.28), 1 week ago) - Open Source Marketplace For Kubernetes
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.1.0](https://github.com/simple-icons/simple-icons/releases/tag/7.1.0), 1 week ago) - SVG icons for popular brands
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.21.0](https://github.com/dirien/minectl/releases/tag/v0.21.0), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.790.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.790.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.2.0](https://github.com/simple-icons/simple-icons/releases/tag/7.2.0), 1 day ago) - SVG icons for popular brands
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.6](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.6), 2 days ago) - Node-red Helm Chart
+- [falcosecurity/falcosidekick](https://github.com/falcosecurity/falcosidekick) ([2.26.0](https://github.com/falcosecurity/falcosidekick/releases/tag/2.26.0), 4 days ago) - Connect Falco to your ecosystem
 
 #### ⭐ Latest repositories I starred
 
-- [gwenneg/flight-tracker-demo](https://github.com/gwenneg/flight-tracker-demo) -  - 27 stars
-- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - view running kubernetes information about multi-container pods and sidecars to assist in troubleshooting and information gathering - 95 stars
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool - 2413 stars
-- [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.  - 704 stars
-- [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets - 1114 stars
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember. - 9537 stars
+- [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel - 1195 stars
+- [joellord/handson-tekton](https://github.com/joellord/handson-tekton) -  - 92 stars
+- [gwenneg/flight-tracker-demo](https://github.com/gwenneg/flight-tracker-demo) -  - 39 stars
+- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - view running kubernetes information about multi-container pods and sidecars to assist in troubleshooting and information gathering - 101 stars
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool - 2415 stars
+- [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.  - 705 stars
+- [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets - 1116 stars
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember. - 9552 stars
 - [aws/aws-proton-public-roadmap](https://github.com/aws/aws-proton-public-roadmap) - This is the public roadmap for AWS Proton - 176 stars
-- [furiko-io/furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron job platform for Kubernetes - 103 stars
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration - 1768 stars
-- [automatiko-io/automatiko-approval-task](https://github.com/automatiko-io/automatiko-approval-task) - Tekton Pipeline Custom task implementation to add approval capabilities into the pipelines - 8 stars
+- [furiko-io/furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron job platform for Kubernetes - 123 stars
 
 #### 👥 Latest follower
 
+- [fazal2307](https://github.com/fazal2307) - 
 - [Satyap1766](https://github.com/Satyap1766) - Satya Prakash
 - [DhirajSardar](https://github.com/DhirajSardar) - Dhiraj Sardar
 - [sonar288](https://github.com/sonar288) - Rahul Rajesh Sonar
 - [CMarzin](https://github.com/CMarzin) - Corentin Marzin
-- [skurhse](https://github.com/skurhse) - Skurhse Eris Rage ∅
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
