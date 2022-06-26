@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (4 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (6 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (5 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (5 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
 - [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (3 weeks ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (4 weeks ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 month ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.795.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.795.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.2](https://github.com/argoproj/argo-cd/releases/tag/v2.4.2), 4 days ago) - Declarative continuous deployment for Kubernetes.
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.21.0](https://github.com/dirien/minectl/releases/tag/v0.21.0), 5 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.2.0](https://github.com/simple-icons/simple-icons/releases/tag/7.2.0), 5 days ago) - SVG icons for popular brands
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.6](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.6), 6 days ago) - Node-red Helm Chart
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.795.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.795.0), 2 days ago) - Fig adds autocomplete to your terminal.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.2](https://github.com/argoproj/argo-cd/releases/tag/v2.4.2), 5 days ago) - Declarative continuous deployment for Kubernetes.
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.21.0](https://github.com/dirien/minectl/releases/tag/v0.21.0), 6 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.2.0](https://github.com/simple-icons/simple-icons/releases/tag/7.2.0), 6 days ago) - SVG icons for popular brands
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.17.6](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.17.6), 1 week ago) - Node-red Helm Chart
 
 #### ⭐ Latest repositories I starred
 
-- [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel - 1199 stars
-- [joellord/handson-tekton](https://github.com/joellord/handson-tekton) -  - 93 stars
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito  - 6410 stars
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. - 7986 stars
+- [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel - 1203 stars
+- [joellord/handson-tekton](https://github.com/joellord/handson-tekton) -  - 94 stars
 - [gwenneg/flight-tracker-demo](https://github.com/gwenneg/flight-tracker-demo) -  - 41 stars
-- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - view running kubernetes information about multi-container pods and sidecars to assist in troubleshooting and information gathering - 103 stars
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool - 2420 stars
+- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - view running kubernetes information about multi-container pods and sidecars to assist in troubleshooting and information gathering - 104 stars
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool - 2421 stars
 - [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.  - 708 stars
 - [cheat/cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets - 1122 stars
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember. - 9570 stars
-- [aws/aws-proton-public-roadmap](https://github.com/aws/aws-proton-public-roadmap) - This is the public roadmap for AWS Proton - 177 stars
-- [furiko-io/furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron job platform for Kubernetes - 129 stars
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember. - 9572 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
