@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
 - [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 week ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 week ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (4 weeks ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 month ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (1 month ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.800.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.800.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) ([v1.11.0](https://github.com/norwoodj/helm-docs/releases/tag/v1.11.0), 1 day ago) - A tool for automatically generating markdown documentation for helm charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.3), 3 days ago) - Declarative continuous deployment for Kubernetes.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.3.0](https://github.com/simple-icons/simple-icons/releases/tag/7.3.0), 4 days ago) - SVG icons for popular brands
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.21.0](https://github.com/dirien/minectl/releases/tag/v0.21.0), 1 week ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.803.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.803.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.6.1-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.6.1-helm), 1 day ago) - Minecraft Prometheus exporter
+- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.4](https://github.com/antfu/case-police/releases/tag/v0.5.4), 1 day ago) - 🚨 Make the case correct, PLEASE!
+- [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) ([v1.11.0](https://github.com/norwoodj/helm-docs/releases/tag/v1.11.0), 2 days ago) - A tool for automatically generating markdown documentation for helm charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.3), 4 days ago) - Declarative continuous deployment for Kubernetes.
 
 #### ⭐ Latest repositories I starred
 
-- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. - 71882 stars
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. - 146267 stars
+- [engineerd/wasm-to-oci](https://github.com/engineerd/wasm-to-oci) - Use OCI registries to distribute Wasm modules - 172 stars
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆 - 884 stars
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command. - 71895 stars
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. - 146401 stars
 - [traefik/hub-agent-kubernetes](https://github.com/traefik/hub-agent-kubernetes) - Traefik Hub agent for Kubernetes  - 10 stars
 - [observatorium/observatorium](https://github.com/observatorium/observatorium) - This repository contains the deployment configurations for the Observatorium instances - 132 stars
-- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito  - 6436 stars
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. - 8029 stars
-- [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel - 1222 stars
-- [joellord/handson-tekton](https://github.com/joellord/handson-tekton) -  - 94 stars
-- [gwenneg/flight-tracker-demo](https://github.com/gwenneg/flight-tracker-demo) -  - 41 stars
-- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - view running kubernetes information about multi-container pods and sidecars to assist in troubleshooting and information gathering - 107 stars
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito  - 6445 stars
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. - 8035 stars
+- [parkervcp/eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel - 1225 stars
+- [joellord/handson-tekton](https://github.com/joellord/handson-tekton) -  - 95 stars
 
 #### 👥 Latest follower
 
+- [su-shubham](https://github.com/su-shubham) - Shubham
 - [ankittojha](https://github.com/ankittojha) - Ankit Ojha
 - [DeTexTeR-develop](https://github.com/DeTexTeR-develop) - Ujjwal Singh
 - [pratik27sep](https://github.com/pratik27sep) - Pratik S
 - [mzaian](https://github.com/mzaian) - Mohamed Zaian
-- [fazal2307](https://github.com/fazal2307) - 
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
