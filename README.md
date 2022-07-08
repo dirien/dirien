@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
-- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (3 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
+- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (4 days ago)
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 week ago)
 - [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
-- [civo/kubernetes-marketplace](https://github.com/civo/kubernetes-marketplace) - Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.813.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.813.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [helm/chartmuseum](https://github.com/helm/chartmuseum) ([v0.15.0](https://github.com/helm/chartmuseum/releases/tag/v0.15.0), 2 days ago) - Host your own Helm Chart Repository
-- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.5](https://github.com/antfu/case-police/releases/tag/v0.5.5), 2 days ago) - 🚨 Make the case correct, PLEASE!
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.4.0](https://github.com/simple-icons/simple-icons/releases/tag/7.4.0), 4 days ago) - SVG icons for popular brands
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.815.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.815.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.4](https://github.com/argoproj/argo-cd/releases/tag/v2.4.4), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [helm/chartmuseum](https://github.com/helm/chartmuseum) ([v0.15.0](https://github.com/helm/chartmuseum/releases/tag/v0.15.0), 3 days ago) - Host your own Helm Chart Repository
+- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.5](https://github.com/antfu/case-police/releases/tag/v0.5.5), 3 days ago) - 🚨 Make the case correct, PLEASE!
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
-- [alexbrand/kurl](https://github.com/alexbrand/kurl) - kurl: curl for Kubernetes - 34 stars
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager - 22150 stars
+- [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes - 49 stars
+- [alexbrand/kurl](https://github.com/alexbrand/kurl) - kurl: curl for Kubernetes - 35 stars
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager - 22158 stars
 - [distroless/nginx](https://github.com/distroless/nginx) - Distroless NGINX image - 2 stars
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. - 9770 stars
-- [stackrox/stackrox](https://github.com/stackrox/stackrox) - The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment. - 833 stars
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. - 14108 stars
+- [stackrox/stackrox](https://github.com/stackrox/stackrox) - The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment. - 834 stars
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.  - 535 stars
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. - 3983 stars
-- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing - 277 stars
-- [scribe-public/gitgat](https://github.com/scribe-public/gitgat) - Evaluate source control (GitHub) security posture - 117 stars
-- [aquasecurity/chain-bench](https://github.com/aquasecurity/chain-bench) - An open-source tool for auditing your software supply chain stack for security compliance based on a new CIS Software Supply Chain benchmark. - 278 stars
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. - 3984 stars
+- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing - 278 stars
+- [scribe-public/gitgat](https://github.com/scribe-public/gitgat) - Evaluate source control (GitHub) security posture - 118 stars
 
 #### 👥 Latest follower
 
+- [dashaun](https://github.com/dashaun) - DaShaun
+- [atlj](https://github.com/atlj) - Burak Güner
 - [ShantanuBadmanji](https://github.com/ShantanuBadmanji) - Sh@nt@nu_B
 - [enesacikoglu](https://github.com/enesacikoglu) - Enes Açıkoğlu
 - [su-shubham](https://github.com/su-shubham) - Shubham
-- [ankittojha](https://github.com/ankittojha) - Ankit Ojha
-- [DeTexTeR-develop](https://github.com/DeTexTeR-develop) - Ujjwal Singh
 
 #### 👨‍💻 Repositories I created recently
 
