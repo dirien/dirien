@@ -13,31 +13,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (5 days ago)
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 week ago)
 - [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.815.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.815.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.4](https://github.com/argoproj/argo-cd/releases/tag/v2.4.4), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [helm/chartmuseum](https://github.com/helm/chartmuseum) ([v0.15.0](https://github.com/helm/chartmuseum/releases/tag/v0.15.0), 3 days ago) - Host your own Helm Chart Repository
-- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.5](https://github.com/antfu/case-police/releases/tag/v0.5.5), 3 days ago) - 🚨 Make the case correct, PLEASE!
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [openfaas/faasd](https://github.com/openfaas/faasd) ([0.16.2](https://github.com/openfaas/faasd/releases/tag/0.16.2), 1 day ago) - A lightweight &amp; portable faas engine
+- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.6](https://github.com/antfu/case-police/releases/tag/v0.5.6), 1 day ago) - 🚨 Make the case correct, PLEASE!
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.816.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.816.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.4](https://github.com/argoproj/argo-cd/releases/tag/v2.4.4), 2 days ago) - Declarative continuous deployment for Kubernetes.
 
 #### ⭐ Latest repositories I starred
 
-- [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes - 49 stars
+- [digitalis-io/vals-operator](https://github.com/digitalis-io/vals-operator) - Kubernetes Operator to sync secrets between different secret backends and Kubernetes - 50 stars
 - [alexbrand/kurl](https://github.com/alexbrand/kurl) - kurl: curl for Kubernetes - 35 stars
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager - 22158 stars
-- [distroless/nginx](https://github.com/distroless/nginx) - Distroless NGINX image - 2 stars
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. - 14108 stars
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager - 22168 stars
+- [distroless/nginx](https://github.com/distroless/nginx) - Distroless NGINX image - 4 stars
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. - 16949 stars
 - [stackrox/stackrox](https://github.com/stackrox/stackrox) - The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment. - 834 stars
 - [michelin/ChopChop](https://github.com/michelin/ChopChop) - ChopChop is a CLI to help developers scanning endpoints and identifying exposition of sensitive services/files/folders.  - 535 stars
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. - 3984 stars
-- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing - 278 stars
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. - 3986 stars
+- [quarkslab/kdigger](https://github.com/quarkslab/kdigger) - Kubernetes focused container assessment and context discovery tool for penetration testing - 279 stars
 - [scribe-public/gitgat](https://github.com/scribe-public/gitgat) - Evaluate source control (GitHub) security posture - 118 stars
 
 #### 👥 Latest follower
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
