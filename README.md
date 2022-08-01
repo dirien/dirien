@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (5 days ago)
-- [dirien/no-yaml](https://github.com/dirien/no-yaml) - No YAML deployments to K8s (5 days ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Example of a Pulumi program to manage a Scaleway server (5 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (6 days ago)
-- [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. (6 days ago)
+- [dirien/no-yaml](https://github.com/dirien/no-yaml) - No YAML deployments to K8s (6 days ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Example of a Pulumi program to manage a Scaleway server (6 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (6 days ago)
+- [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. (1 week ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.33.0](https://github.com/dexidp/dex/releases/tag/v2.33.0), 3 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.843.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.843.0), 3 days ago) - Fig adds autocomplete to your terminal.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.5.0](https://github.com/sigstore/cosign-installer/releases/tag/v2.5.0), 6 days ago) - Cosign Github Action
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.33.0](https://github.com/dexidp/dex/releases/tag/v2.33.0), 4 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.843.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.843.0), 4 days ago) - Fig adds autocomplete to your terminal.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.5.0](https://github.com/sigstore/cosign-installer/releases/tag/v2.5.0), 1 week ago) - Cosign Github Action
 
 #### ⭐ Latest repositories I starred
 
 - [amycodes/techtalk-terraform-pulumi](https://github.com/amycodes/techtalk-terraform-pulumi) -  - 4 stars
-- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers - 4127 stars
+- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers - 4533 stars
 - [loft-sh/cluster-api-provider-vcluster](https://github.com/loft-sh/cluster-api-provider-vcluster) -  - 15 stars
 - [mtougeron/vcluster-meetup-demo](https://github.com/mtougeron/vcluster-meetup-demo) - A demo for the vcluster meetup - 2 stars
 - [slsa-framework/github-actions-demo](https://github.com/slsa-framework/github-actions-demo) - Proof-of-concept SLSA provenance generator for GitHub Actions - 81 stars
-- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. - 702 stars
+- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) - The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts. - 703 stars
 - [knative-sandbox/eventing-autoscaler-keda](https://github.com/knative-sandbox/eventing-autoscaler-keda) - KEDA support for Knative Event Sources Autoscaling - 23 stars
 - [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies - 3 stars
-- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉 - 1489 stars
-- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code - 8155 stars
+- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉 - 1493 stars
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code - 8166 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
