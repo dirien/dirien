@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (1 day ago)
-- [dirien/k3sair-cli](https://github.com/dirien/k3sair-cli) - K3SAIR 🏴‍☠️️ (&#39;Corsair&#39;) is a cli for the installation of k3s in an Air-Gapped environment. (2 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (2 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
+- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (2 days ago)
+- [dirien/k3sair-cli](https://github.com/dirien/k3sair-cli) - K3SAIR 🏴‍☠️️ (&#39;Corsair&#39;) is a cli for the installation of k3s in an Air-Gapped environment. (3 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (3 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
 - [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.29](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.29), 1 day ago) - Azure DevOps Extension for GoReleaser
-- [dirien/k3sair-cli](https://github.com/dirien/k3sair-cli) ([0.5.0](https://github.com/dirien/k3sair-cli/releases/tag/0.5.0), 2 days ago) - K3SAIR 🏴‍☠️️ (&#39;Corsair&#39;) is a cli for the installation of k3s in an Air-Gapped environment.
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.23.0](https://github.com/dirien/minectl/releases/tag/v0.23.0), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.850.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.850.1), 2 days ago) - Fig adds autocomplete to your terminal.
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.0](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.0), 3 days ago) - Three containers with useful tools for troubleshooting
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.10.1](https://github.com/sigstore/cosign/releases/tag/v1.10.1), 1 day ago) - Container Signing
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.851.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.851.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.29](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.29), 2 days ago) - Azure DevOps Extension for GoReleaser
+- [dirien/k3sair-cli](https://github.com/dirien/k3sair-cli) ([0.5.0](https://github.com/dirien/k3sair-cli/releases/tag/0.5.0), 3 days ago) - K3SAIR 🏴‍☠️️ (&#39;Corsair&#39;) is a cli for the installation of k3s in an Air-Gapped environment.
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.23.0](https://github.com/dirien/minectl/releases/tag/v0.23.0), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 
 #### ⭐ Latest repositories I starred
 
-- [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes - 75 stars
-- [wasmCloud/wadm](https://github.com/wasmCloud/wadm) - Automaton deployed to a lattice for supervising declarative application deployments - 12 stars
-- [sigstore/sigstore-js](https://github.com/sigstore/sigstore-js) - Code-signing for npm packages - 80 stars
-- [asg017/sqlite-html](https://github.com/asg017/sqlite-html) - A SQLite extension for querying, manipulating, and creating HTML elements. - 62 stars
+- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! - 325 stars
+- [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes - 157 stars
+- [wasmCloud/wadm](https://github.com/wasmCloud/wadm) - Automaton deployed to a lattice for supervising declarative application deployments - 14 stars
+- [sigstore/sigstore-js](https://github.com/sigstore/sigstore-js) - Code-signing for npm packages - 83 stars
+- [asg017/sqlite-html](https://github.com/asg017/sqlite-html) - A SQLite extension for querying, manipulating, and creating HTML elements. - 164 stars
 - [kubevirt/kubevirt-tekton-tasks](https://github.com/kubevirt/kubevirt-tekton-tasks) - VM specific tasks for Tekton Pipelines - 12 stars
 - [RawkodeAcademy/klustered-cli](https://github.com/RawkodeAcademy/klustered-cli) -  - 2 stars
 - [localstack/pulumi-local](https://github.com/localstack/pulumi-local) - Thin wrapper script to use Pulumi with LocalStack - 26 stars
 - [vinted/S3Grabber](https://github.com/vinted/S3Grabber) - Service that periodically extracts data from S3 (if needed) and calls a list of commands with a given shell - 6 stars
 - [EddieHubCommunity/infrastructure](https://github.com/EddieHubCommunity/infrastructure) - EddieHub apps infrastructure as code - 17 stars
-- [amycodes/techtalk-terraform-pulumi](https://github.com/amycodes/techtalk-terraform-pulumi) -  - 4 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
