@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (5 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (5 days ago)
-- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (5 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (6 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (6 days ago)
+- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.854.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.854.1), today) - Fig adds autocomplete to your terminal.
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.9.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.9.0-helm), 1 day ago) - Minecraft Prometheus exporter
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.20.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.20.0), 2 days ago) - Node-red Helm Chart
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.6.0](https://github.com/simple-icons/simple-icons/releases/tag/7.6.0), 3 days ago) - SVG icons for popular brands
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.31](https://github.com/alexellis/arkade/releases/tag/0.8.31), 4 days ago) - Open Source Marketplace For Kubernetes
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.855.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.855.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.9.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.9.0-helm), 2 days ago) - Minecraft Prometheus exporter
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.20.0](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.20.0), 3 days ago) - Node-red Helm Chart
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.6.0](https://github.com/simple-icons/simple-icons/releases/tag/7.6.0), 4 days ago) - SVG icons for popular brands
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.31](https://github.com/alexellis/arkade/releases/tag/0.8.31), 5 days ago) - Open Source Marketplace For Kubernetes
 
 #### ⭐ Latest repositories I starred
 
-- [sigstore/scaffolding](https://github.com/sigstore/scaffolding) - Stuff to make standing up sigstore (esp. for testing) easier for e2e/integration testing. - 26 stars
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities - 317 stars
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) -  - 7 stars
+- [dhruvvyas90/qemu-rpi-kernel](https://github.com/dhruvvyas90/qemu-rpi-kernel) - Qemu kernel for emulating Rpi on QEMU - 1797 stars
+- [sigstore/scaffolding](https://github.com/sigstore/scaffolding) - Stuff to make standing up sigstore (esp. for testing) easier for e2e/integration testing. - 27 stars
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities - 319 stars
 - [xrjr/mcutils](https://github.com/xrjr/mcutils) - Implementation of Minecraft protocols in Go : ping, query, rcon and bedrock ping. - 8 stars
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit - 134 stars
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple - 21915 stars
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit - 135 stars
+- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple - 21926 stars
 - [Azure/azure-policy](https://github.com/Azure/azure-policy) - Repository for Azure Resource Policy built-in definitions and samples - 1085 stars
 - [rafaeldtinoco/drafts](https://github.com/rafaeldtinoco/drafts) - My eBPF playground. Use this as skeleton for your eBPF golang application. Remove the eBPF program examples and create your own eBPF programs. Give credits! - 42 stars
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go - 836 stars
-- [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command! - 336 stars
-- [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes - 368 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
