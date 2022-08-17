@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (3 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (4 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.861.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.861.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.8](https://github.com/antfu/case-police/releases/tag/v0.5.8), 1 day ago) - 🚨 Make the case correct, PLEASE!
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.7.0](https://github.com/simple-icons/simple-icons/releases/tag/7.7.0), 1 day ago) - SVG icons for popular brands
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.24.0](https://github.com/dirien/minectl/releases/tag/v0.24.0), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.33](https://github.com/alexellis/arkade/releases/tag/0.8.33), 4 days ago) - Open Source Marketplace For Kubernetes
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.863.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.863.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [sigstore/cosign-installer](https://github.com/sigstore/cosign-installer) ([v2.5.1](https://github.com/sigstore/cosign-installer/releases/tag/v2.5.1), 1 day ago) - Cosign Github Action
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-0.4.17](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-0.4.17), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.8](https://github.com/antfu/case-police/releases/tag/v0.5.8), 2 days ago) - 🚨 Make the case correct, PLEASE!
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.7.0](https://github.com/simple-icons/simple-icons/releases/tag/7.7.0), 2 days ago) - SVG icons for popular brands
 
 #### ⭐ Latest repositories I starred
 
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API - 20517 stars
-- [drand/tlock](https://github.com/drand/tlock) - Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future. - 68 stars
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. - 36915 stars
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database - 6932 stars
+- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API - 20608 stars
+- [drand/tlock](https://github.com/drand/tlock) - Timelock Encryption made practical. The Go `tlock` library and the `tle` cmd line tool home to encrypt towards the future. - 239 stars
 - [vincss/mcsleepingserverstarter](https://github.com/vincss/mcsleepingserverstarter) - Put your minecraft server to rest, while SleepingServerStarter is watching ! - 94 stars
 - [pulumi/pulumi-github](https://github.com/pulumi/pulumi-github) - A Pulumi package to facilitate interacting with GitHub - 21 stars
 - [Lucky3028/terraform-provider-discord](https://github.com/Lucky3028/terraform-provider-discord) - Discord Provider for Terraform - 3 stars
-- [itsksaurabh/go-grpc-examples](https://github.com/itsksaurabh/go-grpc-examples) - This repo contains examples and implementations of different types of GRPC services and APIs using Golang. - 211 stars
-- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) -  - 4360 stars
+- [itsksaurabh/go-grpc-examples](https://github.com/itsksaurabh/go-grpc-examples) - This repo contains examples and implementations of different types of GRPC services and APIs using Golang. - 216 stars
+- [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft - 4572 stars
 - [clastix/kubectl](https://github.com/clastix/kubectl) - Kubernetes CLI running in a container. ARM supported. - 4 stars
-- [poseidon/kubelet](https://github.com/poseidon/kubelet) - Upstream Kubelet packaged as a container image - 12 stars
-- [PaloAltoNetworks/rbac-police](https://github.com/PaloAltoNetworks/rbac-police) - Evaluate the RBAC permissions of serviceaccounts, pods and nodes in Kubernetes clusters through policies written in Rego - 152 stars
 
 #### 👥 Latest follower
 
-- [zoispag](https://github.com/zoispag) - Zois Pagoulatos
-- [ShawnaGG](https://github.com/ShawnaGG) - Shawna Greenly
-- [gepent](https://github.com/gepent) - 
-- [CMZTECHGh](https://github.com/CMZTECHGh) - 
-- [Terrornis](https://github.com/Terrornis) - 
+- [ItsJimi](https://github.com/ItsJimi) - Jimi
+- [beamiter](https://github.com/beamiter) - 
+- [tahtaciburak](https://github.com/tahtaciburak) - Burak Tahtacı
+- [liamg](https://github.com/liamg) - Liam Galvin
+- [owenrumney](https://github.com/owenrumney) - Owen Rumney
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
