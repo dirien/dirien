@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
-- [Pradumnasaraf/Wish-Eddie](https://github.com/Pradumnasaraf/Wish-Eddie) - Wish Eddie on his birthday by creating a PR. And save it forever 🎉. Live site 👇 (1 day ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (5 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [eddiejaoude/Wish-Eddie](https://github.com/eddiejaoude/Wish-Eddie) - Wish Eddie on his birthday by creating a PR. And save it forever 🎉. Live site 👇 (2 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.876.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.876.1), 1 day ago) - Fig adds autocomplete to your terminal.
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.5](https://github.com/dirien/pulumi-github/releases/tag/v0.2.5), 1 day ago) - Pulumi program to manage my GitHub repositories
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.24.1](https://github.com/dirien/minectl/releases/tag/v0.24.1), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.7.1](https://github.com/aquasecurity/trivy-action/releases/tag/0.7.1), 2 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.11.0](https://github.com/sigstore/cosign/releases/tag/v1.11.0), 3 days ago) - Container Signing
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.8.0](https://github.com/simple-icons/simple-icons/releases/tag/7.8.0), 1 day ago) - SVG icons for popular brands
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.877.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.877.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.5](https://github.com/dirien/pulumi-github/releases/tag/v0.2.5), 2 days ago) - Pulumi program to manage my GitHub repositories
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.24.1](https://github.com/dirien/minectl/releases/tag/v0.24.1), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.7.1](https://github.com/aquasecurity/trivy-action/releases/tag/0.7.1), 3 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 
 #### ⭐ Latest repositories I starred
 
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself - 14602 stars
+- [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Tools for generating Kubernetes related manifests. - 385 stars
+- [ReallyLiri/kubescout](https://github.com/ReallyLiri/kubescout) - Scout for alarming issues across your Kubernetes clusters - 89 stars
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review - 4561 stars
 - [distroless/alpine-base](https://github.com/distroless/alpine-base) - the alpine base image, distroless style - 24 stars
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites - 1901 stars
+- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites - 1990 stars
 - [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) -  - 864 stars
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 - 14429 stars
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 - 14441 stars
 - [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. - 48 stars
-- [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Secure images, for lazy people - 57 stars
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. - 37071 stars
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database - 6960 stars
-- [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API - 20643 stars
+- [owenrumney/lazytrivy](https://github.com/owenrumney/lazytrivy) - Secure images, for lazy people - 60 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
