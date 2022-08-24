@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (2 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (3 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (1 day ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 days ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (2 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.881.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.881.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.8.0](https://github.com/simple-icons/simple-icons/releases/tag/7.8.0), 2 days ago) - SVG icons for popular brands
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.5](https://github.com/dirien/pulumi-github/releases/tag/v0.2.5), 3 days ago) - Pulumi program to manage my GitHub repositories
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.24.1](https://github.com/dirien/minectl/releases/tag/v0.24.1), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.887.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.887.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([starboard-operator-0.10.8](https://github.com/aquasecurity/helm-charts/releases/tag/starboard-operator-0.10.8), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.8](https://github.com/aquasecurity/starboard/releases/tag/v0.15.8), 1 day ago) - Moved to https://github.com/aquasecurity/trivy-operator
+- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) ([0.16.1](https://github.com/inlets/inlets-operator/releases/tag/0.16.1), 1 day ago) - Get public LoadBalancers on your local Kubernetes clusters
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 2 days ago) - Declarative continuous deployment for Kubernetes.
 
 #### ⭐ Latest repositories I starred
 
-- [Azure/kubelogin](https://github.com/Azure/kubelogin) - A Kubernetes credential (exec) plugin implementing azure authentication - 249 stars
-- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself - 14608 stars
+- [k8spacket/k8spacket](https://github.com/k8spacket/k8spacket) - k8spacket - packets traffic visualization for kubernetes - 117 stars
+- [developer-guy/flux-kyverno-policies](https://github.com/developer-guy/flux-kyverno-policies) - An example to show you how you can use OCI Repositories of Flux to apply Kyverno policies stored in an OCI registry - 2 stars
+- [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps - 1383 stars
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine. - 7004 stars
+- [up9inc/mizu](https://github.com/up9inc/mizu) - API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes - 3872 stars
+- [Azure/kubelogin](https://github.com/Azure/kubelogin) - A Kubernetes credential (exec) plugin implementing azure authentication - 251 stars
+- [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself - 14615 stars
 - [dekorateio/dekorate](https://github.com/dekorateio/dekorate) - Tools for generating Kubernetes related manifests. - 387 stars
 - [ReallyLiri/kubescout](https://github.com/ReallyLiri/kubescout) - Scout for alarming issues across your Kubernetes clusters - 89 stars
-- [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review - 4565 stars
-- [distroless/alpine-base](https://github.com/distroless/alpine-base) - the alpine base image, distroless style - 24 stars
-- [fireship-io/flamethrower](https://github.com/fireship-io/flamethrower) - A blazingly fast router for static sites - 2037 stars
-- [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) -  - 867 stars
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 - 14459 stars
-- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. - 48 stars
+- [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review - 4568 stars
 
 #### 👥 Latest follower
 
+- [fsever-jb](https://github.com/fsever-jb) - Fatih Sever
 - [yondkoo](https://github.com/yondkoo) - Yondonrinchin Batsukh
 - [k33g](https://github.com/k33g) - Philippe Charrière
 - [enescanguven](https://github.com/enescanguven) - Enes Can Güven
 - [ItsJimi](https://github.com/ItsJimi) - Jimi
-- [beamiter](https://github.com/beamiter) - 
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
