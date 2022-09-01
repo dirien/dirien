@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
+- [caddy-dns/civo](https://github.com/caddy-dns/civo) - Caddy module: dns.providers.civo (1 day ago)
+- [caddy-dns/scaleway](https://github.com/caddy-dns/scaleway) - Caddy module: dns.providers.scaleway (1 day ago)
+- [libdns/civo](https://github.com/libdns/civo) - Civo DNS implementation for libdns (1 day ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 day ago)
 - [dirien/scaleway](https://github.com/dirien/scaleway) - Scaleway DNS implementation for libdns (1 day ago)
-- [dirien/civo](https://github.com/dirien/civo) - Civo DNS implementation for libdns (1 day ago)
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (2 days ago)
-- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (2 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.900.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.900.1), 1 day ago) - Fig adds autocomplete to your terminal.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.38](https://github.com/alexellis/arkade/releases/tag/0.8.38), 2 days ago) - Open Source Marketplace For Kubernetes
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.9.0](https://github.com/simple-icons/simple-icons/releases/tag/7.9.0), 3 days ago) - SVG icons for popular brands
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.9.2-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.9.2-helm), 4 days ago) - Minecraft Prometheus exporter
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([postee-v2.8.3](https://github.com/aquasecurity/helm-charts/releases/tag/postee-v2.8.3), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.0](https://github.com/libdns/scaleway/releases/tag/v0.1.0), 1 day ago) - Scaleway DNS implementation for libdns
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.0](https://github.com/libdns/civo/releases/tag/v0.1.0), 1 day ago) - Civo DNS implementation for libdns
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.903.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.903.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go - 5509 stars
+- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go - 5511 stars
 - [Azure/bellhop](https://github.com/Azure/bellhop) - Bellhop allows a user to &#39;hop&#39; between Azure Resource service tiers, like a traditional bellhop helps you move between floors in a hotel. - 32 stars
 - [tuananh/vault-operator](https://github.com/tuananh/vault-operator) - Vault Operator for Kubernetes - 4 stars
 - [libdns/netlify](https://github.com/libdns/netlify) -  - 3 stars
-- [waterkube/waterkube](https://github.com/waterkube/waterkube) - ☸️ Underwater Archaeology game for Kubernetes, Docker or Terminal. - 12 stars
-- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions - 89 stars
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥   - 1893 stars
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. - 2821 stars
+- [waterkube/waterkube](https://github.com/waterkube/waterkube) - ☸️ Underwater Archaeology game for Kubernetes, Docker or Terminal. - 25 stars
+- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions - 90 stars
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥   - 1899 stars
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox) - Instant, easy, predictable shells and containers. - 2875 stars
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) - Write Cloudflare Workers in 100% Rust via WebAssembly - 1137 stars
-- [aamoyel/vault-unsealer-operator](https://github.com/aamoyel/vault-unsealer-operator) - A Kubernetes Operator wrote in Go to auto unseal Vault instance or cluster. - 17 stars
+- [aamoyel/vault-unsealer-operator](https://github.com/aamoyel/vault-unsealer-operator) - A Kubernetes Operator wrote in Go to auto unseal Vault instance or cluster. - 18 stars
 
 #### 👥 Latest follower
 
@@ -50,11 +50,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/caddy-dns-scaleway](https://github.com/dirien/caddy-dns-scaleway)
 - [dirien/civo](https://github.com/dirien/civo) - Civo DNS implementation for libdns
 - [dirien/scaleway](https://github.com/dirien/scaleway) - Scaleway DNS implementation for libdns
 - [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery
 - [dirien/minectl-operator](https://github.com/dirien/minectl-operator) - Kubernetes operator for minectl
-- [dirien/kubernetes-diy-policy-engine](https://github.com/dirien/kubernetes-diy-policy-engine) - How to build your own policy engine
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
