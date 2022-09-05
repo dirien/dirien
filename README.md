@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (3 days ago)
-- [caddy-dns/civo](https://github.com/caddy-dns/civo) - Caddy module: dns.providers.civo (4 days ago)
-- [libdns/civo](https://github.com/libdns/civo) - Civo DNS implementation for libdns (4 days ago)
-- [caddy-dns/scaleway](https://github.com/caddy-dns/scaleway) - Caddy module: dns.providers.scaleway (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (4 days ago)
+- [dirien/caddy-dns-scaleway](https://github.com/dirien/caddy-dns-scaleway) -  (5 days ago)
+- [libdns/civo](https://github.com/libdns/civo) - Civo DNS implementation for libdns (5 days ago)
+- [caddy-dns/scaleway](https://github.com/caddy-dns/scaleway) - Caddy module: dns.providers.scaleway (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10), 1 day ago) - 🚨 Make the case correct, PLEASE!
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.908.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.908.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.40](https://github.com/alexellis/arkade/releases/tag/0.8.40), 2 days ago) - Open Source Marketplace For Kubernetes
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.1](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.1), 3 days ago) - Three containers with useful tools for troubleshooting
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([postee-v2.8.3](https://github.com/aquasecurity/helm-charts/releases/tag/postee-v2.8.3), 4 days ago) - Aqua Open Source Helm Chart Repository
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.41](https://github.com/alexellis/arkade/releases/tag/0.8.41), 1 day ago) - Open Source Marketplace For Kubernetes
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.10.0](https://github.com/simple-icons/simple-icons/releases/tag/7.10.0), 1 day ago) - SVG icons for popular brands
+- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.10](https://github.com/antfu/case-police/releases/tag/v0.5.10), 2 days ago) - 🚨 Make the case correct, PLEASE!
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.908.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.908.0), 2 days ago) - Fig adds autocomplete to your terminal.
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.1](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.1), 4 days ago) - Three containers with useful tools for troubleshooting
 
 #### ⭐ Latest repositories I starred
 
-- [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) - A Friendly Kubernetes CloudShell (Web Terminal) !  - 224 stars
-- [google/magic-github-proxy](https://github.com/google/magic-github-proxy) - An access-limiting stateless GitHub API Proxy - 78 stars
-- [vlsi/sigstore-gradle](https://github.com/vlsi/sigstore-gradle) - Gradle plugin for artifact signing in Sigstore - 4 stars
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go - 5515 stars
-- [Azure/bellhop](https://github.com/Azure/bellhop) - Bellhop allows a user to &#39;hop&#39; between Azure Resource service tiers, like a traditional bellhop helps you move between floors in a hotel. - 32 stars
-- [tuananh/vault-operator](https://github.com/tuananh/vault-operator) - Vault Operator for Kubernetes - 4 stars
-- [libdns/netlify](https://github.com/libdns/netlify) -  - 3 stars
-- [waterkube/waterkube](https://github.com/waterkube/waterkube) - ☸️ Underwater Archaeology game for Kubernetes, Docker or Terminal. - 26 stars
-- [Ramilito/kubesess](https://github.com/Ramilito/kubesess) - Kubectl plugin managing sessions - 93 stars
-- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥   - 1912 stars
+- [kubevirt/ssp-operator](https://github.com/kubevirt/ssp-operator) - Kubevirt SSP Operator - 11 stars
+- [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes - 2746 stars
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features - 1807 stars
+- [WebAssembly/WASI](https://github.com/WebAssembly/WASI) - WebAssembly System Interface - 2983 stars
+- [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly - 213 stars
+- [kilmajster/ngrok-spring-boot-starter](https://github.com/kilmajster/ngrok-spring-boot-starter) - 🚀 Spring Boot tunneling with Ngrok made easy! No matter if you are using Windows, Mac OS X, Linux or even Docker - ngrok binary will be chosen automatically 🤖 so you don&#39;t need to care about environment changing etc. auto-configuration magic 🧙‍♂️ - 94 stars
+- [pulumi/docs](https://github.com/pulumi/docs) - All things related to docs generation for the Pulumi CLI, SDK, and tutorials. - 104 stars
+- [sudo-bmitch/rebuild](https://github.com/sudo-bmitch/rebuild) - Docker Image Rebuilder - 2 stars
+- [rapidloop/rtop](https://github.com/rapidloop/rtop) - rtop is an interactive, remote system monitoring tool based on SSH - 2033 stars
+- [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust - 9037 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
