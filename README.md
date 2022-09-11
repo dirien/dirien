@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (1 day ago)
-- [caddy-dns/civo](https://github.com/caddy-dns/civo) - Caddy module: dns.providers.civo (1 day ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 day ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (3 days ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (5 days ago)
+- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (2 days ago)
+- [caddy-dns/civo](https://github.com/caddy-dns/civo) - Caddy module: dns.providers.civo (2 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (2 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (4 days ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) ([1.2.3](https://github.com/sstarcher/helm-exporter/releases/tag/1.2.3), 1 day ago) - Export helm stats into the Prometheus format
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.1](https://github.com/libdns/civo/releases/tag/v0.1.1), 1 day ago) - Civo DNS implementation for libdns
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.914.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.914.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.10](https://github.com/civo/civogo/releases/tag/v0.3.10), 3 days ago) - Golang client to interact with Civo&#39;s API
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([starboard-operator-0.10.9](https://github.com/aquasecurity/helm-charts/releases/tag/starboard-operator-0.10.9), 3 days ago) - Aqua Open Source Helm Chart Repository
+- [inlets/inlets-operator](https://github.com/inlets/inlets-operator) ([0.16.2](https://github.com/inlets/inlets-operator/releases/tag/0.16.2), 1 day ago) - Get public LoadBalancers on your local Kubernetes clusters
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.44](https://github.com/alexellis/arkade/releases/tag/0.8.44), 1 day ago) - Open Source Marketplace For Kubernetes
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.38.0](https://github.com/docker-slim/docker-slim/releases/tag/1.38.0), 1 day ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) ([1.2.3](https://github.com/sstarcher/helm-exporter/releases/tag/1.2.3), 2 days ago) - Export helm stats into the Prometheus format
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.1](https://github.com/libdns/civo/releases/tag/v0.1.1), 2 days ago) - Civo DNS implementation for libdns
 
 #### ⭐ Latest repositories I starred
 
-- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft - 3502 stars
+- [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans SBoMs for security vulnerabilities - 113 stars
+- [glebiller/dynamic-configuration-operator](https://github.com/glebiller/dynamic-configuration-operator) -  - 31 stars
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework - 23695 stars
+- [microsoft/azure-devops-go-api](https://github.com/microsoft/azure-devops-go-api) - This repository contains Go APIs for interacting with and managing Azure DevOps. - 137 stars
+- [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories. - 2042 stars
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster - 331 stars
+- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) -  - 146 stars
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft - 3718 stars
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple - 488 stars
 - [sigstore/policy-controller](https://github.com/sigstore/policy-controller) -  - 39 stars
-- [kubernetes/cli-runtime](https://github.com/kubernetes/cli-runtime) - Set of helpers for creating kubectl commands and plugins. - 211 stars
-- [aquasecurity/terraform-provider-aquasec](https://github.com/aquasecurity/terraform-provider-aquasec) -  - 24 stars
-- [alexellis/run-job](https://github.com/alexellis/run-job) - Run a Kubernetes Job and get the logs when it&#39;s done 🏃‍♂️ - 95 stars
-- [aurae-runtime/community](https://github.com/aurae-runtime/community) - If you are new to Aurae. Start here. - 14 stars
-- [okteto/cert-manager-webhook-civo](https://github.com/okteto/cert-manager-webhook-civo) - A webhook to use CIVO DNS as a DNS issuer for cert-manager. - 13 stars
-- [airwallex/k8s-pod-restart-info-collector](https://github.com/airwallex/k8s-pod-restart-info-collector) - Automated troubleshooting of Kubernetes Pods issues. Collect K8s pod restart reasons, logs, and events automatically. - 78 stars
-- [replicatedhq/troubleshoot](https://github.com/replicatedhq/troubleshoot) - Preflight Checks and Support Bundles Framework for Kubernetes Applications - 369 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
