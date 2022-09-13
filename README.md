@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (3 days ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (3 days ago)
-- [caddy-dns/civo](https://github.com/caddy-dns/civo) - Caddy module: dns.providers.civo (3 days ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (5 days ago)
-- [dirien/pulumi-codefresh](https://github.com/dirien/pulumi-codefresh) - Pulumi provider for Codefresh (1 week ago)
+- [dirien/pulumi-codefresh](https://github.com/dirien/pulumi-codefresh) - Pulumi provider for Codefresh (1 day ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (4 days ago)
+- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (4 days ago)
+- [caddy-dns/civo](https://github.com/caddy-dns/civo) - Caddy module: dns.providers.civo (4 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.11.0](https://github.com/simple-icons/simple-icons/releases/tag/7.11.0), 1 day ago) - SVG icons for popular brands
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.44](https://github.com/alexellis/arkade/releases/tag/0.8.44), 2 days ago) - Open Source Marketplace For Kubernetes
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.38.0](https://github.com/docker-slim/docker-slim/releases/tag/1.38.0), 2 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) ([1.2.3](https://github.com/sstarcher/helm-exporter/releases/tag/1.2.3), 3 days ago) - Export helm stats into the Prometheus format
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.1](https://github.com/libdns/civo/releases/tag/v0.1.1), 3 days ago) - Civo DNS implementation for libdns
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.916.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.916.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.11.0](https://github.com/simple-icons/simple-icons/releases/tag/7.11.0), 2 days ago) - SVG icons for popular brands
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.44](https://github.com/alexellis/arkade/releases/tag/0.8.44), 3 days ago) - Open Source Marketplace For Kubernetes
+- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) ([1.38.0](https://github.com/docker-slim/docker-slim/releases/tag/1.38.0), 3 days ago) - DockerSlim (docker-slim): Don&#39;t change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [sstarcher/helm-exporter](https://github.com/sstarcher/helm-exporter) ([1.2.3](https://github.com/sstarcher/helm-exporter/releases/tag/1.2.3), 4 days ago) - Export helm stats into the Prometheus format
 
 #### ⭐ Latest repositories I starred
 
-- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. - 1255 stars
+- [brumhard/krewfile](https://github.com/brumhard/krewfile) -  - 3 stars
+- [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers - 2897 stars
+- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. - 1258 stars
 - [felangel/mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks. - 541 stars
-- [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans SBoMs for security vulnerabilities - 113 stars
+- [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans SBoMs for security vulnerabilities - 115 stars
 - [glebiller/dynamic-configuration-operator](https://github.com/glebiller/dynamic-configuration-operator) -  - 31 stars
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework - 23702 stars
-- [microsoft/azure-devops-go-api](https://github.com/microsoft/azure-devops-go-api) - This repository contains Go APIs for interacting with and managing Azure DevOps. - 137 stars
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework - 23711 stars
+- [microsoft/azure-devops-go-api](https://github.com/microsoft/azure-devops-go-api) - This repository contains Go APIs for interacting with and managing Azure DevOps. - 138 stars
 - [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories. - 2042 stars
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster - 332 stars
-- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter) -  - 153 stars
-- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A programming font based on the typeface used in Minecraft - 3842 stars
 
 #### 👥 Latest follower
 
+- [recepdmr](https://github.com/recepdmr) - Recep Demir
+- [bimap98](https://github.com/bimap98) - Bima Putra Lamanda
+- [mstrYoda](https://github.com/mstrYoda) - Emre Savcı
+- [korenyoni](https://github.com/korenyoni) - Yonatan Koren
 - [fatihsever](https://github.com/fatihsever) - Fatih Sever
-- [mtrossbach](https://github.com/mtrossbach) - Markus Troßbach
-- [yondkoo](https://github.com/yondkoo) - Yondonrinchin Batsukh
-- [k33g](https://github.com/k33g) - Philippe Charrière
-- [enescanguven](https://github.com/enescanguven) - Enes Can Güven
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
