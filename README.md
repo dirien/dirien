@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
-- [dirien/pulumi-codefresh](https://github.com/dirien/pulumi-codefresh) - Pulumi provider for Codefresh (2 days ago)
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (5 days ago)
-- [caddy-dns/civo](https://github.com/caddy-dns/civo) - Caddy module: dns.providers.civo (5 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
+- [dirien/pulumi-codefresh](https://github.com/dirien/pulumi-codefresh) - Pulumi provider for Codefresh (3 days ago)
+- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.920.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.920.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.12](https://github.com/civo/civogo/releases/tag/v0.3.12), 1 day ago) - Golang client to interact with Civo&#39;s API
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.1.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.1.0), 1 day ago) - SDK for every minectl product
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.33.1](https://github.com/dexidp/dex/releases/tag/v2.33.1), 1 day ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.11.0](https://github.com/simple-icons/simple-icons/releases/tag/7.11.0), 3 days ago) - SVG icons for popular brands
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([postee-v2.8.4](https://github.com/aquasecurity/helm-charts/releases/tag/postee-v2.8.4), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.1](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.1), 1 day ago) - Website and API for OpenSSF Scorecard
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.12.0](https://github.com/sigstore/cosign/releases/tag/v1.12.0), 1 day ago) - Container Signing
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.921.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.921.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.12](https://github.com/civo/civogo/releases/tag/v0.3.12), 2 days ago) - Golang client to interact with Civo&#39;s API
 
 #### ⭐ Latest repositories I starred
 
-- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 - 278 stars
-- [brumhard/krewfile](https://github.com/brumhard/krewfile) -  - 4 stars
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard - 11 stars
+- [caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities) - A list of awesome twitter communities - 15 stars
+- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 - 294 stars
+- [brumhard/krewfile](https://github.com/brumhard/krewfile) -  - 5 stars
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers - 2900 stars
-- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. - 1262 stars
+- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. - 1266 stars
 - [felangel/mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks. - 541 stars
-- [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans SBoMs for security vulnerabilities - 117 stars
+- [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans SBoMs for security vulnerabilities - 118 stars
 - [glebiller/dynamic-configuration-operator](https://github.com/glebiller/dynamic-configuration-operator) -  - 31 stars
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework - 23728 stars
-- [microsoft/azure-devops-go-api](https://github.com/microsoft/azure-devops-go-api) - This repository contains Go APIs for interacting with and managing Azure DevOps. - 138 stars
-- [lepture/github-cards](https://github.com/lepture/github-cards) - The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories. - 2042 stars
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework - 23740 stars
 
 #### 👥 Latest follower
 
+- [berkguzel](https://github.com/berkguzel) - 
 - [recepdmr](https://github.com/recepdmr) - Recep Demir
 - [bimap98](https://github.com/bimap98) - Bima Putra Lamanda
 - [mstrYoda](https://github.com/mstrYoda) - Emre Savcı
 - [korenyoni](https://github.com/korenyoni) - Yonatan Koren
-- [fatihsever](https://github.com/fatihsever) - Fatih Sever
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
