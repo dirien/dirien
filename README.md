@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
 - [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 day ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 day ago)
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (2 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (2 days ago)
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.25.0](https://github.com/dirien/minectl/releases/tag/v0.25.0), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.2.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.2.0), 1 day ago) - SDK for every minectl product
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.924.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.924.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.13](https://github.com/civo/civogo/releases/tag/v0.3.13), 1 day ago) - Golang client to interact with Civo&#39;s API
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.2.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.2.0), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.928.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.928.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.34.0](https://github.com/dexidp/dex/releases/tag/v2.34.0), 1 day ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.25.0](https://github.com/dirien/minectl/releases/tag/v0.25.0), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 
 #### ⭐ Latest repositories I starred
 
+- [observatorium/operator](https://github.com/observatorium/operator) - Operator deploying the Observatorium project - 9 stars
+- [redhat-developer/observability-operator](https://github.com/redhat-developer/observability-operator) - Operator installing the Telemetry stack in a Kubernetes cluster and installing the metrics and alerts - 11 stars
+- [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) - 357 stars
+- [vngcloud/terraform-provider-vngcloud](https://github.com/vngcloud/terraform-provider-vngcloud) -  - 11 stars
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard - 11 stars
 - [caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities) - A list of awesome twitter communities - 16 stars
-- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 - 303 stars
+- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 - 312 stars
 - [brumhard/krewfile](https://github.com/brumhard/krewfile) -  - 5 stars
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers - 2900 stars
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. - 1266 stars
-- [felangel/mason](https://github.com/felangel/mason) - Tools which allow developers to create and consume reusable templates called bricks. - 543 stars
-- [devops-kung-fu/bomber](https://github.com/devops-kung-fu/bomber) - Scans SBoMs for security vulnerabilities - 119 stars
-- [glebiller/dynamic-configuration-operator](https://github.com/glebiller/dynamic-configuration-operator) -  - 31 stars
-- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework - 23750 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
