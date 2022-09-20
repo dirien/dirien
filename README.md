@@ -15,30 +15,30 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 - [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (3 days ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (3 days ago)
+- [dirien/hello-jamstack](https://github.com/dirien/hello-jamstack) - Test for different JAMStack provider (1 day ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. (4 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.2.1](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.2.1), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.2.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.2.1), 1 day ago) - Kubernetes-native security toolkit
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.12.0](https://github.com/simple-icons/simple-icons/releases/tag/7.12.0), 1 day ago) - SVG icons for popular brands
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.928.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.928.0), 3 days ago) - Fig adds autocomplete to your terminal.
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.34.0](https://github.com/dexidp/dex/releases/tag/v2.34.0), 3 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.929.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.929.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.2.1](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.2.1), 2 days ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.2.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.2.1), 2 days ago) - Kubernetes-native security toolkit
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.12.0](https://github.com/simple-icons/simple-icons/releases/tag/7.12.0), 2 days ago) - SVG icons for popular brands
 
 #### ⭐ Latest repositories I starred
 
 - [Azure/AgentBaker](https://github.com/Azure/AgentBaker) - Agent Baker is aiming to provide a centralized, portable k8s agent node provisioning lib as well as rich support on different OS image with optimized k8s binaries. - 55 stars
-- [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore - 667 stars
-- [kubealex/libvirt-k8s-provisioner](https://github.com/kubealex/libvirt-k8s-provisioner) - Automate your k8s installation - 304 stars
+- [sigstore/gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore - 668 stars
+- [kubealex/libvirt-k8s-provisioner](https://github.com/kubealex/libvirt-k8s-provisioner) - Automate your k8s installation - 305 stars
 - [observatorium/operator](https://github.com/observatorium/operator) - Operator deploying the Observatorium project - 10 stars
 - [redhat-developer/observability-operator](https://github.com/redhat-developer/observability-operator) - Operator installing the Telemetry stack in a Kubernetes cluster and installing the metrics and alerts - 11 stars
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) - 361 stars
 - [vngcloud/terraform-provider-vngcloud](https://github.com/vngcloud/terraform-provider-vngcloud) -  - 11 stars
 - [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) - Website and API for OpenSSF Scorecard - 11 stars
 - [caarlos0/awesome-twitter-communities](https://github.com/caarlos0/awesome-twitter-communities) - A list of awesome twitter communities - 16 stars
-- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 - 320 stars
+- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 - 322 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
