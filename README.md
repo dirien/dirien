@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (3 days ago)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (6 days ago)
-- [dirien/hello-jamstack](https://github.com/dirien/hello-jamstack) - Test for different JAMStack provider (6 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (6 days ago)
+- [dirien/ovh-go-sdk](https://github.com/dirien/ovh-go-sdk) - A opinionated OVHCloud Go SDK based on github.com/ovh/go-ovh (1 day ago)
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (4 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.933.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.933.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.20.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.20.1), 2 days ago) - Node-red Helm Chart
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.3.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.3.0), 2 days ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.3.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.3.0), 2 days ago) - Kubernetes-native security toolkit
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.45](https://github.com/alexellis/arkade/releases/tag/0.8.45), 3 days ago) - Open Source Marketplace For Kubernetes
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.935.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.935.0), today) - Fig adds autocomplete to your terminal.
+- [dirien/ovh-go-sdk](https://github.com/dirien/ovh-go-sdk) ([v0.2.0](https://github.com/dirien/ovh-go-sdk/releases/tag/v0.2.0), 1 day ago) - A opinionated OVHCloud Go SDK based on github.com/ovh/go-ovh
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.13.0](https://github.com/simple-icons/simple-icons/releases/tag/7.13.0), 1 day ago) - SVG icons for popular brands
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.20.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.20.1), 3 days ago) - Node-red Helm Chart
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.3.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.3.0), 3 days ago) - Aqua Open Source Helm Chart Repository
 
 #### ⭐ Latest repositories I starred
 
+- [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) - This driver allows Kubernetes to access SMB Server on both Linux and Windows nodes. - 247 stars
+- [inlets/cloud-provision](https://github.com/inlets/cloud-provision) - Get cloud instances with your favourite software pre-loaded - 34 stars
+- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster - 954 stars
 - [Hashnode/serverless-tts-polly](https://github.com/Hashnode/serverless-tts-polly) -  - 6 stars
-- [chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os) - Main package repository for production Wolfi images - 53 stars
-- [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND - 25 stars
-- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  - 289 stars
-- [deislabs/image-layer-provenance](https://github.com/deislabs/image-layer-provenance) - Container image provenance spec that allows tracing CVEs detected in registry images back to a CVE&#39;s source of origin. - 23 stars
+- [chainguard-dev/wolfi-os](https://github.com/chainguard-dev/wolfi-os) - Main package repository for production Wolfi images - 72 stars
+- [stefanprodan/flux-local-dev](https://github.com/stefanprodan/flux-local-dev) - Flux local dev environment with Docker and Kubernetes KIND - 30 stars
+- [signalapp/Signal-TLS-Proxy](https://github.com/signalapp/Signal-TLS-Proxy) -  - 321 stars
+- [deislabs/image-layer-provenance](https://github.com/deislabs/image-layer-provenance) - Container image provenance spec that allows tracing CVEs detected in registry images back to a CVE&#39;s source of origin. - 24 stars
 - [cloud-ark/kubeplus](https://github.com/cloud-ark/kubeplus) - Kubernetes Operator to build Multi-Instance SaaS from Helm charts - 424 stars
-- [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant. - 1033 stars
-- [psanders/awesome-templates](https://github.com/psanders/awesome-templates) - A curated list of Awesome GitHub Templates - 7 stars
-- [kubernetes/sample-apiserver](https://github.com/kubernetes/sample-apiserver) - Reference implementation of an apiserver for a custom Kubernetes API. - 399 stars
-- [open-feature/watchman](https://github.com/open-feature/watchman) - A Kubernetes admission controller driven by open-feature - 8 stars
+- [cycloidio/inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant. - 1036 stars
 
 #### 👥 Latest follower
 
+- [adamrusted](https://github.com/adamrusted) - Adam Rusted
 - [fmelihh](https://github.com/fmelihh) - Furkan Melih Ercan
 - [berkguzel](https://github.com/berkguzel) - 
 - [recepdmr](https://github.com/recepdmr) - Recep Demir
 - [bimap98](https://github.com/bimap98) - Bima Putra Lamanda
-- [mstrYoda](https://github.com/mstrYoda) - Emre Savcı
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
