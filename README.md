@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (2 days ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (2 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (3 days ago)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (6 days ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (3 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (3 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (4 days ago)
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.1.3](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.1.3), 2 days ago) - Pulumi provider for Aquasec
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.1.2](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.1.2), 2 days ago) - Pulumi provider for Exoscale
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([starboard-operator-0.10.10](https://github.com/aquasecurity/helm-charts/releases/tag/starboard-operator-0.10.10), 3 days ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.10](https://github.com/aquasecurity/starboard/releases/tag/v0.15.10), 3 days ago) - Moved to https://github.com/aquasecurity/trivy-operator
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.942.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.942.0), 3 days ago) - Fig adds autocomplete to your terminal.
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.2](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.2), 1 day ago) - Three containers with useful tools for troubleshooting
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.1.3](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.1.3), 3 days ago) - Pulumi provider for Aquasec
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.1.2](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.1.2), 3 days ago) - Pulumi provider for Exoscale
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([starboard-operator-0.10.10](https://github.com/aquasecurity/helm-charts/releases/tag/starboard-operator-0.10.10), 4 days ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ([v0.15.10](https://github.com/aquasecurity/starboard/releases/tag/v0.15.10), 4 days ago) - Moved to https://github.com/aquasecurity/trivy-operator
 
 #### ⭐ Latest repositories I starred
 
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3428 stars
+- [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud - 183 stars
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3431 stars
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. - 253 stars
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers - 3286 stars
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers - 3410 stars
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) - Terraform Exoscale provider - 14 stars
 - [harvester/terraform-provider-harvester](https://github.com/harvester/terraform-provider-harvester) - Terraform Harvester provider - 25 stars
 - [gopaddle-io/configurator](https://github.com/gopaddle-io/configurator) - Synchronize and Version Control ConfigMaps &amp; Secrets across Deployment Rollouts. - 95 stars
 - [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) - This driver allows Kubernetes to access SMB Server on both Linux and Windows nodes. - 248 stars
 - [inlets/cloud-provision](https://github.com/inlets/cloud-provision) - Get cloud instances with your favourite software pre-loaded - 35 stars
-- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster - 1034 stars
-- [Hashnode/serverless-tts-polly](https://github.com/Hashnode/serverless-tts-polly) -  - 6 stars
+- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster - 1036 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
