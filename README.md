@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (4 days ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (4 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (5 days ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (5 days ago)
-- [dirien/ovh-go-sdk](https://github.com/dirien/ovh-go-sdk) - A opinionated OVHCloud Go SDK based on github.com/ovh/go-ovh (1 week ago)
+- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc. (1 day ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (5 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (5 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (6 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.944.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.944.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.14.0](https://github.com/simple-icons/simple-icons/releases/tag/7.14.0), 1 day ago) - SVG icons for popular brands
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.2](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.2), 2 days ago) - Three containers with useful tools for troubleshooting
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.1.3](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.1.3), 4 days ago) - Pulumi provider for Aquasec
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.1.2](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.1.2), 4 days ago) - Pulumi provider for Exoscale
+- [go-acme/lego](https://github.com/go-acme/lego) ([v4.9.0](https://github.com/go-acme/lego/releases/tag/v4.9.0), 1 day ago) - Let&#39;s Encrypt/ACME client and library written in Go
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.13](https://github.com/argoproj/argo-cd/releases/tag/v2.2.13), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.945.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.945.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.0](https://github.com/dexidp/dex/releases/tag/v2.35.0), 1 day ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
 #### ⭐ Latest repositories I starred
 
-- [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud - 183 stars
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3440 stars
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF - 2750 stars
+- [chainguard-images/go](https://github.com/chainguard-images/go) - Lightweight container image for building Go applications - 22 stars
+- [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud - 185 stars
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3464 stars
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. - 253 stars
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers - 3488 stars
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers - 3572 stars
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) - Terraform Exoscale provider - 14 stars
 - [harvester/terraform-provider-harvester](https://github.com/harvester/terraform-provider-harvester) - Terraform Harvester provider - 25 stars
 - [gopaddle-io/configurator](https://github.com/gopaddle-io/configurator) - Synchronize and Version Control ConfigMaps &amp; Secrets across Deployment Rollouts. - 95 stars
 - [kubernetes-csi/csi-driver-smb](https://github.com/kubernetes-csi/csi-driver-smb) - This driver allows Kubernetes to access SMB Server on both Linux and Windows nodes. - 248 stars
-- [inlets/cloud-provision](https://github.com/inlets/cloud-provision) - Get cloud instances with your favourite software pre-loaded - 35 stars
-- [learnk8s/xlskubectl](https://github.com/learnk8s/xlskubectl) - xlskubectl — a spreadsheet to control your Kubernetes cluster - 1037 stars
 
 #### 👥 Latest follower
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
