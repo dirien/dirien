@@ -13,31 +13,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc. (3 days ago)
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (1 week ago)
+- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc. (4 days ago)
 - [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (1 week ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (1 week ago)
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 week ago)
 - [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.960.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.960.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.46](https://github.com/alexellis/arkade/releases/tag/0.8.46), 1 day ago) - Open Source Marketplace For Kubernetes
-- [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.1](https://github.com/dexidp/dex/releases/tag/v2.35.1), 2 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [go-acme/lego](https://github.com/go-acme/lego) ([v4.9.0](https://github.com/go-acme/lego/releases/tag/v4.9.0), 3 days ago) - Let&#39;s Encrypt/ACME client and library written in Go
+- [komodorio/validkube](https://github.com/komodorio/validkube) ([v1.0.2](https://github.com/komodorio/validkube/releases/tag/v1.0.2), 1 day ago) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.960.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.960.0), 2 days ago) - Fig adds autocomplete to your terminal.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.46](https://github.com/alexellis/arkade/releases/tag/0.8.46), 2 days ago) - Open Source Marketplace For Kubernetes
+- [dexidp/dex](https://github.com/dexidp/dex) ([v2.35.1](https://github.com/dexidp/dex/releases/tag/v2.35.1), 3 days ago) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 
 #### ⭐ Latest repositories I starred
 
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. - 5583 stars
-- [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free - 621 stars
-- [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources. - 15 stars
-- [OISF/suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF - 2752 stars
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. - 5606 stars
+- [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free - 622 stars
+- [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources. - 16 stars
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF - 2753 stars
 - [chainguard-images/go](https://github.com/chainguard-images/go) - Lightweight container image for building Go applications - 22 stars
 - [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud - 186 stars
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3476 stars
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3479 stars
 - [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. - 254 stars
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers - 3664 stars
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers - 3699 stars
 - [exoscale/terraform-provider-exoscale](https://github.com/exoscale/terraform-provider-exoscale) - Terraform Exoscale provider - 14 stars
 
 #### 👥 Latest follower
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
