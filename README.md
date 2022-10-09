@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/homebrew-dirien-dev](https://github.com/dirien/homebrew-dirien-dev) - Dev Homebrew Tap (1 day ago)
 - [dirien/rust-jreleaser](https://github.com/dirien/rust-jreleaser) - Playing around with Rust and JReleaser (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 day ago)
-- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc. (5 days ago)
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (1 week ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (2 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
+- [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc. (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.1](https://github.com/libdns/scaleway/releases/tag/v0.1.1), 1 day ago) - Scaleway DNS implementation for libdns
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.4.0-rc](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.4.0-rc), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.6](https://github.com/dirien/pulumi-github/releases/tag/v0.2.6), 1 day ago) - Pulumi program to manage my GitHub repositories
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.4.0-rc](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.4.0-rc), 1 day ago) - Kubernetes-native security toolkit
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v1.13.0](https://github.com/sigstore/cosign/releases/tag/v1.13.0), 1 day ago) - Container Signing
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.967.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.967.0), 1 day ago) - Fig adds autocomplete to your terminal.
+- [dirien/rust-jreleaser](https://github.com/dirien/rust-jreleaser) ([v0.1.2](https://github.com/dirien/rust-jreleaser/releases/tag/v0.1.2), 1 day ago) - Playing around with Rust and JReleaser
+- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.1](https://github.com/libdns/scaleway/releases/tag/v0.1.1), 2 days ago) - Scaleway DNS implementation for libdns
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.4.0-rc](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.4.0-rc), 2 days ago) - Aqua Open Source Helm Chart Repository
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.6](https://github.com/dirien/pulumi-github/releases/tag/v0.2.6), 2 days ago) - Pulumi program to manage my GitHub repositories
 
 #### ⭐ Latest repositories I starred
 
-- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - Open-source IDP for developers and non-specialists to manage multi-instance deployments, microservices and configurations in Kubernetes &amp; Docker. - 78 stars
-- [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets) - This is my personal knowledge-base. Here you&#39;ll find code-snippets, technical documentation, and command reference for various tools, and technologies. - 980 stars
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. - 5624 stars
+- [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio) - Open-source IDP for developers and non-specialists to manage multi-instance deployments, microservices and configurations in Kubernetes &amp; Docker. - 82 stars
+- [xcad2k/cheat-sheets](https://github.com/xcad2k/cheat-sheets) - This is my personal knowledge-base. Here you&#39;ll find code-snippets, technical documentation, and command reference for various tools, and technologies. - 1111 stars
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. - 5638 stars
 - [stefanmaric/g](https://github.com/stefanmaric/g) - Simple go version manager, gluten-free - 623 stars
 - [coder/awesome-coder](https://github.com/coder/awesome-coder) - A curated list of awesome Coder resources. - 16 stars
-- [OISF/suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF - 2755 stars
-- [chainguard-images/go](https://github.com/chainguard-images/go) - Lightweight container image for building Go applications - 22 stars
+- [OISF/suricata](https://github.com/OISF/suricata) - Suricata git repository maintained by the OISF - 2758 stars
+- [chainguard-images/go](https://github.com/chainguard-images/go) - Lightweight container image for building Go applications - 23 stars
 - [justmiles/go-markdown2confluence](https://github.com/justmiles/go-markdown2confluence) - Push markdown files to Confluence Cloud - 186 stars
-- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3481 stars
-- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. - 254 stars
+- [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing - 3483 stars
+- [infracost/cloud-pricing-api](https://github.com/infracost/cloud-pricing-api) - GraphQL API for cloud pricing. Contains over 3M public prices from AWS, Azure and GCP. Self-updates prices via an automated weekly job. - 255 stars
 
 #### 👥 Latest follower
 
@@ -50,11 +50,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/homebrew-dirien-dev](https://github.com/dirien/homebrew-dirien-dev) - Dev Homebrew Tap
 - [dirien/rust-jreleaser](https://github.com/dirien/rust-jreleaser) - Playing around with Rust and JReleaser
 - [dirien/pulumi-codefresh](https://github.com/dirien/pulumi-codefresh) - Pulumi provider for Codefresh
 - [dirien/caddy-dns-scaleway](https://github.com/dirien/caddy-dns-scaleway)
 - [dirien/civo](https://github.com/dirien/civo) - Civo DNS implementation for libdns
-- [dirien/scaleway](https://github.com/dirien/scaleway) - Scaleway DNS implementation for libdns
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
