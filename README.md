@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/trivy-plugin-ui](https://github.com/dirien/trivy-plugin-ui) - Simple Trivy UI plugin written in Rust (5 days ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (5 days ago)
+- [dirien/trivy-plugin-ui](https://github.com/dirien/trivy-plugin-ui) - Simple Trivy UI plugin written in Rust (6 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (6 days ago)
 - [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (1 week ago)
 - [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1015.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1015.0), 1 day ago) - Fig adds autocomplete to your terminal.
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([tracee-0.9.2](https://github.com/aquasecurity/helm-charts/releases/tag/tracee-0.9.2), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.16](https://github.com/civo/civogo/releases/tag/v0.3.16), 2 days ago) - Golang client to interact with Civo&#39;s API
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.48](https://github.com/alexellis/arkade/releases/tag/0.8.48), 2 days ago) - Open Source Marketplace For Kubernetes
+- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) ([v1.2.4](https://github.com/patrickdappollonio/kubectl-slice/releases/tag/v1.2.4), 1 day ago) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1015.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1015.0), 2 days ago) - Fig adds autocomplete to your terminal.
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([tracee-0.9.2](https://github.com/aquasecurity/helm-charts/releases/tag/tracee-0.9.2), 2 days ago) - Aqua Open Source Helm Chart Repository
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.5.0](https://github.com/argoproj/argo-cd/releases/tag/v2.5.0), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.16](https://github.com/civo/civogo/releases/tag/v0.3.16), 3 days ago) - Golang client to interact with Civo&#39;s API
 
 #### ⭐ Latest repositories I starred
 
-- [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly - 811 stars
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases - 378 stars
-- [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator - 279 stars
-- [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform. - 610 stars
+- [sigstore/sigstore-rs](https://github.com/sigstore/sigstore-rs) - An experimental Rust crate for sigstore - 77 stars
+- [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly - 813 stars
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases - 500 stars
+- [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator - 280 stars
+- [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform. - 623 stars
 - [chainguard-dev/rekor-search-ui](https://github.com/chainguard-dev/rekor-search-ui) - Search the Rekor public transparency log - 7 stars
 - [awesome-operators/awesome-operators](https://github.com/awesome-operators/awesome-operators) - A resource tracking a number of Operators out in the wild. - 10 stars
 - [ynqa/promkit](https://github.com/ynqa/promkit) - A toolkit for building interactive command-line tools in Rust - 68 stars
-- [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust - 8842 stars
+- [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust - 8848 stars
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OSSF Scorecards. - 91 stars
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - The modern PHP app server - 2425 stars
 
 #### 👥 Latest follower
 
-- [jneo8](https://github.com/jneo8) - james_lin
-- [alicankustemur](https://github.com/alicankustemur) - Ali Can Kuştemur
-- [Abhicodeitout](https://github.com/Abhicodeitout) - 
-- [Spook-123](https://github.com/Spook-123) - Sumeet Jawalikar
-- [emrecakmak](https://github.com/emrecakmak) - Emre
+- [dadav](https://github.com/dadav) - Daniel
+- [siddhant-khisty](https://github.com/siddhant-khisty) - Siddhant Khisty
+- [EyuCoder](https://github.com/EyuCoder) - 
+- [kiliczsh](https://github.com/kiliczsh) - Muhammed Kılıç
+- [madhank93](https://github.com/madhank93) - Madhan
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
