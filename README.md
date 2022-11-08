@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (2 days ago)
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (3 days ago)
-- [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape) -  (3 days ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (4 days ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (6 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap (1 day ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([7.19.0](https://github.com/simple-icons/simple-icons/releases/tag/7.19.0), 1 day ago) - SVG icons for popular brands
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([tracee-0.9.3](https://github.com/aquasecurity/helm-charts/releases/tag/tracee-0.9.3), 3 days ago) - Aqua Open Source Helm Chart Repository
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.1.3](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.1.3), 3 days ago) - Pulumi provider for Exoscale
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1020.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1020.0), 4 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.35](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.35), 6 days ago) - Azure DevOps Extension for GoReleaser
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.6.0-rc2](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.6.0-rc2), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.6.0-rc2](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.6.0-rc2), 1 day ago) - Kubernetes-native security toolkit
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.20.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.20.2), 1 day ago) - Node-red Helm Chart
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.8](https://github.com/dirien/pulumi-github/releases/tag/v0.2.8), 1 day ago) - Pulumi program to manage my GitHub repositories
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1021.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1021.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
 
 #### ⭐ Latest repositories I starred
 
-- [docker/hub-tool](https://github.com/docker/hub-tool) - 🧪 Docker Hub experimental CLI tool - 241 stars
-- [cloudandthings/terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) -  - 98 stars
-- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy - 2156 stars
+- [docker/hub-tool](https://github.com/docker/hub-tool) - 🧪 Docker Hub experimental CLI tool - 243 stars
+- [cloudandthings/terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) -  - 100 stars
+- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy - 2163 stars
 - [neuvector/neuvector-helm](https://github.com/neuvector/neuvector-helm) - HELM chart to install NeuVector container cluster - 65 stars
-- [kube-bind/kube-bind](https://github.com/kube-bind/kube-bind) -  - 62 stars
+- [kube-bind/kube-bind](https://github.com/kube-bind/kube-bind) -  - 64 stars
 - [sigstore/sigstore-rs](https://github.com/sigstore/sigstore-rs) - An experimental Rust crate for sigstore - 82 stars
 - [senthilrch/kube-fledged](https://github.com/senthilrch/kube-fledged) - A kubernetes operator for creating and managing a cache of container images directly on the cluster worker nodes, so application pods start almost instantly - 820 stars
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases - 1199 stars
-- [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator - 294 stars
-- [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform. - 667 stars
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases - 1249 stars
+- [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator - 296 stars
+- [metlo-labs/metlo](https://github.com/metlo-labs/metlo) - Metlo is an open-source API security platform. - 711 stars
 
 #### 👥 Latest follower
 
@@ -50,11 +50,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap
 - [dirien/trivy-plugin-ui](https://github.com/dirien/trivy-plugin-ui) - Simple Trivy UI plugin written in Rust
 - [dirien/homebrew-dirien-dev](https://github.com/dirien/homebrew-dirien-dev) - Dev Homebrew Tap
 - [dirien/rust-jreleaser](https://github.com/dirien/rust-jreleaser) - Playing around with Rust and JReleaser
 - [dirien/pulumi-codefresh](https://github.com/dirien/pulumi-codefresh) - Pulumi provider for Codefresh
-- [dirien/caddy-dns-scaleway](https://github.com/dirien/caddy-dns-scaleway)
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
