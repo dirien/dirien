@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (2 days ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (2 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (4 days ago)
-- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap (4 days ago)
+- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (3 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (4 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (5 days ago)
+- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1027.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1027.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.5](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.5), 1 day ago) - Three containers with useful tools for troubleshooting
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.17](https://github.com/civo/civogo/releases/tag/v0.3.17), 1 day ago) - Golang client to interact with Civo&#39;s API
-- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.2](https://github.com/libdns/scaleway/releases/tag/v0.1.2), 1 day ago) - Scaleway DNS implementation for libdns
-- [sigstore/policy-controller](https://github.com/sigstore/policy-controller) ([v0.4.2](https://github.com/sigstore/policy-controller/releases/tag/v0.4.2), 2 days ago) - The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1027.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1027.1), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.5](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.5), 2 days ago) - Three containers with useful tools for troubleshooting
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.17](https://github.com/civo/civogo/releases/tag/v0.3.17), 2 days ago) - Golang client to interact with Civo&#39;s API
+- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.2](https://github.com/libdns/scaleway/releases/tag/v0.1.2), 2 days ago) - Scaleway DNS implementation for libdns
+- [sigstore/policy-controller](https://github.com/sigstore/policy-controller) ([v0.4.2](https://github.com/sigstore/policy-controller/releases/tag/v0.4.2), 3 days ago) - The policy admission controller used to enforce policy on a cluster on verifiable supply-chain metadata from cosign.
 
 #### ⭐ Latest repositories I starred
 
+- [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds - 533 stars
+- [stevesloka/kubecraft](https://github.com/stevesloka/kubecraft) - Kubernetes &#43; Minecraft = Kubecraft - 124 stars
 - [Qovery/scaleway-api-rs](https://github.com/Qovery/scaleway-api-rs) - Rust lib for Scaleway API - 5 stars
 - [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops - 27 stars
 - [pulumi/pulumi-go-provider](https://github.com/pulumi/pulumi-go-provider) - A framework for building Go Providers for Pulumi - 9 stars
-- [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang - 408 stars
+- [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang - 415 stars
 - [jaxxstorm/brig.gs](https://github.com/jaxxstorm/brig.gs) - Code for running the brig.gs mastodon instance - 3 stars
 - [ktsstudio/mirrors](https://github.com/ktsstudio/mirrors) - Kubernetes Secret Mirroring Controller - 32 stars
 - [microsoft/beginners-series-rust](https://github.com/microsoft/beginners-series-rust) - Beginner&#39;s Series to Rust - 349 stars
-- [docker/hub-tool](https://github.com/docker/hub-tool) - 🧪 Docker Hub experimental CLI tool - 244 stars
-- [cloudandthings/terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) -  - 106 stars
-- [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy - 2166 stars
+- [docker/hub-tool](https://github.com/docker/hub-tool) - 🧪 Docker Hub experimental CLI tool - 245 stars
 
 #### 👥 Latest follower
 
+- [hafidousbaa](https://github.com/hafidousbaa) - Hafid Ousbaa
+- [dipankardas011](https://github.com/dipankardas011) - Dipankar Das
+- [linawue](https://github.com/linawue) - 
+- [saiyam1814](https://github.com/saiyam1814) - Saiyam Pathak
 - [aureq](https://github.com/aureq) - Aurélien Requiem
-- [david-kariuki](https://github.com/david-kariuki) - David Kariuki (DK)
-- [cryptotyler](https://github.com/cryptotyler) - Crypto Tyler
-- [alegrey91](https://github.com/alegrey91) - Alessio Greggi
-- [timebertt](https://github.com/timebertt) - Tim Ebert
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
