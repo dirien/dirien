@@ -13,40 +13,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap (2 days ago)
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (5 days ago)
-- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (5 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (6 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (1 day ago)
+- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap (3 days ago)
+- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (6 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
 - [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.6.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.6.0), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.6.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.6.0), 1 day ago) - Kubernetes-native security toolkit
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.5](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.5), 4 days ago) - Three containers with useful tools for troubleshooting
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.17](https://github.com/civo/civogo/releases/tag/v0.3.17), 4 days ago) - Golang client to interact with Civo&#39;s API
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.2.2](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.2.2), 1 day ago) - Pulumi provider for Aquasec
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.6.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.6.0), 2 days ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.6.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.6.0), 2 days ago) - Kubernetes-native security toolkit
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1028.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1028.0), 3 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.5](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.5), 5 days ago) - Three containers with useful tools for troubleshooting
 
 #### ⭐ Latest repositories I starred
 
 - [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape) -  - 15 stars
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime - 1712 stars
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime - 1717 stars
 - [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars - 383 stars
-- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust - 9980 stars
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust - 9984 stars
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds - 534 stars
 - [stevesloka/kubecraft](https://github.com/stevesloka/kubecraft) - Kubernetes &#43; Minecraft = Kubecraft - 124 stars
 - [Qovery/scaleway-api-rs](https://github.com/Qovery/scaleway-api-rs) - Rust lib for Scaleway API - 5 stars
 - [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops - 27 stars
 - [pulumi/pulumi-go-provider](https://github.com/pulumi/pulumi-go-provider) - A framework for building Go Providers for Pulumi - 9 stars
-- [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang - 423 stars
+- [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang - 433 stars
 
 #### 👥 Latest follower
 
+- [mrueg](https://github.com/mrueg) - Manuel Rüger
 - [aayushrathor](https://github.com/aayushrathor) - Aayush Rathore
 - [hafidousbaa](https://github.com/hafidousbaa) - Hafid Ousbaa
 - [dipankardas011](https://github.com/dipankardas011) - Dipankar Das
 - [linawue](https://github.com/linawue) - 
-- [saiyam1814](https://github.com/saiyam1814) - Saiyam Pathak
 
 #### 👨‍💻 Repositories I created recently
 
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
