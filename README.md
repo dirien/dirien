@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (2 days ago)
-- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap (4 days ago)
-- [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (1 week ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
+- [dirien/pulumi-snowflake](https://github.com/dirien/pulumi-snowflake) - Pulumi provider for Snowflake (1 day ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (1 day ago)
+- [pulumi/.github](https://github.com/pulumi/.github) - Community health and other GitHub files for the Pulumi org (2 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (3 days ago)
+- [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1029.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1029.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.2.2](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.2.2), 2 days ago) - Pulumi provider for Aquasec
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.6.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.6.0), 3 days ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.6.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.6.0), 3 days ago) - Kubernetes-native security toolkit
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.5](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.5), 6 days ago) - Three containers with useful tools for troubleshooting
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1033.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1033.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.2.2](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.2.2), 3 days ago) - Pulumi provider for Aquasec
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.6.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.6.0), 4 days ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.6.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.6.0), 4 days ago) - Kubernetes-native security toolkit
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.5](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.5), 1 week ago) - Three containers with useful tools for troubleshooting
 
 #### ⭐ Latest repositories I starred
 
-- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly - 6030 stars
+- [pulumi/customer-engineering](https://github.com/pulumi/customer-engineering) - Examples for sales demos, presentations, snippets, etc. - 3 stars
+- [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge) - A library allowing providers built with the Terraform Plugin SDK to be bridged into Pulumi. - 119 stars
+- [corneliusweig/konfig](https://github.com/corneliusweig/konfig) - konfig helps to merge, split or import kubeconfig files - 272 stars
+- [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly - 6031 stars
 - [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 - 2696 stars
 - [Cloudcostify/pulumi-cost-estimation-cli](https://github.com/Cloudcostify/pulumi-cost-estimation-cli) - Pulumi cost estimation CLI - 3 stars
 - [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape) -  - 15 stars
-- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime - 1717 stars
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime - 1718 stars
 - [spencerkimball/stargazers](https://github.com/spencerkimball/stargazers) - Analyze GitHub stars - 383 stars
-- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust - 9986 stars
-- [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds - 536 stars
-- [stevesloka/kubecraft](https://github.com/stevesloka/kubecraft) - Kubernetes &#43; Minecraft = Kubecraft - 124 stars
-- [Qovery/scaleway-api-rs](https://github.com/Qovery/scaleway-api-rs) - Rust lib for Scaleway API - 5 stars
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust - 9990 stars
 
 #### 👥 Latest follower
 
@@ -50,11 +50,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-snowflake](https://github.com/dirien/pulumi-snowflake) - Pulumi provider for Snowflake
 - [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap
 - [dirien/trivy-plugin-ui](https://github.com/dirien/trivy-plugin-ui) - Simple Trivy UI plugin written in Rust
 - [dirien/homebrew-dirien-dev](https://github.com/dirien/homebrew-dirien-dev) - Dev Homebrew Tap
 - [dirien/rust-jreleaser](https://github.com/dirien/rust-jreleaser) - Playing around with Rust and JReleaser
-- [dirien/pulumi-codefresh](https://github.com/dirien/pulumi-codefresh) - Pulumi provider for Codefresh
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
