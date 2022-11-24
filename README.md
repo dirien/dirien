@@ -13,48 +13,48 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
 - [dirien/silly-helm-chart](https://github.com/dirien/silly-helm-chart) - A silly Helm chart with some kubernetes resources to play with (1 day ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (3 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [dirien/helm-issue](https://github.com/dirien/helm-issue) - Demo Pulumi Program  (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.9](https://github.com/dirien/pulumi-github/releases/tag/v0.2.9), 1 day ago) - Pulumi program to manage my GitHub repositories
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1033.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1033.1), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.7.1](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.7.1), 2 days ago) - Aqua Open Source Helm Chart Repository
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.1.4](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.1.4), 2 days ago) - Pulumi provider for Exoscale
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.7.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.7.1), 2 days ago) - Kubernetes-native security toolkit
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1037.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1037.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dirien/silly-helm-chart](https://github.com/dirien/silly-helm-chart) ([0.1.4-helm](https://github.com/dirien/silly-helm-chart/releases/tag/0.1.4-helm), 1 day ago) - A silly Helm chart with some kubernetes resources to play with
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.9](https://github.com/dirien/pulumi-github/releases/tag/v0.2.9), 2 days ago) - Pulumi program to manage my GitHub repositories
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.7.1](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.7.1), 3 days ago) - Aqua Open Source Helm Chart Repository
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.1.4](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.1.4), 3 days ago) - Pulumi provider for Exoscale
 
 #### ⭐ Latest repositories I starred
 
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development - 84 stars
-- [slok/kube-code-generator](https://github.com/slok/kube-code-generator) - Kubernetes code generator docker image - 61 stars
-- [ossf/s2c2f](https://github.com/ossf/s2c2f) - The S2C2F SIG is a group working within the OpenSSF&#39;s Supply Chain Integrity Working Group formed to further develop and continuously improve the S2C2F guide which outlines and defines how to securely consume Open Source Software (OSS) dependencies into the developer’s workflow.  - 32 stars
+- [hashicorp/terraform-provider-hcp](https://github.com/hashicorp/terraform-provider-hcp) - Terraform provider for HashiCorp Cloud Platform. - 30 stars
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development - 289 stars
+- [slok/kube-code-generator](https://github.com/slok/kube-code-generator) - Kubernetes code generator docker image - 62 stars
+- [ossf/s2c2f](https://github.com/ossf/s2c2f) - The S2C2F SIG is a group working within the OpenSSF&#39;s Supply Chain Integrity Working Group formed to further develop and continuously improve the S2C2F guide which outlines and defines how to securely consume Open Source Software (OSS) dependencies into the developer’s workflow.  - 35 stars
 - [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale - 1 stars
-- [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams &amp; ActivityPub in golang, oh my! - 555 stars
-- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows - 1643 stars
-- [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲  &#34;awslocal&#34; - Thin wrapper around the &#34;aws&#34; command line interface for use with LocalStack - 734 stars
-- [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don&#39;t let the cursor slow you down - 512 stars
+- [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams &amp; ActivityPub in golang, oh my! - 557 stars
+- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows - 1644 stars
+- [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲  &#34;awslocal&#34; - Thin wrapper around the &#34;aws&#34; command line interface for use with LocalStack - 735 stars
+- [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don&#39;t let the cursor slow you down - 513 stars
 - [Funkmyster/awesome-cloud-cost-control](https://github.com/Funkmyster/awesome-cloud-cost-control) - Awesome ways to control the cost of cloud environments. - 9 stars
-- [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS - 1394 stars
 
 #### 👥 Latest follower
 
+- [MoritzHeld](https://github.com/MoritzHeld) - mori
 - [rishiwardhan](https://github.com/rishiwardhan) - L.RISHIWARDHAN
 - [cryptotyler](https://github.com/cryptotyler) - Crypto Tyler
 - [sheldonrrr](https://github.com/sheldonrrr) - Sheldonrrr
 - [neerja28](https://github.com/neerja28) - Neerja Narayanappa
-- [mrueg](https://github.com/mrueg) - Manuel Rüger
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/helm-issue](https://github.com/dirien/helm-issue) - Demo Pulumi Program 
 - [dirien/silly-helm-chart](https://github.com/dirien/silly-helm-chart) - A silly Helm chart with some kubernetes resources to play with
 - [dirien/pulumi-snowflake](https://github.com/dirien/pulumi-snowflake) - Pulumi provider for Snowflake
 - [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap
 - [dirien/trivy-plugin-ui](https://github.com/dirien/trivy-plugin-ui) - Simple Trivy UI plugin written in Rust
-- [dirien/homebrew-dirien-dev](https://github.com/dirien/homebrew-dirien-dev) - Dev Homebrew Tap
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
