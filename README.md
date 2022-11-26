@@ -13,32 +13,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
 - [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 day ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [dirien/silly-helm-chart](https://github.com/dirien/silly-helm-chart) - A silly Helm chart with some kubernetes resources to play with (2 days ago)
+- [dirien/pulumi-scala-minecraft](https://github.com/dirien/pulumi-scala-minecraft) - Playing around with Pulumi, Scala and Minecraft (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.5.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.5.0), 1 day ago) - SDK for every minectl product
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.21.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.21.1), 1 day ago) - Node-red Helm Chart
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.10.3-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.10.3-helm), 1 day ago) - Minecraft Prometheus exporter
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1039.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1039.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dirien/silly-helm-chart](https://github.com/dirien/silly-helm-chart) ([0.1.4-helm](https://github.com/dirien/silly-helm-chart/releases/tag/0.1.4-helm), 2 days ago) - A silly Helm chart with some kubernetes resources to play with
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.10](https://github.com/dirien/pulumi-github/releases/tag/v0.2.10), 1 day ago) - Pulumi program to manage my GitHub repositories
+- [go-acme/lego](https://github.com/go-acme/lego) ([v4.9.1](https://github.com/go-acme/lego/releases/tag/v4.9.1), 1 day ago) - Let&#39;s Encrypt/ACME client and library written in Go
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.26.0](https://github.com/dirien/minectl/releases/tag/v0.26.0), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.5.1](https://github.com/dirien/minectl-sdk/releases/tag/v0.5.1), 1 day ago) - SDK for every minectl product
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.21.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.21.1), 2 days ago) - Node-red Helm Chart
 
 #### ⭐ Latest repositories I starred
 
+- [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project) - 922 stars
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System - 528 stars
 - [hashicorp/terraform-provider-hcp](https://github.com/hashicorp/terraform-provider-hcp) - Terraform provider for HashiCorp Cloud Platform. - 30 stars
-- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development - 499 stars
+- [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development - 730 stars
 - [slok/kube-code-generator](https://github.com/slok/kube-code-generator) - Kubernetes code generator docker image - 62 stars
-- [ossf/s2c2f](https://github.com/ossf/s2c2f) - The S2C2F SIG is a group working within the OpenSSF&#39;s Supply Chain Integrity Working Group formed to further develop and continuously improve the S2C2F guide which outlines and defines how to securely consume Open Source Software (OSS) dependencies into the developer’s workflow.  - 39 stars
+- [ossf/s2c2f](https://github.com/ossf/s2c2f) - The S2C2F SIG is a group working within the OpenSSF&#39;s Supply Chain Integrity Working Group formed to further develop and continuously improve the S2C2F guide which outlines and defines how to securely consume Open Source Software (OSS) dependencies into the developer’s workflow.  - 40 stars
 - [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale - 1 stars
-- [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams &amp; ActivityPub in golang, oh my! - 569 stars
-- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows - 1643 stars
-- [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲  &#34;awslocal&#34; - Thin wrapper around the &#34;aws&#34; command line interface for use with LocalStack - 735 stars
-- [cursorless-dev/cursorless](https://github.com/cursorless-dev/cursorless) - Don&#39;t let the cursor slow you down - 515 stars
-- [Funkmyster/awesome-cloud-cost-control](https://github.com/Funkmyster/awesome-cloud-cost-control) - Awesome ways to control the cost of cloud environments. - 9 stars
+- [go-fed/activity](https://github.com/go-fed/activity) - ActivityStreams &amp; ActivityPub in golang, oh my! - 582 stars
+- [microsoft/ebpf-for-windows](https://github.com/microsoft/ebpf-for-windows) - eBPF implementation that runs on top of Windows - 1644 stars
+- [localstack/awscli-local](https://github.com/localstack/awscli-local) - 💲  &#34;awslocal&#34; - Thin wrapper around the &#34;aws&#34; command line interface for use with LocalStack - 736 stars
 
 #### 👥 Latest follower
 
@@ -50,11 +50,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-scala-minecraft](https://github.com/dirien/pulumi-scala-minecraft) - Playing around with Pulumi, Scala and Minecraft
 - [dirien/helm-issue](https://github.com/dirien/helm-issue) - Demo Pulumi Program 
 - [dirien/silly-helm-chart](https://github.com/dirien/silly-helm-chart) - A silly Helm chart with some kubernetes resources to play with
 - [dirien/pulumi-snowflake](https://github.com/dirien/pulumi-snowflake) - Pulumi provider for Snowflake
 - [dirien/rust-cli](https://github.com/dirien/rust-cli) - Playing around with Rust and Clap
-- [dirien/trivy-plugin-ui](https://github.com/dirien/trivy-plugin-ui) - Simple Trivy UI plugin written in Rust
 
 
 ## 🏗️ My Projects
@@ -76,12 +76,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
