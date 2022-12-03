@@ -14,24 +14,24 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (today)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
-- [dirien/github-pulumi-action](https://github.com/dirien/github-pulumi-action) -  (1 day ago)
-- [dirien/my-flux-demo-deployments](https://github.com/dirien/my-flux-demo-deployments) - Playing around with Flux (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
+- [dirien/github-pulumi-action](https://github.com/dirien/github-pulumi-action) -  (2 days ago)
+- [dirien/my-flux-demo-deployments](https://github.com/dirien/my-flux-demo-deployments) - Playing around with Flux (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.3](https://github.com/libdns/civo/releases/tag/v0.1.3), today) - Civo DNS implementation for libdns
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.11](https://github.com/dirien/pulumi-github/releases/tag/v0.2.11), 1 day ago) - Pulumi program to manage my GitHub repositories
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.18](https://github.com/civo/civogo/releases/tag/v0.3.18), 1 day ago) - Golang client to interact with Civo&#39;s API
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.6](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.6), 1 day ago) - Three containers with useful tools for troubleshooting
-- [pulumi/pulumi-kubernetes-ingress-nginx](https://github.com/pulumi/pulumi-kubernetes-ingress-nginx) ([v0.0.10](https://github.com/pulumi/pulumi-kubernetes-ingress-nginx/releases/tag/v0.0.10), 2 days ago) - A Pulumi NGINX Ingress Controller component
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.3](https://github.com/libdns/civo/releases/tag/v0.1.3), 1 day ago) - Civo DNS implementation for libdns
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.11](https://github.com/dirien/pulumi-github/releases/tag/v0.2.11), 2 days ago) - Pulumi program to manage my GitHub repositories
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.18](https://github.com/civo/civogo/releases/tag/v0.3.18), 2 days ago) - Golang client to interact with Civo&#39;s API
+- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.6](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.6), 2 days ago) - Three containers with useful tools for troubleshooting
+- [pulumi/pulumi-kubernetes-ingress-nginx](https://github.com/pulumi/pulumi-kubernetes-ingress-nginx) ([v0.0.10](https://github.com/pulumi/pulumi-kubernetes-ingress-nginx/releases/tag/v0.0.10), 3 days ago) - A Pulumi NGINX Ingress Controller component
 
 #### ⭐ Latest repositories I starred
 
 - [baloise/gitopscli](https://github.com/baloise/gitopscli) - GitOps CLI - a command line interface (CLI) to perform operations on git repositories with yaml files - 33 stars
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly. - 735 stars
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly. - 755 stars
 - [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. - 22 stars
 - [ballerina-platform/lsp4intellij](https://github.com/ballerina-platform/lsp4intellij) - This language client library provides language server protocol support for IntelliJ IDEA and other Jetbrains IDEs. - 215 stars
 - [quintessence/emoji-project](https://github.com/quintessence/emoji-project) - Originally for Slack, now for Discord and Mastodon as well - 94 stars
