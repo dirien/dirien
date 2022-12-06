@@ -14,32 +14,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (1 day ago)
-- [dirien/rust-grpc](https://github.com/dirien/rust-grpc) - Playing around with Rust and GRPC (2 days ago)
-- [dirien/my-flux-demo-deployments](https://github.com/dirien/my-flux-demo-deployments) - Playing around with Flux (2 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
+- [dirien/github-pulumi-action](https://github.com/dirien/github-pulumi-action) -  (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1042.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1042.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.12](https://github.com/dirien/pulumi-github/releases/tag/v0.2.12), 2 days ago) - Pulumi program to manage my GitHub repositories
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.3](https://github.com/libdns/civo/releases/tag/v0.1.3), 3 days ago) - Civo DNS implementation for libdns
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.18](https://github.com/civo/civogo/releases/tag/v0.3.18), 4 days ago) - Golang client to interact with Civo&#39;s API
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.5.6](https://github.com/dergeberl/multitool-container/releases/tag/v0.5.6), 4 days ago) - Three containers with useful tools for troubleshooting
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1044.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1044.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.0.0](https://github.com/simple-icons/simple-icons/releases/tag/8.0.0), 1 day ago) - SVG icons for popular brands
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.8.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.8.0), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.8.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.8.0), 1 day ago) - Kubernetes-native security toolkit
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.12](https://github.com/dirien/pulumi-github/releases/tag/v0.2.12), 3 days ago) - Pulumi program to manage my GitHub repositories
 
 #### ⭐ Latest repositories I starred
 
-- [Azure/acr](https://github.com/Azure/acr) - Azure Container Registry samples, troubleshooting tips and references - 145 stars
-- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients - 7148 stars
-- [dylantientcheu/nbacli](https://github.com/dylantientcheu/nbacli) - 🏀 The NBA in your terminal - 7 stars
+- [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams - 401 stars
+- [Azure/acr](https://github.com/Azure/acr) - Azure Container Registry samples, troubleshooting tips and references - 144 stars
+- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients - 7152 stars
+- [dylantientcheu/nbacli](https://github.com/dylantientcheu/nbacli) - 🏀 The NBA in your terminal - 12 stars
 - [baloise/gitopscli](https://github.com/baloise/gitopscli) - GitOps CLI - a command line interface (CLI) to perform operations on git repositories with yaml files - 33 stars
-- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly. - 974 stars
+- [extism/extism](https://github.com/extism/extism) - Extend anything with WebAssembly. - 1062 stars
 - [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. - 21 stars
-- [ballerina-platform/lsp4intellij](https://github.com/ballerina-platform/lsp4intellij) - This language client library provides language server protocol support for IntelliJ IDEA and other Jetbrains IDEs. - 216 stars
-- [quintessence/emoji-project](https://github.com/quintessence/emoji-project) - Originally for Slack, now for Discord and Mastodon as well - 94 stars
+- [ballerina-platform/lsp4intellij](https://github.com/ballerina-platform/lsp4intellij) - This language client library provides language server protocol support for IntelliJ IDEA and other Jetbrains IDEs. - 217 stars
+- [quintessence/emoji-project](https://github.com/quintessence/emoji-project) - Originally for Slack, now for Discord and Mastodon as well - 95 stars
 - [resideo/tmp-titan-core-github-actions-poc](https://github.com/resideo/tmp-titan-core-github-actions-poc) - POC of GitHub actions from Titan Core team - 2 stars
-- [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations - 110 stars
 
 #### 👥 Latest follower
 
@@ -77,12 +77,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
