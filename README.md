@@ -14,48 +14,48 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image (1 day ago)
-- [dirien/github-pulumi-action](https://github.com/dirien/github-pulumi-action) -  (1 day ago)
-- [pulumi/tutorial-pulumi-fundamentals](https://github.com/pulumi/tutorial-pulumi-fundamentals) -  (2 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (3 days ago)
+- [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image (2 days ago)
+- [dirien/cloud-native-turkiye](https://github.com/dirien/cloud-native-turkiye) -  (2 days ago)
+- [dirien/github-pulumi-action](https://github.com/dirien/github-pulumi-action) -  (3 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (4 days ago)
+- [pulumi/tutorial-pulumi-fundamentals](https://github.com/pulumi/tutorial-pulumi-fundamentals) -  (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1046.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1046.1), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.9.0-rc](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.9.0-rc), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.9.0-rc](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.9.0-rc), 1 day ago) - Kubernetes-native security toolkit
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.19](https://github.com/civo/civogo/releases/tag/v0.3.19), 2 days ago) - Golang client to interact with Civo&#39;s API
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.13](https://github.com/dirien/pulumi-github/releases/tag/v0.2.13), 2 days ago) - Pulumi program to manage my GitHub repositories
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1055.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1055.0), today) - IDE-style autocomplete for your existing terminal &amp; shell
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.4](https://github.com/libdns/civo/releases/tag/v0.1.4), 2 days ago) - Civo DNS implementation for libdns
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.9.0-rc](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.9.0-rc), 3 days ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.9.0-rc](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.9.0-rc), 3 days ago) - Kubernetes-native security toolkit
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.19](https://github.com/civo/civogo/releases/tag/v0.3.19), 4 days ago) - Golang client to interact with Civo&#39;s API
 
 #### ⭐ Latest repositories I starred
 
-- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project - 1197 stars
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper - 7530 stars
-- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. - 16004 stars
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. - 3144 stars
+- [Adikso/minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot) - Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam - 88 stars
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More - 24 stars
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! - 344 stars
+- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates. - 787 stars
+- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project - 1200 stars
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper - 7563 stars
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust. - 16024 stars
 - [gotham-rs/gotham](https://github.com/gotham-rs/gotham) - A flexible web framework that promotes stability, safety, security and speed. - 2067 stars
-- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. - 7416 stars
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure. - 1237 stars
-- [blampe/goat](https://github.com/blampe/goat) - Render ASCII art as SVG diagrams - 402 stars
-- [Azure/acr](https://github.com/Azure/acr) - Azure Container Registry samples, troubleshooting tips and references - 144 stars
-- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients - 7160 stars
-- [dylantientcheu/nbacli](https://github.com/dylantientcheu/nbacli) - 🏀 The NBA in your terminal - 16 stars
+- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. - 7430 stars
 
 #### 👥 Latest follower
 
+- [mkaramuk](https://github.com/mkaramuk) - Muhammed H. Karamuk
+- [devenes](https://github.com/devenes) - Enes
 - [Archisman-Mridha](https://github.com/Archisman-Mridha) - __pro__coder__
 - [tahtacipolat](https://github.com/tahtacipolat) - Polat Tahtacı
 - [aiseei](https://github.com/aiseei) - 
-- [MoritzHeld](https://github.com/MoritzHeld) - mori
-- [rishiwardhan](https://github.com/rishiwardhan) - L.RISHIWARDHAN
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/cloud-native-turkiye](https://github.com/dirien/cloud-native-turkiye)
 - [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image
 - [dirien/rust-grpc](https://github.com/dirien/rust-grpc) - Playing around with Rust and GRPC
 - [dirien/my-flux-demo-deployments](https://github.com/dirien/my-flux-demo-deployments) - Playing around with Flux
 - [dirien/azure-scaleset](https://github.com/dirien/azure-scaleset)
-- [dirien/pulumi-ingress-test](https://github.com/dirien/pulumi-ingress-test)
 
 
 ## 🏗️ My Projects
@@ -77,12 +77,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
