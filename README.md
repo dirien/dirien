@@ -14,48 +14,48 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-dok](https://github.com/dirien/pulumi-dok) - A Pulumi Program to deploy a Digital Ocean Kubernetes cluster (1 day ago)
-- [dirien/gcp-function-test](https://github.com/dirien/gcp-function-test) -  (2 days ago)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (4 days ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (4 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (4 days ago)
+- [dirien/pulumi-pucurl](https://github.com/dirien/pulumi-pucurl) - A Pulumi native provider for making API calls (1 day ago)
+- [dirien/pulumi-dok](https://github.com/dirien/pulumi-dok) - A Pulumi Program to deploy a Digital Ocean Kubernetes cluster (2 days ago)
+- [dirien/gcp-function-test](https://github.com/dirien/gcp-function-test) -  (3 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (5 days ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1064.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1064.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.20](https://github.com/civo/civogo/releases/tag/v0.3.20), 1 day ago) - Golang client to interact with Civo&#39;s API
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.9.1](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.9.1), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.9.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.9.1), 1 day ago) - Kubernetes-native security toolkit
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.8.18](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.8.18), 2 days ago) - Pulumi provider for Aquasec
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.5](https://github.com/libdns/civo/releases/tag/v0.1.5), 1 day ago) - Civo DNS implementation for libdns
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1064.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1064.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.20](https://github.com/civo/civogo/releases/tag/v0.3.20), 2 days ago) - Golang client to interact with Civo&#39;s API
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.9.1](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.9.1), 2 days ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.9.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.9.1), 2 days ago) - Kubernetes-native security toolkit
 
 #### ⭐ Latest repositories I starred
 
-- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. - 160 stars
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. - 4307 stars
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes - 2745 stars
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. - 55401 stars
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. - 3173 stars
-- [Adikso/minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot) - Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam - 88 stars
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - CLI for Generating Client SDKs and More - 24 stars
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! - 347 stars
-- [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates. - 793 stars
-- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate) - cargo, make me a project - 1204 stars
+- [chainguard-dev/tekton-demo](https://github.com/chainguard-dev/tekton-demo) - Tekton and Sigstore Demo  - 5 stars
+- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. - 1287 stars
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev - 523 stars
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 - 8731 stars
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. - 1351 stars
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. - 222 stars
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. - 4308 stars
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes - 2748 stars
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. - 55461 stars
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. - 3188 stars
 
 #### 👥 Latest follower
 
+- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez) - Daniel Arturo Alejo Alvarez
+- [JustJordanT](https://github.com/JustJordanT) - Jordan Taylor
 - [nyxgear](https://github.com/nyxgear) - Stefano Cilloni
 - [mkaramuk](https://github.com/mkaramuk) - Muhammed H. Karamuk
 - [devenes](https://github.com/devenes) - Enes
-- [Archisman-Mridha](https://github.com/Archisman-Mridha) - __pro__coder__
-- [tahtacipolat](https://github.com/tahtacipolat) - Polat Tahtacı
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-pucurl](https://github.com/dirien/pulumi-pucurl) - A Pulumi native provider for making API calls
 - [dirien/pulumi-dok](https://github.com/dirien/pulumi-dok) - A Pulumi Program to deploy a Digital Ocean Kubernetes cluster
 - [dirien/gcp-function-test](https://github.com/dirien/gcp-function-test)
 - [dirien/cloud-native-turkiye](https://github.com/dirien/cloud-native-turkiye)
 - [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image
-- [dirien/rust-grpc](https://github.com/dirien/rust-grpc) - Playing around with Rust and GRPC
 
 
 ## 🏗️ My Projects
@@ -77,12 +77,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
