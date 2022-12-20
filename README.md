@@ -14,40 +14,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape) -  (3 days ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 (3 days ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (3 days ago)
-- [dirien/pulumi-dok](https://github.com/dirien/pulumi-dok) - A Pulumi Program to deploy a Digital Ocean Kubernetes cluster (6 days ago)
-- [dirien/gcp-function-test](https://github.com/dirien/gcp-function-test) -  (1 week ago)
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (1 day ago)
+- [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image (1 day ago)
+- [ossf/ossf-landscape](https://github.com/ossf/ossf-landscape) -  (4 days ago)
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 (4 days ago)
+- [dirien/pulumi-dok](https://github.com/dirien/pulumi-dok) - A Pulumi Program to deploy a Digital Ocean Kubernetes cluster (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1066.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1066.1), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0), 3 days ago) - Container Signing
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.52](https://github.com/alexellis/arkade/releases/tag/0.8.52), 3 days ago) - Open Source Marketplace For Kubernetes
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([tracee-0.10.0](https://github.com/aquasecurity/helm-charts/releases/tag/tracee-0.10.0), 3 days ago) - Aqua Open Source Helm Chart Repository
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.1.1](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.1.1), 4 days ago) - A Pulumi native provider for making API calls
+- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.2](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.2), 1 day ago) - Website and API for OpenSSF Scorecard
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1068.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1068.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.2.4](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.2.4), 1 day ago) - A Pulumi native provider for making API calls
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.0](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.0), 4 days ago) - Container Signing
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.52](https://github.com/alexellis/arkade/releases/tag/0.8.52), 4 days ago) - Open Source Marketplace For Kubernetes
 
 #### ⭐ Latest repositories I starred
 
-- [jaxxstorm/connecti](https://github.com/jaxxstorm/connecti) - A command line tool to quickly create a connection to cloud infrastructure - 19 stars
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. - 41973 stars
+- [jaxxstorm/connecti](https://github.com/jaxxstorm/connecti) - A command line tool to quickly create a connection to cloud infrastructure - 20 stars
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. - 41989 stars
 - [chainguard-dev/tekton-demo](https://github.com/chainguard-dev/tekton-demo) - Tekton and Sigstore Demo  - 5 stars
-- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. - 1299 stars
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev - 1929 stars
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 - 8785 stars
-- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. - 1356 stars
-- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. - 323 stars
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. - 4309 stars
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes - 2754 stars
+- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. - 1307 stars
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev - 2290 stars
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 - 8795 stars
+- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. - 1358 stars
+- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. - 328 stars
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. - 4311 stars
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes - 2753 stars
 
 #### 👥 Latest follower
 
+- [KashishLakhara04](https://github.com/KashishLakhara04) - Kashish Lakhara
 - [paularah](https://github.com/paularah) - Paul Arah
 - [JustJordanT](https://github.com/JustJordanT) - Jordan Taylor
 - [nyxgear](https://github.com/nyxgear) - Stefano Cilloni
 - [mkaramuk](https://github.com/mkaramuk) - Muhammed H. Karamuk
-- [devenes](https://github.com/devenes) - Enes
 
 #### 👨‍💻 Repositories I created recently
 
@@ -77,12 +77,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
