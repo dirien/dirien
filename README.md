@@ -14,40 +14,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (1 day ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (1 day ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI). (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (2 days ago)
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1069.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1069.1), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.2.8](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.2.8), 1 day ago) - A Pulumi native provider for making API calls
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.21](https://github.com/civo/civogo/releases/tag/v0.3.21), 1 day ago) - Golang client to interact with Civo&#39;s API
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.21.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.21.3), 1 day ago) - Node-red Helm Chart
-- [ossf/scorecard-webapp](https://github.com/ossf/scorecard-webapp) ([v1.0.2](https://github.com/ossf/scorecard-webapp/releases/tag/v1.0.2), 2 days ago) - Website and API for OpenSSF Scorecard
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.6](https://github.com/libdns/civo/releases/tag/v0.1.6), 1 day ago) - Civo DNS implementation for libdns
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1069.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1069.1), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.2.8](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.2.8), 2 days ago) - A Pulumi native provider for making API calls
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.21](https://github.com/civo/civogo/releases/tag/v0.3.21), 2 days ago) - Golang client to interact with Civo&#39;s API
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.21.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.21.3), 2 days ago) - Node-red Helm Chart
 
 #### ⭐ Latest repositories I starred
 
-- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command - 1489 stars
-- [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more! - 980 stars
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes - 6374 stars
+- [fwd/nano-docker](https://github.com/fwd/nano-docker) - 1-Click Live Nano Node - 16 stars
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command - 1493 stars
+- [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more! - 981 stars
 - [jaxxstorm/connecti](https://github.com/jaxxstorm/connecti) - A command line tool to quickly create a connection to cloud infrastructure - 21 stars
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. - 41998 stars
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. - 42000 stars
 - [chainguard-dev/tekton-demo](https://github.com/chainguard-dev/tekton-demo) - Tekton and Sigstore Demo  - 5 stars
-- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. - 1324 stars
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev - 2435 stars
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 - 8806 stars
-- [Checkmarx/kics](https://github.com/Checkmarx/kics) - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. - 1360 stars
-- [gofireflyio/aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator. - 335 stars
+- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. - 1329 stars
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev - 2565 stars
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 - 8824 stars
 
 #### 👥 Latest follower
 
+- [mganter](https://github.com/mganter) - Manuel Ganter
 - [KashishLakhara04](https://github.com/KashishLakhara04) - Kashish Lakhara
 - [paularah](https://github.com/paularah) - Paul Arah
 - [JustJordanT](https://github.com/JustJordanT) - Jordan Taylor
 - [nyxgear](https://github.com/nyxgear) - Stefano Cilloni
-- [mkaramuk](https://github.com/mkaramuk) - Muhammed H. Karamuk
 
 #### 👨‍💻 Repositories I created recently
 
@@ -77,12 +77,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
