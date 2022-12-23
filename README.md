@@ -15,31 +15,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 #### 👷 I'm currently working on
 
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
-- [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI). (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (2 days ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI). (2 days ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.6](https://github.com/libdns/civo/releases/tag/v0.1.6), 1 day ago) - Civo DNS implementation for libdns
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1069.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1069.1), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.2.8](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.2.8), 2 days ago) - A Pulumi native provider for making API calls
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.21](https://github.com/civo/civogo/releases/tag/v0.3.21), 2 days ago) - Golang client to interact with Civo&#39;s API
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.21.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.21.3), 2 days ago) - Node-red Helm Chart
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.10.0-rc2](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.10.0-rc2), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.10.0-rc2](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.10.0-rc2), 1 day ago) - Kubernetes-native security toolkit
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.6](https://github.com/libdns/civo/releases/tag/v0.1.6), 2 days ago) - Civo DNS implementation for libdns
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1069.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1069.1), 3 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.2.8](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.2.8), 3 days ago) - A Pulumi native provider for making API calls
 
 #### ⭐ Latest repositories I starred
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes - 6374 stars
+- [hashicorp-dev-advocates/workshop-vault-for-developers](https://github.com/hashicorp-dev-advocates/workshop-vault-for-developers) - Workshop walkthrough to teach HashiCorp Vault for development teams - 7 stars
+- [goharbor/terraform-provider-harbor](https://github.com/goharbor/terraform-provider-harbor) - A terraform provider for Harbor. Used to configure an instance of Harbor.  - 80 stars
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes - 6382 stars
 - [fwd/nano-docker](https://github.com/fwd/nano-docker) - 1-Click Live Nano Node - 16 stars
-- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command - 1493 stars
-- [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more! - 981 stars
-- [jaxxstorm/connecti](https://github.com/jaxxstorm/connecti) - A command line tool to quickly create a connection to cloud infrastructure - 21 stars
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. - 42000 stars
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command - 1494 stars
+- [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple languages, detailed logs... and much more! - 982 stars
+- [jaxxstorm/connecti](https://github.com/jaxxstorm/connecti) - A command line tool to quickly create a connection to cloud infrastructure - 22 stars
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. - 42010 stars
 - [chainguard-dev/tekton-demo](https://github.com/chainguard-dev/tekton-demo) - Tekton and Sigstore Demo  - 5 stars
-- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. - 1329 stars
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev - 2565 stars
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 - 8824 stars
+- [tellerops/teller](https://github.com/tellerops/teller) - Cloud native secrets management for developers - never leave your command line for secrets. - 1331 stars
 
 #### 👥 Latest follower
 
@@ -77,12 +77,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
