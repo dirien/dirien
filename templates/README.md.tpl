@@ -9,33 +9,39 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 [![](https://img.shields.io/badge/-@dirien-%23181717?style=for-the-badge&logo=github)](https://github.com/dirien)
 [![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ediri/)
 [![](https://img.shields.io/badge/dirien-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://openprofile.dev/profile/dirien)
+[![](https://img.shields.io/badge/-blog.ediri.io-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.ediri.io/)
 
 ## 🎬 My Activities
+
+#### 📖 My latest blog posts
+{{- range rss "https://blog.ediri.io/rss.xml" 6 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
 
 #### 👷 I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-  {{- end}}
+{{- end}}
 
 #### 🚀 Latest releases I contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-  {{- end}}
+{{- end}}
 
 #### ⭐ Latest repositories I starred
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
-  {{- end}}
+{{- end}}
 
 #### 👥 Latest follower
 {{range followers 5}}
 - [{{.Login}}]({{.URL}}) - {{.Name}}
-  {{- end}}
+{{- end}}
 
 #### 👨‍💻 Repositories I created recently
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
-  {{- end}}
+{{- end}}
 
 
 ## 🏗️ My Projects
