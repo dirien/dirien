@@ -9,8 +9,17 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 [![](https://img.shields.io/badge/-@dirien-%23181717?style=for-the-badge&logo=github)](https://github.com/dirien)
 [![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ediri/)
 [![](https://img.shields.io/badge/dirien-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://openprofile.dev/profile/dirien)
+[![](https://img.shields.io/badge/-blog.ediri.io-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.ediri.io/)
 
 ## 🎬 My Activities
+
+#### 📖 My latest blog posts
+- [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (1 day ago)
+- [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (2 days ago)
+- [panic! with sense: Error handling in Rust 🦀](https://blog.ediri.io/panic-with-sense-error-handling-in-rust) (6 days ago)
+- [Advanced Secret Management on Kubernetes With Pulumi and GitOps: Sealed Secrets Controller](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-and-gitops-sealed-secrets-controller) (1 week ago)
+- [Creating a Microservice in Rust Using gRPC](https://blog.ediri.io/creating-a-microservice-in-rust-using-grpc) (4 weeks ago)
+- [Kube-Prometheus-Stack and ArgoCD 2.5 – Server-Side Apply to the Rescue!](https://blog.ediri.io/kube-prometheus-stack-and-argocd-25-server-side-apply-to-the-rescue) (1 month ago)
 
 #### 👷 I'm currently working on
 
@@ -34,12 +43,12 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 - [pingcap/dead-mans-switch](https://github.com/pingcap/dead-mans-switch) - A bypass monitoring prober - 23 stars
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python &amp; Django - 5759 stars
 - [pulumi/kube2pulumi](https://github.com/pulumi/kube2pulumi) - Upgrade your Kubernetes YAML to a modern language - 61 stars
-- [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. - 343 stars
+- [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. - 345 stars
 - [derage/kubectl-utility](https://github.com/derage/kubectl-utility) - a fubectl replica, but in go - 1 stars
-- [kubermatic/fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl - 641 stars
-- [thamerla/mastodon-hiringbot](https://github.com/thamerla/mastodon-hiringbot) -  - 5 stars
+- [kubermatic/fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl - 642 stars
+- [thamerla/mastodon-hiringbot](https://github.com/thamerla/mastodon-hiringbot) -  - 6 stars
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation - 1633 stars
-- [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl) - A Simple Multi-Environment Kubernetes management CLI tool - 67 stars
+- [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl) - A Simple Multi-Environment Kubernetes management CLI tool - 68 stars
 
 #### 👥 Latest follower
 
@@ -77,12 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
