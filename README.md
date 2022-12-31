@@ -14,40 +14,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
 - [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (2 days ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (3 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (3 days ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.2.0](https://github.com/simple-icons/simple-icons/releases/tag/8.2.0), 1 day ago) - SVG icons for popular brands
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.15](https://github.com/dirien/pulumi-github/releases/tag/v0.2.15), 1 day ago) - Pulumi program to manage my GitHub repositories
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.27.0](https://github.com/dirien/minectl/releases/tag/v0.27.0), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.6.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.6.0), 2 days ago) - SDK for every minectl product
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.2.0](https://github.com/simple-icons/simple-icons/releases/tag/8.2.0), 2 days ago) - SVG icons for popular brands
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.15](https://github.com/dirien/pulumi-github/releases/tag/v0.2.15), 2 days ago) - Pulumi program to manage my GitHub repositories
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.27.0](https://github.com/dirien/minectl/releases/tag/v0.27.0), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.6.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.6.0), 3 days ago) - SDK for every minectl product
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
-- [pulumi/kube2pulumi](https://github.com/pulumi/kube2pulumi) - Upgrade your Kubernetes YAML to a modern language - 60 stars
-- [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. - 342 stars
+- [empathyco/helm-charts](https://github.com/empathyco/helm-charts) - Public Helm Charts maintained by Empathyco - 5 stars
+- [pingcap/dead-mans-switch](https://github.com/pingcap/dead-mans-switch) - A bypass monitoring prober - 23 stars
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python &amp; Django - 5759 stars
+- [pulumi/kube2pulumi](https://github.com/pulumi/kube2pulumi) - Upgrade your Kubernetes YAML to a modern language - 61 stars
+- [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - The 1Password Connect Kubernetes Operator provides the ability to integrate Kubernetes Secrets with 1Password. The operator also handles autorestarting deployments when 1Password items are updated. - 343 stars
 - [derage/kubectl-utility](https://github.com/derage/kubectl-utility) - a fubectl replica, but in go - 1 stars
 - [kubermatic/fubectl](https://github.com/kubermatic/fubectl) - Reduces repetitive interactions with kubectl - 641 stars
-- [thamerla/mastodon-hiringbot](https://github.com/thamerla/mastodon-hiringbot) -  - 4 stars
-- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation - 1629 stars
-- [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl) - A Simple Multi-Environment Kubernetes management CLI tool - 65 stars
-- [terrastruct/d2-docs](https://github.com/terrastruct/d2-docs) - Language documentation for D2. - 211 stars
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks - 38147 stars
-- [eBay/sbom-scorecard](https://github.com/eBay/sbom-scorecard) - Generate a score for your sbom to understand if it will actually be useful. - 33 stars
+- [thamerla/mastodon-hiringbot](https://github.com/thamerla/mastodon-hiringbot) -  - 5 stars
+- [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation - 1633 stars
+- [kubesimplify/ksctl](https://github.com/kubesimplify/ksctl) - A Simple Multi-Environment Kubernetes management CLI tool - 67 stars
 
 #### 👥 Latest follower
 
+- [bylickilabs](https://github.com/bylickilabs) - ®️Thorsten Bylicki™️
 - [mganter](https://github.com/mganter) - Manuel Ganter
 - [KashishLakhara04](https://github.com/KashishLakhara04) - Kashish Lakhara
 - [paularah](https://github.com/paularah) - Paul Arah
 - [JustJordanT](https://github.com/JustJordanT) - Jordan Taylor
-- [nyxgear](https://github.com/nyxgear) - Stefano Cilloni
 
 #### 👨‍💻 Repositories I created recently
 
@@ -77,12 +77,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
