@@ -14,8 +14,8 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (5 days ago)
-- [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (6 days ago)
+- [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (6 days ago)
+- [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (1 week ago)
 - [panic! with sense: Error handling in Rust 🦀](https://blog.ediri.io/panic-with-sense-error-handling-in-rust) (1 week ago)
 - [Advanced Secret Management on Kubernetes With Pulumi and GitOps: Sealed Secrets Controller](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-and-gitops-sealed-secrets-controller) (1 week ago)
 - [Creating a Microservice in Rust Using gRPC](https://blog.ediri.io/creating-a-microservice-in-rust-using-grpc) (1 month ago)
@@ -23,40 +23,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (1 day ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (2 days ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (2 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (2 days ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (2 days ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes (2 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.22](https://github.com/civo/civogo/releases/tag/v0.3.22), 1 day ago) - Golang client to interact with Civo&#39;s API
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.55](https://github.com/alexellis/arkade/releases/tag/0.8.55), 1 day ago) - Open Source Marketplace For Kubernetes
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.28.0](https://github.com/dirien/minectl/releases/tag/v0.28.0), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.7.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.7.0), 2 days ago) - SDK for every minectl product
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.56](https://github.com/alexellis/arkade/releases/tag/0.8.56), 1 day ago) - Open Source Marketplace For Kubernetes
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.1), 1 day ago) - Node-red Helm Chart
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.22](https://github.com/civo/civogo/releases/tag/v0.3.22), 2 days ago) - Golang client to interact with Civo&#39;s API
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1076.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1076.0), 3 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.28.0](https://github.com/dirien/minectl/releases/tag/v0.28.0), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 
 #### ⭐ Latest repositories I starred
 
+- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Terraform archive provider - 64 stars
+- [s1ntaxe770r/terraform-provider-planetscale](https://github.com/s1ntaxe770r/terraform-provider-planetscale) - Unofficial Terraform provider for planetscale - 22 stars
+- [jaxxstorm/lbrlabs](https://github.com/jaxxstorm/lbrlabs) - Configuration of my cloud providers and base infrastructure - 3 stars
 - [pulumi/policy-packs](https://github.com/pulumi/policy-packs) - A library of policies for Pulumi&#39;s Policy as Code - 4 stars
 - [kimschles/secrets-store-demo](https://github.com/kimschles/secrets-store-demo) -  - 4 stars
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API - 2063 stars
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API - 2064 stars
 - [spotinst/terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Terraform Spotinst provider. - 58 stars
 - [chainguard-dev/terraform-provider-ko](https://github.com/chainguard-dev/terraform-provider-ko) - Terraform Provider for building images using ko - 11 stars
-- [oslabs-beta/Kedalyze](https://github.com/oslabs-beta/Kedalyze) - An easy-to-use application that allows developers to visualize their Kubernetes cluster metrics and KEDA&#39;s auto-scaling pods in real-time. - 47 stars
+- [oslabs-beta/Kedalyze](https://github.com/oslabs-beta/Kedalyze) - An easy-to-use application that allows developers to visualize their Kubernetes cluster metrics and KEDA&#39;s auto-scaling pods in real-time. - 48 stars
 - [psFried/roperator](https://github.com/psFried/roperator) - Experimental Kubernetes Operator kit written in Rust - 178 stars
-- [calvin-puram/awesome-kubernetes-operator-resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) - A curated list of awesome resources: articles, books and videos about Kubernetes Operators. - 38 stars
-- [empathyco/helm-charts](https://github.com/empathyco/helm-charts) - Public Helm Charts maintained by Empathyco - 5 stars
-- [pingcap/dead-mans-switch](https://github.com/pingcap/dead-mans-switch) - A bypass monitoring prober - 23 stars
 
 #### 👥 Latest follower
 
+- [xiaochen-2050](https://github.com/xiaochen-2050) - Xiao chen
 - [devopstoday11](https://github.com/devopstoday11) - Chandu Paladugu
 - [bylickilabs](https://github.com/bylickilabs) - ®️Thorsten Bylicki™️
 - [mganter](https://github.com/mganter) - Manuel Ganter
 - [KashishLakhara04](https://github.com/KashishLakhara04) - Kashish Lakhara
-- [paularah](https://github.com/paularah) - Paul Arah
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,12 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
