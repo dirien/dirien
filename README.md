@@ -23,32 +23,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (3 days ago)
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes (3 days ago)
-- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (4 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (4 days ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (4 days ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes (4 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1077.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1077.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.56](https://github.com/alexellis/arkade/releases/tag/0.8.56), 2 days ago) - Open Source Marketplace For Kubernetes
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.1), 2 days ago) - Node-red Helm Chart
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.22](https://github.com/civo/civogo/releases/tag/v0.3.22), 3 days ago) - Golang client to interact with Civo&#39;s API
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.28.0](https://github.com/dirien/minectl/releases/tag/v0.28.0), 4 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1077.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1077.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.56](https://github.com/alexellis/arkade/releases/tag/0.8.56), 3 days ago) - Open Source Marketplace For Kubernetes
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.1), 3 days ago) - Node-red Helm Chart
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.22](https://github.com/civo/civogo/releases/tag/v0.3.22), 4 days ago) - Golang client to interact with Civo&#39;s API
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.28.0](https://github.com/dirien/minectl/releases/tag/v0.28.0), 5 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
 
 #### ⭐ Latest repositories I starred
 
-- [fermyon/installer](https://github.com/fermyon/installer) - Fermyon Installer - 70 stars
+- [jthomperoo/predictive-horizontal-pod-autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler) - Horizontal Pod Autoscaler built with predictive abilities using statistical models - 276 stars
+- [awslabs/aws-kubernetes-migration-factory](https://github.com/awslabs/aws-kubernetes-migration-factory) -  - 78 stars
+- [FairwindsOps/gonogo](https://github.com/FairwindsOps/gonogo) - [alpha] Tool to evaluate upgrade confidence for Kubernetes cluster addons - 69 stars
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! - 860 stars
+- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering - 204 stars
+- [2-alchemists/krossboard-kubernetes-operator](https://github.com/2-alchemists/krossboard-kubernetes-operator) - Kubernetes Operator to handle cross-site, cross-distribution &amp; multi-clusters Kubernetes usage tracking, analytics and accounting (vanilla Kubernetes, OpenShift, EKS, AKS, GKE, and more). - 12 stars
+- [fermyon/installer](https://github.com/fermyon/installer) - Fermyon Installer - 71 stars
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Terraform archive provider - 64 stars
 - [s1ntaxe770r/terraform-provider-planetscale](https://github.com/s1ntaxe770r/terraform-provider-planetscale) - Unofficial Terraform provider for planetscale - 22 stars
 - [jaxxstorm/lbrlabs](https://github.com/jaxxstorm/lbrlabs) - Configuration of my cloud providers and base infrastructure - 3 stars
-- [pulumi/policy-packs](https://github.com/pulumi/policy-packs) - A library of policies for Pulumi&#39;s Policy as Code - 4 stars
-- [kimschles/secrets-store-demo](https://github.com/kimschles/secrets-store-demo) -  - 4 stars
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API - 2066 stars
-- [spotinst/terraform-provider-spotinst](https://github.com/spotinst/terraform-provider-spotinst) - Terraform Spotinst provider. - 58 stars
-- [chainguard-dev/terraform-provider-ko](https://github.com/chainguard-dev/terraform-provider-ko) - Terraform Provider for building images using ko - 11 stars
-- [oslabs-beta/Kedalyze](https://github.com/oslabs-beta/Kedalyze) - An easy-to-use application that allows developers to visualize their Kubernetes cluster metrics and KEDA&#39;s auto-scaling pods in real-time. - 54 stars
 
 #### 👥 Latest follower
 
@@ -86,12 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
