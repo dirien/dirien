@@ -14,41 +14,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (1 week ago)
+- [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (2 weeks ago)
 - [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (2 weeks ago)
 - [panic! with sense: Error handling in Rust 🦀](https://blog.ediri.io/panic-with-sense-error-handling-in-rust) (2 weeks ago)
-- [Advanced Secret Management on Kubernetes With Pulumi and GitOps: Sealed Secrets Controller](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-and-gitops-sealed-secrets-controller) (2 weeks ago)
+- [Advanced Secret Management on Kubernetes With Pulumi and GitOps: Sealed Secrets Controller](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-and-gitops-sealed-secrets-controller) (3 weeks ago)
 - [Creating a Microservice in Rust Using gRPC](https://blog.ediri.io/creating-a-microservice-in-rust-using-grpc) (1 month ago)
 - [Kube-Prometheus-Stack and ArgoCD 2.5 – Server-Side Apply to the Rescue!](https://blog.ediri.io/kube-prometheus-stack-and-argocd-25-server-side-apply-to-the-rescue) (1 month ago)
 
 #### 👷 I'm currently working on
 
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (2 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (3 days ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (4 days ago)
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (4 days ago)
+- [dirien/pulumi-azure-flux](https://github.com/dirien/pulumi-azure-flux) -  (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (3 days ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (4 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1083.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1083.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.2.9](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.2.9), 4 days ago) - A Pulumi native provider for making API calls
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) ([v3.8.1](https://github.com/pulumiverse/pulumi-harbor/releases/tag/v3.8.1), 4 days ago) - A Pulumi native provider Harbor
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.43.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.43.0), 4 days ago) - Pulumi provider for Exoscale
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.8.19](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.8.19), 4 days ago) - Pulumi provider for Aquasec
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1084.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1084.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.23](https://github.com/civo/civogo/releases/tag/v0.3.23), 1 day ago) - Golang client to interact with Civo&#39;s API
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.2.9](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.2.9), 5 days ago) - A Pulumi native provider for making API calls
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) ([v3.8.1](https://github.com/pulumiverse/pulumi-harbor/releases/tag/v3.8.1), 5 days ago) - A Pulumi native provider Harbor
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.43.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.43.0), 5 days ago) - Pulumi provider for Exoscale
 
 #### ⭐ Latest repositories I starred
 
 - [FantasticFiasco/action-update-license-year](https://github.com/FantasticFiasco/action-update-license-year) - GitHub Action that in a pull request updates the copyright year(s) in your license file. - 41 stars
-- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Introspecting and debugging Kubernetes applications using eBPF &#34;gadgets&#34; - 1149 stars
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. - 285 stars
-- [jthomperoo/predictive-horizontal-pod-autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler) - Horizontal Pod Autoscaler built with predictive abilities using statistical models - 275 stars
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) - Introspecting and debugging Kubernetes applications using eBPF &#34;gadgets&#34; - 1152 stars
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. - 298 stars
+- [jthomperoo/predictive-horizontal-pod-autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler) - Horizontal Pod Autoscaler built with predictive abilities using statistical models - 276 stars
 - [awslabs/aws-kubernetes-migration-factory](https://github.com/awslabs/aws-kubernetes-migration-factory) -  - 78 stars
 - [FairwindsOps/gonogo](https://github.com/FairwindsOps/gonogo) - [alpha] Tool to evaluate upgrade confidence for Kubernetes cluster addons - 69 stars
-- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! - 876 stars
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! - 881 stars
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering - 230 stars
-- [2-alchemists/krossboard-kubernetes-operator](https://github.com/2-alchemists/krossboard-kubernetes-operator) - Kubernetes Operator to handle cross-site, cross-distribution &amp; multi-Kubernetes usage tracking, analytics and accounting (vanilla Kubernetes, OpenShift, EKS, AKS, GKE, and more). - 16 stars
-- [fermyon/installer](https://github.com/fermyon/installer) - Fermyon Installer - 74 stars
+- [2-alchemists/krossboard-kubernetes-operator](https://github.com/2-alchemists/krossboard-kubernetes-operator) - Kubernetes Operator to handle cross-site, cross-distribution &amp; multi-Kubernetes usage tracking, analytics and accounting (vanilla Kubernetes, OpenShift, EKS, AKS, GKE and other distros). - 16 stars
+- [fermyon/installer](https://github.com/fermyon/installer) - Fermyon Installer - 75 stars
 
 #### 👥 Latest follower
 
@@ -60,11 +60,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-azure-flux](https://github.com/dirien/pulumi-azure-flux)
 - [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr
 - [dirien/very-very-simple-k8s-deployment](https://github.com/dirien/very-very-simple-k8s-deployment) - As title
 - [dirien/pulumi-dok](https://github.com/dirien/pulumi-dok) - A Pulumi Program to deploy a Digital Ocean Kubernetes cluster
 - [dirien/gcp-function-test](https://github.com/dirien/gcp-function-test)
-- [dirien/cloud-native-turkiye](https://github.com/dirien/cloud-native-turkiye)
 
 
 ## 🏗️ My Projects
@@ -86,12 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
