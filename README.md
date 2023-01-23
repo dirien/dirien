@@ -14,8 +14,8 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (1 day ago)
-- [Advanced Secret Management on Kubernetes With Pulumi: Secrets Store CSI Driver](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-secrets-store-csi-driver) (3 days ago)
+- [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (2 days ago)
+- [Advanced Secret Management on Kubernetes With Pulumi: Secrets Store CSI Driver](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-secrets-store-csi-driver) (4 days ago)
 - [Deploy Komodor on AKS via the Flux Cluster Extension using Pulumi](https://blog.ediri.io/deploy-komodor-on-aks-via-the-flux-cluster-extension-using-pulumi) (1 week ago)
 - [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (3 weeks ago)
 - [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (3 weeks ago)
@@ -23,40 +23,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
-- [dirien/pulumi-python-minecraft](https://github.com/dirien/pulumi-python-minecraft) - Deployment of a Minecraft server as AWS instance (4 days ago)
-- [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image (5 days ago)
-- [dirien/pulumi-azure-flux](https://github.com/dirien/pulumi-azure-flux) -  (1 week ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 week ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 day ago)
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (2 days ago)
+- [dirien/pulumi-python-minecraft](https://github.com/dirien/pulumi-python-minecraft) - Deployment of a Minecraft server as AWS instance (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1094.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1094.0), 4 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.3.0](https://github.com/simple-icons/simple-icons/releases/tag/8.3.0), 4 days ago) - SVG icons for popular brands
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.7](https://github.com/libdns/civo/releases/tag/v0.1.7), 1 week ago) - Civo DNS implementation for libdns
-- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.3](https://github.com/libdns/scaleway/releases/tag/v0.1.3), 1 week ago) - Scaleway DNS implementation for libdns
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.23](https://github.com/civo/civogo/releases/tag/v0.3.23), 1 week ago) - Golang client to interact with Civo&#39;s API
+- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.4](https://github.com/libdns/scaleway/releases/tag/v0.1.4), 1 day ago) - Scaleway DNS implementation for libdns
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.3](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.3), 1 day ago) - Node-red Helm Chart
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) ([v0.3.0](https://github.com/pulumiverse/pulumi-purrl/releases/tag/v0.3.0), 1 day ago) - A Pulumi native provider for making API calls
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1094.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1094.0), 5 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.3.0](https://github.com/simple-icons/simple-icons/releases/tag/8.3.0), 5 days ago) - SVG icons for popular brands
 
 #### ⭐ Latest repositories I starred
 
 - [sap-linuxlab/community.sap_libs](https://github.com/sap-linuxlab/community.sap_libs) - Collection of Ansible Modules for SAP for low-level activities which are highly reusable - 9 stars
-- [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team - 244 stars
+- [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team - 245 stars
 - [hivenetes/k8s-bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) - Bootstrapping a Production-Ready DigitalOcean Kubernetes Cluster Using Terraform and Argo CD - 68 stars
-- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. - 4508 stars
-- [cloud-native-skunkworks/rust-operator](https://github.com/cloud-native-skunkworks/rust-operator) - A simple K8s operator written in Rust - 9 stars
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. - 4512 stars
+- [cloud-native-skunkworks/rust-operator](https://github.com/cloud-native-skunkworks/rust-operator) - A simple K8s operator written in Rust - 10 stars
 - [abhinav/doc2go](https://github.com/abhinav/doc2go) - Your Go project&#39;s documentation, to-go. - 38 stars
-- [projectsveltos/sveltos-manager](https://github.com/projectsveltos/sveltos-manager) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. - 31 stars
-- [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana. - 712 stars
-- [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - A modern in-browser database IDE &amp; CLI for your dev &amp; data workflows. Supports MySQL, PostgreSQL &amp; MongoDB. - 640 stars
+- [projectsveltos/sveltos-manager](https://github.com/projectsveltos/sveltos-manager) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. - 32 stars
+- [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana. - 719 stars
+- [slashbaseide/slashbase](https://github.com/slashbaseide/slashbase) - A modern in-browser database IDE &amp; CLI for your dev &amp; data workflows. Supports MySQL, PostgreSQL &amp; MongoDB. - 641 stars
 - [m9sweeper/k8ez](https://github.com/m9sweeper/k8ez) - Easy and Secure Kubernetes Deployments - 1 stars
 
 #### 👥 Latest follower
 
+- [BEPb](https://github.com/BEPb) - Andrej Marinchenko
 - [HibacMeh](https://github.com/HibacMeh) - Hiba
 - [99](https://github.com/99) - nat
 - [xiaochen-2050](https://github.com/xiaochen-2050) - Xiao chen
 - [devopstoday11](https://github.com/devopstoday11) - Chandu Paladugu
-- [bylickilabs](https://github.com/bylickilabs) - ®️Thorsten Bylicki™️
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,13 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
