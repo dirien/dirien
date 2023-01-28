@@ -14,41 +14,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (6 days ago)
+- [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (1 week ago)
 - [Advanced Secret Management on Kubernetes With Pulumi: Secrets Store CSI Driver](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-secrets-store-csi-driver) (1 week ago)
-- [Deploy Komodor on AKS via the Flux Cluster Extension using Pulumi](https://blog.ediri.io/deploy-komodor-on-aks-via-the-flux-cluster-extension-using-pulumi) (1 week ago)
+- [Deploy Komodor on AKS via the Flux Cluster Extension using Pulumi](https://blog.ediri.io/deploy-komodor-on-aks-via-the-flux-cluster-extension-using-pulumi) (2 weeks ago)
 - [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (4 weeks ago)
-- [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (4 weeks ago)
+- [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (1 month ago)
 - [panic! with sense: Error handling in Rust 🦀](https://blog.ediri.io/panic-with-sense-error-handling-in-rust) (1 month ago)
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (2 days ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (2 days ago)
-- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (4 days ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (5 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (3 days ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (3 days ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (5 days ago)
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.4](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.4), 1 day ago) - Node-red Helm Chart
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1095.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1095.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.59](https://github.com/alexellis/arkade/releases/tag/0.8.59), 2 days ago) - Open Source Marketplace For Kubernetes
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.11.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.11.0), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.4](https://github.com/libdns/scaleway/releases/tag/v0.1.4), 5 days ago) - Scaleway DNS implementation for libdns
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.8.60](https://github.com/alexellis/arkade/releases/tag/0.8.60), 1 day ago) - Open Source Marketplace For Kubernetes
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.1](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.1), 1 day ago) - Container Signing
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.4](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.4), 2 days ago) - Node-red Helm Chart
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1095.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1095.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.11.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.11.0), 3 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 #### ⭐ Latest repositories I starred
 
+- [tinystacks/precloud](https://github.com/tinystacks/precloud) - An open source command line interface that runs checks on infrastructure as code to catch potential deployment issues before deploying. - 192 stars
 - [aiven/aiven-operator](https://github.com/aiven/aiven-operator) - Provision and manage Aiven Services from your Kubernetes cluster. - 20 stars
 - [stefanprodan/gitops-linkerd](https://github.com/stefanprodan/gitops-linkerd) - Progressive Delivery workshop with Linkerd, Flagger and Flux - 45 stars
-- [Razikus/its-friday-k8s-admission-controller](https://github.com/Razikus/its-friday-k8s-admission-controller) - Stop deployments in friday. DEFINITELY - 48 stars
+- [Razikus/its-friday-k8s-admission-controller](https://github.com/Razikus/its-friday-k8s-admission-controller) - Stop deployments in friday. DEFINITELY - 49 stars
 - [tom-sherman/lambda-streaming-demo](https://github.com/tom-sherman/lambda-streaming-demo) -  - 16 stars
 - [sap-linuxlab/community.sap_libs](https://github.com/sap-linuxlab/community.sap_libs) - Collection of Ansible Modules for SAP for low-level activities which are highly reusable - 10 stars
-- [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team - 249 stars
+- [aws-quickstart/cdk-eks-blueprints](https://github.com/aws-quickstart/cdk-eks-blueprints) - AWS Quick Start Team - 250 stars
 - [hivenetes/k8s-bootstrapper](https://github.com/hivenetes/k8s-bootstrapper) - Bootstrapping a Production-Ready DigitalOcean Kubernetes Cluster Using Terraform and Argo CD - 69 stars
-- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. - 4533 stars
+- [ritz078/transform](https://github.com/ritz078/transform) - A polyglot web converter. - 4536 stars
 - [cloud-native-skunkworks/rust-operator](https://github.com/cloud-native-skunkworks/rust-operator) - A simple K8s operator written in Rust - 12 stars
-- [abhinav/doc2go](https://github.com/abhinav/doc2go) - Your Go project&#39;s documentation, to-go. - 40 stars
 
 #### 👥 Latest follower
 
@@ -86,13 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
