@@ -14,41 +14,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Design Patterns in Rust 🦀: An Introduction to the Builder Pattern](https://blog.ediri.io/design-patterns-in-rust-an-introduction-to-the-builder-pattern) (1 week ago)
-- [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (2 weeks ago)
+- [Design Patterns in Rust 🦀: An Introduction to the Builder Pattern](https://blog.ediri.io/design-patterns-in-rust-an-introduction-to-the-builder-pattern) (2 weeks ago)
+- [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (3 weeks ago)
 - [Advanced Secret Management on Kubernetes With Pulumi: Secrets Store CSI Driver](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-secrets-store-csi-driver) (3 weeks ago)
-- [Deploy Komodor on AKS via the Flux Cluster Extension using Pulumi](https://blog.ediri.io/deploy-komodor-on-aks-via-the-flux-cluster-extension-using-pulumi) (3 weeks ago)
+- [Deploy Komodor on AKS via the Flux Cluster Extension using Pulumi](https://blog.ediri.io/deploy-komodor-on-aks-via-the-flux-cluster-extension-using-pulumi) (4 weeks ago)
 - [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (1 month ago)
 - [Kubernetes and Pulumi: Converting k8s YAML to a Pulumi supported language](https://blog.ediri.io/kubernetes-and-pulumi-converting-k8s-yaml-to-a-pulumi-supported-language) (1 month ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/civo-production-ready-kubernetes](https://github.com/dirien/civo-production-ready-kubernetes) - The repository for the CIVO Navigate talk: How To Build A Production Ready Kubernetes (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
+- [dirien/civo-production-ready-kubernetes](https://github.com/dirien/civo-production-ready-kubernetes) - The repository for the CIVO Navigate talk: How To Build A Production Ready Kubernetes (4 days ago)
 - [dirien/pulumi-python-minecraft](https://github.com/dirien/pulumi-python-minecraft) - Deployment of a Minecraft server as AWS instance (1 week ago)
 - [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 - [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (1 week ago)
-- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1112.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1112.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.11.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.11.1), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [antfu/case-police](https://github.com/antfu/case-police) ([v0.5.11](https://github.com/antfu/case-police/releases/tag/v0.5.11), 2 days ago) - 🚨 Make the case correct, PLEASE!
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [bots-garden/capsule](https://github.com/bots-garden/capsule) ([v0.3.1](https://github.com/bots-garden/capsule/releases/tag/v0.3.1), 3 days ago) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI).
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.5](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.5), 1 day ago) - Node-red Helm Chart
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.2](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.2), 1 day ago) - Container Signing
+- [go-acme/lego](https://github.com/go-acme/lego) ([v4.10.0](https://github.com/go-acme/lego/releases/tag/v4.10.0), 1 day ago) - Let&#39;s Encrypt/ACME client and library written in Go
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1115.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1115.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.9.1](https://github.com/aquasecurity/trivy-action/releases/tag/0.9.1), 1 day ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 
 #### ⭐ Latest repositories I starred
 
-- [opencontrolplane/civo-opencontrolplane](https://github.com/opencontrolplane/civo-opencontrolplane) -  - 4 stars
-- [opencontrolplane/opencp-shim](https://github.com/opencontrolplane/opencp-shim) - OpenCP shim is a simple HTTP server that implements the Kubernetes API server interface. It is a shim that allows you to use the Kubernetes API server to implement your own API server. - 2 stars
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. - 33045 stars
-- [aquasecurity/tracee-action](https://github.com/aquasecurity/tracee-action) - Protect GitHub Actions with Tracee - 26 stars
-- [edixos/Nauticus](https://github.com/edixos/Nauticus) - Simplifying Kubernetes cluster management with fully-managed Spaces - 17 stars
-- [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) - SBOM quality score - Quality metrics for your sboms - 12 stars
-- [aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper) -  - 142 stars
-- [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go - 5809 stars
-- [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. - 183 stars
-- [tinystacks/precloud](https://github.com/tinystacks/precloud) - An open source command line interface that runs checks on infrastructure as code to catch potential deployment issues before deploying. - 391 stars
+- [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes  exploitation tool - 128 stars
+- [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. - 48 stars
+- [opencontrolplane/civo-opencontrolplane](https://github.com/opencontrolplane/civo-opencontrolplane) -  - 6 stars
+- [opencontrolplane/opencp-shim](https://github.com/opencontrolplane/opencp-shim) - OpenCP shim is a simple HTTP server that implements the Kubernetes API server interface. It is a shim that allows you to use the Kubernetes API server to implement your own API server. - 3 stars
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. - 33180 stars
+- [aquasecurity/tracee-action](https://github.com/aquasecurity/tracee-action) - Protect GitHub Actions with Tracee - 27 stars
+- [edixos/Nauticus](https://github.com/edixos/Nauticus) - Simplifying Kubernetes cluster management with fully-managed Spaces - 18 stars
+- [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) - SBOM quality score - Quality metrics for your sboms - 13 stars
+- [aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper) -  - 145 stars
+- [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go - 5813 stars
 
 #### 👥 Latest follower
 
@@ -86,13 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
