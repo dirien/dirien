@@ -23,40 +23,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 day ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (1 day ago)
 - [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [dirien/civo-production-ready-kubernetes](https://github.com/dirien/civo-production-ready-kubernetes) - The repository for the CIVO Navigate talk: How To Build A Production Ready Kubernetes (4 days ago)
-- [dirien/pulumi-python-minecraft](https://github.com/dirien/pulumi-python-minecraft) - Deployment of a Minecraft server as AWS instance (1 week ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (1 week ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 day ago)
+- [dirien/civo-production-ready-kubernetes](https://github.com/dirien/civo-production-ready-kubernetes) - The repository for the CIVO Navigate talk: How To Build A Production Ready Kubernetes (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.22.5](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.22.5), 1 day ago) - Node-red Helm Chart
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.0-rc.2](https://github.com/sigstore/cosign/releases/tag/v2.0.0-rc.2), 1 day ago) - Container Signing
-- [go-acme/lego](https://github.com/go-acme/lego) ([v4.10.0](https://github.com/go-acme/lego/releases/tag/v4.10.0), 1 day ago) - Let&#39;s Encrypt/ACME client and library written in Go
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1115.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1115.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.9.1](https://github.com/aquasecurity/trivy-action/releases/tag/0.9.1), 1 day ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.5](https://github.com/libdns/scaleway/releases/tag/v0.1.5), 1 day ago) - Scaleway DNS implementation for libdns
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.37](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.37), 1 day ago) - Azure DevOps Extension for GoReleaser
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.12.1](https://github.com/dirien/pulumi-vultr/releases/tag/v2.12.1), 1 day ago) - Pulumi provider for Vultr
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) ([v3.8.2](https://github.com/pulumiverse/pulumi-harbor/releases/tag/v3.8.2), 1 day ago) - A Pulumi native provider Harbor
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.44.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.44.0), 1 day ago) - Pulumi provider for Exoscale
 
 #### ⭐ Latest repositories I starred
 
-- [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes  exploitation tool - 128 stars
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication - 835 stars
+- [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes  exploitation tool - 149 stars
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. - 48 stars
 - [opencontrolplane/civo-opencontrolplane](https://github.com/opencontrolplane/civo-opencontrolplane) -  - 6 stars
-- [opencontrolplane/opencp-shim](https://github.com/opencontrolplane/opencp-shim) - OpenCP shim is a simple HTTP server that implements the Kubernetes API server interface. It is a shim that allows you to use the Kubernetes API server to implement your own API server. - 3 stars
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. - 33180 stars
+- [opencontrolplane/opencp-shim](https://github.com/opencontrolplane/opencp-shim) - OpenCP shim is a simple HTTP server that implements the Kubernetes API server interface. It is a shim that allows you to use the Kubernetes API server to implement your own API server. - 4 stars
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. - 33259 stars
 - [aquasecurity/tracee-action](https://github.com/aquasecurity/tracee-action) - Protect GitHub Actions with Tracee - 27 stars
 - [edixos/Nauticus](https://github.com/edixos/Nauticus) - Simplifying Kubernetes cluster management with fully-managed Spaces - 18 stars
 - [interlynk-io/sbomqs](https://github.com/interlynk-io/sbomqs) - SBOM quality score - Quality metrics for your sboms - 13 stars
 - [aws-samples/automated-security-helper](https://github.com/aws-samples/automated-security-helper) -  - 145 stars
-- [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go - 5813 stars
 
 #### 👥 Latest follower
 
+- [yonycalsin](https://github.com/yonycalsin) - Yony Calsin
 - [tommygarvin](https://github.com/tommygarvin) - Tommy Garvin
 - [sks147](https://github.com/sks147) - Sumit Kumar Singh
 - [Bakhtiyar-Garashov](https://github.com/Bakhtiyar-Garashov) -  Bəxtiyar
 - [nekiwanuka](https://github.com/nekiwanuka) - Nicholas Edgar Kiwanuka
-- [juananselmo](https://github.com/juananselmo) - Barrionuevo Juan Anselmo
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,13 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
