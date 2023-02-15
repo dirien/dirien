@@ -14,7 +14,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Sun, Tech and Community: My Experiences at Civo Navigate](https://blog.ediri.io/sun-tech-and-community-my-experiences-at-civo-navigate) (2 days ago)
+- [Sun, Tech and Community: My Experiences at Civo Navigate](https://blog.ediri.io/sun-tech-and-community-my-experiences-at-civo-navigate) (3 days ago)
 - [Design Patterns in Rust 🦀: An Introduction to the Builder Pattern](https://blog.ediri.io/design-patterns-in-rust-an-introduction-to-the-builder-pattern) (2 weeks ago)
 - [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (3 weeks ago)
 - [Advanced Secret Management on Kubernetes With Pulumi: Secrets Store CSI Driver](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-secrets-store-csi-driver) (3 weeks ago)
@@ -23,31 +23,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (3 days ago)
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (3 days ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (3 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
-- [dirien/civo-production-ready-kubernetes](https://github.com/dirien/civo-production-ready-kubernetes) - The repository for the CIVO Navigate talk: How To Build A Production Ready Kubernetes (1 week ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (4 days ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (4 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (4 days ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1120.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1120.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([harbor-scanner-trivy-0.30.7](https://github.com/aquasecurity/helm-charts/releases/tag/harbor-scanner-trivy-0.30.7), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.11.1-rc](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.11.1-rc), 1 day ago) - Kubernetes-native security toolkit
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.5.0](https://github.com/simple-icons/simple-icons/releases/tag/8.5.0), 2 days ago) - SVG icons for popular brands
-- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.5](https://github.com/libdns/scaleway/releases/tag/v0.1.5), 3 days ago) - Scaleway DNS implementation for libdns
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-0.6.0](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-0.6.0), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1125.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1125.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.11.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.11.1), 1 day ago) - Kubernetes-native security toolkit
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.5.0](https://github.com/simple-icons/simple-icons/releases/tag/8.5.0), 3 days ago) - SVG icons for popular brands
+- [libdns/scaleway](https://github.com/libdns/scaleway) ([v0.1.5](https://github.com/libdns/scaleway/releases/tag/v0.1.5), 4 days ago) - Scaleway DNS implementation for libdns
 
 #### ⭐ Latest repositories I starred
 
 - [tmeckel/pulumi-tf-provider-cookiecutter](https://github.com/tmeckel/pulumi-tf-provider-cookiecutter) - A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge - 4 stars
 - [aws-samples/eks-multi-cluster-gitops](https://github.com/aws-samples/eks-multi-cluster-gitops) -  - 132 stars
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication - 838 stars
-- [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes  exploitation tool - 158 stars
-- [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. - 52 stars
-- [opencontrolplane/civo-opencontrolplane](https://github.com/opencontrolplane/civo-opencontrolplane) -  - 7 stars
+- [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer) - Kubernetes  exploitation tool - 160 stars
+- [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. - 54 stars
+- [opencontrolplane/civo-opencontrolplane](https://github.com/opencontrolplane/civo-opencontrolplane) -  - 8 stars
 - [opencontrolplane/opencp-shim](https://github.com/opencontrolplane/opencp-shim) - OpenCP shim is a simple HTTP server that implements the Kubernetes API server interface. It is a shim that allows you to use the Kubernetes API server to implement your own API server. - 6 stars
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. - 33426 stars
-- [aquasecurity/tracee-action](https://github.com/aquasecurity/tracee-action) - Protect GitHub Actions with Tracee - 27 stars
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. - 33492 stars
+- [aquasecurity/tracee-action](https://github.com/aquasecurity/tracee-action) - Protect GitHub Actions with Tracee - 28 stars
 - [edixos/Nauticus](https://github.com/edixos/Nauticus) - Simplifying Kubernetes cluster management with fully-managed Spaces - 18 stars
 
 #### 👥 Latest follower
@@ -86,13 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
