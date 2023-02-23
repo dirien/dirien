@@ -14,49 +14,49 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
+- [Design Patterns in Rust 🦀: Upgrading the Builder Pattern using the Typestate Pattern](https://blog.ediri.io/design-patterns-in-rust-upgrading-the-builder-pattern-using-the-typestate-pattern) (1 day ago)
 - [Sun, Tech and Community: My Experiences at Civo Navigate](https://blog.ediri.io/sun-tech-and-community-my-experiences-at-civo-navigate) (1 week ago)
 - [Design Patterns in Rust 🦀: An Introduction to the Builder Pattern](https://blog.ediri.io/design-patterns-in-rust-an-introduction-to-the-builder-pattern) (3 weeks ago)
 - [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (1 month ago)
 - [Advanced Secret Management on Kubernetes With Pulumi: Secrets Store CSI Driver](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-secrets-store-csi-driver) (1 month ago)
 - [Deploy Komodor on AKS via the Flux Cluster Extension using Pulumi](https://blog.ediri.io/deploy-komodor-on-aks-via-the-flux-cluster-extension-using-pulumi) (1 month ago)
-- [How To Set Up a Dead Man’s Switch in Prometheus](https://blog.ediri.io/how-to-set-up-a-dead-mans-switch-in-prometheus) (1 month ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image (2 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
-- [dirien/tfu](https://github.com/dirien/tfu) - tfu is a terraform helper to update the providers. (3 days ago)
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (3 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image (3 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (4 days ago)
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal &amp; shell (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.0](https://github.com/alexellis/arkade/releases/tag/0.9.0), 1 day ago) - Open Source Marketplace For Kubernetes
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1129.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1129.1), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) ([v1.3.1](https://github.com/dirien/pulumi-azapi/releases/tag/v1.3.1), 3 days ago) - Pulumi provider for Azure API Management
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.29.0](https://github.com/dirien/minectl/releases/tag/v0.29.0), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.45.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.45.0), 3 days ago) - Pulumi provider for Exoscale
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.0](https://github.com/alexellis/arkade/releases/tag/0.9.0), 2 days ago) - Open Source Marketplace For Kubernetes
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1129.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1129.1), 3 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) ([v1.3.1](https://github.com/dirien/pulumi-azapi/releases/tag/v1.3.1), 4 days ago) - Pulumi provider for Azure API Management
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.29.0](https://github.com/dirien/minectl/releases/tag/v0.29.0), 4 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.45.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.45.0), 4 days ago) - Pulumi provider for Exoscale
 
 #### ⭐ Latest repositories I starred
 
-- [projectkudu/kudu](https://github.com/projectkudu/kudu) - Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure. - 3017 stars
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications - 3242 stars
-- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. - 675 stars
+- [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0. - 560 stars
+- [projectkudu/kudu](https://github.com/projectkudu/kudu) - Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure. - 3018 stars
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications - 3247 stars
+- [keephq/keep](https://github.com/keephq/keep) - Alerting. By developers, for developers. - 695 stars
 - [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) - AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes - 2088 stars
-- [mheap/pin-github-action](https://github.com/mheap/pin-github-action) - Pin your GitHub actions to a specific hash - 46 stars
-- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform - 3614 stars
+- [mheap/pin-github-action](https://github.com/mheap/pin-github-action) - Pin your GitHub actions to a specific hash - 47 stars
+- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform - 3623 stars
 - [lucasepe/codename](https://github.com/lucasepe/codename) - Generate random, pronounceable, sometimes even memorable, &#34;superhero like&#34; codenames - just like Docker does with container names. - 93 stars
 - [tmeckel/pulumi-tf-provider-cookiecutter](https://github.com/tmeckel/pulumi-tf-provider-cookiecutter) - A Cookiecutter template to create a Pulumi provider out of a Terraform Provider using TF Bridge - 4 stars
 - [aws-samples/eks-multi-cluster-gitops](https://github.com/aws-samples/eks-multi-cluster-gitops) -  - 132 stars
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication - 868 stars
 
 #### 👥 Latest follower
 
+- [chagui](https://github.com/chagui) - Guilhem C.
 - [panda1100](https://github.com/panda1100) - Yoshiaki Senda
 - [ammario](https://github.com/ammario) - Ammar Bandukwala
 - [bittin](https://github.com/bittin) - 
 - [Lefthander](https://github.com/Lefthander) - Sergey Olisov
-- [yonycalsin](https://github.com/yonycalsin) - Yony Calsin
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,13 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
