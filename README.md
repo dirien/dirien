@@ -14,41 +14,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Building the Port Pulumi Connector PoC: A Step-by-Step Guide](https://blog.ediri.io/building-the-port-pulumi-connector-poc-a-step-by-step-guide) (1 day ago)
+- [Boost Your Rust 🦀 Development with Hot Reload using cargo-watch](https://blog.ediri.io/boost-your-rust-development-with-hot-reload-using-cargo-watch) (1 day ago)
+- [Building the Port Pulumi Connector PoC: A Step-by-Step Guide](https://blog.ediri.io/building-the-port-pulumi-connector-poc-a-step-by-step-guide) (2 days ago)
 - [Design Patterns in Rust 🦀: Upgrading the Builder Pattern using the Typestate Pattern](https://blog.ediri.io/design-patterns-in-rust-upgrading-the-builder-pattern-using-the-typestate-pattern) (2 weeks ago)
 - [Sun, Tech and Community: My Experiences at Civo Navigate](https://blog.ediri.io/sun-tech-and-community-my-experiences-at-civo-navigate) (3 weeks ago)
 - [Design Patterns in Rust 🦀: An Introduction to the Builder Pattern](https://blog.ediri.io/design-patterns-in-rust-an-introduction-to-the-builder-pattern) (1 month ago)
 - [Serialize and Deserialize Data in Rust 🦀 Using serde and serde_json](https://blog.ediri.io/serialize-and-deserialize-data-in-rust-using-serde-and-serdejson) (1 month ago)
-- [Advanced Secret Management on Kubernetes With Pulumi: Secrets Store CSI Driver](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-secrets-store-csi-driver) (1 month ago)
 
 #### 👷 I'm currently working on
 
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
-- [dirien/pulumi-connector](https://github.com/dirien/pulumi-connector) - Pulumi connector for Port (1 day ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (2 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (3 days ago)
+- [dirien/pulumi-port-labs](https://github.com/dirien/pulumi-port-labs) - Pulumi provider for Port Labs (1 day ago)
+- [dirien/pulumi-connector](https://github.com/dirien/pulumi-connector) - Pulumi connector for Port (2 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.9.2](https://github.com/aquasecurity/trivy-action/releases/tag/0.9.2), 1 day ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.4](https://github.com/alexellis/arkade/releases/tag/0.9.4), 2 days ago) - Open Source Marketplace For Kubernetes
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.20](https://github.com/dirien/pulumi-github/releases/tag/v0.2.20), 2 days ago) - Pulumi program to manage my GitHub repositories
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) ([v3.8.3](https://github.com/pulumiverse/pulumi-harbor/releases/tag/v3.8.3), 3 days ago) - A Pulumi native provider Harbor
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1135.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1135.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dirien/pulumi-port-labs](https://github.com/dirien/pulumi-port-labs) ([v0.8.4](https://github.com/dirien/pulumi-port-labs/releases/tag/v0.8.4), 1 day ago) - Pulumi provider for Port Labs
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.11.1-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.11.1-helm), 1 day ago) - Minecraft Prometheus exporter
+- [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) ([0.9.2](https://github.com/aquasecurity/trivy-action/releases/tag/0.9.2), 2 days ago) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
-- [one2nc/cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS - 62 stars
+- [tokio-rs/tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust. - 3602 stars
+- [one2nc/cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS - 124 stars
 - [helm/helm-mapkubeapis](https://github.com/helm/helm-mapkubeapis) - This is a Helm plugin which map deprecated or removed Kubernetes APIs in a release to supported APIs - 398 stars
-- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform - 453 stars
-- [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way. - 212 stars
+- [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst) - The Kubefirst Open Source Platform - 455 stars
+- [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way. - 216 stars
 - [port-labs/terraform-connector](https://github.com/port-labs/terraform-connector) - terraform-connector is an easy to use backend which leverages terraform templates together with Port webhooks to easily support Port Actions - 2 stars
-- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. - 13789 stars
-- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. - 3188 stars
+- [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC. - 13795 stars
+- [mrsked/mrsk](https://github.com/mrsked/mrsk) - Deploy web apps anywhere. - 3253 stars
 - [bbc/sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based applications without the boilerplate - 1417 stars
-- [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0. - 563 stars
-- [projectkudu/kudu](https://github.com/projectkudu/kudu) - Kudu is the engine behind git/hg deployments, WebJobs, and various other features in Azure Web Sites. It can also run outside of Azure. - 3021 stars
+- [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger) - echo middleware to automatically generate RESTful API documentation with Swagger 2.0. - 566 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/49463dc8-a3ef-4917-9a47-fa9b9681880a/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dcf3ea8b-6789-4913-ac53-1c1fd69897be/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
