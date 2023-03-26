@@ -14,8 +14,8 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Minecraft Server: Secrets, Observability, Kubernetes and more with Pulumi and Scaleway](https://blog.ediri.io/minecraft-server-secrets-observability-kubernetes-and-more-with-pulumi-and-scaleway) (3 days ago)
-- [Building a RESTful API with Actix Web and Diesel for Persistent Data Storage](https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage) (6 days ago)
+- [Minecraft Server: Secrets, Observability, Kubernetes and more with Pulumi and Scaleway](https://blog.ediri.io/minecraft-server-secrets-observability-kubernetes-and-more-with-pulumi-and-scaleway) (4 days ago)
+- [Building a RESTful API with Actix Web and Diesel for Persistent Data Storage](https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage) (1 week ago)
 - [Rust Development: Creating a REST API with Actix Web for Beginners](https://blog.ediri.io/rust-development-creating-a-rest-api-with-actix-web-for-beginners) (2 weeks ago)
 - [Boost Your Rust 🦀 Development with Hot Reload using cargo-watch](https://blog.ediri.io/boost-your-rust-development-with-hot-reload-using-cargo-watch) (2 weeks ago)
 - [Building the Port Pulumi Connector PoC: A Step-by-Step Guide](https://blog.ediri.io/building-the-port-pulumi-connector-poc-a-step-by-step-guide) (2 weeks ago)
@@ -23,32 +23,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (6 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (6 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (4 days ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 week ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 - [scaleway/docs-content](https://github.com/scaleway/docs-content) - Scaleway Documentation contents (1 week ago)
 - [dirien/parlez-vous-pulumi](https://github.com/dirien/parlez-vous-pulumi) - Creating an EKS cluster with Pulumi in different programming languages (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [bots-garden/capsule](https://github.com/bots-garden/capsule) ([v0.3.2](https://github.com/bots-garden/capsule/releases/tag/v0.3.2), 1 day ago) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI).
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.26](https://github.com/civo/civogo/releases/tag/v0.3.26), 2 days ago) - Golang client to interact with Civo&#39;s API
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.6](https://github.com/alexellis/arkade/releases/tag/0.9.6), 2 days ago) - Open Source Marketplace For Kubernetes
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1139.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1139.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1141.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1141.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) ([v0.3.2](https://github.com/bots-garden/capsule/releases/tag/v0.3.2), 2 days ago) - Capsule is a runner (or launcher) of wasm functions. Capsule can serve the functions through HTTP, NATS and MQTT (it’s possible to use Capsule as a simple CLI).
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.26](https://github.com/civo/civogo/releases/tag/v0.3.26), 3 days ago) - Golang client to interact with Civo&#39;s API
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.6](https://github.com/alexellis/arkade/releases/tag/0.9.6), 3 days ago) - Open Source Marketplace For Developer Tools
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.2), 6 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### ⭐ Latest repositories I starred
 
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT - 338 stars
-- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand - 2193 stars
+- [containers/conmon-rs](https://github.com/containers/conmon-rs) - An OCI container runtime monitor written in Rust - 106 stars
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT - 353 stars
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand - 2196 stars
 - [JefeDavis/Resume-Operator](https://github.com/JefeDavis/Resume-Operator) - Kubernetes operator to build &amp; host my resume, powered by operator-builder - 198 stars
-- [orhun/halp](https://github.com/orhun/halp) - A CLI tool to get help with CLI tools 🐙 - 535 stars
+- [orhun/halp](https://github.com/orhun/halp) - A CLI tool to get help with CLI tools 🐙 - 537 stars
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) - 329 stars
 - [AdamRussak/k8f](https://github.com/AdamRussak/k8f) - A simple go tool to check that your cluster is in supported version writin in GO - 25 stars
-- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust - 22817 stars
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust - 22833 stars
 - [thinkinglabs/aws-iam-policy](https://github.com/thinkinglabs/aws-iam-policy) - A TypeScript Node.js module to manipulate AWS IAM Policy documents - 11 stars
 - [andrewbaxter/terrars](https://github.com/andrewbaxter/terrars) - Terraform in Rust - 41 stars
-- [quarkusio/quarkus-super-heroes](https://github.com/quarkusio/quarkus-super-heroes) - Quarkus sample application - Super Heroes - 147 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/49463dc8-a3ef-4917-9a47-fa9b9681880a/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dcf3ea8b-6789-4913-ac53-1c1fd69897be/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
