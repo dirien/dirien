@@ -19,36 +19,36 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 - [Building a RESTful API with Actix Web and Diesel for Persistent Data Storage](https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage) (2 weeks ago)
 - [Rust Development: Creating a REST API with Actix Web for Beginners](https://blog.ediri.io/rust-development-creating-a-rest-api-with-actix-web-for-beginners) (3 weeks ago)
 - [Boost Your Rust 🦀 Development with Hot Reload using cargo-watch](https://blog.ediri.io/boost-your-rust-development-with-hot-reload-using-cargo-watch) (3 weeks ago)
-- [Building the Port Pulumi Connector PoC: A Step-by-Step Guide](https://blog.ediri.io/building-the-port-pulumi-connector-poc-a-step-by-step-guide) (3 weeks ago)
+- [Building the Port Pulumi Connector PoC: A Step-by-Step Guide](https://blog.ediri.io/building-the-port-pulumi-connector-poc-a-step-by-step-guide) (4 weeks ago)
 
 #### 👷 I'm currently working on
 
-- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (3 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (6 days ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (1 day ago)
+- [dirien/pulumi-python-minecraft](https://github.com/dirien/pulumi-python-minecraft) - Deployment of a Minecraft server as AWS instance (1 day ago)
+- [pulumi/templates](https://github.com/pulumi/templates) - Templates used by `pulumi new` (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 week ago)
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 week ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 week ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.9.0](https://github.com/simple-icons/simple-icons/releases/tag/8.9.0), 1 day ago) - SVG icons for popular brands
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.13.0-rc2](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.13.0-rc2), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.13.0-rc2](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.13.0-rc2), 1 day ago) - Kubernetes-native security toolkit
-- [port-labs/pulumi](https://github.com/port-labs/pulumi) ([v0.9.0](https://github.com/port-labs/pulumi/releases/tag/v0.9.0), 1 day ago) - Pulumi provider for Port Labs
-- [dergeberl/multitool-container](https://github.com/dergeberl/multitool-container) ([v0.6.1](https://github.com/dergeberl/multitool-container/releases/tag/v0.6.1), 2 days ago) - Three containers with useful tools for troubleshooting
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.8](https://github.com/alexellis/arkade/releases/tag/0.9.8), 1 day ago) - Open Source Marketplace For Developer Tools
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.13.0-rc3](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.13.0-rc3), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.13.0-rc3](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.13.0-rc3), 1 day ago) - Kubernetes-native security toolkit
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.9.0](https://github.com/simple-icons/simple-icons/releases/tag/8.9.0), 2 days ago) - SVG icons for popular brands
+- [port-labs/pulumi](https://github.com/port-labs/pulumi) ([v0.9.0](https://github.com/port-labs/pulumi/releases/tag/v0.9.0), 2 days ago) - Pulumi provider for Port Labs
 
 #### ⭐ Latest repositories I starred
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm - 37920 stars
-- [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go. - 26 stars
-- [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud! - 37 stars
-- [nobl9/ekg](https://github.com/nobl9/ekg) - Essential Kubernetes Gauges - 43 stars
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone - 932 stars
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm - 44434 stars
+- [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go. - 27 stars
+- [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud! - 41 stars
+- [nobl9/ekg](https://github.com/nobl9/ekg) - Essential Kubernetes Gauges - 52 stars
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone - 998 stars
 - [goreleaser/goreleaser-example-slsa-provenance](https://github.com/goreleaser/goreleaser-example-slsa-provenance) - A demonstration of showing how to use 💃SLSA 3 Generic Generator with GoReleaser to release artifacts while generating signed SLSA provenance - 6 stars
-- [deislabs/containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) - containerd shims for running WebAssembly workloads in Kubernetes - 140 stars
+- [deislabs/containerd-wasm-shims](https://github.com/deislabs/containerd-wasm-shims) - containerd shims for running WebAssembly workloads in Kubernetes - 142 stars
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) - An OCI container runtime monitor written in Rust - 108 stars
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT - 515 stars
-- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand - 2261 stars
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT - 526 stars
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand - 2262 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/49463dc8-a3ef-4917-9a47-fa9b9681880a/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dcf3ea8b-6789-4913-ac53-1c1fd69897be/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
