@@ -14,41 +14,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Leveraging Pulumi to Incorporate AWS Cognito as an Identity Provider for ArgoCD](https://blog.ediri.io/leveraging-pulumi-to-incorporate-aws-cognito-as-an-identity-provider-for-argocd) (2 days ago)
-- [Observability Made Easy: Building a RESTful API with Actix Web and OpenTelemetry](https://blog.ediri.io/observability-made-easy-building-a-restful-api-with-actix-web-and-opentelemetry) (3 days ago)
+- [Leveraging Pulumi to Incorporate AWS Cognito as an Identity Provider for ArgoCD](https://blog.ediri.io/leveraging-pulumi-to-incorporate-aws-cognito-as-an-identity-provider-for-argocd) (3 days ago)
+- [Observability Made Easy: Building a RESTful API with Actix Web and OpenTelemetry](https://blog.ediri.io/observability-made-easy-building-a-restful-api-with-actix-web-and-opentelemetry) (4 days ago)
 - [Step-by-Step Guide: Setting Up WASI Node Pools for AKS and Running WASM Spin Applications all with Pulumi](https://blog.ediri.io/step-by-step-guide-setting-up-wasi-node-pools-for-aks-and-running-wasm-spin-applications-all-with-pulumi) (1 week ago)
 - [Minecraft Server: Secrets, Observability, Kubernetes and more with Pulumi and Scaleway](https://blog.ediri.io/minecraft-server-secrets-observability-kubernetes-and-more-with-pulumi-and-scaleway) (2 weeks ago)
 - [Building a RESTful API with Actix Web and Diesel for Persistent Data Storage](https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage) (2 weeks ago)
-- [Rust Development: Creating a REST API with Actix Web for Beginners](https://blog.ediri.io/rust-development-creating-a-rest-api-with-actix-web-for-beginners) (3 weeks ago)
+- [Rust Development: Creating a REST API with Actix Web for Beginners](https://blog.ediri.io/rust-development-creating-a-rest-api-with-actix-web-for-beginners) (4 weeks ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (2 days ago)
-- [lbrlabs/pulumi-ovh](https://github.com/lbrlabs/pulumi-ovh) - Pulumi provider for OVH (2 days ago)
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (3 days ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (3 days ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (3 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [lbrlabs/pulumi-ovh](https://github.com/lbrlabs/pulumi-ovh) - Pulumi provider for OVH (3 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (4 days ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 1 day ago) - Container Signing
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1149.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1149.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.10](https://github.com/alexellis/arkade/releases/tag/0.9.10), 2 days ago) - Open Source Marketplace For Developer Tools
-- [lbrlabs/pulumi-ovh](https://github.com/lbrlabs/pulumi-ovh) ([v0.29.0](https://github.com/lbrlabs/pulumi-ovh/releases/tag/v0.29.0), 2 days ago) - Pulumi provider for OVH
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.13.0](https://github.com/dirien/pulumi-vultr/releases/tag/v2.13.0), 3 days ago) - Pulumi provider for Vultr
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.0.1](https://github.com/sigstore/cosign/releases/tag/v2.0.1), 2 days ago) - Container Signing
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1149.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1149.0), 3 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.10](https://github.com/alexellis/arkade/releases/tag/0.9.10), 3 days ago) - Open Source Marketplace For Developer Tools
+- [lbrlabs/pulumi-ovh](https://github.com/lbrlabs/pulumi-ovh) ([v0.29.0](https://github.com/lbrlabs/pulumi-ovh/releases/tag/v0.29.0), 3 days ago) - Pulumi provider for OVH
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.13.0](https://github.com/dirien/pulumi-vultr/releases/tag/v2.13.0), 4 days ago) - Pulumi provider for Vultr
 
 #### ⭐ Latest repositories I starred
 
-- [functionless/eventual](https://github.com/functionless/eventual) - Build scalable and durable micro-services with APIs, Messaging and Workflows - 22 stars
+- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment - 466 stars
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! - 21043 stars
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter - 5583 stars
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go - 3762 stars
+- [functionless/eventual](https://github.com/functionless/eventual) - Build scalable and durable micro-services with APIs, Messaging and Workflows - 26 stars
 - [ericlewis/ai-plugin-hackernews](https://github.com/ericlewis/ai-plugin-hackernews) -  - 2 stars
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. - 61368 stars
-- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. - 1814 stars
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. - 62047 stars
+- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. - 1862 stars
 - [navig8s/navig8](https://github.com/navig8s/navig8) - Simplify and Visualize Helm Deployments - 21 stars
-- [bencgreenberg/github-action-gpt-language-check](https://github.com/bencgreenberg/github-action-gpt-language-check) - A GitHub Action that uses ChatGPT to review Markdown files in pull requests for potentially discriminatory language and provides inclusive language suggestions - 2 stars
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm - 51264 stars
-- [volvo-cars/lingon](https://github.com/volvo-cars/lingon) - Lingon is a collection of libraries and tools for building platforms using Go. - 34 stars
-- [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud! - 49 stars
-- [nobl9/ekg](https://github.com/nobl9/ekg) - Essential Kubernetes Gauges - 61 stars
+- [bencgreenberg/github-action-gpt-language-check](https://github.com/bencgreenberg/github-action-gpt-language-check) - A GitHub Action that uses ChatGPT to review Markdown files in pull requests for potentially discriminatory language and provides inclusive language suggestions - 3 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/49463dc8-a3ef-4917-9a47-fa9b9681880a/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dcf3ea8b-6789-4913-ac53-1c1fd69897be/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
