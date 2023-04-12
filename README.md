@@ -14,41 +14,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Fiber (Go) vs. Nickel.rs (Rust): A Performance Showdown in &#39;Hello World&#39;](https://blog.ediri.io/fiber-go-vs-nickelrs-rust-a-performance-showdown-in-hello-world) (3 days ago)
-- [Leveraging Pulumi to Incorporate AWS Cognito as an Identity Provider for ArgoCD](https://blog.ediri.io/leveraging-pulumi-to-incorporate-aws-cognito-as-an-identity-provider-for-argocd) (6 days ago)
+- [Fiber (Go) vs. Nickel.rs (Rust): A Performance Showdown in &#39;Hello World&#39;](https://blog.ediri.io/fiber-go-vs-nickelrs-rust-a-performance-showdown-in-hello-world) (4 days ago)
+- [Leveraging Pulumi to Incorporate AWS Cognito as an Identity Provider for ArgoCD](https://blog.ediri.io/leveraging-pulumi-to-incorporate-aws-cognito-as-an-identity-provider-for-argocd) (1 week ago)
 - [Observability Made Easy: Building a RESTful API with Actix Web and OpenTelemetry](https://blog.ediri.io/observability-made-easy-building-a-restful-api-with-actix-web-and-opentelemetry) (1 week ago)
 - [Step-by-Step Guide: Setting Up WASI Node Pools for AKS and Running WASM Spin Applications all with Pulumi](https://blog.ediri.io/step-by-step-guide-setting-up-wasi-node-pools-for-aks-and-running-wasm-spin-applications-all-with-pulumi) (2 weeks ago)
-- [Minecraft Server: Secrets, Observability, Kubernetes and more with Pulumi and Scaleway](https://blog.ediri.io/minecraft-server-secrets-observability-kubernetes-and-more-with-pulumi-and-scaleway) (2 weeks ago)
+- [Minecraft Server: Secrets, Observability, Kubernetes and more with Pulumi and Scaleway](https://blog.ediri.io/minecraft-server-secrets-observability-kubernetes-and-more-with-pulumi-and-scaleway) (3 weeks ago)
 - [Building a RESTful API with Actix Web and Diesel for Persistent Data Storage](https://blog.ediri.io/building-a-restful-api-with-actix-web-and-diesel-for-persistent-data-storage) (3 weeks ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (6 days ago)
-- [lbrlabs/pulumi-ovh](https://github.com/lbrlabs/pulumi-ovh) - Pulumi provider for OVH (6 days ago)
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (1 week ago)
+- [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) - Pulumi provider for Scaleway, the European cloud provider (1 day ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (2 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (5 days ago)
+- [lbrlabs/pulumi-ovh](https://github.com/lbrlabs/pulumi-ovh) - Pulumi provider for OVH (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) ([v1.5.0](https://github.com/dirien/pulumi-azapi/releases/tag/v1.5.0), 1 day ago) - Pulumi provider for Azure API Management
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([starboard-operator-0.10.12](https://github.com/aquasecurity/helm-charts/releases/tag/starboard-operator-0.10.12), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1151.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1151.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) ([v2.16.2](https://github.com/dirien/pulumi-scaleway/releases/tag/v2.16.2), 2 days ago) - Pulumi provider for Scaleway
+- [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) ([v2.16.2](https://github.com/lbrlabs/pulumi-scaleway/releases/tag/v2.16.2), 1 day ago) - Pulumi provider for Scaleway, the European cloud provider
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.12](https://github.com/alexellis/arkade/releases/tag/0.9.12), 1 day ago) - Open Source Marketplace For Developer Tools
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.17.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.17.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) ([v1.5.0](https://github.com/dirien/pulumi-azapi/releases/tag/v1.5.0), 2 days ago) - Pulumi provider for Azure API Management
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([starboard-operator-0.10.12](https://github.com/aquasecurity/helm-charts/releases/tag/starboard-operator-0.10.12), 2 days ago) - Aqua Open Source Helm Chart Repository
 
 #### ⭐ Latest repositories I starred
 
-- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 - 3030 stars
-- [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go - 4185 stars
-- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool - 34199 stars
-- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http - 19363 stars
-- [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust - 2996 stars
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go - 25695 stars
-- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment - 495 stars
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! - 21049 stars
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter - 5604 stars
-- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go - 3768 stars
+- [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a &#34;Vulnerable by Design&#34; cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀 - 3043 stars
+- [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go - 4186 stars
+- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool - 34205 stars
+- [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http - 19375 stars
+- [nickel-org/nickel.rs](https://github.com/nickel-org/nickel.rs) - An expressjs inspired web framework for Rust - 2999 stars
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go - 25716 stars
+- [humblepenguinn/envio](https://github.com/humblepenguinn/envio) - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment - 507 stars
+- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It&#39;s over 9000! - 21056 stars
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter - 5613 stars
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go - 3772 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/49463dc8-a3ef-4917-9a47-fa9b9681880a/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dcf3ea8b-6789-4913-ac53-1c1fd69897be/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
