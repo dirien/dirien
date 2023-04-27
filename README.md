@@ -23,40 +23,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 day ago)
-- [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) - Pulumi provider for Scaleway, the European cloud provider (1 day ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
+- [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) - Pulumi provider for Scaleway, the European cloud provider (2 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (2 days ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (1 week ago)
 - [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.23.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.23.1), 1 day ago) - Node-red Helm Chart
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.38](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.38), 1 day ago) - Azure DevOps Extension for GoReleaser
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) ([v2.17.0](https://github.com/dirien/pulumi-scaleway/releases/tag/v2.17.0), 1 day ago) - Pulumi provider for Scaleway
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) ([v0.8.25](https://github.com/pulumiverse/pulumi-aquasec/releases/tag/v0.8.25), 1 day ago) - Pulumi provider for Aquasec
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.13.2-rc](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.13.2-rc), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.11.4](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.11.4), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1158.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1158.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.23.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.23.1), 2 days ago) - Node-red Helm Chart
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.38](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.38), 2 days ago) - Azure DevOps Extension for GoReleaser
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) ([v2.17.0](https://github.com/dirien/pulumi-scaleway/releases/tag/v2.17.0), 2 days ago) - Pulumi provider for Scaleway
 
 #### ⭐ Latest repositories I starred
 
-- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky - 3256 stars
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 114777 stars
+- [pulumi/premium-policies-registry](https://github.com/pulumi/premium-policies-registry) - An AWS TypeScript app to deploy a NPM registry and its proxy to host our Pulumi Premium Policies - 1 stars
+- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky - 3320 stars
 - [Qovery/terraform-provider-qovery](https://github.com/Qovery/terraform-provider-qovery) - Qovery Terraform Provider - 12 stars
 - [evoxmusic/lifecycle-job-examples](https://github.com/evoxmusic/lifecycle-job-examples) -  This repository contains ready to use Qovery Lifecycle Jobs examples - 2 stars
-- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. - 357 stars
-- [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM - 437 stars
+- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. - 361 stars
+- [JS-DevTools/npm-publish](https://github.com/JS-DevTools/npm-publish) - GitHub Action to publish to NPM - 438 stars
 - [tetratelabs/pulumi-checkmate](https://github.com/tetratelabs/pulumi-checkmate) -  - 2 stars
 - [kubernetes-sigs/cluster-api-provider-kubemark](https://github.com/kubernetes-sigs/cluster-api-provider-kubemark) - CAPK is a provider for Cluster API (CAPI) that allows users to deploy fake, Kubemark-backed machines to their clusters. - 32 stars
 - [kubernetes/perf-tests](https://github.com/kubernetes/perf-tests) - Performance tests and benchmarks - 771 stars
-- [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains - 25 stars
-- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool. - 1956 stars
 
 #### 👥 Latest follower
 
+- [fil-ili](https://github.com/fil-ili) - Filip Ilievski
 - [edith007](https://github.com/edith007) - Siddharth Asthana
 - [harshsingh32](https://github.com/harshsingh32) - Harsh Singh
 - [roib20](https://github.com/roib20) - 
 - [maniroudsari](https://github.com/maniroudsari) - Mani
-- [vsramalwan](https://github.com/vsramalwan) - Vinod
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dcf3ea8b-6789-4913-ac53-1c1fd69897be/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
