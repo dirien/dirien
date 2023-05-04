@@ -14,41 +14,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Bulletproof Your Project: Automate NPM Package Security Fixes with Recurring CI Tasks!](https://blog.ediri.io/bulletproof-your-project-automate-npm-package-security-fixes-with-recurring-ci-tasks) (5 days ago)
-- [Learn Rust with ChatGPT](https://blog.ediri.io/learn-rust-with-chatgpt) (6 days ago)
+- [Bulletproof Your Project: Automate NPM Package Security Fixes with Recurring CI Tasks!](https://blog.ediri.io/bulletproof-your-project-automate-npm-package-security-fixes-with-recurring-ci-tasks) (6 days ago)
+- [Learn Rust with ChatGPT](https://blog.ediri.io/learn-rust-with-chatgpt) (1 week ago)
 - [KCD Israel Unplugged: My Thrilling Cloud Native Adventure in Tel Aviv!](https://blog.ediri.io/kcd-israel-unplugged-my-thrilling-cloud-native-adventure-in-tel-aviv) (2 weeks ago)
 - [Fiber (Go) vs. Nickel.rs (Rust): A Performance Showdown in &#39;Hello World&#39;](https://blog.ediri.io/fiber-go-vs-nickelrs-rust-a-performance-showdown-in-hello-world) (3 weeks ago)
 - [Leveraging Pulumi to Incorporate AWS Cognito as an Identity Provider for ArgoCD](https://blog.ediri.io/leveraging-pulumi-to-incorporate-aws-cognito-as-an-identity-provider-for-argocd) (4 weeks ago)
-- [Observability Made Easy: Building a RESTful API with Actix Web and OpenTelemetry](https://blog.ediri.io/observability-made-easy-building-a-restful-api-with-actix-web-and-opentelemetry) (4 weeks ago)
+- [Observability Made Easy: Building a RESTful API with Actix Web and OpenTelemetry](https://blog.ediri.io/observability-made-easy-building-a-restful-api-with-actix-web-and-opentelemetry) (1 month ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (4 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (4 days ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (5 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (5 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (5 days ago)
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (6 days ago)
 - [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) - Pulumi provider for Scaleway, the European cloud provider (1 week ago)
 - [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [go-acme/lego](https://github.com/go-acme/lego) ([v4.11.0](https://github.com/go-acme/lego/releases/tag/v4.11.0), 1 day ago) - Let&#39;s Encrypt/ACME client and library written in Go
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.11.5](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.11.5), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.13](https://github.com/libdns/civo/releases/tag/v0.1.13), 2 days ago) - Civo DNS implementation for libdns
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([8.12.1](https://github.com/simple-icons/simple-icons/releases/tag/8.12.1), 3 days ago) - SVG icons for popular brands
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.24](https://github.com/dirien/pulumi-github/releases/tag/v0.2.24), 4 days ago) - Pulumi program to manage my GitHub repositories
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.16](https://github.com/alexellis/arkade/releases/tag/0.9.16), 1 day ago) - Open Source Marketplace For Developer Tools
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1160.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1160.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [go-acme/lego](https://github.com/go-acme/lego) ([v4.11.0](https://github.com/go-acme/lego/releases/tag/v4.11.0), 2 days ago) - Let&#39;s Encrypt/ACME client and library written in Go
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.11.5](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.11.5), 3 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.13](https://github.com/libdns/civo/releases/tag/v0.1.13), 3 days ago) - Civo DNS implementation for libdns
 
 #### ⭐ Latest repositories I starred
 
-- [calufa/BioGPT-Kubernetes-Pulumi-GCP](https://github.com/calufa/BioGPT-Kubernetes-Pulumi-GCP) -  - 3 stars
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. - 25404 stars
+- [ray-project/kuberay](https://github.com/ray-project/kuberay) - A toolkit to run Ray applications on Kubernetes - 329 stars
+- [calufa/BioGPT-Kubernetes-Pulumi-GCP](https://github.com/calufa/BioGPT-Kubernetes-Pulumi-GCP) -  - 6 stars
 - [MitchellGerdisch/pulumi-work](https://github.com/MitchellGerdisch/pulumi-work) -  - 5 stars
 - [csantanapr/blueprints-destroy](https://github.com/csantanapr/blueprints-destroy) -  - 1 stars
 - [atc0005/go-teams-notify](https://github.com/atc0005/go-teams-notify) - A package to send messages to a Microsoft Teams channel - 57 stars
 - [pulumi/pulumi-ai](https://github.com/pulumi/pulumi-ai) -  - 93 stars
-- [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues. - 639 stars
-- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 - 3210 stars
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 121939 stars
-- [pulumi/premium-policies-registry](https://github.com/pulumi/premium-policies-registry) - An AWS TypeScript app to deploy a NPM registry and its proxy to host our Pulumi Premium Policies - 1 stars
-- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky - 3845 stars
+- [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues. - 645 stars
+- [tailwarden/komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level 💰 - 3213 stars
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. - 122869 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
