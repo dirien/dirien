@@ -14,7 +14,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Advanced Secrets Management on Kubernetes with Pulumi: Doppler Secrets Operator](https://blog.ediri.io/advanced-secrets-management-on-kubernetes-with-pulumi-doppler-secrets-operator) (6 days ago)
+- [Advanced Secrets Management on Kubernetes with Pulumi: Doppler Secrets Operator](https://blog.ediri.io/advanced-secrets-management-on-kubernetes-with-pulumi-doppler-secrets-operator) (1 week ago)
 - [Bulletproof Your Project: Automate NPM Package Security Fixes with Recurring CI Tasks!](https://blog.ediri.io/bulletproof-your-project-automate-npm-package-security-fixes-with-recurring-ci-tasks) (3 weeks ago)
 - [Learn Rust with ChatGPT](https://blog.ediri.io/learn-rust-with-chatgpt) (3 weeks ago)
 - [KCD Israel Unplugged: My Thrilling Cloud Native Adventure in Tel Aviv!](https://blog.ediri.io/kcd-israel-unplugged-my-thrilling-cloud-native-adventure-in-tel-aviv) (1 month ago)
@@ -24,30 +24,30 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 #### 👷 I'm currently working on
 
 - [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (1 day ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 day ago)
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (4 days ago)
-- [dirien/hello-server](https://github.com/dirien/hello-server) - Simple Server written in different languages and provided as container image (5 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (6 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (1 day ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 day ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (2 days ago)
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - This repository list a maximum of tech conferences&#39;s date and CFP in order to help conferences organizers, speakers &amp; attendees (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) ([v2.19.0](https://github.com/dirien/pulumi-scaleway/releases/tag/v2.19.0), 1 day ago) - Pulumi provider for Scaleway
 - [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) ([v1.6.0](https://github.com/dirien/pulumi-azapi/releases/tag/v1.6.0), 1 day ago) - Pulumi provider for Azure API Management
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.15.1](https://github.com/dirien/pulumi-vultr/releases/tag/v2.15.1), 1 day ago) - Pulumi provider for Vultr
-- [libdns/civo](https://github.com/libdns/civo) ([v0.1.14](https://github.com/libdns/civo/releases/tag/v0.1.14), 1 day ago) - Civo DNS implementation for libdns
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.48.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.48.0), 1 day ago) - Pulumi provider for Exoscale
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.17](https://github.com/alexellis/arkade/releases/tag/0.9.17), 2 days ago) - Open Source Marketplace For Developer Tools
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.15.1](https://github.com/dirien/pulumi-vultr/releases/tag/v2.15.1), 2 days ago) - Pulumi provider for Vultr
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.14](https://github.com/libdns/civo/releases/tag/v0.1.14), 2 days ago) - Civo DNS implementation for libdns
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.48.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.48.0), 2 days ago) - Pulumi provider for Exoscale
 
 #### ⭐ Latest repositories I starred
 
-- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics - 465 stars
+- [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe energy related system stats and exports as Prometheus metrics - 467 stars
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets! - 132 stars
 - [DopplerHQ/kubernetes-operator](https://github.com/DopplerHQ/kubernetes-operator) -  - 28 stars
 - [microsoft/NubesGen](https://github.com/microsoft/NubesGen) - Going to production on Azure is only one `git push` away - 262 stars
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations - 594 stars
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations - 597 stars
 - [oslabs-beta/kaptn](https://github.com/oslabs-beta/kaptn) - A powerful K8s development tool - 61 stars
 - [umputun/spot](https://github.com/umputun/spot) - A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines. - 187 stars
 - [hardbyte/netchecks](https://github.com/hardbyte/netchecks) - Tool to validate assumptions about the network - 50 stars
-- [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) -  - 58 stars
+- [defenseunicorns/pepr](https://github.com/defenseunicorns/pepr) - Typescript &#43; plain language api &#43; K8s = 🎸 - 65 stars
 - [bwplotka/mimic](https://github.com/bwplotka/mimic) - mimic: Define your Deployments, Infrastructure and Configuration as a Go Code 🚀 - 224 stars
 
 #### 👥 Latest follower
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
