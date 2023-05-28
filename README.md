@@ -14,8 +14,8 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Advanced Secrets Management on Kubernetes with Pulumi: Doppler Secrets Operator](https://blog.ediri.io/advanced-secrets-management-on-kubernetes-with-pulumi-doppler-secrets-operator) (1 week ago)
-- [Bulletproof Your Project: Automate NPM Package Security Fixes with Recurring CI Tasks!](https://blog.ediri.io/bulletproof-your-project-automate-npm-package-security-fixes-with-recurring-ci-tasks) (4 weeks ago)
+- [Advanced Secrets Management on Kubernetes with Pulumi: Doppler Secrets Operator](https://blog.ediri.io/advanced-secrets-management-on-kubernetes-with-pulumi-doppler-secrets-operator) (2 weeks ago)
+- [Bulletproof Your Project: Automate NPM Package Security Fixes with Recurring CI Tasks!](https://blog.ediri.io/bulletproof-your-project-automate-npm-package-security-fixes-with-recurring-ci-tasks) (1 month ago)
 - [Learn Rust with ChatGPT](https://blog.ediri.io/learn-rust-with-chatgpt) (1 month ago)
 - [KCD Israel Unplugged: My Thrilling Cloud Native Adventure in Tel Aviv!](https://blog.ediri.io/kcd-israel-unplugged-my-thrilling-cloud-native-adventure-in-tel-aviv) (1 month ago)
 - [Fiber (Go) vs. Nickel.rs (Rust): A Performance Showdown in &#39;Hello World&#39;](https://blog.ediri.io/fiber-go-vs-nickelrs-rust-a-performance-showdown-in-hello-world) (1 month ago)
@@ -23,32 +23,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/vienna-devops-meetup](https://github.com/dirien/vienna-devops-meetup) - Demo code for the Vienna DevOps Meetup (2 days ago)
-- [whiteducksoftware/azure-meetup-rosenheim](https://github.com/whiteducksoftware/azure-meetup-rosenheim) -  (2 days ago)
-- [dirien/azure-rosenheim-meetup](https://github.com/dirien/azure-rosenheim-meetup) -  (2 days ago)
-- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (6 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (6 days ago)
+- [dirien/vienna-devops-meetup](https://github.com/dirien/vienna-devops-meetup) - Demo code for the Vienna DevOps Meetup (3 days ago)
+- [whiteducksoftware/azure-meetup-rosenheim](https://github.com/whiteducksoftware/azure-meetup-rosenheim) -  (3 days ago)
+- [dirien/azure-rosenheim-meetup](https://github.com/dirien/azure-rosenheim-meetup) -  (3 days ago)
+- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (1 week ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.18](https://github.com/alexellis/arkade/releases/tag/0.9.18), 1 day ago) - Open Source Marketplace For Developer Tools
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1180.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1180.0), 3 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.12.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.12.1), 5 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) ([v0.1.0](https://github.com/dirien/devpod-provider-scaleway/releases/tag/v0.1.0), 6 days ago) - DevPod on Scaleway 🇫🇷
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.25](https://github.com/dirien/pulumi-github/releases/tag/v0.2.25), 6 days ago) - Pulumi program to manage my GitHub repositories
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.18](https://github.com/alexellis/arkade/releases/tag/0.9.18), 2 days ago) - Open Source Marketplace For Developer Tools
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1180.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1180.0), 4 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v1.12.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v1.12.1), 6 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) ([v0.1.0](https://github.com/dirien/devpod-provider-scaleway/releases/tag/v0.1.0), 1 week ago) - DevPod on Scaleway 🇫🇷
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.25](https://github.com/dirien/pulumi-github/releases/tag/v0.2.25), 1 week ago) - Pulumi program to manage my GitHub repositories
 
 #### ⭐ Latest repositories I starred
 
-- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4. - 5571 stars
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. - 9016 stars
+- [awslabs/specctl](https://github.com/awslabs/specctl) - CLI to convert Kubernetes specifications to ECS Fargate and vice-versa - 142 stars
+- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  - 2209 stars
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec - 2533 stars
+- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4. - 5608 stars
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. - 9040 stars
 - [endjin/adventures-in-dapr](https://github.com/endjin/adventures-in-dapr) - This repository supports a blogs series based on the Dapr sample from https://github.com/EdwinVW/dapr-traffic-control - 11 stars
 - [tjoudeh/ACA.Grafana.Demo](https://github.com/tjoudeh/ACA.Grafana.Demo) -  - 5 stars
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals - 22027 stars
-- [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Enterprise-grade Reference Architecture for JavaScript - 164 stars
-- [sirrend/terrap-cli](https://github.com/sirrend/terrap-cli) - Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes. - 43 stars
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone. - 16048 stars
-- [robusta-dev/chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - Give ChatGPT full knowledge of Kubernetes schemas &#43; validation capabilities - 79 stars
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker. - 900 stars
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals - 22034 stars
+- [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Enterprise-grade Reference Architecture for JavaScript - 172 stars
+- [sirrend/terrap-cli](https://github.com/sirrend/terrap-cli) - Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes. - 51 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
