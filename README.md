@@ -23,32 +23,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/devpod-provider-hetzner](https://github.com/dirien/devpod-provider-hetzner) - DevPod on Hetzner 🇩🇪 with Rust 🦀 (today)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (today)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (today)
-- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (1 day ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/devpod-provider-hetzner](https://github.com/dirien/devpod-provider-hetzner) - DevPod on Hetzner 🇩🇪 with Rust 🦀 (1 day ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.12.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.12.0), 1 day ago) - SDK for every minectl product
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.26](https://github.com/dirien/pulumi-github/releases/tag/v0.2.26), 1 day ago) - Pulumi program to manage my GitHub repositories
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.14.0-rc](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.14.0-rc), 1 day ago) - Aqua Open Source Helm Chart Repository
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.14.0-rc](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.14.0-rc), 1 day ago) - Kubernetes-native security toolkit
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) ([v3.9.1](https://github.com/pulumiverse/pulumi-harbor/releases/tag/v3.9.1), 1 day ago) - A Pulumi native provider Harbor
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1181.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1181.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.12.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.12.0), 2 days ago) - SDK for every minectl product
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.26](https://github.com/dirien/pulumi-github/releases/tag/v0.2.26), 2 days ago) - Pulumi program to manage my GitHub repositories
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([trivy-operator-0.14.0-rc](https://github.com/aquasecurity/helm-charts/releases/tag/trivy-operator-0.14.0-rc), 2 days ago) - Aqua Open Source Helm Chart Repository
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.14.0-rc](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.14.0-rc), 2 days ago) - Kubernetes-native security toolkit
 
 #### ⭐ Latest repositories I starred
 
-- [awslabs/specctl](https://github.com/awslabs/specctl) - CLI to convert Kubernetes specifications to ECS Fargate and vice-versa - 149 stars
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  - 3277 stars
-- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec - 2549 stars
-- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4. - 5724 stars
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. - 9112 stars
+- [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all - 44 stars
+- [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. - 436 stars
+- [awslabs/specctl](https://github.com/awslabs/specctl) - CLI to convert Kubernetes specifications to ECS Fargate and vice-versa - 152 stars
+- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  - 3652 stars
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec - 2552 stars
+- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4. - 5767 stars
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. - 9129 stars
 - [endjin/adventures-in-dapr](https://github.com/endjin/adventures-in-dapr) - This repository supports a blogs series based on the Dapr sample from https://github.com/EdwinVW/dapr-traffic-control - 11 stars
 - [tjoudeh/ACA.Grafana.Demo](https://github.com/tjoudeh/ACA.Grafana.Demo) -  - 5 stars
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals - 22066 stars
-- [Azure-Samples/contoso-real-estate](https://github.com/Azure-Samples/contoso-real-estate) - Enterprise-grade Reference Architecture for JavaScript - 195 stars
-- [sirrend/terrap-cli](https://github.com/sirrend/terrap-cli) - Terrap - a powerful CLI tool that scans your infrastructure and identifies any required changes. - 54 stars
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals - 22078 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
