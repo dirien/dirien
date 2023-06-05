@@ -24,31 +24,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 #### 👷 I'm currently working on
 
 - [dirien/devpod-provider-hetzner](https://github.com/dirien/devpod-provider-hetzner) - DevPod on Hetzner 🇩🇪 with Rust 🦀 (1 day ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (2 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (2 days ago)
-- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (4 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (4 days ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (3 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (3 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (5 days ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
+- [bots-garden/capsule](https://github.com/bots-garden/capsule) ([v0.3.9](https://github.com/bots-garden/capsule/releases/tag/v0.3.9), 1 day ago) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and MQTT
 - [dirien/devpod-provider-hetzner](https://github.com/dirien/devpod-provider-hetzner) ([v0.1.0](https://github.com/dirien/devpod-provider-hetzner/releases/tag/v0.1.0), 1 day ago) - DevPod on Hetzner 🇩🇪 with Rust 🦀
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1184.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1184.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.30.0](https://github.com/dirien/minectl/releases/tag/v0.30.0), 2 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.24.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.24.1), 2 days ago) - Node-red Helm Chart
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([harbor-scanner-trivy-0.30.12](https://github.com/aquasecurity/helm-charts/releases/tag/harbor-scanner-trivy-0.30.12), 2 days ago) - Aqua Open Source Helm Chart Repository
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1184.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1184.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.30.0](https://github.com/dirien/minectl/releases/tag/v0.30.0), 3 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.24.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.24.1), 3 days ago) - Node-red Helm Chart
 
 #### ⭐ Latest repositories I starred
 
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust - 8932 stars
-- [dev-wasm/dev-wasm-go](https://github.com/dev-wasm/dev-wasm-go) - Simple devcontainer for Golang &#43; WASM development - 13 stars
-- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron - 41 stars
-- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history - 9964 stars
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow - 3760 stars
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs - 1887 stars
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust - 8946 stars
+- [dev-wasm/dev-wasm-go](https://github.com/dev-wasm/dev-wasm-go) - Simple devcontainer for Golang &#43; WASM development - 14 stars
+- [k0sproject/k0smotron](https://github.com/k0sproject/k0smotron) - k0smotron - 46 stars
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history - 9972 stars
 - [houseabsolute/precious](https://github.com/houseabsolute/precious) - One code quality tool to rule them all - 44 stars
 - [stefanprodan/timoni](https://github.com/stefanprodan/timoni) - Timoni is a package manager for Kubernetes, powered by CUE and inspired by Helm. - 439 stars
-- [awslabs/specctl](https://github.com/awslabs/specctl) - CLI to convert Kubernetes specifications to ECS Fargate and vice-versa - 157 stars
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  - 4044 stars
-- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec - 2561 stars
-- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4. - 5835 stars
+- [awslabs/specctl](https://github.com/awslabs/specctl) - CLI to convert Kubernetes specifications to ECS Fargate and vice-versa - 159 stars
+- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  - 4080 stars
 
 #### 👥 Latest follower
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
