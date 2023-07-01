@@ -14,7 +14,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [How to build an SSH client using Rust 🦀](https://blog.ediri.io/how-to-build-an-ssh-client-using-rust) (1 week ago)
+- [How to build an SSH client using Rust 🦀](https://blog.ediri.io/how-to-build-an-ssh-client-using-rust) (2 weeks ago)
 - [How To Upgrade Your AKS Cluster Using Only Pulumi](https://blog.ediri.io/how-to-upgrade-your-aks-cluster-using-only-pulumi) (2 weeks ago)
 - [Advanced Secrets Management on Kubernetes with Pulumi: Doppler Secrets Operator](https://blog.ediri.io/advanced-secrets-management-on-kubernetes-with-pulumi-doppler-secrets-operator) (1 month ago)
 - [Bulletproof Your Project: Automate NPM Package Security Fixes with Recurring CI Tasks!](https://blog.ediri.io/bulletproof-your-project-automate-npm-package-security-fixes-with-recurring-ci-tasks) (2 months ago)
@@ -23,40 +23,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [my-silly-organisation/microservice-civo](https://github.com/my-silly-organisation/microservice-civo) -  (1 day ago)
+- [pulumiverse/backstage-plugin-pulumi](https://github.com/pulumiverse/backstage-plugin-pulumi) - Backstage plugin for Pulumi (1 day ago)
 - [my-silly-organisation/backstage-plugin-pulumi](https://github.com/my-silly-organisation/backstage-plugin-pulumi) -  (1 day ago)
-- [pulumiverse/backstage-plugin-pulumi](https://github.com/pulumiverse/backstage-plugin-pulumi) - Backstage plugin for Pulumi (4 days ago)
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) - Azure Native Provider (4 days ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (5 days ago)
+- [my-silly-organisation/microservice-civo](https://github.com/my-silly-organisation/microservice-civo) -  (1 day ago)
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) - Azure Native Provider (5 days ago)
+- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.1.11-beta.0](https://github.com/loft-sh/devpod/releases/tag/v0.1.11-beta.0), 2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.23](https://github.com/alexellis/arkade/releases/tag/0.9.23), 2 days ago) - Open Source Marketplace For Developer Tools
-- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 3 days ago) - Container Signing
-- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) ([v0.1.0](https://github.com/dirien/devpod-provider-equinix/releases/tag/v0.1.0), 5 days ago) - DevPod on Equinix Metal
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([harbor-scanner-trivy-0.30.13](https://github.com/aquasecurity/helm-charts/releases/tag/harbor-scanner-trivy-0.30.13), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.1.11-beta.0](https://github.com/loft-sh/devpod/releases/tag/v0.1.11-beta.0), 3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.23](https://github.com/alexellis/arkade/releases/tag/0.9.23), 3 days ago) - Open Source Marketplace For Developer Tools
+- [sigstore/cosign](https://github.com/sigstore/cosign) ([v2.1.1](https://github.com/sigstore/cosign/releases/tag/v2.1.1), 4 days ago) - Container Signing
 
 #### ⭐ Latest repositories I starred
 
 - [backstage/upgrade-helper](https://github.com/backstage/upgrade-helper) - A web tool to support Backstage developers in upgrading their apps. - 60 stars
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. - 8235 stars
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. - 8239 stars
 - [Ma11hewThomas/matthew-thomas-backstage-plugins](https://github.com/Ma11hewThomas/matthew-thomas-backstage-plugins) - A collection of backstage plugins - 1 stars
 - [dlorenc/incert](https://github.com/dlorenc/incert) -  - 70 stars
 - [nduyphuong/poorman-registry](https://github.com/nduyphuong/poorman-registry) - Saving cost while still enjoying 0-CVE Images - 26 stars
 - [janus-idp/software-templates](https://github.com/janus-idp/software-templates) - Software Template (Backstage) - 11 stars
 - [pulumi/upgrade-provider](https://github.com/pulumi/upgrade-provider) - A tool to automate provider upgrades on your local machine - 5 stars
 - [oslabs-beta/ClusterWatch](https://github.com/oslabs-beta/ClusterWatch) - ClusterWatch provides seamless Kubernetes cluster visualization, monitoring, and alert management. - 123 stars
-- [nocalhost/nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Dev Environment. - 1628 stars
+- [nocalhost/nocalhost](https://github.com/nocalhost/nocalhost) - Nocalhost is Cloud Native Dev Environment. - 1629 stars
 - [salaboy/dapr-testcontainers](https://github.com/salaboy/dapr-testcontainers) - repo to create integration for dapr and testcontainers - 6 stars
 
 #### 👥 Latest follower
 
+- [NguyenHaiNam24082000](https://github.com/NguyenHaiNam24082000) - Nguyễn Hải Nam
 - [AjitKumarRoy](https://github.com/AjitKumarRoy) - 
 - [Huyxu2k](https://github.com/Huyxu2k) - 
 - [pawel-tarsa](https://github.com/pawel-tarsa) - 
 - [Pankhur](https://github.com/Pankhur) - Pankhur
-- [svngoku](https://github.com/svngoku) - 
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
