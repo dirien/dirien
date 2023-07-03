@@ -23,24 +23,24 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 day ago)
-- [pulumiverse/backstage-plugin-pulumi](https://github.com/pulumiverse/backstage-plugin-pulumi) - Backstage plugin for Pulumi (2 days ago)
-- [my-silly-organisation/microservice-civo](https://github.com/my-silly-organisation/microservice-civo) -  (2 days ago)
-- [my-silly-organisation/backstage-plugin-pulumi](https://github.com/my-silly-organisation/backstage-plugin-pulumi) -  (2 days ago)
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) - Azure Native Provider (6 days ago)
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (1 day ago)
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [dirien/pulumi-production-ready-kubernetes](https://github.com/dirien/pulumi-production-ready-kubernetes) - How To Build A Production Ready Kubernetes Cluster With Pulumi (1 day ago)
+- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.50.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.50.0), 1 day ago) - Pulumi provider for Exoscale
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) ([v2.22.0](https://github.com/dirien/pulumi-scaleway/releases/tag/v2.22.0), 1 day ago) - Pulumi provider for Scaleway
-- [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) ([v1.10.0](https://github.com/lbrlabs/pulumi-scaleway/releases/tag/v1.10.0), 1 day ago) - Pulumi provider for Scaleway, the European cloud provider
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([harbor-scanner-trivy-0.30.13](https://github.com/aquasecurity/helm-charts/releases/tag/harbor-scanner-trivy-0.30.13), 2 days ago) - Aqua Open Source Helm Chart Repository
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.19.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.19.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([tracee-0.16.0](https://github.com/aquasecurity/helm-charts/releases/tag/tracee-0.16.0), 1 day ago) - Aqua Open Source Helm Chart Repository
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) ([v0.0.23](https://github.com/dirien/pulumi-fly/releases/tag/v0.0.23), 1 day ago) - Pulumi provider for Fly.io
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.4.0](https://github.com/simple-icons/simple-icons/releases/tag/9.4.0), 1 day ago) - SVG icons for popular brands
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.29](https://github.com/dirien/pulumi-github/releases/tag/v0.2.29), 1 day ago) - Pulumi program to manage my GitHub repositories
+- [libdns/civo](https://github.com/libdns/civo) ([v0.1.15](https://github.com/libdns/civo/releases/tag/v0.1.15), 1 day ago) - Civo DNS implementation for libdns
 
 #### ⭐ Latest repositories I starred
 
 - [backstage/upgrade-helper](https://github.com/backstage/upgrade-helper) - A web tool to support Backstage developers in upgrading their apps. - 60 stars
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. - 8242 stars
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. - 8244 stars
 - [Ma11hewThomas/matthew-thomas-backstage-plugins](https://github.com/Ma11hewThomas/matthew-thomas-backstage-plugins) - A collection of backstage plugins - 1 stars
 - [dlorenc/incert](https://github.com/dlorenc/incert) -  - 70 stars
 - [nduyphuong/poorman-registry](https://github.com/nduyphuong/poorman-registry) - Saving cost while still enjoying 0-CVE Images - 26 stars
@@ -60,11 +60,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io
 - [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal
 - [dirien/pulumi-production-ready-kubernetes](https://github.com/dirien/pulumi-production-ready-kubernetes) - How To Build A Production Ready Kubernetes Cluster With Pulumi
 - [dirien/devpod-provider-hetzner](https://github.com/dirien/devpod-provider-hetzner) - DevPod on Hetzner 🇩🇪 with Rust 🦀
 - [dirien/azure-rosenheim-meetup](https://github.com/dirien/azure-rosenheim-meetup)
-- [dirien/vienna-devops-meetup](https://github.com/dirien/vienna-devops-meetup) - Demo code for the Vienna DevOps Meetup
 
 
 ## 🏗️ My Projects
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
