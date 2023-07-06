@@ -14,49 +14,49 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
+- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (1 day ago)
 - [How to build an SSH client using Rust 🦀](https://blog.ediri.io/how-to-build-an-ssh-client-using-rust) (2 weeks ago)
-- [How To Upgrade Your AKS Cluster Using Only Pulumi](https://blog.ediri.io/how-to-upgrade-your-aks-cluster-using-only-pulumi) (2 weeks ago)
+- [How To Upgrade Your AKS Cluster Using Only Pulumi](https://blog.ediri.io/how-to-upgrade-your-aks-cluster-using-only-pulumi) (3 weeks ago)
 - [Advanced Secrets Management on Kubernetes with Pulumi: Doppler Secrets Operator](https://blog.ediri.io/advanced-secrets-management-on-kubernetes-with-pulumi-doppler-secrets-operator) (1 month ago)
 - [Bulletproof Your Project: Automate NPM Package Security Fixes with Recurring CI Tasks!](https://blog.ediri.io/bulletproof-your-project-automate-npm-package-security-fixes-with-recurring-ci-tasks) (2 months ago)
 - [Learn Rust with ChatGPT](https://blog.ediri.io/learn-rust-with-chatgpt) (2 months ago)
-- [KCD Israel Unplugged: My Thrilling Cloud Native Adventure in Tel Aviv!](https://blog.ediri.io/kcd-israel-unplugged-my-thrilling-cloud-native-adventure-in-tel-aviv) (2 months ago)
 
 #### 👷 I'm currently working on
 
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (3 days ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (3 days ago)
-- [dirien/pulumi-production-ready-kubernetes](https://github.com/dirien/pulumi-production-ready-kubernetes) - How To Build A Production Ready Kubernetes Cluster With Pulumi (3 days ago)
-- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (3 days ago)
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (3 days ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (1 day ago)
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (1 day ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (4 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.2.0-beta.1](https://github.com/loft-sh/devpod/releases/tag/v0.2.0-beta.1), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [civo/civogo](https://github.com/civo/civogo) ([v0.3.38](https://github.com/civo/civogo/releases/tag/v0.3.38), 2 days ago) - Golang client to interact with Civo&#39;s API
-- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([tracee-0.16.0](https://github.com/aquasecurity/helm-charts/releases/tag/tracee-0.16.0), 3 days ago) - Aqua Open Source Helm Chart Repository
-- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) ([v0.0.23](https://github.com/dirien/pulumi-fly/releases/tag/v0.0.23), 3 days ago) - Pulumi provider for Fly.io
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.4.0](https://github.com/simple-icons/simple-icons/releases/tag/9.4.0), 3 days ago) - SVG icons for popular brands
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.2.0](https://github.com/loft-sh/devpod/releases/tag/v0.2.0), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v0.10.4](https://github.com/port-labs/pulumi-port/releases/tag/v0.10.4), 1 day ago)
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.9.24](https://github.com/alexellis/arkade/releases/tag/0.9.24), 1 day ago) - Open Source Marketplace For Developer Tools
+- [civo/civogo](https://github.com/civo/civogo) ([v0.3.38](https://github.com/civo/civogo/releases/tag/v0.3.38), 3 days ago) - Golang client to interact with Civo&#39;s API
+- [aquasecurity/helm-charts](https://github.com/aquasecurity/helm-charts) ([tracee-0.16.0](https://github.com/aquasecurity/helm-charts/releases/tag/tracee-0.16.0), 4 days ago) - Aqua Open Source Helm Chart Repository
 
 #### ⭐ Latest repositories I starred
 
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon) - 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon - 629 stars
 - [testcontainers/testcontainers-rs](https://github.com/testcontainers/testcontainers-rs) - A library for integration-testing against docker containers from within Rust. - 346 stars
 - [upbound/upjet](https://github.com/upbound/upjet) - A code generation framework and runtime for Crossplane providers - 132 stars
-- [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! - 1342 stars
+- [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it ! - 1344 stars
 - [fairingrey/actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app) - [UNMAINTAINED] Implementation of the RealWorld backend API spec in Actix, Rust&#39;s powerful actor system and most fun web framework. - 491 stars
 - [otterize/intents-operator](https://github.com/otterize/intents-operator) - Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease. - 238 stars
 - [Rookout/piper](https://github.com/Rookout/piper) - MultiBranch Pipeline For Argo Workflows  - 23 stars
-- [zerok-ai/kubectl-klone](https://github.com/zerok-ai/kubectl-klone) - Creates isolated replicas of your kubernetes pods for the purpose of remote debugging - 9 stars
+- [zerok-ai/kubectl-klone](https://github.com/zerok-ai/kubectl-klone) - Creates isolated replicas of your kubernetes pods for the purpose of remote debugging - 10 stars
 - [backstage/upgrade-helper](https://github.com/backstage/upgrade-helper) - A web tool to support Backstage developers in upgrading their apps. - 60 stars
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. - 8258 stars
-- [Ma11hewThomas/matthew-thomas-backstage-plugins](https://github.com/Ma11hewThomas/matthew-thomas-backstage-plugins) - A collection of backstage plugins - 1 stars
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. - 8260 stars
 
 #### 👥 Latest follower
 
+- [Rotfuks](https://github.com/Rotfuks) - Dominik Kress
 - [can-keklik](https://github.com/can-keklik) - V. Can Keklik
 - [ahsolopa](https://github.com/ahsolopa) - DedyKiyek
 - [Sharifi660](https://github.com/Sharifi660) - 
 - [ZrawchsDev](https://github.com/ZrawchsDev) - Knarf
-- [DevVoyager666](https://github.com/DevVoyager666) - Nahum Kayd
 
 #### 👨‍💻 Repositories I created recently
 
@@ -86,17 +86,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Service Mesh](https://images.credly.com/size/110x110/images/e66caa4d-9994-40f4-b88d-37531f48f272/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Service Mesh")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
