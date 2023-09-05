@@ -4,7 +4,8 @@
 
 I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and much more...
 
-[![](https://img.shields.io/badge/-@__ediri-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/_ediri)
+[![](https://img.shields.io/badge/-@__ediri-%231DA1F2?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/_ediri)
+[![](https://img.shields.io/badge/-engin-diri-%231DA1F2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/engin-diri/)
 [![](https://img.shields.io/badge/@_ediri@cloud--native.social-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://cloud-native.social/@_ediri)
 [![](https://img.shields.io/badge/-@dirien-%23181717?style=for-the-badge&logo=github)](https://github.com/dirien)
 [![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ediri/)
