@@ -15,7 +15,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (2 days ago)
+- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (3 days ago)
 - [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (3 weeks ago)
 - [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (1 month ago)
 - [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (1 month ago)
@@ -24,19 +24,19 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (today)
-- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (3 days ago)
-- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (3 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (5 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (4 days ago)
+- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (4 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (6 days ago)
 - [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v4.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.6.0), today) - GitHub Action for GoReleaser
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.0](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.0), today)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.16.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.16.0), today) - Kubernetes-native security toolkit
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.1), 1 day ago) - ArgoProj Helm Charts
-- [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) ([v0.33.0](https://github.com/ovh/pulumi-ovh/releases/tag/v0.33.0), 1 day ago) - Pulumi provider for OVHcloud
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v4.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.6.0), 1 day ago) - GitHub Action for GoReleaser
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.0](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.0), 1 day ago)
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.16.0](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.16.0), 1 day ago) - Kubernetes-native security toolkit
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.1), 2 days ago) - ArgoProj Helm Charts
+- [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) ([v0.33.0](https://github.com/ovh/pulumi-ovh/releases/tag/v0.33.0), 2 days ago) - Pulumi provider for OVHcloud
 
 #### ⭐ Latest repositories I starred
 
@@ -44,7 +44,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 - [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. - 1042 stars
 - [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) - Pulumi provider for OVHcloud - 1 stars
 - [timbohiatt/gke-at-scale-pulumi](https://github.com/timbohiatt/gke-at-scale-pulumi) - Deploy Multiple GKE Clusters behind a Google Cloud Global Load Balancer with Pulumi - 8 stars
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes - 1499 stars
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes - 1500 stars
 - [mochi-mqtt/server](https://github.com/mochi-mqtt/server) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub - 705 stars
 - [eigr/spawn](https://github.com/eigr/spawn) - Spawn - Actor Mesh - 133 stars
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record &amp; functional language mainly used in configuration and policy scenarios. https://kcl-lang.io - 752 stars
