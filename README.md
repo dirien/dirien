@@ -15,8 +15,8 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (5 days ago)
-- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (4 weeks ago)
+- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (6 days ago)
+- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (1 month ago)
 - [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (1 month ago)
 - [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (1 month ago)
 - [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (2 months ago)
@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [my-silly-organisation/pulumi-backstage-flux-gitops-aws](https://github.com/my-silly-organisation/pulumi-backstage-flux-gitops-aws) -  (1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (2 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (6 days ago)
-- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (6 days ago)
+- [my-silly-organisation/pulumi-backstage-flux-gitops-aws](https://github.com/my-silly-organisation/pulumi-backstage-flux-gitops-aws) -  (2 days ago)
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (3 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (4 days ago)
+- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (1 week ago)
+- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.0-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.4.0-alpha.1), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.2), 1 day ago) - ArgoProj Helm Charts
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-ocean-0.1.3](https://github.com/port-labs/helm-charts/releases/tag/port-ocean-0.1.3), 1 day ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v4.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.6.0), 3 days ago) - GitHub Action for GoReleaser
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.5), 1 day ago) - ArgoProj Helm Charts
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.4.0-alpha.2](https://github.com/loft-sh/devpod/releases/tag/v0.4.0-alpha.2), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-ocean-0.1.3](https://github.com/port-labs/helm-charts/releases/tag/port-ocean-0.1.3), 2 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) ([v4.6.0](https://github.com/goreleaser/goreleaser-action/releases/tag/v4.6.0), 4 days ago) - GitHub Action for GoReleaser
 
 #### ⭐ Latest repositories I starred
 
+- [pulumi/tutorial-pulumi-fundamentals](https://github.com/pulumi/tutorial-pulumi-fundamentals) -  - 8 stars
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications - 24928 stars
 - [progrium/docker-stress](https://github.com/progrium/docker-stress) - Docker container for generating workload stress - 218 stars
-- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti - 1328 stars
-- [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. - 1070 stars
-- [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) - Pulumi provider for OVHcloud - 1 stars
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti - 1327 stars
+- [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. - 1084 stars
+- [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) - Pulumi provider for OVHcloud - 2 stars
 - [timbohiatt/gke-at-scale-pulumi](https://github.com/timbohiatt/gke-at-scale-pulumi) - Deploy Multiple GKE Clusters behind a Google Cloud Global Load Balancer with Pulumi - 8 stars
-- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes - 1555 stars
-- [mochi-mqtt/server](https://github.com/mochi-mqtt/server) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub - 707 stars
-- [eigr/spawn](https://github.com/eigr/spawn) - Spawn - Actor Mesh - 133 stars
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record &amp; functional language mainly used in configuration and policy scenarios. https://kcl-lang.io - 755 stars
+- [kdash-rs/kdash](https://github.com/kdash-rs/kdash) - A simple and fast dashboard for Kubernetes - 1563 stars
+- [mochi-mqtt/server](https://github.com/mochi-mqtt/server) - The fully compliant, embeddable high-performance Go MQTT v5 server for IoT, smarthome, and pubsub - 708 stars
+- [eigr/spawn](https://github.com/eigr/spawn) - Spawn - Actor Mesh - 134 stars
 
 #### 👥 Latest follower
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/59fcd6e2-0585-4874-abc6-2b64536ceeb6/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
