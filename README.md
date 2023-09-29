@@ -24,31 +24,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [my-backstage-demo/pulumi-backstage-flux-gitops-aws](https://github.com/my-backstage-demo/pulumi-backstage-flux-gitops-aws) -  (1 day ago)
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (1 day ago)
-- [dirien/kubecon-china-2023-tekton](https://github.com/dirien/kubecon-china-2023-tekton) - Tekton Demo for KubeCon China 2023 (2 days ago)
-- [my-silly-organisation/test-app](https://github.com/my-silly-organisation/test-app) - This is test-app Go App (2 days ago)
-- [my-silly-organisation/kubecon-2023-backstage-templates](https://github.com/my-silly-organisation/kubecon-2023-backstage-templates) -  (6 days ago)
+- [my-backstage-demo/pulumi-backstage-flux-gitops-aws](https://github.com/my-backstage-demo/pulumi-backstage-flux-gitops-aws) -  (2 days ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (2 days ago)
+- [dirien/kubecon-china-2023-tekton](https://github.com/dirien/kubecon-china-2023-tekton) - Tekton Demo for KubeCon China 2023 (3 days ago)
+- [my-silly-organisation/test-app](https://github.com/my-silly-organisation/test-app) - This is test-app Go App (3 days ago)
+- [my-silly-organisation/kubecon-2023-backstage-templates](https://github.com/my-silly-organisation/kubecon-2023-backstage-templates) -  (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.9.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.9.0), 1 day ago) - Azure Native Provider
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1200.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1200.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.21.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.21.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.16.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.16.1), 2 days ago) - Kubernetes-native security toolkit
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 4 days ago) - SVG icons for popular brands
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1215.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1215.1), today) - IDE-style autocomplete for your existing terminal &amp; shell
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.10.8](https://github.com/alexellis/arkade/releases/tag/0.10.8), 1 day ago) - Open Source Marketplace For Developer Tools
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.9.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.9.0), 2 days ago) - Azure Native Provider
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.16.1](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.16.1), 3 days ago) - Kubernetes-native security toolkit
 
 #### ⭐ Latest repositories I starred
 
 - [pipe-cd/pipecd](https://github.com/pipe-cd/pipecd) - The One CD for All {applications, platforms, operations} - 837 stars
 - [gitops-bridge-dev/gitops-bridge-argocd-bootstrap-terraform](https://github.com/gitops-bridge-dev/gitops-bridge-argocd-bootstrap-terraform) - Terraform module for ArgoCD bootstrap - 3 stars
 - [Azure/azure-capi-cli-extension](https://github.com/Azure/azure-capi-cli-extension) - Kubernetes Cluster API support in the Azure CLI - 20 stars
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration - 617 stars
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration - 625 stars
 - [kubernetes-sigs/e2e-framework](https://github.com/kubernetes-sigs/e2e-framework) - A Go framework for end-to-end testing of components running in Kubernetes clusters. - 360 stars
 - [Cian911/gomerge](https://github.com/Cian911/gomerge) - Gomerge is a tool which allows you to quickly bulk merge, approve and close several pull requests from your terminal. :star2: - 44 stars
 - [backstage/charts](https://github.com/backstage/charts) - Backstage Helm Charts - 67 stars
 - [pulumi/tutorial-pulumi-fundamentals](https://github.com/pulumi/tutorial-pulumi-fundamentals) -  - 8 stars
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications - 24994 stars
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications - 25002 stars
 - [progrium/docker-stress](https://github.com/progrium/docker-stress) - Docker container for generating workload stress - 219 stars
 
 #### 👥 Latest follower
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/59fcd6e2-0585-4874-abc6-2b64536ceeb6/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
