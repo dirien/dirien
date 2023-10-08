@@ -24,40 +24,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (1 day ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (1 day ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (2 days ago)
-- [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) - DevPod on Exoscale 🇨🇭 (3 days ago)
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (3 days ago)
+- [my-backstage-demo/pulumi-backstage-flux-gitops-aws](https://github.com/my-backstage-demo/pulumi-backstage-flux-gitops-aws) -  (1 day ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (2 days ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (2 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (3 days ago)
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (4 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) ([v0.1.2](https://github.com/pulumi/pulumi-backstage-plugin/releases/tag/v0.1.2), 1 day ago) - Pulumi plugin for Backstage
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.18.4](https://github.com/backstage/backstage/releases/tag/v1.18.4), 3 days ago) - Backstage is an open platform for building developer portals
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.10.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.10.0), 3 days ago) - Azure Native Provider
-- [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) ([v0.1.0](https://github.com/dirien/devpod-provider-exoscale/releases/tag/v0.1.0), 3 days ago) - DevPod on Exoscale 🇨🇭
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) ([v0.1.2](https://github.com/pulumi/pulumi-backstage-plugin/releases/tag/v0.1.2), 2 days ago) - Pulumi plugin for Backstage
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.18.4](https://github.com/backstage/backstage/releases/tag/v1.18.4), 4 days ago) - Backstage is an open platform for building developer portals
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.10.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.10.0), 4 days ago) - Azure Native Provider
+- [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) ([v0.1.0](https://github.com/dirien/devpod-provider-exoscale/releases/tag/v0.1.0), 4 days ago) - DevPod on Exoscale 🇨🇭
 
 #### ⭐ Latest repositories I starred
 
-- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others - 11771 stars
+- [HaroldPetersInskipp/node-red-contrib-chatgpt](https://github.com/HaroldPetersInskipp/node-red-contrib-chatgpt) - A Node-RED node that interacts with OpenAI machine learning models to generate text and image outputs like &#39;ChatGPT&#39; and &#39;DALL·E 2&#39;. - 32 stars
+- [tyler-harpool/gitops](https://github.com/tyler-harpool/gitops) -  - 2 stars
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others - 11808 stars
 - [pulumi/esc](https://github.com/pulumi/esc) - Pulumi ESC - Environments, secrets, and config for cloud applications and infrastructure - 67 stars
-- [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring - 399 stars
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps - 1446 stars
+- [ddosify/alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring - 400 stars
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps - 1452 stars
 - [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli) - A simple CLI tool to run networking commands remotely from hundreds of globally distributed servers - 64 stars
-- [CortisolAI/cortisol](https://github.com/CortisolAI/cortisol) - Accurately forecast log costs pre-production with Cortisol for Datadog, New Relic, Grafana and GCP Cloud Logging 💰📉 - 26 stars
-- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ - 834 stars
+- [CortisolAI/cortisol](https://github.com/CortisolAI/cortisol) - Accurately forecast log costs pre-production with Cortisol for Datadog, New Relic, Grafana and GCP Cloud Logging 💰📉 - 28 stars
+- [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️ - 835 stars
 - [permitio/tinytodo](https://github.com/permitio/tinytodo) - TinyTodo is a Cedar Agent example, with a server in Rust and client in python - 7 stars
-- [permitio/terraform-provider-permit-io](https://github.com/permitio/terraform-provider-permit-io) - Official Permit.io&#39;s Terraform Provider  - 4 stars
-- [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Core implementation of the Cedar language - 561 stars
 
 #### 👥 Latest follower
 
+- [arosenhagen](https://github.com/arosenhagen) - Achim Rosenhagen
 - [Dhruvesh08](https://github.com/Dhruvesh08) - Dhruvesh
 - [dvirsegev](https://github.com/dvirsegev) - Dvir Segev
 - [Jeff-Tian](https://github.com/Jeff-Tian) - Jeff Tian
 - [selvaraman](https://github.com/selvaraman) - Selva Raman
-- [Giangpro89](https://github.com/Giangpro89) - 
 
 #### 👨‍💻 Repositories I created recently
 
@@ -87,18 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/8005660c-ff3b-40d3-8546-c6dd668be4ab/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/59fcd6e2-0585-4874-abc6-2b64536ceeb6/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/6ccb5dc3-1519-4fe9-b553-cd5e3fbe1ef0/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/6e55889e-e701-4b2f-86ec-750c9a35a651/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/35853eea-a377-495b-88b6-c20bf5fbe72c/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
