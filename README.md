@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (1 day ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (1 day ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 day ago)
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. (1 day ago)
-- [pulumiverse/pulumi-purrl](https://github.com/pulumiverse/pulumi-purrl) - A Pulumi native provider for making API calls (1 day ago)
+- [dirien/pulumi-exoscale-workshop](https://github.com/dirien/pulumi-exoscale-workshop) - Pulumi Exoscale Workshop (1 day ago)
+- [dirien/pulumi-aws-workshop](https://github.com/dirien/pulumi-aws-workshop) - Pulumi AWS Workshop (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) - Azure DevOps Extension for GoReleaser (2 days ago)
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.2), 1 day ago) - ArgoProj Helm Charts
-- [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) ([v1.11.0](https://github.com/lbrlabs/pulumi-scaleway/releases/tag/v1.11.0), 1 day ago) - Pulumi provider for Scaleway, the European cloud provider
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.53.1](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.53.1), 1 day ago) - Pulumi provider for Exoscale
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.17.0](https://github.com/dirien/pulumi-vultr/releases/tag/v2.17.0), 1 day ago) - Pulumi provider for Vultr
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.42](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.42), 1 day ago) - Azure DevOps Extension for GoReleaser
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.14.1](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.14.1), 1 day ago) - Azure Native Provider
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.20.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.20.0-next.1), 1 day ago) - Backstage is an open platform for building developer portals
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.50.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.50.0), 1 day ago) - ArgoProj Helm Charts
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) ([v0.2.37](https://github.com/dirien/pulumi-github/releases/tag/v0.2.37), 1 day ago) - Pulumi program to manage my GitHub repositories
+- [lbrlabs/pulumi-scaleway](https://github.com/lbrlabs/pulumi-scaleway) ([v1.11.0](https://github.com/lbrlabs/pulumi-scaleway/releases/tag/v1.11.0), 2 days ago) - Pulumi provider for Scaleway, the European cloud provider
 
 #### ⭐ Latest repositories I starred
 
-- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️ - 472 stars
+- [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️ - 521 stars
 - [undistro/marvin](https://github.com/undistro/marvin) - Marvin is a CLI tool that scans a k8s cluster by performing CEL expressions to report potential issues, misconfigurations and vulnerabilities. - 97 stars
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant - 12256 stars
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant - 12306 stars
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. - 1569 stars
 - [napptive/kubecon-23-oam-kubevela-tutorial](https://github.com/napptive/kubecon-23-oam-kubevela-tutorial) - Material for the KubeCon EU 2023 tutorial about Open Application Model and KubeVela - 12 stars
-- [aws-samples/karpenter-blueprints](https://github.com/aws-samples/karpenter-blueprints) - Karpenter Blueprints is a list of common workload scenarios following best practices. You&#39;ll find here details of why configuring the Karpenter and Kubernetes objects in such a way is important when using Karpenter on EKS. - 74 stars
+- [aws-samples/karpenter-blueprints](https://github.com/aws-samples/karpenter-blueprints) - Karpenter Blueprints is a list of common workload scenarios following best practices. You&#39;ll find here details of why configuring the Karpenter and Kubernetes objects in such a way is important when using Karpenter on EKS. - 79 stars
 - [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera is an Argo Python SDK. Hera aims to make construction and submission of various Argo Project resources easy and accessible to everyone! Hera abstracts away low-level setup details while still maintaining a consistent vocabulary with Argo. - 365 stars
 - [diagrid-labs/dapr-workflow-demos](https://github.com/diagrid-labs/dapr-workflow-demos) - Demos of the Dapr Workflow building block API: chaining, fan-out/fan-in, monitor, external system interaction, and a complete checkout service. - 36 stars
-- [vladmandic/human](https://github.com/vladmandic/human) - Human: AI-powered 3D Face Detection &amp; Rotation Tracking, Face Description &amp; Recognition, Body Pose Tracking, 3D Hand &amp; Finger Tracking, Iris Analysis, Age &amp; Gender &amp; Emotion Prediction, Gaze Tracking, Gesture Recognition - 1703 stars
-- [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale - 953 stars
+- [vladmandic/human](https://github.com/vladmandic/human) - Human: AI-powered 3D Face Detection &amp; Rotation Tracking, Face Description &amp; Recognition, Body Pose Tracking, 3D Hand &amp; Finger Tracking, Iris Analysis, Age &amp; Gender &amp; Emotion Prediction, Gaze Tracking, Gesture Recognition - 1705 stars
+- [balena-io/open-balena](https://github.com/balena-io/open-balena) - Open source software to manage connected IoT devices at scale - 954 stars
 
 #### 👥 Latest follower
 
@@ -61,11 +61,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-aws-workshop](https://github.com/dirien/pulumi-aws-workshop) - Pulumi AWS Workshop
 - [dirien/munich-pug-19-10](https://github.com/dirien/munich-pug-19-10) - Demo code for the Munich PUG
 - [dirien/pulumi-exoscale-workshop](https://github.com/dirien/pulumi-exoscale-workshop) - Pulumi Exoscale Workshop
 - [dirien/minecraft-pulumi-ecs](https://github.com/dirien/minecraft-pulumi-ecs)
 - [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) - DevPod on Exoscale 🇨🇭
-- [dirien/kubecon-china-2023-tekton](https://github.com/dirien/kubecon-china-2023-tekton) - Tekton Demo for KubeCon China 2023
 
 
 ## 🏗️ My Projects
@@ -87,18 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
