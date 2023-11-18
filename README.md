@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (1 day ago)
-- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (1 day ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 day ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 day ago)
-- [my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop](https://github.com/my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop) - How To Add Infrastructure Provisioning to Your Backstage Templates (2 days ago)
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (2 days ago)
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (3 days ago)
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (3 days ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (3 days ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) ([v1.10.0](https://github.com/dirien/pulumi-azapi/releases/tag/v1.10.0), 1 day ago) - Pulumi provider for Azure API Management
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) ([v2.33.0](https://github.com/dirien/pulumi-scaleway/releases/tag/v2.33.0), 1 day ago) - Pulumi provider for Scaleway
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v1.7.0](https://github.com/port-labs/pulumi-port/releases/tag/v1.7.0), 1 day ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.17.1](https://github.com/dirien/pulumi-vultr/releases/tag/v2.17.1), 1 day ago) - Pulumi provider for Vultr
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.2), 1 day ago) - ArgoProj Helm Charts
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) ([v3.94.2](https://github.com/pulumi/pulumi/releases/tag/v3.94.2), 1 day ago) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.18.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.18.0), 2 days ago) - Azure Native Provider
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.5.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.5.0), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.3), 2 days ago) - ArgoProj Helm Charts
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-agent-0.5.1](https://github.com/port-labs/helm-charts/releases/tag/port-agent-0.5.1), 2 days ago)
 
 #### ⭐ Latest repositories I starred
 
-- [isotope-rs/isotope](https://github.com/isotope-rs/isotope) - AWS superpowers with the power of bedrock and speed of rust - 32 stars
-- [zakkg3/ClusterSecret](https://github.com/zakkg3/ClusterSecret) - Kubernetes ClusterSecret operator. - 312 stars
-- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework - 689 stars
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes - 13151 stars
+- [Getdeck/getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing - 89 stars
+- [isotope-rs/isotope](https://github.com/isotope-rs/isotope) - AWS superpowers with the power of bedrock and speed of rust - 42 stars
+- [zakkg3/ClusterSecret](https://github.com/zakkg3/ClusterSecret) - Kubernetes ClusterSecret operator. - 313 stars
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework - 733 stars
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes - 13159 stars
 - [hazemessamm/hera](https://github.com/hazemessamm/hera) - Deep Learning library bulit on top of JAX and inspired from PyTorch - 8 stars
 - [numaproj/numaflow](https://github.com/numaproj/numaflow) - Kubernetes-native platform to run massively parallel data/streaming jobs - 818 stars
 - [backstage/backstage-deploy](https://github.com/backstage/backstage-deploy) - CLI to help deploy Backstage on your cloud provider - 8 stars
 - [adobe/k8s-shredder](https://github.com/adobe/k8s-shredder) - K8s-shredder - an opinionated way of parking in Kubernetes - 45 stars
-- [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is a framework for building Platform-as-a-Product - 324 stars
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag &amp; drop UI to build your customized LLM flow - 17739 stars
+- [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is a framework for building Platform-as-a-Product - 327 stars
 
 #### 👥 Latest follower
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
