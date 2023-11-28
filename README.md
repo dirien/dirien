@@ -18,38 +18,38 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 - [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (3 weeks ago)
 - [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (2 months ago)
 - [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (3 months ago)
-- [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (3 months ago)
-- [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (3 months ago)
+- [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (4 months ago)
+- [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (4 months ago)
 - [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (4 months ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-python-minecraft](https://github.com/dirien/pulumi-python-minecraft) - Deployment of a Minecraft server as AWS instance (3 days ago)
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (3 days ago)
-- [dirien/infrastructure-as-code-workshop](https://github.com/dirien/infrastructure-as-code-workshop) - Infrastructure as Code Workshop (5 days ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (5 days ago)
-- [dirien/pulumi-production-ready-kubernetes](https://github.com/dirien/pulumi-production-ready-kubernetes) - How To Build A Production Ready Kubernetes Cluster With Pulumi (6 days ago)
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (1 day ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (1 day ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (1 day ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (2 days ago)
+- [dirien/pulumi-python-minecraft](https://github.com/dirien/pulumi-python-minecraft) - Deployment of a Minecraft server as AWS instance (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-agent-0.6.1](https://github.com/port-labs/helm-charts/releases/tag/port-agent-0.6.1), 3 days ago)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) ([v0.17.0-rc](https://github.com/aquasecurity/trivy-operator/releases/tag/v0.17.0-rc), 3 days ago) - Kubernetes-native security toolkit
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.21.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.21.0-next.1), 5 days ago) - Backstage is an open platform for building developer portals
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.19.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.19.0), 5 days ago) - Azure Native Provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.39.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.5), 1 day ago) - ArgoProj Helm Charts
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.54.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.54.0), 1 day ago) - Pulumi provider for Exoscale
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.10.16](https://github.com/alexellis/arkade/releases/tag/0.10.16), 1 day ago) - Open Source Marketplace For Developer Tools
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) ([v0.3.0](https://github.com/pulumi/pulumi-backstage-plugin/releases/tag/v0.3.0), 2 days ago) - Pulumi plugin for Backstage
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-agent-0.6.2](https://github.com/port-labs/helm-charts/releases/tag/port-agent-0.6.2), 2 days ago)
 
 #### ⭐ Latest repositories I starred
 
 - [istio-ecosystem/admiral](https://github.com/istio-ecosystem/admiral) - Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh - 540 stars
 - [desteves/elarroyo-live](https://github.com/desteves/elarroyo-live) - Randomly display one of the 2400&#43; El Arroyo&#39;s marquee signs and an AI generated background representative of the message. - 1 stars
-- [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing. - 749 stars
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 - 15268 stars
-- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io - 3946 stars
+- [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing. - 753 stars
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 - 15303 stars
+- [distribworks/dkron](https://github.com/distribworks/dkron) - Dkron - Distributed, fault tolerant job scheduling system https://dkron.io - 3948 stars
 - [Getdeck/getdeck](https://github.com/Getdeck/getdeck) - A CLI that creates reproducible Kubernetes environments for development and testing - 89 stars
-- [isotope-rs/isotope](https://github.com/isotope-rs/isotope) - AWS superpowers with the power of bedrock and speed of rust - 47 stars
+- [isotope-rs/isotope](https://github.com/isotope-rs/isotope) - AWS superpowers with the power of bedrock and speed of rust - 48 stars
 - [zakkg3/ClusterSecret](https://github.com/zakkg3/ClusterSecret) - Kubernetes ClusterSecret operator. - 313 stars
-- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework - 879 stars
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes - 13171 stars
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework - 886 stars
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes - 13180 stars
 
 #### 👥 Latest follower
 
@@ -61,11 +61,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery
 - [dirien/function-minecraft-go](https://github.com/dirien/function-minecraft-go)
 - [dirien/pulumi-aws-workshop](https://github.com/dirien/pulumi-aws-workshop) - Pulumi AWS Workshop
 - [dirien/munich-pug-19-10](https://github.com/dirien/munich-pug-19-10) - Demo code for the Munich PUG
 - [dirien/pulumi-exoscale-workshop](https://github.com/dirien/pulumi-exoscale-workshop) - Pulumi Exoscale Workshop
-- [dirien/minecraft-pulumi-ecs](https://github.com/dirien/minecraft-pulumi-ecs)
 
 
 ## 🏗️ My Projects
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
