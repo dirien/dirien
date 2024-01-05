@@ -15,57 +15,57 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (1 month ago)
-- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (3 months ago)
+- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (2 months ago)
+- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (4 months ago)
 - [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (4 months ago)
-- [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (4 months ago)
-- [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (4 months ago)
-- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (5 months ago)
+- [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (5 months ago)
+- [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (5 months ago)
+- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (6 months ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (1 day ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (3 days ago)
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (4 days ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (4 days ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (5 days ago)
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (1 week ago)
+- [caddy-dns/scaleway](https://github.com/caddy-dns/scaleway) - Caddy module: dns.providers.scaleway (1 week ago)
+- [my-backstage-demo/pulumi-backstage-flux-gitops-aws](https://github.com/my-backstage-demo/pulumi-backstage-flux-gitops-aws) -  (1 week ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1256.1](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1256.1), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.0-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.0-alpha.1), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) ([v0.26.3](https://github.com/dirien/pulumi-qovery/releases/tag/v0.26.3), 1 day ago) - Pulumi provider for Qovery
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.2](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.2), 1 day ago)
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([10.2.0](https://github.com/simple-icons/simple-icons/releases/tag/10.2.0), 2 days ago) - SVG icons for popular brands
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1263.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1263.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.9](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.9), 2 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.22.0-next.1), 3 days ago) - Backstage is an open platform for building developer portals
+- [pulumi/actions](https://github.com/pulumi/actions) ([v5.0.0](https://github.com/pulumi/actions/releases/tag/v5.0.0), 3 days ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.52.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.52.0), 6 days ago) - ArgoProj Helm Charts
 
 #### ⭐ Latest repositories I starred
 
-- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman - 4605 stars
-- [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry. - 743 stars
-- [awslabs/data-on-eks](https://github.com/awslabs/data-on-eks) - DoEKS is a tool to build, deploy and scale Data Platforms on Amazon EKS - 402 stars
-- [kubewharf/kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration - 299 stars
-- [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files - 197 stars
-- [avsthiago/kopylot](https://github.com/avsthiago/kopylot) - An AI-Powered assistant for Kubernetes developers - 89 stars
-- [istio-ecosystem/admiral](https://github.com/istio-ecosystem/admiral) - Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh - 541 stars
-- [desteves/elarroyo-live](https://github.com/desteves/elarroyo-live) - Randomly display one of the 2400&#43; El Arroyo&#39;s marquee signs and an AI generated background representative of the message. - 1 stars
-- [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing. - 759 stars
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 - 15396 stars
+- [projen/projen](https://github.com/projen/projen) - A new generation of project generators - 2312 stars
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. - 7049 stars
+- [mshade/kronic](https://github.com/mshade/kronic) - The simple Kubernetes CronJob Admin UI - 52 stars
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks - 45917 stars
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang - 9268 stars
+- [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML - 100 stars
+- [nastacio/kubenstein](https://github.com/nastacio/kubenstein) - A prototype of an AI-based system administrator - 20 stars
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ AI &#43; BuildKit = AIKit: Build and deploy open-source LLMs easily! - 65 stars
+- [g4s8/envdoc](https://github.com/g4s8/envdoc) - Go tool to generate documentation for environment variables - 13 stars
+- [cbrgm/structuresmith](https://github.com/cbrgm/structuresmith) - Validate, Diff, Render - Structuresmith is a powerful tool designed to automate the generation of project files, streamlining repository setup and more using customizable templates. - 28 stars
 
 #### 👥 Latest follower
 
-- [PranamBhat](https://github.com/PranamBhat) - Pranam K
-- [Noticeiver60](https://github.com/Noticeiver60) - 
-- [FlavoredBubble69](https://github.com/FlavoredBubble69) - 
-- [18Notesys](https://github.com/18Notesys) - 
-- [Itselgie](https://github.com/Itselgie) - 
+- [AZURE-ARC-0](https://github.com/AZURE-ARC-0) - 
+- [AlexandruMarciuc](https://github.com/AlexandruMarciuc) - Alex M
+- [Avb0550](https://github.com/Avb0550) - 
+- [senihot1979](https://github.com/senihot1979) - Dzemidzenka
+- [ValentinMontmirail](https://github.com/ValentinMontmirail) - Valentin Montmirail
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/pulumi-ai-test](https://github.com/dirien/pulumi-ai-test)
 - [dirien/berlin-pug-04-12](https://github.com/dirien/berlin-pug-04-12) - Demo code for the Berlin PUG
 - [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery
 - [dirien/function-minecraft-go](https://github.com/dirien/function-minecraft-go)
 - [dirien/pulumi-aws-workshop](https://github.com/dirien/pulumi-aws-workshop) - Pulumi AWS Workshop
-- [dirien/munich-pug-19-10](https://github.com/dirien/munich-pug-19-10) - Demo code for the Munich PUG
 
 
 ## 🏗️ My Projects
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
