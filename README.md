@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 day ago)
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (1 day ago)
 - [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) - Node-red Helm Chart (1 week ago)
-- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (1 week ago)
-- [caddy-dns/scaleway](https://github.com/caddy-dns/scaleway) - Caddy module: dns.providers.scaleway (1 week ago)
 - [my-backstage-demo/pulumi-backstage-flux-gitops-aws](https://github.com/my-backstage-demo/pulumi-backstage-flux-gitops-aws) -  (1 week ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (2 weeks ago)
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1263.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1263.0), 1 day ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.9](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.9), 2 days ago)
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.22.0-next.1), 3 days ago) - Backstage is an open platform for building developer portals
-- [pulumi/actions](https://github.com/pulumi/actions) ([v5.0.0](https://github.com/pulumi/actions/releases/tag/v5.0.0), 3 days ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.52.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.52.0), 6 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.2](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.2), 1 day ago) - ArgoProj Helm Charts
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.19.0](https://github.com/dirien/pulumi-vultr/releases/tag/v2.19.0), 1 day ago) - Pulumi provider for Vultr
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) ([v3.10.6](https://github.com/pulumiverse/pulumi-harbor/releases/tag/v3.10.6), 1 day ago) - A Pulumi native provider Harbor
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1263.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1263.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.9](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.9), 3 days ago)
 
 #### ⭐ Latest repositories I starred
 
-- [projen/projen](https://github.com/projen/projen) - A new generation of project generators - 2312 stars
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - Workflow engine and tools for distributed applications. - 83 stars
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. - 118 stars
+- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform - 125 stars
+- [projen/projen](https://github.com/projen/projen) - A new generation of project generators - 2320 stars
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. - 7049 stars
 - [mshade/kronic](https://github.com/mshade/kronic) - The simple Kubernetes CronJob Admin UI - 52 stars
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks - 45917 stars
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang - 9268 stars
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks - 45948 stars
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang - 9271 stars
 - [yaml/yamlscript](https://github.com/yaml/yamlscript) - Programming in YAML - 100 stars
 - [nastacio/kubenstein](https://github.com/nastacio/kubenstein) - A prototype of an AI-based system administrator - 20 stars
-- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ AI &#43; BuildKit = AIKit: Build and deploy open-source LLMs easily! - 65 stars
-- [g4s8/envdoc](https://github.com/g4s8/envdoc) - Go tool to generate documentation for environment variables - 13 stars
-- [cbrgm/structuresmith](https://github.com/cbrgm/structuresmith) - Validate, Diff, Render - Structuresmith is a powerful tool designed to automate the generation of project files, streamlining repository setup and more using customizable templates. - 28 stars
 
 #### 👥 Latest follower
 
