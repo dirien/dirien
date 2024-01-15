@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) - Pinecone Pulumi Provider (1 day ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (2 days ago)
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (2 days ago)
-- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (4 days ago)
-- [pulumi/upgrade-provider](https://github.com/pulumi/upgrade-provider) - A tool to automate provider upgrades on your local machine (5 days ago)
+- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) - Pinecone Pulumi Provider (2 days ago)
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (3 days ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (3 days ago)
+- [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (5 days ago)
+- [pulumi/upgrade-provider](https://github.com/pulumi/upgrade-provider) - A tool to automate provider upgrades on your local machine (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) ([v0.3.1](https://github.com/pinecone-io/pulumi-pinecone/releases/tag/v0.3.1), 2 days ago) - Pinecone Pulumi Provider
-- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1266.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1266.0), 2 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.25.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.25.0), 3 days ago) - Azure Native Provider
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-ocean-0.1.16](https://github.com/port-labs/helm-charts/releases/tag/port-ocean-0.1.16), 3 days ago)
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v1.8.1](https://github.com/port-labs/pulumi-port/releases/tag/v1.8.1), 3 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.6), 1 day ago) - ArgoProj Helm Charts
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.1.0](https://github.com/simple-icons/simple-icons/releases/tag/11.1.0), 1 day ago) - SVG icons for popular brands
+- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) ([v0.3.1](https://github.com/pinecone-io/pulumi-pinecone/releases/tag/v0.3.1), 3 days ago) - Pinecone Pulumi Provider
+- [withfig/autocomplete](https://github.com/withfig/autocomplete) ([spec-build-number-0.1266.0](https://github.com/withfig/autocomplete/releases/tag/spec-build-number-0.1266.0), 3 days ago) - IDE-style autocomplete for your existing terminal &amp; shell
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.25.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.25.0), 4 days ago) - Azure Native Provider
 
 #### ⭐ Latest repositories I starred
 
-- [Nalum/cert-manager-module](https://github.com/Nalum/cert-manager-module) - timoni.sh module for Cert-Manager - 7 stars
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. - 17371 stars
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - Workflow engine and tools for distributed applications. - 121 stars
-- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. - 158 stars
+- [rekuberate-io/sleepcycles](https://github.com/rekuberate-io/sleepcycles) - Define sleep &amp; wake up cycles for your Kubernetes resources. Automatically schedule to shutdown Deployments, CronJobs, StatefulSets and HorizontalPodAutoscalers that occupy resources in your cluster and wake them up only when you need them, reducing that way the overall power consumption. - 44 stars
+- [Nalum/cert-manager-module](https://github.com/Nalum/cert-manager-module) - timoni.sh module for Cert-Manager - 8 stars
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. - 17405 stars
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - Workflow engine and tools for distributed applications. - 126 stars
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. - 160 stars
 - [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform - 128 stars
-- [projen/projen](https://github.com/projen/projen) - A new generation of project generators - 2329 stars
+- [projen/projen](https://github.com/projen/projen) - A new generation of project generators - 2330 stars
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. - 7073 stars
 - [mshade/kronic](https://github.com/mshade/kronic) - The simple Kubernetes CronJob Admin UI - 56 stars
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks - 46291 stars
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang - 9322 stars
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks - 46343 stars
 
 #### 👥 Latest follower
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
