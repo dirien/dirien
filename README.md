@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) - Pinecone Pulumi Provider (1 day ago)
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (5 days ago)
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (5 days ago)
+- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) - Pinecone Pulumi Provider (2 days ago)
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (6 days ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (6 days ago)
 - [pulumi/registry](https://github.com/pulumi/registry) - The global index of everything you can do with Pulumi. (1 week ago)
 - [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.26.1](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.26.1), 1 day ago) - Azure Native Provider
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.2](https://github.com/backstage/backstage/releases/tag/v1.22.2), 1 day ago) - Backstage is an open platform for building developer portals
-- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) ([v0.4.0](https://github.com/pinecone-io/pulumi-pinecone/releases/tag/v0.4.0), 1 day ago) - Pinecone Pulumi Provider
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-ocean-0.1.17](https://github.com/port-labs/helm-charts/releases/tag/port-ocean-0.1.17), 1 day ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.5.0), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.9), 1 day ago) - ArgoProj Helm Charts
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.27.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.27.0), 1 day ago) - Azure Native Provider
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.22.2](https://github.com/backstage/backstage/releases/tag/v1.22.2), 2 days ago) - Backstage is an open platform for building developer portals
+- [pinecone-io/pulumi-pinecone](https://github.com/pinecone-io/pulumi-pinecone) ([v0.4.0](https://github.com/pinecone-io/pulumi-pinecone/releases/tag/v0.4.0), 2 days ago) - Pinecone Pulumi Provider
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-ocean-0.1.17](https://github.com/port-labs/helm-charts/releases/tag/port-ocean-0.1.17), 2 days ago)
 
 #### ⭐ Latest repositories I starred
 
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. - 6060 stars
+- [rednafi/link-patrol](https://github.com/rednafi/link-patrol) - Detect dead links in markdown files - 17 stars
+- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. - 519 stars
 - [weave-ai/weave-ai](https://github.com/weave-ai/weave-ai) -  - 8 stars
 - [nikhilsbhat/helm-drift](https://github.com/nikhilsbhat/helm-drift) - Helm plugin that identifies the configuration that has drifted from the Helm chart - 49 stars
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions - 4887 stars
-- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds - 703 stars
+- [KusionStack/kusion](https://github.com/KusionStack/kusion) - Deliver intentions to Kubernetes and Clouds - 708 stars
 - [rekuberate-io/sleepcycles](https://github.com/rekuberate-io/sleepcycles) - Define sleep &amp; wake up cycles for your Kubernetes resources. Automatically schedule to shutdown Deployments, CronJobs, StatefulSets and HorizontalPodAutoscalers that occupy resources in your cluster and wake them up only when you need them, reducing that way the overall power consumption. - 54 stars
 - [Nalum/cert-manager-module](https://github.com/Nalum/cert-manager-module) - timoni.sh module for Cert-Manager - 9 stars
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. - 17868 stars
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - Workflow engine and tools for distributed applications. - 174 stars
-- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. - 177 stars
-- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform - 130 stars
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. - 17896 stars
 
 #### 👥 Latest follower
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
