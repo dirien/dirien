@@ -24,40 +24,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (1 day ago)
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (2 days ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (2 days ago)
-- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (2 days ago)
-- [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) - DevPod on Exoscale 🇨🇭 (2 days ago)
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) -  (2 days ago)
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (3 days ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (3 days ago)
+- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (3 days ago)
+- [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) - DevPod on Exoscale 🇨🇭 (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.0.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.14), 2 days ago) - ArgoProj Helm Charts
-- [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) ([v0.3.0](https://github.com/dirien/devpod-provider-exoscale/releases/tag/v0.3.0), 2 days ago) - DevPod on Exoscale 🇨🇭
-- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) ([v0.4.0](https://github.com/dirien/devpod-provider-equinix/releases/tag/v0.4.0), 2 days ago) - DevPod on Equinix Metal
-- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) ([v0.5.0](https://github.com/dirien/devpod-provider-scaleway/releases/tag/v0.5.0), 2 days ago) - DevPod on Scaleway 🇫🇷
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) ([v0.28.2](https://github.com/dirien/pulumi-qovery/releases/tag/v0.28.2), 2 days ago) - Pulumi provider for Qovery
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.29.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.29.0), 1 day ago) - Azure Native Provider
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.1.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.1.0), 1 day ago) - ArgoProj Helm Charts
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v1.10.1](https://github.com/port-labs/pulumi-port/releases/tag/v1.10.1), 1 day ago)
+- [dirien/devpod-provider-exoscale](https://github.com/dirien/devpod-provider-exoscale) ([v0.3.0](https://github.com/dirien/devpod-provider-exoscale/releases/tag/v0.3.0), 3 days ago) - DevPod on Exoscale 🇨🇭
+- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) ([v0.4.0](https://github.com/dirien/devpod-provider-equinix/releases/tag/v0.4.0), 3 days ago) - DevPod on Equinix Metal
 
 #### ⭐ Latest repositories I starred
 
-- [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET - 2260 stars
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming  - 241 stars
-- [second-state/LlamaEdge](https://github.com/second-state/LlamaEdge) - The easiest &amp; fastest way to run customized and fine-tuned LLMs locally or on the edge - 343 stars
-- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) -  - 144 stars
+- [basemind-ai/gateway](https://github.com/basemind-ai/gateway) - The BaseMind.AI monorepo - 17 stars
+- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment - 378 stars
+- [nuke-build/nuke](https://github.com/nuke-build/nuke) - 🏗 The AKEless Build System for C#/.NET - 2270 stars
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming  - 371 stars
+- [second-state/LlamaEdge](https://github.com/second-state/LlamaEdge) - The easiest &amp; fastest way to run customized and fine-tuned LLMs locally or on the edge - 344 stars
+- [Azure/AI-in-a-Box](https://github.com/Azure/AI-in-a-Box) -  - 148 stars
 - [RoadieHQ/roadie-backstage-plugins](https://github.com/RoadieHQ/roadie-backstage-plugins) - All Backstage plugins created by Roadie. - 217 stars
 - [juhnny5/TouraineTech2024-Pulumi](https://github.com/juhnny5/TouraineTech2024-Pulumi) - TouraineTech 2024 | Pulumi : Gérer son infra avec son langage de programmation préféré - 2 stars
 - [langchain-ai/pinecone-serverless](https://github.com/langchain-ai/pinecone-serverless) -  - 25 stars
-- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓 - 1284 stars
-- [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes. - 2515 stars
-- [gimlet-io/capacitor](https://github.com/gimlet-io/capacitor) - A general purpose UI for FluxCD. - 117 stars
+- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓 - 1288 stars
 
 #### 👥 Latest follower
 
+- [fahd2055](https://github.com/fahd2055) - Mohamed Samir
+- [planwithit](https://github.com/planwithit) - Hiroko Miyamoto
 - [Tamimkhan1](https://github.com/Tamimkhan1) - Tamim Khan
 - [saifkhan6](https://github.com/saifkhan6) - Saif Khan
 - [Rahulislam1](https://github.com/Rahulislam1) - Rahul Islam
-- [kengeo](https://github.com/kengeo) - Kenroy George
-- [adrianoaguiar](https://github.com/adrianoaguiar) - Adriano Aguiar
 
 #### 👨‍💻 Repositories I created recently
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
