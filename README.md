@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (4 days ago)
-- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓 (4 days ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (4 days ago)
-- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (5 days ago)
-- [dirien/civo-navigate-austin](https://github.com/dirien/civo-navigate-austin) - Demo code for the Civo Austin Talk (6 days ago)
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (1 day ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (1 day ago)
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) - Pulumi provider for Azure API Management (1 day ago)
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (1 day ago)
+- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) - LangServe 🦜️🏓 (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.6.0), 1 day ago) - ArgoProj Helm Charts
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.23.4](https://github.com/backstage/backstage/releases/tag/v1.23.4), 2 days ago) - Backstage is an open platform for building developer portals
-- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) ([v0.0.46](https://github.com/langchain-ai/langserve/releases/tag/v0.0.46), 2 days ago) - LangServe 🦜️🏓
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v3.0.4](https://github.com/kubescape/kubescape/releases/tag/v3.0.4), 2 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [fluxcd-community/helm-charts](https://github.com/fluxcd-community/helm-charts) ([flux2-sync-1.8.2](https://github.com/fluxcd-community/helm-charts/releases/tag/flux2-sync-1.8.2), 5 days ago) - Community maintained Helm charts for Flux
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.56.0](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.56.0), 1 day ago) - Pulumi provider for Exoscale
+- [dirien/pulumi-azapi](https://github.com/dirien/pulumi-azapi) ([v1.12.1](https://github.com/dirien/pulumi-azapi/releases/tag/v1.12.1), 1 day ago) - Pulumi provider for Azure API Management
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) ([v0.28.8](https://github.com/dirien/pulumi-qovery/releases/tag/v0.28.8), 1 day ago) - Pulumi provider for Qovery
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.40.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.14), 1 day ago) - ArgoProj Helm Charts
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) ([v0.1.11](https://github.com/dirien/pulumi-fly/releases/tag/v0.1.11), 1 day ago) - Pulumi provider for Fly.io
 
 #### ⭐ Latest repositories I starred
 
+- [ariga/atlas-operator](https://github.com/ariga/atlas-operator) - Atlas Kubernetes Operator - 63 stars
 - [DataSQRL/apiRAG](https://github.com/DataSQRL/apiRAG) - Retrieval Augmented Generation for (semi-)structured data using APIs - 22 stars
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations - 3400 stars
-- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs - 1139 stars
-- [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 - 3602 stars
+- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations - 3402 stars
+- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs - 1142 stars
+- [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 - 3603 stars
 - [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system. - 3784 stars
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application! - 8613 stars
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local &amp; Private alternative to OpenAI GPTs &amp; ChatGPT powered by retrieval-augmented generation. - 28645 stars
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. - 3871 stars
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application! - 8641 stars
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local &amp; Private alternative to OpenAI GPTs &amp; ChatGPT powered by retrieval-augmented generation. - 28673 stars
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. - 4079 stars
 - [Azure-Samples/aks-openai](https://github.com/Azure-Samples/aks-openai) - This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Bicep and how to deploy a Python chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.  - 25 stars
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs - 15456 stars
 
 #### 👥 Latest follower
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
