@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop](https://github.com/my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop) - How To Add Infrastructure Provisioning to Your Backstage Templates (1 day ago)
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (1 day ago)
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (3 days ago)
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (4 days ago)
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (4 days ago)
+- [my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop](https://github.com/my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop) - How To Add Infrastructure Provisioning to Your Backstage Templates (2 days ago)
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (2 days ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (4 days ago)
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (5 days ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v1.10.4](https://github.com/port-labs/pulumi-port/releases/tag/v1.10.4), 1 day ago)
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.7.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.7.1), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.24.0-next.1), 2 days ago) - Backstage is an open platform for building developer portals
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.5-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.5-alpha.1), 2 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [pulumiverse/pulumi-scaleway](https://github.com/pulumiverse/pulumi-scaleway) ([v1.11.1](https://github.com/pulumiverse/pulumi-scaleway/releases/tag/v1.11.1), 2 days ago) - Pulumi provider for Scaleway, the European cloud provider
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v1.10.4](https://github.com/port-labs/pulumi-port/releases/tag/v1.10.4), 2 days ago)
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([pulumi-kubernetes-operator-0.7.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/pulumi-kubernetes-operator-0.7.1), 2 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.0-next.1](https://github.com/backstage/backstage/releases/tag/v1.24.0-next.1), 3 days ago) - Backstage is an open platform for building developer portals
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.5-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.5-alpha.1), 3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [pulumiverse/pulumi-scaleway](https://github.com/pulumiverse/pulumi-scaleway) ([v1.11.1](https://github.com/pulumiverse/pulumi-scaleway/releases/tag/v1.11.1), 3 days ago) - Pulumi provider for Scaleway, the European cloud provider
 
 #### ⭐ Latest repositories I starred
 
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework - 8142 stars
 - [ariga/atlas-operator](https://github.com/ariga/atlas-operator) - Atlas Kubernetes Operator - 65 stars
-- [DataSQRL/apiRAG](https://github.com/DataSQRL/apiRAG) - Retrieval Augmented Generation for (semi-)structured data using APIs - 24 stars
+- [DataSQRL/apiRAG](https://github.com/DataSQRL/apiRAG) - Retrieval Augmented Generation for (semi-)structured data using APIs - 25 stars
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations - 3407 stars
-- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs - 1175 stars
+- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs - 1180 stars
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 - 3601 stars
-- [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system. - 3783 stars
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application! - 8747 stars
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local &amp; Private alternative to OpenAI GPTs &amp; ChatGPT powered by retrieval-augmented generation. - 28775 stars
-- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. - 4896 stars
-- [Azure-Samples/aks-openai](https://github.com/Azure-Samples/aks-openai) - This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Bicep and how to deploy a Python chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.  - 25 stars
+- [cake-build/cake](https://github.com/cake-build/cake) - :cake: Cake (C# Make) is a cross platform build automation system. - 3784 stars
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application! - 8794 stars
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  &amp; apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local &amp; Private alternative to OpenAI GPTs &amp; ChatGPT powered by retrieval-augmented generation. - 28829 stars
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container. - 5355 stars
 
 #### 👥 Latest follower
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
