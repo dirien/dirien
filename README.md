@@ -24,31 +24,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (2 days ago)
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (4 days ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (3 days ago)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (5 days ago)
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (1 week ago)
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) - A Kubernetes Operator that automates the deployment of Pulumi Stacks (1 week ago)
 - [my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop](https://github.com/my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop) - How To Add Infrastructure Provisioning to Your Backstage Templates (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.2](https://github.com/backstage/backstage/releases/tag/v1.24.2), 1 day ago) - Backstage is an open platform for building developer portals
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.34.4](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.4), 1 day ago) - ArgoProj Helm Charts
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.33.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.33.0), 1 day ago) - Azure Native Provider
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.7](https://github.com/alexellis/arkade/releases/tag/0.11.7), 3 days ago) - Open Source Marketplace For Developer Tools
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v3.0.7](https://github.com/kubescape/kubescape/releases/tag/v3.0.7), 5 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.35.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.0), 1 day ago) - ArgoProj Helm Charts
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.24.2](https://github.com/backstage/backstage/releases/tag/v1.24.2), 2 days ago) - Backstage is an open platform for building developer portals
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.33.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.33.0), 2 days ago) - Azure Native Provider
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.7](https://github.com/alexellis/arkade/releases/tag/0.11.7), 4 days ago) - Open Source Marketplace For Developer Tools
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v3.0.7](https://github.com/kubescape/kubescape/releases/tag/v3.0.7), 6 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 
 #### ⭐ Latest repositories I starred
 
-- [llmnetes/llmnetes](https://github.com/llmnetes/llmnetes) -  - 26 stars
-- [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator - 211 stars
-- [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager - 2277 stars
-- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. - 4701 stars
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses - 8298 stars
+- [llmnetes/llmnetes](https://github.com/llmnetes/llmnetes) -  - 27 stars
+- [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator - 218 stars
+- [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager - 2278 stars
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. - 4746 stars
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Personalizing LLM Responses - 8305 stars
 - [ariga/atlas-operator](https://github.com/ariga/atlas-operator) - Atlas Kubernetes Operator - 69 stars
 - [DataSQRL/apiRAG](https://github.com/DataSQRL/apiRAG) - Retrieval Augmented Generation for (semi-)structured data using APIs - 28 stars
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations - 3434 stars
-- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs - 1299 stars
+- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations - 3435 stars
+- [predibase/lorax](https://github.com/predibase/lorax) - Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs - 1300 stars
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 - 3609 stars
 
 #### 👥 Latest follower
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
