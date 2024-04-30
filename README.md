@@ -15,38 +15,38 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (5 months ago)
-- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (7 months ago)
+- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (6 months ago)
+- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (8 months ago)
 - [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (8 months ago)
 - [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (9 months ago)
 - [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (9 months ago)
-- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (9 months ago)
+- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (10 months ago)
 
 #### 👷 I'm currently working on
 
-- [dirien/la-devops-meetup](https://github.com/dirien/la-devops-meetup) -  (3 days ago)
-- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (3 days ago)
-- [my-backstage-demo/backstage-pulumi-templates](https://github.com/my-backstage-demo/backstage-pulumi-templates) -  (4 days ago)
-- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) - Pulumi provider for managing Akuity Platform resources (4 days ago)
-- [my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop](https://github.com/my-backstage-demo/backstage-infrastructure-provisioning-templates-workshop) - How To Add Infrastructure Provisioning to Your Backstage Templates (4 days ago)
+- [dirien/la-devops-meetup](https://github.com/dirien/la-devops-meetup) -  (4 days ago)
+- [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi. (4 days ago)
+- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) - Pulumi provider for managing Akuity Platform resources (5 days ago)
+- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (5 days ago)
+- [my-backstage-demo/backstage-pulumi-templates](https://github.com/my-backstage-demo/backstage-pulumi-templates) -  (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.14.0](https://github.com/simple-icons/simple-icons/releases/tag/11.14.0), 1 day ago) - SVG icons for popular brands
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-6.7.17](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.17), 3 days ago) - ArgoProj Helm Charts
-- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) ([v0.1.1](https://github.com/langchain-ai/langserve/releases/tag/v0.1.1), 4 days ago) - LangServe 🦜️🏓
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.23](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.23), 4 days ago)
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.6-alpha.4](https://github.com/loft-sh/devpod/releases/tag/v0.5.6-alpha.4), 4 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.3), 1 day ago) - ArgoProj Helm Charts
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.6](https://github.com/loft-sh/devpod/releases/tag/v0.5.6), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.10](https://github.com/alexellis/arkade/releases/tag/0.11.10), 1 day ago) - Open Source Marketplace For Developer Tools
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.39.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.39.0), 1 day ago) - Azure Native Provider
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.14.0](https://github.com/simple-icons/simple-icons/releases/tag/11.14.0), 2 days ago) - SVG icons for popular brands
 
 #### ⭐ Latest repositories I starred
 
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat &amp; Copilot that integrates 10&#43; AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen... - 2814 stars
-- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams. - 156 stars
-- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform - 277 stars
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs. Catch regressions and improve prompt quality. LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local &amp; private models with CI/CD integration. - 2712 stars
-- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍 - 6493 stars
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. 🍊YC W23  - 3375 stars
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity. - 17373 stars
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat &amp; Copilot that integrates 10&#43; AI platforms, including OpenAI, Azure-OpenAI, Gemini, VertexAI, Claude, Mistral, Cohere, Ollama, Ernie, Qianwen... - 2823 stars
+- [jozu-ai/kitops](https://github.com/jozu-ai/kitops) - Tools for easing the handoff between AI/ML and App/SRE teams. - 159 stars
+- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer) - Visualizes your Terraform - 302 stars
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, and RAGs. Catch regressions and improve prompt quality. LLM evals for OpenAI, Azure, Anthropic, Gemini, Mistral, Llama, Bedrock, Ollama, and other local &amp; private models with CI/CD integration. - 2731 stars
+- [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍 - 6495 stars
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  - 3466 stars
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity. - 17417 stars
 - [undistro/cel-playground](https://github.com/undistro/cel-playground) - CEL Playground provides a simple and user-friendly interface to write and quickly evaluate CEL expressions. - 88 stars
 - [cncf/foundation](https://github.com/cncf/foundation) - ☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here. - 526 stars
 - [mziyabo/argocd-trivy-extension](https://github.com/mziyabo/argocd-trivy-extension) - An Argo CD extension to enable visualization of Trivy generated vulnerability reports in Argo CD UI.  - 49 stars
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
