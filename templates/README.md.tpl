@@ -84,7 +84,6 @@ badges_tag
 ![Ansible](https://img.shields.io/badge/ansible-1A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Pulumi](https://img.shields.io/badge/pulumi-8A3391.svg?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Terraform](https://img.shields.io/badge/pulumi-8A3391.svg?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
