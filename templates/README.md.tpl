@@ -82,13 +82,14 @@ badges_tag
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-1563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-1A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/pulumi-8A3391.svg?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Terraform](https://img.shields.io/badge/pulumi-8A3391.svg?style=for-the-badge&logo=pulumi&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-0075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
-![k3s](https://img.shields.io/badge/k3s-FFC61C.svg?style=for-the-badge&logo=&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-FFC61C.svg?style=for-the-badge&logo=k3s&logoColor=white)
 
 ##
 
@@ -101,7 +102,7 @@ badges_tag
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![CloudFundry](https://img.shields.io/badge/CloudFoundry-0C9ED5.svg?style=for-the-badge&logo=cloudfoundry&logoColor=white)
 ![Civo](https://img.shields.io/badge/civo-239DFF.svg?style=for-the-badge&logo=civo&logoColor=white)
-![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
+![Akami](https://img.shields.io/badge/akamai-0096D6?style=for-the-badge&logo=akamai&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/hetzner-d50c2d?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Equinix Metal](https://img.shields.io/badge/equinix--metal-d10810?style=for-the-badge&logo=equinixmetal&logoColor=white)
 ![Vultr](https://img.shields.io/badge/vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
