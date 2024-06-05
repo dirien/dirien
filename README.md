@@ -17,14 +17,14 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 #### 📖 My latest blog posts
 - [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (7 months ago)
 - [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (9 months ago)
-- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (9 months ago)
+- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (10 months ago)
 - [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (10 months ago)
 - [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (10 months ago)
 - [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (11 months ago)
 
 #### 👷 I'm currently working on
 
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 day ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
 - [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (2 weeks ago)
 - [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (2 weeks ago)
 - [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (2 weeks ago)
@@ -32,24 +32,24 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 🚀 Latest releases I contributed to
 
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.13-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.13-alpha.0), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.27.6](https://github.com/backstage/backstage/releases/tag/v1.27.6), 1 day ago) - Backstage is an open framework for building developer portals
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([12.1.0](https://github.com/simple-icons/simple-icons/releases/tag/12.1.0), 2 days ago) - SVG icons for popular brands
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.1.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.1.1), 3 days ago) - ArgoProj Helm Charts
-- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.43.1](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.43.1), 3 days ago) - Azure Native Provider
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.9.19](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.9.19), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.28.0-next.2), 1 day ago) - Backstage is an open framework for building developer portals
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.0.5](https://github.com/port-labs/pulumi-port/releases/tag/v2.0.5), 1 day ago) - Pulumi Port provider
+- [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native) ([v2.44.0](https://github.com/pulumi/pulumi-azure-native/releases/tag/v2.44.0), 1 day ago) - Azure Native Provider
+- [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) ([v0.45.0](https://github.com/ovh/pulumi-ovh/releases/tag/v0.45.0), 1 day ago) - Pulumi provider for OVHcloud
 
 #### ⭐ Latest repositories I starred
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - 25389 stars
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) - 3846 stars
-- [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM. - 710 stars
+- [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) - ☁️ Cloud-native database gateway and framework for building data-driven applications ✨ Like API gateways, for databases ✨ - 193 stars
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - 25606 stars
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) - 3849 stars
+- [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM. - 711 stars
 - [submariner-io/submariner](https://github.com/submariner-io/submariner) - Networking component for interconnecting Pods and Services across Kubernetes clusters. - 2355 stars
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - The Open Source DevOps Assistant - solve problems twice as fast with an AI teammate - 112 stars
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines - 5221 stars
-- [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images - 434 stars
-- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output - 427 stars
-- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.  - 153 stars
-- [project-stacker/stacker-build-push-action](https://github.com/project-stacker/stacker-build-push-action) - GitHub Action to build and push OCI images with project-stacker/stacker - 18 stars
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - The Open Source DevOps Assistant - solve problems twice as fast with an AI teammate - 121 stars
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines - 5233 stars
+- [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images - 437 stars
+- [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output - 429 stars
+- [awslabs/app-development-for-backstage-io-on-aws](https://github.com/awslabs/app-development-for-backstage-io-on-aws) - A developer portal to meet your Enterprise needs. Fast, secure, and at-scale.  - 154 stars
 
 #### 👥 Latest follower
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
