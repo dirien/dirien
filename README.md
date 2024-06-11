@@ -24,40 +24,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) - Pulumi provider for managing Akuity Platform resources (1 day ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (1 day ago)
-- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (1 day ago)
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (3 days ago)
-- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (4 days ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (2 days ago)
+- [dirien/pulumi-scaleway](https://github.com/dirien/pulumi-scaleway) - Pulumi provider for Scaleway (2 days ago)
+- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) - Pulumi provider for managing Akuity Platform resources (2 days ago)
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (4 days ago)
+- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.41.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.8), 1 day ago) - ArgoProj Helm Charts
-- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) ([v0.6.3](https://github.com/dirien/pulumi-akp/releases/tag/v0.6.3), 1 day ago) - Pulumi provider for managing Akuity Platform resources
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.0.7](https://github.com/port-labs/pulumi-port/releases/tag/v2.0.7), 1 day ago) - Pulumi Port provider
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.43](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.43), 1 day ago) - Azure DevOps Extension for GoReleaser
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.20.1](https://github.com/dirien/pulumi-vultr/releases/tag/v2.20.1), 1 day ago) - Pulumi provider for Vultr
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-ocean-0.2.0](https://github.com/port-labs/helm-charts/releases/tag/port-ocean-0.2.0), 1 day ago)
+- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) ([v0.2.2](https://github.com/langchain-ai/langserve/releases/tag/v0.2.2), 1 day ago) - LangServe 🦜️🏓
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.13](https://github.com/loft-sh/devpod/releases/tag/v0.5.13), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.14](https://github.com/alexellis/arkade/releases/tag/0.11.14), 1 day ago) - Open Source Marketplace For Developer Tools
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.0.8](https://github.com/port-labs/pulumi-port/releases/tag/v2.0.8), 1 day ago) - Pulumi Port provider
 
 #### ⭐ Latest repositories I starred
 
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes - 3199 stars
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes - 3200 stars
 - [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) - ☁️ Cloud-native database gateway and framework for building data-driven applications ✨ Like API gateways, for databases ✨ - 195 stars
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - 26341 stars
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) - 3854 stars
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - 26461 stars
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) - 3856 stars
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM. - 711 stars
 - [submariner-io/submariner](https://github.com/submariner-io/submariner) - Networking component for interconnecting Pods and Services across Kubernetes clusters. - 2357 stars
-- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - The Open Source DevOps Assistant - solve problems twice as fast with an AI teammate - 153 stars
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines - 5297 stars
-- [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images - 445 stars
+- [robusta-dev/holmesgpt](https://github.com/robusta-dev/holmesgpt) - The Open Source DevOps Assistant - solve problems twice as fast with an AI teammate - 160 stars
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines - 5310 stars
+- [containers/bootc](https://github.com/containers/bootc) - Boot and upgrade via container images - 446 stars
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output - 440 stars
 
 #### 👥 Latest follower
 
+- [Darkseidrico6](https://github.com/Darkseidrico6) - 
+- [reed6868](https://github.com/reed6868) - 
 - [adarshforcs](https://github.com/adarshforcs) - 
 - [afro-coder](https://github.com/afro-coder) - Leon
 - [ssmiller25](https://github.com/ssmiller25) - Steve Miller
-- [VinceDeslo](https://github.com/VinceDeslo) - Vincent Desloover
-- [YourongW](https://github.com/YourongW) - Yourong Wu
 
 #### 👨‍💻 Repositories I created recently
 
@@ -87,17 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/ed2a2973-5dd0-43b8-9f43-ccd00db9b160/LF_logobadge.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/d2d0c23b-5e65-4eba-8d72-927a3a9c2a0b/LF_logobadge.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/e43a62e0-ce7b-40c2-9f04-ab0f3809f827/LF_logobadge.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
