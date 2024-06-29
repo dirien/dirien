@@ -15,41 +15,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (7 months ago)
-- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (9 months ago)
+- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (8 months ago)
+- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (10 months ago)
 - [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (10 months ago)
 - [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (11 months ago)
 - [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (11 months ago)
-- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (11 months ago)
+- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (1 year ago)
 
 #### 👷 I'm currently working on
 
-- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (1 day ago)
-- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (4 days ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (5 days ago)
+- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (2 days ago)
+- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (5 days ago)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (6 days ago)
 - [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (1 week ago)
 - [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) - Pulumi Port provider (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.31](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.31), 1 day ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.2), 2 days ago) - ArgoProj Helm Charts
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.3](https://github.com/backstage/backstage/releases/tag/v1.28.3), 2 days ago) - Backstage is an open framework for building developer portals
-- [pulumi/actions](https://github.com/pulumi/actions) ([v4.5.1](https://github.com/pulumi/actions/releases/tag/v4.5.1), 3 days ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.16-alpha.1](https://github.com/loft-sh/devpod/releases/tag/v0.5.16-alpha.1), 3 days ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.3), 1 day ago) - ArgoProj Helm Charts
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.17-alpha.0](https://github.com/loft-sh/devpod/releases/tag/v0.5.17-alpha.0), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [port-labs/helm-charts](https://github.com/port-labs/helm-charts) ([port-k8s-exporter-0.2.31](https://github.com/port-labs/helm-charts/releases/tag/port-k8s-exporter-0.2.31), 2 days ago)
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.28.3](https://github.com/backstage/backstage/releases/tag/v1.28.3), 3 days ago) - Backstage is an open framework for building developer portals
+- [pulumi/actions](https://github.com/pulumi/actions) ([v4.5.1](https://github.com/pulumi/actions/releases/tag/v4.5.1), 4 days ago) - Deploy continuously to your cloud of choice, using your favorite language, Pulumi, and GitHub!
 
 #### ⭐ Latest repositories I starred
 
-- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. - 401 stars
+- [baalimago/clai](https://github.com/baalimago/clai) - Command line artificial intelligence - Multi-vendor generation in your terminal - 47 stars
+- [darinpope/dop-clai](https://github.com/darinpope/dop-clai) -  - 1 stars
+- [takacs/donkey](https://github.com/takacs/donkey) - donkey (d-anki) is a terminal flash card review app - 20 stars
+- [superjose/deploy-golang-cloudrun](https://github.com/superjose/deploy-golang-cloudrun) - A Script that configures all the Google Cloud Permissions and deploys your golang application to Google Cloud Run - 21 stars
+- [creativecreature/pulse](https://github.com/creativecreature/pulse) - Like a fitness tracker for your coding sessions - 122 stars
+- [nginxinc/nginx-gateway-fabric](https://github.com/nginxinc/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane. - 402 stars
 - [cert-manager/csi-driver](https://github.com/cert-manager/csi-driver) - A Kubernetes CSI plugin to automatically mount signed certificates to Pods using ephemeral volumes - 188 stars
 - [vfarcic/backstage-demo](https://github.com/vfarcic/backstage-demo) -  - 2 stars
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you - 2195 stars
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you - 2201 stars
 - [weaveworks/weaveworks-backstage](https://github.com/weaveworks/weaveworks-backstage) - Backstage app and Plugins for WeaveWorks and Flux. - 31 stars
-- [vfarcic/idp-demo](https://github.com/vfarcic/idp-demo) -  - 25 stars
-- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes - 3253 stars
-- [gatewayd-io/gatewayd](https://github.com/gatewayd-io/gatewayd) - ☁️ Cloud-native database gateway and framework for building data-driven applications ✨ Like API gateways, for databases ✨ - 196 stars
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) - 29234 stars
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) - 3889 stars
 
 #### 👥 Latest follower
 
@@ -87,19 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/6b2592c5-6cad-4d2f-ae78-17b89b0462bc/image.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/cec84819-7069-48fc-b38b-91edabcf2750/image.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/67ffd037-c7e6-40cc-996c-0cde3672c5c5/image.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
