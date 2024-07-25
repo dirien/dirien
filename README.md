@@ -24,28 +24,28 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (2 days ago)
-- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (2 days ago)
-- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) - Pulumi provider for managing Akuity Platform resources (2 days ago)
-- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (2 days ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (2 days ago)
+- [pulumiverse/pulumi-aquasec](https://github.com/pulumiverse/pulumi-aquasec) - Pulumi provider for Aquasec (3 days ago)
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (3 days ago)
+- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) - Pulumi provider for managing Akuity Platform resources (3 days ago)
+- [pulumiverse/pulumi-harbor](https://github.com/pulumiverse/pulumi-harbor) - A Pulumi native provider Harbor (3 days ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.30.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.30.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.10), 2 days ago) - ArgoProj Helm Charts
-- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) ([v0.36.1](https://github.com/dirien/pulumi-qovery/releases/tag/v0.36.1), 2 days ago) - Pulumi provider for Qovery
-- [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) ([v0.47.0](https://github.com/ovh/pulumi-ovh/releases/tag/v0.47.0), 2 days ago) - Pulumi provider for OVHcloud
-- [dirien/pulumi-akp](https://github.com/dirien/pulumi-akp) ([v0.7.0](https://github.com/dirien/pulumi-akp/releases/tag/v0.7.0), 2 days ago) - Pulumi provider for managing Akuity Platform resources
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-7.3.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.11), 1 day ago) - ArgoProj Helm Charts
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.29.2](https://github.com/backstage/backstage/releases/tag/v1.29.2), 1 day ago) - Backstage is an open framework for building developer portals
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v3.0.15](https://github.com/kubescape/kubescape/releases/tag/v3.0.15), 1 day ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+- [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) ([v0.36.1](https://github.com/dirien/pulumi-qovery/releases/tag/v0.36.1), 3 days ago) - Pulumi provider for Qovery
+- [ovh/pulumi-ovh](https://github.com/ovh/pulumi-ovh) ([v0.47.0](https://github.com/ovh/pulumi-ovh/releases/tag/v0.47.0), 3 days ago) - Pulumi provider for OVHcloud
 
 #### ⭐ Latest repositories I starred
 
-- [KusionStack/karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World&#39;s most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.  - 340 stars
+- [KusionStack/karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World&#39;s most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.  - 344 stars
 - [kurtosis-tech/kardinal](https://github.com/kurtosis-tech/kardinal) - Kardinal is the lightest-weight way to spin up dev and test environments in Kubernetes. Deploy the absolute minimum resources necessary and implement dev, test, and QA all in one cluster. - 34 stars
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures - 35722 stars
-- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. - 1387 stars
-- [nginxinc/kic-reference-architectures](https://github.com/nginxinc/kic-reference-architectures) - MARA: Modern Application Reference Architecture - 629 stars
-- [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library - 547 stars
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures - 35724 stars
+- [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. - 1405 stars
+- [nginxinc/kic-reference-architectures](https://github.com/nginxinc/kic-reference-architectures) - MARA: Modern Application Reference Architecture - 630 stars
+- [goyek/goyek](https://github.com/goyek/goyek) - Task automation Go library - 548 stars
 - [baalimago/clai](https://github.com/baalimago/clai) - Command line artificial intelligence - Multi-vendor generation in your terminal - 51 stars
 - [darinpope/dop-clai](https://github.com/darinpope/dop-clai) -  - 1 stars
 - [takacs/donkey](https://github.com/takacs/donkey) - donkey (d-anki) is a terminal flash card review app - 21 stars
@@ -53,11 +53,11 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👥 Latest follower
 
+- [muchhalsagar](https://github.com/muchhalsagar) - Sagar Muchhal
+- [theaideveloper](https://github.com/theaideveloper) - 
+- [Marklv45](https://github.com/Marklv45) - 
 - [neurafusionai](https://github.com/neurafusionai) - 
 - [vintagewang](https://github.com/vintagewang) - Xiaorui Wang
-- [thatmlopsguy](https://github.com/thatmlopsguy) - 
-- [Code42Cate](https://github.com/Code42Cate) - Jonas Scholz
-- [MinisterPP](https://github.com/MinisterPP) - MinisterAA
 
 #### 👨‍💻 Repositories I created recently
 
@@ -87,19 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/6b2592c5-6cad-4d2f-ae78-17b89b0462bc/image.png)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/cec84819-7069-48fc-b38b-91edabcf2750/image.png)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/67ffd037-c7e6-40cc-996c-0cde3672c5c5/image.png)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
