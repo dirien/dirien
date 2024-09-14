@@ -24,31 +24,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [dirien/equinix-demo-day-deploy-bare-metal-kubernetes-with-pulumi-on-equinix-metal](https://github.com/dirien/equinix-demo-day-deploy-bare-metal-kubernetes-with-pulumi-on-equinix-metal) -  (3 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (3 days ago)
+- [dirien/equinix-demo-day-deploy-bare-metal-kubernetes-with-pulumi-on-equinix-metal](https://github.com/dirien/equinix-demo-day-deploy-bare-metal-kubernetes-with-pulumi-on-equinix-metal) -  (4 days ago)
 - [my-silly-organisation/port-quickstart](https://github.com/my-silly-organisation/port-quickstart) -  (3 weeks ago)
 - [my-silly-organisation/my-awesome-ms](https://github.com/my-silly-organisation/my-awesome-ms) -  (3 weeks ago)
 - [dirien/pulumi-qovery](https://github.com/dirien/pulumi-qovery) - Pulumi provider for Qovery (1 month ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) ([v0.3.0dev2](https://github.com/langchain-ai/langserve/releases/tag/v0.3.0dev2), 1 day ago) - LangServe 🦜️🏓
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.2), 3 days ago) - Backstage is an open framework for building developer portals
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 4 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [chronosphereio/pulumi-chronosphere](https://github.com/chronosphereio/pulumi-chronosphere) ([v0.9.2](https://github.com/chronosphereio/pulumi-chronosphere/releases/tag/v0.9.2), 4 days ago) - Chronosphere Pulumi Provider
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.24](https://github.com/alexellis/arkade/releases/tag/0.11.24), 4 days ago) - Open Source Marketplace For Developer Tools
+- [langchain-ai/langserve](https://github.com/langchain-ai/langserve) ([v0.3.0dev2](https://github.com/langchain-ai/langserve/releases/tag/v0.3.0dev2), 2 days ago) - LangServe 🦜️🏓
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.0-next.2](https://github.com/backstage/backstage/releases/tag/v1.31.0-next.2), 4 days ago) - Backstage is an open framework for building developer portals
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.3](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.3), 5 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [chronosphereio/pulumi-chronosphere](https://github.com/chronosphereio/pulumi-chronosphere) ([v0.9.2](https://github.com/chronosphereio/pulumi-chronosphere/releases/tag/v0.9.2), 5 days ago) - Chronosphere Pulumi Provider
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.24](https://github.com/alexellis/arkade/releases/tag/0.11.24), 5 days ago) - Open Source Marketplace For Developer Tools
 
 #### ⭐ Latest repositories I starred
 
 - [guymenahem/backstage-demo](https://github.com/guymenahem/backstage-demo) -  - 3 stars
-- [treebeardtech/kubeflow-bootstrap](https://github.com/treebeardtech/kubeflow-bootstrap) - 🪐 1-click Kubeflow using ArgoCD - 54 stars
+- [treebeardtech/kubeflow-bootstrap](https://github.com/treebeardtech/kubeflow-bootstrap) - 🪐 1-click Kubeflow using ArgoCD - 55 stars
 - [evoxmusic/qovery-airbyte](https://github.com/evoxmusic/qovery-airbyte) - Deploy Airbyte on Kubernetes with Qovery - 3 stars
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. - 13650 stars
-- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing - 970 stars
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) - 25234 stars
-- [d07RiV/diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers - 2700 stars
-- [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals - 110 stars
-- [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW - 1298 stars
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. - 13727 stars
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing - 971 stars
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia) - 25277 stars
+- [d07RiV/diabloweb](https://github.com/d07RiV/diabloweb) - Diablo 1 for web browsers - 2702 stars
+- [cryptocode/terminal-doom](https://github.com/cryptocode/terminal-doom) - Play DOOM in modern terminals - 111 stars
+- [sighupio/permission-manager](https://github.com/sighupio/permission-manager) - Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW - 1299 stars
 - [dastergon/postmortem-templates](https://github.com/dastergon/postmortem-templates) - A collection of postmortem templates - 1297 stars
 
 #### 👥 Latest follower
@@ -87,20 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/20936872-ca23-44da-a4bc-db39db3468b6/blob)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Speaker - KCD Istanbul 2024](https://images.credly.com/size/110x110/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png)](http://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d "Speaker - KCD Istanbul 2024")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
