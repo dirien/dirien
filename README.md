@@ -24,40 +24,40 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (4 days ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (5 days ago)
-- [dirien/kargo-test](https://github.com/dirien/kargo-test) -  (6 days ago)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (5 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (6 days ago)
+- [dirien/kargo-test](https://github.com/dirien/kargo-test) -  (1 week ago)
 - [dirien/voting-app](https://github.com/dirien/voting-app) -  (1 week ago)
 - [dirien/progressive-infrastructure-delivery-using-kargo-and-argo-cd](https://github.com/dirien/progressive-infrastructure-delivery-using-kargo-and-argo-cd) - Progressive Infrastructure Delivery using Kargo and Argo CD (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.32.0-next.0), 1 day ago) - Backstage is an open framework for building developer portals
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([13.11.0](https://github.com/simple-icons/simple-icons/releases/tag/13.11.0), 3 days ago) - SVG icons for popular brands
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.26](https://github.com/alexellis/arkade/releases/tag/0.11.26), 4 days ago) - Open Source Marketplace For Developer Tools
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.32.0-next.0), 2 days ago) - Backstage is an open framework for building developer portals
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([13.11.0](https://github.com/simple-icons/simple-icons/releases/tag/13.11.0), 4 days ago) - SVG icons for popular brands
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.26](https://github.com/alexellis/arkade/releases/tag/0.11.26), 5 days ago) - Open Source Marketplace For Developer Tools
 - [dirien/kargo-test](https://github.com/dirien/kargo-test) ([0.1.6-helm](https://github.com/dirien/kargo-test/releases/tag/0.1.6-helm), 1 week ago)
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.46](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.46), 1 week ago) - Azure DevOps Extension for GoReleaser
 
 #### ⭐ Latest repositories I starred
 
+- [PixelRobots/KubeTidy](https://github.com/PixelRobots/KubeTidy) - KubeTidy - A PowerShell tool for cleaning up Kubernetes kubeconfig files by removing unreachable clusters, users, and contexts. Simplify your multi-cluster Kubernetes management with ease. Supports exclusion lists, automated backups, and a detailed summary report. Available on the PowerShell Gallery. - 6 stars
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) - KubeStellar - a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud - 264 stars
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service - 11469 stars
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service - 11482 stars
 - [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs - 802 stars
-- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda - 1840 stars
+- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda - 1847 stars
 - [shellscape/dot](https://github.com/shellscape/dot) - Tools for monorepos, serverless, and more - 8 stars
 - [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.   - 1240 stars
 - [ratify-project/ratify](https://github.com/ratify-project/ratify) - Artifact Ratification Framework - 210 stars
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials - 15717 stars
-- [voideditor/void](https://github.com/voideditor/void) -  - 6520 stars
-- [form3tech-oss/k8s-promoter](https://github.com/form3tech-oss/k8s-promoter) - A tool for promoting k8s manifests - 17 stars
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials - 15734 stars
+- [voideditor/void](https://github.com/voideditor/void) -  - 6671 stars
 
 #### 👥 Latest follower
 
+- [Connor9994](https://github.com/Connor9994) - Connor
 - [parsaa74](https://github.com/parsaa74) - Parsa Azari
 - [darkterra](https://github.com/darkterra) - DarkTerra
 - [eust-w](https://github.com/eust-w) - longtao
 - [MarselOtska](https://github.com/MarselOtska) - Marsel Otska
-- [Pushkarmondal](https://github.com/Pushkarmondal) - Pushkar Mondal
 
 #### 👨‍💻 Repositories I created recently
 
