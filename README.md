@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) - Pulumi Port provider (1 day ago)
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (6 days ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 week ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 day ago)
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) - Pulumi Port provider (2 days ago)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (1 week ago)
 - [dirien/kargo-test](https://github.com/dirien/kargo-test) -  (1 week ago)
 - [dirien/progressive-infrastructure-delivery-using-kargo-and-argo-cd](https://github.com/dirien/progressive-infrastructure-delivery-using-kargo-and-argo-cd) - Progressive Infrastructure Delivery using Kargo and Argo CD (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.0.22](https://github.com/port-labs/pulumi-port/releases/tag/v2.0.22), 1 day ago) - Pulumi Port provider
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [backstage/backstage](https://github.com/backstage/backstage) ([v1.32.0-next.0](https://github.com/backstage/backstage/releases/tag/v1.32.0-next.0), 3 days ago) - Backstage is an open framework for building developer portals
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([13.11.0](https://github.com/simple-icons/simple-icons/releases/tag/13.11.0), 5 days ago) - SVG icons for popular brands
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.26](https://github.com/alexellis/arkade/releases/tag/0.11.26), 6 days ago) - Open Source Marketplace For Developer Tools
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0-beta.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0-beta.0), 1 day ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [backstage/backstage](https://github.com/backstage/backstage) ([v1.31.2](https://github.com/backstage/backstage/releases/tag/v1.31.2), 1 day ago) - Backstage is an open framework for building developer portals
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) ([v0.5.21](https://github.com/loft-sh/devpod/releases/tag/v0.5.21), 1 day ago) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.0.22](https://github.com/port-labs/pulumi-port/releases/tag/v2.0.22), 2 days ago) - Pulumi Port provider
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.4](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.4), 3 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 
 #### ⭐ Latest repositories I starred
 
-- [PixelRobots/KubeTidy](https://github.com/PixelRobots/KubeTidy) - KubeTidy - A PowerShell tool for cleaning up Kubernetes kubeconfig files by removing unreachable clusters, users, and contexts. Simplify your multi-cluster Kubernetes management with ease. Supports exclusion lists, automated backups, and a detailed summary report. Available on the PowerShell Gallery. - 13 stars
+- [PixelRobots/KubeTidy](https://github.com/PixelRobots/KubeTidy) - KubeTidy - A PowerShell tool for cleaning up Kubernetes kubeconfig files by removing unreachable clusters, users, and contexts. Simplify your multi-cluster Kubernetes management with ease. Supports exclusion lists, automated backups, and a detailed summary report. Available on the PowerShell Gallery. - 18 stars
 - [kubestellar/kubestellar](https://github.com/kubestellar/kubestellar) - KubeStellar - a flexible solution for challenges associated with multi-cluster configuration management for edge, multi-cloud, and hybrid cloud - 265 stars
-- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service - 11494 stars
-- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs - 802 stars
-- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda - 1849 stars
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service - 11499 stars
+- [cdklabs/cdk-nag](https://github.com/cdklabs/cdk-nag) - Check CDK applications for best practices using a combination of available rule packs - 803 stars
+- [awslabs/aws-lambda-web-adapter](https://github.com/awslabs/aws-lambda-web-adapter) - Run web applications on AWS Lambda - 1852 stars
 - [shellscape/dot](https://github.com/shellscape/dot) - Tools for monorepos, serverless, and more - 8 stars
-- [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.   - 1240 stars
-- [ratify-project/ratify](https://github.com/ratify-project/ratify) - Artifact Ratification Framework - 217 stars
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials - 15744 stars
-- [voideditor/void](https://github.com/voideditor/void) -  - 6759 stars
+- [kubernetes-sigs/secrets-store-csi-driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver) - Secrets Store CSI driver for Kubernetes secrets - Integrates secrets stores with Kubernetes via a CSI volume.   - 1241 stars
+- [ratify-project/ratify](https://github.com/ratify-project/ratify) - Artifact Ratification Framework - 219 stars
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials - 15765 stars
+- [voideditor/void](https://github.com/voideditor/void) -  - 6850 stars
 
 #### 👥 Latest follower
 
@@ -87,20 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/20936872-ca23-44da-a4bc-db39db3468b6/blob)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Speaker - KCD Istanbul 2024](https://images.credly.com/size/110x110/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png)](http://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d "Speaker - KCD Istanbul 2024")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
