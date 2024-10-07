@@ -15,41 +15,41 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
+- [Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator) (1 day ago)
 - [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (11 months ago)
 - [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (1 year ago)
 - [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (1 year ago)
 - [How to cross-compile your Rust applications using cross-rs and GitHub Actions](https://blog.ediri.io/how-to-cross-compile-your-rust-applications-using-cross-rs-and-github-actions) (1 year ago)
 - [Kubernetes 1.26: Implementing Validating Admission Policies with Pulumi](https://blog.ediri.io/kubernetes-126-implementing-validating-admission-policies-with-pulumi) (1 year ago)
-- [Rust Development with Testcontainers](https://blog.ediri.io/rust-development-with-testcontainers) (1 year ago)
 
 #### 👷 I'm currently working on
 
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [my-silly-organisation/backstage](https://github.com/my-silly-organisation/backstage) -  (3 days ago)
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (4 days ago)
-- [dirien/devpod-provider-scaleway](https://github.com/dirien/devpod-provider-scaleway) - DevPod on Scaleway 🇫🇷 (1 week ago)
-- [dirien/devpod-provider-equinix](https://github.com/dirien/devpod-provider-equinix) - DevPod on Equinix Metal (1 week ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (3 days ago)
+- [my-silly-organisation/backstage](https://github.com/my-silly-organisation/backstage) -  (4 days ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (5 days ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [fluxcd-community/helm-charts](https://github.com/fluxcd-community/helm-charts) ([flux2-sync-1.10.0](https://github.com/fluxcd-community/helm-charts/releases/tag/flux2-sync-1.10.0), 3 days ago) - Community maintained Helm charts for Flux
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) ([v0.15.0](https://github.com/pulumi/pulumi-backstage-plugin/releases/tag/v0.15.0), 4 days ago) - Pulumi plugin for Backstage
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.0.23](https://github.com/port-labs/pulumi-port/releases/tag/v2.0.23), 5 days ago) - Pulumi Port provider
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v3.0.18](https://github.com/kubescape/kubescape/releases/tag/v3.0.18), 6 days ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.27](https://github.com/alexellis/arkade/releases/tag/0.11.27), 1 week ago) - Open Source Marketplace For Developer Tools
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([13.13.0](https://github.com/simple-icons/simple-icons/releases/tag/13.13.0), 1 day ago) - SVG icons for popular brands
+- [fluxcd-community/helm-charts](https://github.com/fluxcd-community/helm-charts) ([flux2-sync-1.10.0](https://github.com/fluxcd-community/helm-charts/releases/tag/flux2-sync-1.10.0), 4 days ago) - Community maintained Helm charts for Flux
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) ([v0.15.0](https://github.com/pulumi/pulumi-backstage-plugin/releases/tag/v0.15.0), 5 days ago) - Pulumi plugin for Backstage
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.0.23](https://github.com/port-labs/pulumi-port/releases/tag/v2.0.23), 6 days ago) - Pulumi Port provider
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) ([v3.0.18](https://github.com/kubescape/kubescape/releases/tag/v3.0.18), 1 week ago) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
 
 #### ⭐ Latest repositories I starred
 
+- [PierreBeucher/novops](https://github.com/PierreBeucher/novops) - Cross-platform secret &amp; config manager for development and CI environments - 310 stars
+- [Ealenn/Echo-Server](https://github.com/Ealenn/Echo-Server) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm - 257 stars
 - [kubernetes-sigs/cloud-provider-kind](https://github.com/kubernetes-sigs/cloud-provider-kind) - Cloud provider for KIND clusters - 158 stars
 - [automagic/pulumi-argocd-plugin](https://github.com/automagic/pulumi-argocd-plugin) -  - 1 stars
 - [digitalocean/doks-debug](https://github.com/digitalocean/doks-debug) - A Docker image with Kubernetes manifests for investigation and troubleshooting. - 135 stars
-- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux - 2512 stars
+- [containers/toolbox](https://github.com/containers/toolbox) - Tool for interactive command line environments on Linux - 2517 stars
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system and monorepo management tool for the web ecosystem, written in Rust. - 2856 stars
 - [submariner-io/lighthouse](https://github.com/submariner-io/lighthouse) - DNS service discovery across connected Kubernetes clusters. - 100 stars
 - [komodorio/komodor-eks-blueprints-addon](https://github.com/komodorio/komodor-eks-blueprints-addon) - The Komodor AWS SSP AddOn - 3 stars
 - [aws-samples/cdk-eks-blueprints-patterns](https://github.com/aws-samples/cdk-eks-blueprints-patterns) - Patterns repository for the Amazon EKS Bluepints for CDK - 149 stars
-- [jonashackt/crossplane-argocd](https://github.com/jonashackt/crossplane-argocd) - Example project showing how to use Crossplane together with ArgoCD - 20 stars
-- [KongZ/piggy](https://github.com/KongZ/piggy) - Piggy is a tool built for supporting AWS Secret Manager with Kubernetes. It has abilities to mutating Pods, unseal secrets and inject into application environment. - 34 stars
 
 #### 👥 Latest follower
 
@@ -87,20 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/20936872-ca23-44da-a4bc-db39db3468b6/blob)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Speaker - KCD Istanbul 2024](https://images.credly.com/size/110x110/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png)](http://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d "Speaker - KCD Istanbul 2024")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
