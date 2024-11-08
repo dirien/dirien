@@ -24,31 +24,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/next-level-powers-enhance-your-idp-with-the-wasm-and-dapr-hero-team-up](https://github.com/dirien/next-level-powers-enhance-your-idp-with-the-wasm-and-dapr-hero-team-up) - Next Level Powers: Enhance Your IDP with the WASM and Dapr Hero Team Up (1 day ago)
-- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (3 days ago)
-- [dirien/backstage-demo](https://github.com/dirien/backstage-demo) -  (3 days ago)
-- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (4 days ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (6 days ago)
+- [dirien/next-level-powers-enhance-your-idp-with-the-wasm-and-dapr-hero-team-up](https://github.com/dirien/next-level-powers-enhance-your-idp-with-the-wasm-and-dapr-hero-team-up) - Next Level Powers: Enhance Your IDP with the WASM and Dapr Hero Team Up (today)
+- [dirien/pulumi-github](https://github.com/dirien/pulumi-github) - Pulumi program to manage my GitHub repositories (4 days ago)
+- [dirien/backstage-demo](https://github.com/dirien/backstage-demo) -  (4 days ago)
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) - Pulumi provider for Fly.io (5 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.31](https://github.com/alexellis/arkade/releases/tag/0.11.31), 1 day ago) - Open Source Marketplace For Developer Tools
-- [pulumiverse/pulumi-scaleway](https://github.com/pulumiverse/pulumi-scaleway) ([v1.20.0](https://github.com/pulumiverse/pulumi-scaleway/releases/tag/v1.20.0), 3 days ago) - Pulumi provider for Scaleway
-- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) ([v0.1.18](https://github.com/dirien/pulumi-fly/releases/tag/v0.1.18), 4 days ago) - Pulumi provider for Fly.io
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([13.16.0](https://github.com/simple-icons/simple-icons/releases/tag/13.16.0), 4 days ago) - SVG icons for popular brands
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 1 week ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.31](https://github.com/alexellis/arkade/releases/tag/0.11.31), 2 days ago) - Open Source Marketplace For Developer Tools
+- [pulumiverse/pulumi-scaleway](https://github.com/pulumiverse/pulumi-scaleway) ([v1.20.0](https://github.com/pulumiverse/pulumi-scaleway/releases/tag/v1.20.0), 4 days ago) - Pulumi provider for Scaleway
+- [dirien/pulumi-fly](https://github.com/dirien/pulumi-fly) ([v0.1.18](https://github.com/dirien/pulumi-fly/releases/tag/v0.1.18), 5 days ago) - Pulumi provider for Fly.io
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([13.16.0](https://github.com/simple-icons/simple-icons/releases/tag/13.16.0), 5 days ago) - SVG icons for popular brands
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.5](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.5), 2 weeks ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 
 #### ⭐ Latest repositories I starred
 
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. - 4836 stars
-- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. - 5577 stars
-- [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks - 1347 stars
-- [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) -  - 1866 stars
-- [mc-bench/orchestrator](https://github.com/mc-bench/orchestrator) - Orchestrator to spin up MC server, run Mindcraft agent, save building and run eval - 135 stars
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. - 4839 stars
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS. - 5634 stars
+- [sobelio/llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks - 1348 stars
+- [kolbytn/mindcraft](https://github.com/kolbytn/mindcraft) -  - 1887 stars
+- [mc-bench/orchestrator](https://github.com/mc-bench/orchestrator) - Orchestrator to spin up MC server, connect mineflayer bot, generate &#43; execute build commands and export the structure - 135 stars
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language - 499 stars
 - [TechWatching/pulumi-azure-workshop](https://github.com/TechWatching/pulumi-azure-workshop) - Workshop to get started with Pulumi on Azure - 18 stars
 - [schednex-ai/schednex](https://github.com/schednex-ai/schednex) - Smart Kubernetes Scheduling - 62 stars
-- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - Flux Operator is a Kubernetes controller for managing the lifecycle of Flux CD - 175 stars
+- [controlplaneio-fluxcd/flux-operator](https://github.com/controlplaneio-fluxcd/flux-operator) - Flux Operator is a Kubernetes controller for managing the lifecycle of Flux CD - 176 stars
 - [mbarinov/repogpt](https://github.com/mbarinov/repogpt) - RepoGPT: AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly. - 46 stars
 
 #### 👥 Latest follower
@@ -87,22 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/20936872-ca23-44da-a4bc-db39db3468b6/blob)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Speaker - KCD Istanbul 2024](https://images.credly.com/size/110x110/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png)](http://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d "Speaker - KCD Istanbul 2024")
-[![Speaker - KCD Washington DC 2024](https://images.credly.com/size/110x110/images/1ca55cae-1529-4e01-940d-4600ba97b857/blob)](http://www.credly.com/badges/26314a98-1f37-4342-906a-295b1c5096c8 "Speaker - KCD Washington DC 2024")
-[![Speaker - Continuous Delivery Mini Summit 2024](https://images.credly.com/size/110x110/images/2738acec-9405-4558-bd0c-64353c852d58/image.png)](http://www.credly.com/badges/803e5b78-a4b6-47ba-bdc3-0b947be6a1c9 "Speaker - Continuous Delivery Mini Summit 2024")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
