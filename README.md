@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (2 days ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (3 days ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (3 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (4 days ago)
 - [dirien/kargo-test](https://github.com/dirien/kargo-test) -  (1 week ago)
 - [dirien/next-level-powers-enhance-your-idp-with-the-wasm-and-dapr-hero-team-up](https://github.com/dirien/next-level-powers-enhance-your-idp-with-the-wasm-and-dapr-hero-team-up) - Next Level Powers: Enhance Your IDP with the WASM and Dapr Hero Team Up (1 week ago)
-- [my-silly-organisation/backstage](https://github.com/my-silly-organisation/backstage) -  (1 week ago)
+- [my-silly-organisation/backstage](https://github.com/my-silly-organisation/backstage) -  (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.6](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.6), 1 day ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) ([v0.16.0](https://github.com/pulumi/pulumi-backstage-plugin/releases/tag/v0.16.0), 2 days ago) - Pulumi plugin for Backstage
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([13.17.0](https://github.com/simple-icons/simple-icons/releases/tag/13.17.0), 4 days ago) - SVG icons for popular brands
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) ([helm-chart-0.10.6](https://github.com/external-secrets/external-secrets/releases/tag/helm-chart-0.10.6), 2 days ago) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) ([v0.16.0](https://github.com/pulumi/pulumi-backstage-plugin/releases/tag/v0.16.0), 3 days ago) - Pulumi plugin for Backstage
 - [dirien/kargo-test](https://github.com/dirien/kargo-test) ([0.1.8-helm](https://github.com/dirien/kargo-test/releases/tag/0.1.8-helm), 1 week ago)
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.0.0-beta.2](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.0.0-beta.2), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [alexellis/arkade](https://github.com/alexellis/arkade) ([0.11.31](https://github.com/alexellis/arkade/releases/tag/0.11.31), 2 weeks ago) - Open Source Marketplace For Developer Tools
 
 #### ⭐ Latest repositories I starred
 
+- [Qovery/qovery-migration-ai-agent](https://github.com/Qovery/qovery-migration-ai-agent) - Qovery Migration AI Agent to Automate and Ease the Migration From Cloud Providers with Qovery - 13 stars
+- [augur-ai/mantis](https://github.com/augur-ai/mantis) - Mantis is a unified infrastructure as code framework that replaces Terraform and Helm - 61 stars
+- [gitops-bridge-dev/gitops-bridge](https://github.com/gitops-bridge-dev/gitops-bridge) -  - 388 stars
+- [idsulik/helm-cel](https://github.com/idsulik/helm-cel) - A Helm plugin that uses Common Expression Language (CEL) to validate values. Instead of using JSON Schema in values.schema.json, you can write more expressive validation rules using CEL in values.cel.yaml. - 47 stars
 - [AzBuilder/terrakube](https://github.com/AzBuilder/terrakube) - Open source IaC Automation and Collaboration Software. - 527 stars
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... - 13038 stars
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 500&#43; plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... - 13073 stars
 - [aydrian/ugly-sweater-app](https://github.com/aydrian/ugly-sweater-app) - Enter and cast votes for an Ugly Sweater contest using SMS. - 6 stars
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - 👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile. - 804 stars
 - [cloudposse/terraform-null-ansible](https://github.com/cloudposse/terraform-null-ansible) - Terraform Module to run ansible playbooks - 165 stars
-- [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer - 5294 stars
-- [portefaix/portefaix-kubernetes](https://github.com/portefaix/portefaix-kubernetes) - Kubernetes resources - 10 stars
-- [lyft/clutch](https://github.com/lyft/clutch) - Extensible platform for infrastructure management - 1696 stars
-- [perses/perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus/Tempo - more data sources to come! - 910 stars
-- [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight) - Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead. - 2122 stars
+- [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer - 5296 stars
 
 #### 👥 Latest follower
 
@@ -87,22 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/20936872-ca23-44da-a4bc-db39db3468b6/blob)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![Speaker - KCD Istanbul 2024](https://images.credly.com/size/110x110/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png)](http://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d "Speaker - KCD Istanbul 2024")
-[![Speaker - KCD Washington DC 2024](https://images.credly.com/size/110x110/images/1ca55cae-1529-4e01-940d-4600ba97b857/blob)](http://www.credly.com/badges/26314a98-1f37-4342-906a-295b1c5096c8 "Speaker - KCD Washington DC 2024")
-[![Speaker - Continuous Delivery Mini Summit 2024](https://images.credly.com/size/110x110/images/2738acec-9405-4558-bd0c-64353c852d58/image.png)](http://www.credly.com/badges/803e5b78-a4b6-47ba-bdc3-0b947be6a1c9 "Speaker - Continuous Delivery Mini Summit 2024")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
