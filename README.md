@@ -24,31 +24,31 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (2 days ago)
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (5 days ago)
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (5 days ago)
-- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project) (5 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (3 days ago)
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. (3 days ago)
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) - Pulumi provider for Exoscale (6 days ago)
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) - Pulumi provider for Vultr (6 days ago)
+- [akuity/awesome-argo](https://github.com/akuity/awesome-argo) - A curated list of awesome projects and resources related to Argo (a CNCF graduated project) (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.23.1](https://github.com/dirien/pulumi-vultr/releases/tag/v2.23.1), 5 days ago) - Pulumi provider for Vultr
-- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.62.7](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.62.7), 5 days ago) - Pulumi provider for Exoscale
-- [pulumi/pulumi-esc-csi-provider](https://github.com/pulumi/pulumi-esc-csi-provider) ([v0.1.0](https://github.com/pulumi/pulumi-esc-csi-provider/releases/tag/v0.1.0), 5 days ago) - A Secret Store CSI provider for Pulumi ESC
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.1.0](https://github.com/port-labs/pulumi-port/releases/tag/v2.1.0), 6 days ago) - Pulumi Port provider
+- [dirien/pulumi-vultr](https://github.com/dirien/pulumi-vultr) ([v2.23.1](https://github.com/dirien/pulumi-vultr/releases/tag/v2.23.1), 6 days ago) - Pulumi provider for Vultr
+- [pulumiverse/pulumi-exoscale](https://github.com/pulumiverse/pulumi-exoscale) ([v0.62.7](https://github.com/pulumiverse/pulumi-exoscale/releases/tag/v0.62.7), 6 days ago) - Pulumi provider for Exoscale
+- [pulumi/pulumi-esc-csi-provider](https://github.com/pulumi/pulumi-esc-csi-provider) ([v0.1.0](https://github.com/pulumi/pulumi-esc-csi-provider/releases/tag/v0.1.0), 6 days ago) - A Secret Store CSI provider for Pulumi ESC
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.1.0](https://github.com/port-labs/pulumi-port/releases/tag/v2.1.0), 1 week ago) - Pulumi Port provider
 - [pulumiverse/pulumi-scaleway](https://github.com/pulumiverse/pulumi-scaleway) ([v1.21.0](https://github.com/pulumiverse/pulumi-scaleway/releases/tag/v1.21.0), 1 week ago) - Pulumi provider for Scaleway
 
 #### ⭐ Latest repositories I starred
 
 - [awslabs/cedar-access-control-for-k8s](https://github.com/awslabs/cedar-access-control-for-k8s) - Cedar for Kubernetes brings the power of Cedar to Kubernetes authorization and admission validation, showing how cluster administrators can enable a unified access control language for principals making API calls and giving policy authors a single language to write and reason about - 97 stars
-- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. - 2131 stars
+- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. - 2368 stars
 - [akeylesslabs/akeyless-csi-provider](https://github.com/akeylesslabs/akeyless-csi-provider) - Akeyless Provider for Secret Store CSI Driver - 6 stars
 - [port-labs/terraform-provider-port-labs](https://github.com/port-labs/terraform-provider-port-labs) - Port Terraform Provider - 14 stars
 - [XMCyber/helm-global-templates](https://github.com/XMCyber/helm-global-templates) -  - 26 stars
-- [awslabs/kro](https://github.com/awslabs/kro) - kro | Kube Resource Orchestrator - 321 stars
+- [awslabs/kro](https://github.com/awslabs/kro) - kro | Kube Resource Orchestrator - 325 stars
 - [gitops-ci-cd/argo-config](https://github.com/gitops-ci-cd/argo-config) - Installation and configuration of Argo CD - 4 stars
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. - 23215 stars
-- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage - 1600 stars
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. - 23232 stars
+- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage - 1601 stars
 - [Qovery/qovery-migration-ai-agent](https://github.com/Qovery/qovery-migration-ai-agent) - Qovery Migration AI Agent to Automate and Ease the Migration From Cloud Providers with Qovery - 15 stars
 
 #### 👥 Latest follower
@@ -87,24 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6 "CKA: Certified Kubernetes Administrator")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7 "CKAD: Certified Kubernetes Application Developer")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/6f4212c6-80e6-4819-833d-a652b0feaabb/blob)](http://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2 "GitOps Fundamentals")
-[![LFS458: Kubernetes Administration](https://images.credly.com/size/110x110/images/20936872-ca23-44da-a4bc-db39db3468b6/blob)](http://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88 "LFS458: Kubernetes Administration")
-[![Cilium Getting Started](https://images.credly.com/size/110x110/images/06370e36-d23b-4dcf-8287-d0302926f14a/image.png)](http://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6 "Cilium Getting Started")
-[![LFD459: Kubernetes for App Developers](https://images.credly.com/size/110x110/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob)](http://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701 "LFD459: Kubernetes for App Developers")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/0acce3e3-a7a4-44df-80ba-fcbf4bbdc147/blob)](http://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad "GitOps at Scale")
-[![Cilium Ingress Controller](https://images.credly.com/size/110x110/images/086d2f39-26a5-4bb9-ab74-c632d76ad6fc/image.png)](http://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca "Cilium Ingress Controller")
-[![Cilium Gateway API](https://images.credly.com/size/110x110/images/29d180ca-09e7-49e9-8423-278109d75bb0/image.png)](http://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5 "Cilium Gateway API")
-[![Cilium Cluster Mesh](https://images.credly.com/size/110x110/images/e2eb2549-f3ab-415f-8625-54af9fe90d1f/image.png)](http://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5 "Cilium Cluster Mesh")
-[![Cilium IPv6 Networking and Observability](https://images.credly.com/size/110x110/images/dbd2178a-f14e-44d8-a11a-b967c155a0b6/image.png)](http://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb "Cilium IPv6 Networking and Observability")
-[![Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023](https://images.credly.com/size/110x110/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png)](http://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364 "Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023")
-[![LFS460: Kubernetes Security Fundamentals](https://images.credly.com/size/110x110/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob)](http://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483 "LFS460: Kubernetes Security Fundamentals")
-[![ArgoCon NA 2024 Speaker Badge](https://images.credly.com/size/110x110/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob)](http://www.credly.com/badges/73110e58-46f4-4af6-ac1c-9e3a1359b87d "ArgoCon NA 2024 Speaker Badge")
-[![Speaker - KCD Istanbul 2024](https://images.credly.com/size/110x110/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png)](http://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d "Speaker - KCD Istanbul 2024")
-[![Speaker: WasmCon 2024](https://images.credly.com/size/110x110/images/8db81a62-2bd7-4afd-a041-65f0eea57c3f/blob)](http://www.credly.com/badges/7d8386d2-1df9-4f46-8bcb-87cc474e545b "Speaker: WasmCon 2024")
-[![Speaker - KCD Washington DC 2024](https://images.credly.com/size/110x110/images/1ca55cae-1529-4e01-940d-4600ba97b857/blob)](http://www.credly.com/badges/26314a98-1f37-4342-906a-295b1c5096c8 "Speaker - KCD Washington DC 2024")
-[![Speaker - Continuous Delivery Mini Summit 2024](https://images.credly.com/size/110x110/images/2738acec-9405-4558-bd0c-64353c852d58/image.png)](http://www.credly.com/badges/803e5b78-a4b6-47ba-bdc3-0b947be6a1c9 "Speaker - Continuous Delivery Mini Summit 2024")
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
