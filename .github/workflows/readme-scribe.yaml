@@ -28,7 +28,7 @@ jobs:
             <!--START_SECTION:badges-->
             <!--END_SECTION:badges-->
           include: README.md
-      - uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8bf7a79
+      - uses: stefanzweifel/git-auto-commit-action@28e16e81777b558cc906c8750092100bbb34c5e3
         with:
           commit_message: 'Update generated README'
           branch: main
