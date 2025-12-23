@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Update Readme with badges from credly
-        uses: pemtajo/badge-readme@3.2
+        uses: pemtajo/badge-readme@9e2802524f5361f1c3af4d99ea1247a7d5952687 # 3.2
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MESSAGE: "Update badges from credly"

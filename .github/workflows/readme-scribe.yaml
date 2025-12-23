@@ -13,22 +13,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
-      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
+      - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         with:
           template: templates/README.md.tpl
           writeTo: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       - name: replace placeholder for badge tag
-        uses: jacobtomlinson/gha-find-replace@v3
+        uses: jacobtomlinson/gha-find-replace@2ff30f644d2e0078fc028beb9193f5ff0dcad39e # v3
         with:
           find: "badges_tag"
           replace: |
             <!--START_SECTION:badges-->
             <!--END_SECTION:badges-->
           include: README.md
-      - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
+      - uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
         with:
           commit_message: 'Update generated README'
           branch: main
@@ -36,4 +36,4 @@ jobs:
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
