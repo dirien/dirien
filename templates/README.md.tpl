@@ -15,7 +15,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-{{- range rss "https://blog.ediri.io/rss.xml" 6 }}
+{{- range rss "https://raw.githubusercontent.com/dirien/dirien/main/rss.xml" 6 }}
 - [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
 {{- end }}
 
