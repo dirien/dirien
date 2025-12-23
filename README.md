@@ -46,7 +46,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - 48185 stars
 - [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability. - 578 stars
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast - 2679 stars
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands - 69700 stars
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands - 69701 stars
 - [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver) - Kubernetes CSI driver for mounting image - 48 stars
 - [aws-samples/bottlerocket-images-cache](https://github.com/aws-samples/bottlerocket-images-cache) - Reduce the boot time of containers with large images by caching the images in the data volume of Bottlerocket OS. - 50 stars
 - [roderik/ai-rules](https://github.com/roderik/ai-rules) - Professional AI assistant configurations for Claude Code, Codex CLI, OpenCode and Gemini CLI with enterprise-grade defaults for Solidity and TypeScript development. - 47 stars
