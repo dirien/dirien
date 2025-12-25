@@ -24,30 +24,30 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (1 day ago)
 - [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (1 day ago)
-- [dirien/backrooms](https://github.com/dirien/backrooms) - A browser-based backrooms horror game built with Three.js (1 day ago)
-- [dirien/what-is-ai-platform-engineering-and-why-should-you-care](https://github.com/dirien/what-is-ai-platform-engineering-and-why-should-you-care) - Demo code for What is AI Platform Engineering and Why Should You Care (1 week ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 week ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (1 day ago)
+- [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 day ago)
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) - SDK for every minectl product (1 day ago)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) ([v0.5.0](https://github.com/dirien/lazy-pulumi/releases/tag/v0.5.0), 1 day ago) - A terminal UI (TUI) application for Pulumi Cloud
-- [pulumi/pulumi-digitalocean](https://github.com/pulumi/pulumi-digitalocean) ([v4.56.0](https://github.com/pulumi/pulumi-digitalocean/releases/tag/v4.56.0), 2 days ago) - A DigitalOcean Pulumi resource package, providing multi-language access to DigitalOcean
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.15.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.15.0), 6 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.17.4](https://github.com/port-labs/pulumi-port/releases/tag/v2.17.4), 1 week ago) - Pulumi Port provider
-- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.7.1](https://github.com/kubernetes-sigs/kro/releases/tag/v0.7.1), 1 week ago) - kro | Kube Resource Orchestrator
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.60.0](https://github.com/dirien/minectl/releases/tag/v0.60.0), 1 day ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [dirien/minectl-sdk](https://github.com/dirien/minectl-sdk) ([v0.20.0](https://github.com/dirien/minectl-sdk/releases/tag/v0.20.0), 1 day ago) - SDK for every minectl product
+- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) ([v0.5.0](https://github.com/dirien/lazy-pulumi/releases/tag/v0.5.0), 2 days ago) - A terminal UI (TUI) application for Pulumi Cloud
+- [pulumi/pulumi-digitalocean](https://github.com/pulumi/pulumi-digitalocean) ([v4.56.0](https://github.com/pulumi/pulumi-digitalocean/releases/tag/v4.56.0), 3 days ago) - A DigitalOcean Pulumi resource package, providing multi-language access to DigitalOcean
+- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.15.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.15.0), 1 week ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 
 #### ⭐ Latest repositories I starred
 
-- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. - 10840 stars
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. - 10848 stars
 - [mondaycom/agent-tool-protocol](https://github.com/mondaycom/agent-tool-protocol) - Agent Tool Protocol - 77 stars
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator - 4556 stars
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator - 4601 stars
 - [aws-samples/sample-aws-ops-agentcore-gateway-search](https://github.com/aws-samples/sample-aws-ops-agentcore-gateway-search) -  - 1 stars
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - 48279 stars
-- [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability. - 578 stars
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast - 2696 stars
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands - 69721 stars
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - 48387 stars
+- [strands-agents/agent-sop](https://github.com/strands-agents/agent-sop) - Natural language workflows that enable AI agents to perform complex, multi-step tasks with consistency and reliability. - 581 stars
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast - 2717 stars
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands - 69745 stars
 - [warm-metal/container-image-csi-driver](https://github.com/warm-metal/container-image-csi-driver) - Kubernetes CSI driver for mounting image - 48 stars
 - [aws-samples/bottlerocket-images-cache](https://github.com/aws-samples/bottlerocket-images-cache) - Reduce the boot time of containers with large images by caching the images in the data volume of Bottlerocket OS. - 50 stars
 
