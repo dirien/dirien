@@ -8,13 +8,23 @@ on:
 jobs:
   update-rss:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         
       - name: Download latest RSS feed
         run: |
-          curl -L -o rss.xml https://blog.ediri.io/rss.xml
+          curl -L -f -o rss.xml.tmp https://blog.ediri.io/rss.xml
+          # Verify the file is valid XML
+          if [ -s rss.xml.tmp ]; then
+            mv rss.xml.tmp rss.xml
+            echo "RSS feed downloaded successfully"
+          else
+            echo "Error: Downloaded file is empty"
+            exit 1
+          fi
           
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
