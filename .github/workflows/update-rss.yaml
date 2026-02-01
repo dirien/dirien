@@ -1,0 +1,26 @@
+name: Update RSS Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 */1 * *'  # Run daily
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Download latest RSS feed
+        run: |
+          curl -L -o rss.xml https://blog.ediri.io/rss.xml
+          
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Update RSS feed from blog'
+          commit_user_name: rss-updater 🤖
+          commit_user_email: actions@github.com
+          commit_author: rss-updater 🤖 <actions@github.com>
+          file_pattern: 'rss.xml'
