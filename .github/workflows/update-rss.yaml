@@ -3,7 +3,7 @@ name: Update RSS Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */1 * *'  # Run daily
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
 
 jobs:
   update-rss:
@@ -12,22 +12,23 @@ jobs:
       contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
         
       - name: Download latest RSS feed
         run: |
           curl -L -f -o rss.xml.tmp https://blog.ediri.io/rss.xml
-          # Verify the file is valid XML
-          if [ -s rss.xml.tmp ]; then
+          # Verify the file is valid XML and non-empty
+          if [ -s rss.xml.tmp ] && python3 -c "import xml.etree.ElementTree as ET; ET.parse('rss.xml.tmp')" 2>/dev/null; then
             mv rss.xml.tmp rss.xml
-            echo "RSS feed downloaded successfully"
+            echo "RSS feed downloaded and validated successfully"
           else
-            echo "Error: Downloaded file is empty"
+            echo "Error: Downloaded file is empty or not valid XML"
+            rm -f rss.xml.tmp
             exit 1
           fi
           
       - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
         with:
           commit_message: 'Update RSS feed from blog'
           commit_user_name: rss-updater 🤖
