@@ -15,7 +15,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (today)
+- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (1 day ago)
 - [Argo CD: Enable Helm Support in Kustomize](https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize) (1 year ago)
 - [Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator) (1 year ago)
 - [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (2 years ago)
@@ -24,18 +24,18 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [dirien/cfgmgmtcamp-2026-agentic-ai-workshop](https://github.com/dirien/cfgmgmtcamp-2026-agentic-ai-workshop) - Building AI-Assisted Operations: Agentic AI Workshop - CfgMgmtCamp Ghent 2026 (today)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (today)
-- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (1 day ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [dirien/claude-skills](https://github.com/dirien/claude-skills) - Custom Claude Code skills for Pulumi infrastructure as code (4 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 day ago)
+- [dirien/cfgmgmtcamp-2026-agentic-ai-workshop](https://github.com/dirien/cfgmgmtcamp-2026-agentic-ai-workshop) - Building AI-Assisted Operations: Agentic AI Workshop - CfgMgmtCamp Ghent 2026 (1 day ago)
+- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (2 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (3 days ago)
+- [pulumi/pulumi-backstage-plugin](https://github.com/pulumi/pulumi-backstage-plugin) - Pulumi plugin for Backstage (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.8.4](https://github.com/kubernetes-sigs/kro/releases/tag/v0.8.4), 2 days ago) - kro | Kube Resource Orchestrator
-- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) ([v0.6.1](https://github.com/dirien/lazy-pulumi/releases/tag/v0.6.1), 4 days ago) - A terminal UI (TUI) application for Pulumi Cloud
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.4.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.4.0), 6 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.19.2](https://github.com/port-labs/pulumi-port/releases/tag/v2.19.2), 6 days ago) - Pulumi Port provider
+- [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.8.4](https://github.com/kubernetes-sigs/kro/releases/tag/v0.8.4), 3 days ago) - kro | Kube Resource Orchestrator
+- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) ([v0.6.1](https://github.com/dirien/lazy-pulumi/releases/tag/v0.6.1), 5 days ago) - A terminal UI (TUI) application for Pulumi Cloud
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.4.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.4.0), 1 week ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.19.2](https://github.com/port-labs/pulumi-port/releases/tag/v2.19.2), 1 week ago) - Pulumi Port provider
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.16.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.16.0), 3 weeks ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 
 #### ⭐ Latest repositories I starred
@@ -43,13 +43,13 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 - [opsyhq/opsy-cli](https://github.com/opsyhq/opsy-cli) - AI DevOps Agent that won&#39;t take down your production - 20 stars
 - [fferrin/free-medium](https://github.com/fferrin/free-medium) - An extension to read Medium posts for free - 842 stars
 - [kubernetes-sigs/multicluster-runtime](https://github.com/kubernetes-sigs/multicluster-runtime) - Library for multi-cluster controllers with controller-runtime - 254 stars
-- [open-constructs/cdk-terrain](https://github.com/open-constructs/cdk-terrain) - Define infrastructure resources using programming constructs and provision them using OpenTofu/Terraform - 59 stars
-- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU - 2279 stars
-- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal. - 2012 stars
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent - 20032 stars
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills - 8165 stars
-- [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. - 2122 stars
-- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns - 857 stars
+- [open-constructs/cdk-terrain](https://github.com/open-constructs/cdk-terrain) - Define infrastructure resources using programming constructs and provision them using OpenTofu/Terraform - 60 stars
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU - 2286 stars
+- [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal. - 2025 stars
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent - 20060 stars
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills - 8183 stars
+- [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen &amp; Droid in a loop until your PRD is complete. - 2125 stars
+- [antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns - 858 stars
 
 #### 👥 Latest follower
 
