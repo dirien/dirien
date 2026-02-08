@@ -15,7 +15,7 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (6 days ago)
+- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (1 week ago)
 - [Argo CD: Enable Helm Support in Kustomize](https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize) (1 year ago)
 - [Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator) (1 year ago)
 - [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (2 years ago)
@@ -24,32 +24,32 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 
 #### 👷 I'm currently working on
 
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [dirien/cfgmgmtcamp-2026-agentic-ai-workshop](https://github.com/dirien/cfgmgmtcamp-2026-agentic-ai-workshop) - Building AI-Assisted Operations: Agentic AI Workshop - CfgMgmtCamp Ghent 2026 (3 days ago)
-- [dirien/url-shortener-saas](https://github.com/dirien/url-shortener-saas) - Production-ready URL Shortener SaaS built with Pulumi TypeScript, AWS Lambda, DynamoDB, CloudFront, and React (5 days ago)
-- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (6 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 day ago)
+- [dirien/cfgmgmtcamp-2026-agentic-ai-workshop](https://github.com/dirien/cfgmgmtcamp-2026-agentic-ai-workshop) - Building AI-Assisted Operations: Agentic AI Workshop - CfgMgmtCamp Ghent 2026 (4 days ago)
+- [dirien/url-shortener-saas](https://github.com/dirien/url-shortener-saas) - Production-ready URL Shortener SaaS built with Pulumi TypeScript, AWS Lambda, DynamoDB, CloudFront, and React (6 days ago)
+- [dirien/quick-bites](https://github.com/dirien/quick-bites) - Quick Bites of different technologies (1 week ago)
 - [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.31](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.31), 1 day ago) - MCP DigitalOcean Integration
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.18.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.18.0), 1 day ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.19.4](https://github.com/port-labs/pulumi-port/releases/tag/v2.19.4), 3 days ago) - Pulumi Port provider
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.4.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.4.1), 4 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.31](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.31), 2 days ago) - MCP DigitalOcean Integration
+- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.18.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.18.0), 2 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.19.4](https://github.com/port-labs/pulumi-port/releases/tag/v2.19.4), 4 days ago) - Pulumi Port provider
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.4.1](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.4.1), 5 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) ([v0.8.4](https://github.com/kubernetes-sigs/kro/releases/tag/v0.8.4), 1 week ago) - kro | Kube Resource Orchestrator
 
 #### ⭐ Latest repositories I starred
 
-- [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you&#39;re stuck. Invoke GPT-5 Pro with a custom context and files. - 1317 stars
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods - 7671 stars
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. - 6827 stars
-- [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system - 516 stars
+- [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you&#39;re stuck. Invoke GPT-5 Pro with a custom context and files. - 1328 stars
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods - 7907 stars
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. - 9890 stars
+- [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system - 527 stars
 - [Shaked/agentis-repos](https://github.com/Shaked/agentis-repos) - agentic-repo is a Go CLI tool that transforms standard Git repositories into &#34;Agent-Native&#34; repositories — codebases optimized for AI coding assistants like Cursor, Claude, and other LLM-based agents. - 5 stars
 - [opsyhq/opsy-cli](https://github.com/opsyhq/opsy-cli) - AI DevOps Agent that won&#39;t take down your production - 21 stars
 - [fferrin/free-medium](https://github.com/fferrin/free-medium) - An extension to read Medium posts for free - 850 stars
 - [kubernetes-sigs/multicluster-runtime](https://github.com/kubernetes-sigs/multicluster-runtime) - Library for multi-cluster controllers with controller-runtime - 262 stars
 - [open-constructs/cdk-terrain](https://github.com/open-constructs/cdk-terrain) - Define infrastructure resources using programming constructs and provision them using OpenTofu/Terraform - 77 stars
-- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU - 2567 stars
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU - 2589 stars
 
 #### 👥 Latest follower
 
@@ -87,27 +87,6 @@ installations. It is build completely on zero-trust, k3sair is not saving anythi
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/e093fff3-cc24-4c30-b79c-e5ead3b8b207" title="Speaker - KCD Suisse Romande 2025"><img src="https://images.credly.com/size/80x80/images/6b0d293e-574e-430d-a92f-b26ae5100f43/blob" alt="Speaker - KCD Suisse Romande 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e6023297-1339-4b94-91e0-d200fab3498f" title="Speaker at Cloud Native Denmark 2025 Aarhus"><img src="https://images.credly.com/size/80x80/images/59e7f5b1-5be0-4512-a023-bf1cbd136609/blob" alt="Speaker at Cloud Native Denmark 2025 Aarhus" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9553cee5-f3b3-4978-a041-d076d73069e6" title="Speaker - KCD Sofia 2025"><img src="https://images.credly.com/size/80x80/images/38f79b07-67de-4d0c-bd80-3be0050f958e/blob" alt="Speaker - KCD Sofia 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/7d8386d2-1df9-4f46-8bcb-87cc474e545b" title="Speaker: WasmCon 2024"><img src="https://images.credly.com/size/80x80/images/8db81a62-2bd7-4afd-a041-65f0eea57c3f/blob" alt="Speaker: WasmCon 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/73110e58-46f4-4af6-ac1c-9e3a1359b87d" title="ArgoCon NA 2024 Speaker Badge"><img src="https://images.credly.com/size/80x80/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob" alt="ArgoCon NA 2024 Speaker Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/26314a98-1f37-4342-906a-295b1c5096c8" title="Speaker - KCD Washington DC 2024"><img src="https://images.credly.com/size/80x80/images/1ca55cae-1529-4e01-940d-4600ba97b857/blob" alt="Speaker - KCD Washington DC 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/803e5b78-a4b6-47ba-bdc3-0b947be6a1c9" title="Speaker - Continuous Delivery Mini Summit 2024"><img src="https://images.credly.com/size/80x80/images/2738acec-9405-4558-bd0c-64353c852d58/image.png" alt="Speaker - Continuous Delivery Mini Summit 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d" title="Speaker - KCD Istanbul 2024"><img src="https://images.credly.com/size/80x80/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png" alt="Speaker - KCD Istanbul 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364" title="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023"><img src="https://images.credly.com/size/80x80/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" alt="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5" title="Cilium Cluster Mesh"><img src="https://images.credly.com/size/80x80/images/00f31c5d-eb40-458f-aa11-22e9ff35deb7/tempfile20250605-95-6sagl8.png" alt="Cilium Cluster Mesh" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5" title="Cilium Gateway API"><img src="https://images.credly.com/size/80x80/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway API" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca" title="Cilium Ingress Controller"><img src="https://images.credly.com/size/80x80/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb" title="Cilium IPv6 Networking and Observability"><img src="https://images.credly.com/size/80x80/images/fb0a6e4c-55fa-41c2-ae43-3b1ebe7a921c/tempfile20250605-85-21t8t.png" alt="Cilium IPv6 Networking and Observability" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6" title="Cilium Getting Started"><img src="https://images.credly.com/size/80x80/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" alt="Cilium Getting Started" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad" title="GitOps at Scale"><img src="https://images.credly.com/size/80x80/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2" title="GitOps Fundamentals"><img src="https://images.credly.com/size/80x80/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483" title="LFS460: Kubernetes Security Fundamentals"><img src="https://images.credly.com/size/80x80/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob" alt="LFS460: Kubernetes Security Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88" title="LFS458: Kubernetes Administration"><img src="https://images.credly.com/size/80x80/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" alt="LFS458: Kubernetes Administration" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701" title="LFD459: Kubernetes for App Developers"><img src="https://images.credly.com/size/80x80/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob" alt="LFD459: Kubernetes for App Developers" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
