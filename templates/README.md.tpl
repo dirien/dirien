@@ -48,18 +48,35 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 ## 🏗️ My Projects
 [minectl 🗺](https://github.com/dirien/minectl)
 
-minectl is a cli for creating Minecraft server on different cloud provider.
+Spin up Minecraft servers on any cloud provider from the command line.
 
 [minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter)
 
-This is a Prometheus Minecraft exporter, created as part of the minectl 🗺 project.
+Prometheus exporter for Minecraft servers. Built alongside minectl.
 
 [K3SAIR 🏴‍☠️️ ('Corsair')](https://github.com/dirien/k3sair-cli)
 
-k3sair is a cli for the installation of k3s in an Air-Gapped environment.
+Install k3s in air-gapped environments. Born out of necessity at work — we needed it, so I built it. Zero-trust by design, nothing gets saved to disk.
 
-The idea is born, during the installation attempt in my company. So we are using this cli too, for our own
-installations. It is build completely on zero-trust, k3sair is not saving anything.
+[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)
+
+Exports Pulumi Cloud metrics via OpenTelemetry.
+
+[lazy-pulumi](https://github.com/dirien/lazy-pulumi)
+
+A TUI for managing Pulumi Cloud without leaving the terminal.
+
+[claude-skills](https://github.com/dirien/claude-skills)
+
+A collection of Claude Code skills for working with Pulumi infrastructure as code.
+
+[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)
+
+Shows your current Pulumi stack info right in the Claude Code status line.
+
+[backrooms](https://github.com/dirien/backrooms)
+
+A browser-based horror game inspired by the backrooms. Built with Three.js.
 
 ## 🎓 Certificates & Trainings
 
