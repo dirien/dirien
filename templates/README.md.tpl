@@ -12,39 +12,6 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 [![](https://img.shields.io/badge/dirien-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://openprofile.dev/profile/dirien)
 [![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ediri/)
 
-## 🎬 My Activities
-
-#### 📖 My latest blog posts
-{{- range rss "https://raw.githubusercontent.com/dirien/dirien/main/rss.xml" 6 }}
-- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
-{{- end }}
-
-#### 👷 I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
-#### 🚀 Latest releases I contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
-{{- end}}
-
-#### ⭐ Latest repositories I starred
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
-{{- end}}
-
-#### 👥 Latest follower
-{{range followers 5}}
-- [{{.Login}}]({{.URL}}) - {{.Name}}
-{{- end}}
-
-#### 👨‍💻 Repositories I created recently
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
-{{- end}}
-
-
 ## 🏗️ My Projects
 [minectl 🗺](https://github.com/dirien/minectl)
 
@@ -77,6 +44,38 @@ Shows your current Pulumi stack info right in the Claude Code status line.
 [backrooms](https://github.com/dirien/backrooms)
 
 A browser-based horror game inspired by the backrooms. Built with Three.js.
+
+## 🎬 My Activities
+
+#### 📖 My latest blog posts
+{{- range rss "https://raw.githubusercontent.com/dirien/dirien/main/rss.xml" 6 }}
+- [{{ .Title }}]({{ .URL }}) ({{ humanize .PublishedAt }})
+{{- end }}
+
+#### 👷 I'm currently working on
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🚀 Latest releases I contributed to
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
+
+#### ⭐ Latest repositories I starred
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
+{{- end}}
+
+#### 👥 Latest follower
+{{range followers 5}}
+- [{{.Login}}]({{.URL}}) - {{.Name}}
+{{- end}}
+
+#### 👨‍💻 Repositories I created recently
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
+{{- end}}
 
 ## 🎓 Certificates & Trainings
 
