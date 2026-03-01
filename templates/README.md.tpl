@@ -2,7 +2,7 @@
 
 ## 👉 Engin Diri
 
-I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and much more...
+I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and lately AI agents.
 
 [![](https://img.shields.io/badge/-@__ediri-000000?style=for-the-badge&logo=X&logoColor=ffffff)](https://x.com/_ediri)
 [![](https://img.shields.io/badge/engin--diri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/engin-diri/)
