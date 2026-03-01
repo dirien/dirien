@@ -2,7 +2,7 @@
 
 ## 👉 Engin Diri
 
-I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and much more...
+I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and lately AI agents.
 
 [![](https://img.shields.io/badge/-@__ediri-000000?style=for-the-badge&logo=X&logoColor=ffffff)](https://x.com/_ediri)
 [![](https://img.shields.io/badge/engin--diri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/engin-diri/)
@@ -76,10 +76,10 @@ A browser-based horror game inspired by the backrooms. Built with Three.js.
 - [AlexsJones/sympozium](https://github.com/AlexsJones/sympozium) - Run a fleet of AI agents on Kubernetes. Administer your cluster agentically - 97 stars
 - [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more. - 820 stars
 - [proliferate-ai/proliferate](https://github.com/proliferate-ai/proliferate) - The open source background agent - 181 stars
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API - 14934 stars
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API - 14935 stars
 - [mitchellbernstein/shabbat.md](https://github.com/mitchellbernstein/shabbat.md) - Make Agents Kosher Again. An open format for Shabbat-compliant AI agent configuration. - 37 stars
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs) - 9001 stars
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK - 16857 stars
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK - 16858 stars
 - [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent - 1719 stars
 - [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes. - 358 stars
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. - 1105 stars
