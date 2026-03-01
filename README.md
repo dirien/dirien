@@ -12,62 +12,6 @@ I am a software engineer with an obsession in DevOps, Serverless, Kubernetes and
 [![](https://img.shields.io/badge/dirien-003366?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://openprofile.dev/profile/dirien)
 [![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ediri/)
 
-## 🎬 My Activities
-
-#### 📖 My latest blog posts
-- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (4 weeks ago)
-- [Argo CD: Enable Helm Support in Kustomize](https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize) (1 year ago)
-- [Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator) (1 year ago)
-- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (2 years ago)
-- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (2 years ago)
-- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (2 years ago)
-
-#### 👷 I'm currently working on
-
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (2 days ago)
-- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) - OpenTelemetry Pulumi Cloud metrics exporter (2 days ago)
-- [dirien/claude-skills](https://github.com/dirien/claude-skills) - Custom Claude Code skills for Pulumi infrastructure as code (3 days ago)
-- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (3 days ago)
-
-#### 🚀 Latest releases I contributed to
-
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.19.11](https://github.com/port-labs/pulumi-port/releases/tag/v2.19.11), 5 days ago) - Pulumi Port provider
-- [dirien/minectl](https://github.com/dirien/minectl) ([v0.61.0](https://github.com/dirien/minectl/releases/tag/v0.61.0), 5 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.40.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.40.1), 1 week ago) - Node-red Helm Chart
-- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) ([v0.1.0](https://github.com/pulumi-labs/pulumi-exporter/releases/tag/v0.1.0), 1 week ago) - OpenTelemetry Pulumi Cloud metrics exporter
-- [dirien/pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline) ([v0.1.1](https://github.com/dirien/pulumi-ccstatusline/releases/tag/v0.1.1), 1 week ago) - Pulumi stack info in your Claude Code status line
-
-#### ⭐ Latest repositories I starred
-
-- [AlexsJones/sympozium](https://github.com/AlexsJones/sympozium) - Run a fleet of AI agents on Kubernetes. Administer your cluster agentically - 97 stars
-- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more. - 820 stars
-- [proliferate-ai/proliferate](https://github.com/proliferate-ai/proliferate) - The open source background agent - 181 stars
-- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API - 14934 stars
-- [mitchellbernstein/shabbat.md](https://github.com/mitchellbernstein/shabbat.md) - Make Agents Kosher Again. An open format for Shabbat-compliant AI agent configuration. - 37 stars
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs) - 9001 stars
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK - 16855 stars
-- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent - 1719 stars
-- [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes. - 358 stars
-- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. - 1105 stars
-
-#### 👥 Latest follower
-
-- [m9lhob](https://github.com/m9lhob) - 
-- [antedotee](https://github.com/antedotee) - ky505
-- [carpedm20](https://github.com/carpedm20) - Taehoon
-- [ishandutta2007](https://github.com/ishandutta2007) - ishan dutta
-- [Interested-Deving-1896](https://github.com/Interested-Deving-1896) - Interested Deving
-
-#### 👨‍💻 Repositories I created recently
-
-- [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants
-- [dirien/iac-token-benchmark](https://github.com/dirien/iac-token-benchmark) - IaC Token Efficiency Benchmark: measures token consumption and cost across Terraform HCL and Pulumi TypeScript
-- [dirien/pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline) - Pulumi stack info in your Claude Code status line
-- [dirien/coding-task-test](https://github.com/dirien/coding-task-test)
-- [dirien/c64-demo](https://github.com/dirien/c64-demo) - Classic Commodore 64 cracktro-style demo with raster bars, SID music, and bouncing Pulumi sprite
-
-
 ## 🏗️ My Projects
 [minectl 🗺](https://github.com/dirien/minectl)
 
@@ -100,6 +44,61 @@ Shows your current Pulumi stack info right in the Claude Code status line.
 [backrooms](https://github.com/dirien/backrooms)
 
 A browser-based horror game inspired by the backrooms. Built with Three.js.
+
+## 🎬 My Activities
+
+#### 📖 My latest blog posts
+- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (4 weeks ago)
+- [Argo CD: Enable Helm Support in Kustomize](https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize) (1 year ago)
+- [Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator) (1 year ago)
+- [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (2 years ago)
+- [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (2 years ago)
+- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (2 years ago)
+
+#### 👷 I'm currently working on
+
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
+- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (2 days ago)
+- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) - OpenTelemetry Pulumi Cloud metrics exporter (2 days ago)
+- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (3 days ago)
+- [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants (3 days ago)
+
+#### 🚀 Latest releases I contributed to
+
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.19.11](https://github.com/port-labs/pulumi-port/releases/tag/v2.19.11), 5 days ago) - Pulumi Port provider
+- [dirien/minectl](https://github.com/dirien/minectl) ([v0.61.0](https://github.com/dirien/minectl/releases/tag/v0.61.0), 5 days ago) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider.
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.40.1](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.40.1), 1 week ago) - Node-red Helm Chart
+- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) ([v0.1.0](https://github.com/pulumi-labs/pulumi-exporter/releases/tag/v0.1.0), 1 week ago) - OpenTelemetry Pulumi Cloud metrics exporter
+- [dirien/pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline) ([v0.1.1](https://github.com/dirien/pulumi-ccstatusline/releases/tag/v0.1.1), 1 week ago) - Pulumi stack info in your Claude Code status line
+
+#### ⭐ Latest repositories I starred
+
+- [AlexsJones/sympozium](https://github.com/AlexsJones/sympozium) - Run a fleet of AI agents on Kubernetes. Administer your cluster agentically - 97 stars
+- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more. - 820 stars
+- [proliferate-ai/proliferate](https://github.com/proliferate-ai/proliferate) - The open source background agent - 181 stars
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API - 14934 stars
+- [mitchellbernstein/shabbat.md](https://github.com/mitchellbernstein/shabbat.md) - Make Agents Kosher Again. An open format for Shabbat-compliant AI agent configuration. - 37 stars
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs) - 9001 stars
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic&#39;s Agents SDK - 16857 stars
+- [letta-ai/letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent - 1719 stars
+- [agavra/tuicr](https://github.com/agavra/tuicr) - A human-in-the-loop code review TUI for AI-generated changes. - 358 stars
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. - 1105 stars
+
+#### 👥 Latest follower
+
+- [m9lhob](https://github.com/m9lhob) - 
+- [antedotee](https://github.com/antedotee) - ky505
+- [carpedm20](https://github.com/carpedm20) - Taehoon
+- [ishandutta2007](https://github.com/ishandutta2007) - ishan dutta
+- [Interested-Deving-1896](https://github.com/Interested-Deving-1896) - Interested Deving
+
+#### 👨‍💻 Repositories I created recently
+
+- [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants
+- [dirien/iac-token-benchmark](https://github.com/dirien/iac-token-benchmark) - IaC Token Efficiency Benchmark: measures token consumption and cost across Terraform HCL and Pulumi TypeScript
+- [dirien/pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline) - Pulumi stack info in your Claude Code status line
+- [dirien/coding-task-test](https://github.com/dirien/coding-task-test)
+- [dirien/c64-demo](https://github.com/dirien/c64-demo) - Classic Commodore 64 cracktro-style demo with raster bars, SID music, and bouncing Pulumi sprite
 
 ## 🎓 Certificates & Trainings
 
