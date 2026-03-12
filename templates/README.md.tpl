@@ -13,6 +13,10 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 [![](https://img.shields.io/badge/-@__ediri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ediri/)
 
 ## 🏗️ My Projects
+[yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness)
+
+A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary.
+
 [minectl 🗺](https://github.com/dirien/minectl)
 
 Spin up Minecraft servers on any cloud provider from the command line.
