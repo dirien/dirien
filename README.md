@@ -14,18 +14,18 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 ## 🏗️ My Projects
 
-- 🤖 **[yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness)** - Go agent harness for Claude Code — hooks, MCP server, session tracking, and config generation in one binary
-- 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
-- 🧩 **[devcontainer-feature-opencode](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing OpenCode
-- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing yaah
-- 🔌 **[devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex)** - Devcontainer feature for installing OpenAI Codex CLI
-- 🧠 **[claude-skills](https://github.com/dirien/claude-skills)** - Claude Code skills for working with Pulumi infrastructure as code
-- 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
-- 📈 **[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)** - Exports Pulumi Cloud metrics via OpenTelemetry
-- 🖥️ **[lazy-pulumi](https://github.com/dirien/lazy-pulumi)** - TUI for managing Pulumi Cloud without leaving the terminal
 - 🗺️ **[minectl](https://github.com/dirien/minectl)** - Spin up Minecraft servers on any cloud provider from the command line
 - 🎮 **[minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter)** - Prometheus exporter for Minecraft servers, built alongside minectl
 - 🏴‍☠️ **[K3SAIR](https://github.com/dirien/k3sair-cli)** - k3s in air-gapped environments — born out of necessity at work, zero-trust by design
+- 🖥️ **[lazy-pulumi](https://github.com/dirien/lazy-pulumi)** - TUI for managing Pulumi Cloud without leaving the terminal
+- 🤖 **[yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness)** - Go agent harness for Claude Code — hooks, MCP server, session tracking, and config generation in one binary
+- 🧠 **[claude-skills](https://github.com/dirien/claude-skills)** - Claude Code skills for working with Pulumi infrastructure as code
+- 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
+- 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
+- 🧩 **[devcontainer-feature-opencode](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing OpenCode
+- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing yaah
+- 🔌 **[devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex)** - Devcontainer feature for installing OpenAI Codex CLI
+- 📈 **[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)** - Exports Pulumi Cloud metrics via OpenTelemetry
 - 👻 **[backrooms](https://github.com/dirien/backrooms)** - Browser-based horror game inspired by the backrooms, built with Three.js
 
 ## 🎬 My Activities
@@ -42,8 +42,8 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 - [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
 - [dirien/claude-skills](https://github.com/dirien/claude-skills) - Custom Claude Code skills for Pulumi infrastructure as code (today)
+- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (today)
 - [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (today)
-- [dirien/devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents) - Devcontainer with four AI coding agents (Claude Code, Copilot, OpenCode, Codex) and yaah for unified config generation (1 day ago)
 - [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary (1 day ago)
 
 #### 🚀 Latest releases I contributed to
@@ -61,11 +61,11 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json. - 2576 stars
 - [mshumer/unslop](https://github.com/mshumer/unslop) -  - 237 stars
 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) -  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. - 5081 stars
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference - 15255 stars
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies - 31564 stars
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000&#43; toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. - 27469 stars
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration - 18788 stars
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA - 37593 stars
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference - 15266 stars
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies - 31574 stars
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000&#43; toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. - 27470 stars
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration - 18790 stars
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA - 37629 stars
 
 #### 👥 Latest follower
 
