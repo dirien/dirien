@@ -40,11 +40,11 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
 - [dirien/claude-skills](https://github.com/dirien/claude-skills) - Custom Claude Code skills for Pulumi infrastructure as code (today)
+- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
 - [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (today)
 - [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (today)
-- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary (1 day ago)
+- [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants (today)
 
 #### 🚀 Latest releases I contributed to
 
@@ -61,11 +61,11 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json. - 2576 stars
 - [mshumer/unslop](https://github.com/mshumer/unslop) -  - 237 stars
 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) -  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. - 5081 stars
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference - 15266 stars
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies - 31574 stars
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference - 15267 stars
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies - 31575 stars
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000&#43; toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. - 27470 stars
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration - 18790 stars
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA - 37629 stars
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA - 37632 stars
 
 #### 👥 Latest follower
 
