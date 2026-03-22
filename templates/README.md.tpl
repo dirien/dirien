@@ -14,18 +14,18 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 ## 🏗️ My Projects
 
-- 🤖 **[yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness)** - Go agent harness for Claude Code — hooks, MCP server, session tracking, and config generation in one binary
-- 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
-- 🧩 **[devcontainer-feature-opencode](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing OpenCode
-- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing yaah
-- 🔌 **[devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex)** - Devcontainer feature for installing OpenAI Codex CLI
-- 🧠 **[claude-skills](https://github.com/dirien/claude-skills)** - Claude Code skills for working with Pulumi infrastructure as code
-- 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
-- 📈 **[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)** - Exports Pulumi Cloud metrics via OpenTelemetry
-- 🖥️ **[lazy-pulumi](https://github.com/dirien/lazy-pulumi)** - TUI for managing Pulumi Cloud without leaving the terminal
 - 🗺️ **[minectl](https://github.com/dirien/minectl)** - Spin up Minecraft servers on any cloud provider from the command line
 - 🎮 **[minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter)** - Prometheus exporter for Minecraft servers, built alongside minectl
 - 🏴‍☠️ **[K3SAIR](https://github.com/dirien/k3sair-cli)** - k3s in air-gapped environments — born out of necessity at work, zero-trust by design
+- 🖥️ **[lazy-pulumi](https://github.com/dirien/lazy-pulumi)** - TUI for managing Pulumi Cloud without leaving the terminal
+- 🤖 **[yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness)** - Go agent harness for Claude Code — hooks, MCP server, session tracking, and config generation in one binary
+- 🧠 **[claude-skills](https://github.com/dirien/claude-skills)** - Claude Code skills for working with Pulumi infrastructure as code
+- 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
+- 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
+- 🧩 **[devcontainer-feature-opencode](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing OpenCode
+- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing yaah
+- 🔌 **[devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex)** - Devcontainer feature for installing OpenAI Codex CLI
+- 📈 **[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)** - Exports Pulumi Cloud metrics via OpenTelemetry
 - 👻 **[backrooms](https://github.com/dirien/backrooms)** - Browser-based horror game inspired by the backrooms, built with Three.js
 
 ## 🎬 My Activities

@@ -14,6 +14,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+      - name: Sort projects by stars
+        run: python3 scripts/sort_projects_by_stars.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
       - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         with:
           template: templates/README.md.tpl
