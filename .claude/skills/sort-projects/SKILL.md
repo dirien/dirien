@@ -5,7 +5,9 @@ description: Sort the "My Projects" section in the GitHub profile README templat
 
 # Sort projects by GitHub stars
 
-Sorts the `## 🏗️ My Projects` section in `templates/README.md.tpl` by descending GitHub star count. Projects with the most stars appear first.
+Sorts the `## 🏗️ My Projects` section in `templates/README.md.tpl` (the template file, not the generated `README.md`) by descending GitHub star count. Projects with the most stars appear first.
+
+The `readme-scribe` workflow renders `templates/README.md.tpl` into `README.md` — so always edit the `.tpl` file. Never edit `README.md` directly, it gets overwritten.
 
 ## How it works
 
@@ -41,4 +43,4 @@ If a line doesn't match this pattern, the script skips it.
 
 ## After sorting
 
-Review the new order, commit, and push. The `readme-scribe` workflow also runs this script automatically on its daily cron, so the order stays fresh without manual intervention.
+Review the new order in `templates/README.md.tpl`, commit, and push. The `readme-scribe` workflow will render the updated template into `README.md` on the next run.
