@@ -12,7 +12,7 @@ Sorts the `## 🏗️ My Projects` section in `templates/README.md.tpl` by desce
 Run the sort script from the repo root:
 
 ```bash
-python3 scripts/sort_projects_by_stars.py
+python3 .claude/skills/sort-projects/scripts/sort_projects_by_stars.py
 ```
 
 The script:
