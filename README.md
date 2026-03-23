@@ -40,32 +40,32 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/claude-skills](https://github.com/dirien/claude-skills) - Custom Claude Code skills for Pulumi infrastructure as code (today)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (today)
-- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (today)
-- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (today)
-- [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants (today)
+- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary (today)
+- [dirien/claude-skills](https://github.com/dirien/claude-skills) - Custom Claude Code skills for Pulumi infrastructure as code (1 day ago)
+- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (1 day ago)
+- [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants (1 day ago)
+- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.20.1](https://github.com/port-labs/pulumi-port/releases/tag/v2.20.1), today) - Pulumi Port provider
-- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.2.1](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.2.1), 1 day ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
-- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.6.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.6.0), 3 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
-- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.36](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.36), 3 days ago) - MCP DigitalOcean Integration
+- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.2.2](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.2.2), 1 day ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.20.1](https://github.com/port-labs/pulumi-port/releases/tag/v2.20.1), 1 day ago) - Pulumi Port provider
+- [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.6.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.6.0), 4 days ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.36](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.36), 4 days ago) - MCP DigitalOcean Integration
 - [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.23.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.23.0), 1 week ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 
 #### ⭐ Latest repositories I starred
 
+- [modelpack/modctl](https://github.com/modelpack/modctl) - Command-line tools for managing OCI model artifacts, which are bundled based on Model Spec - 68 stars
+- [modelpack/model-spec](https://github.com/modelpack/model-spec) - An Open Standard for Packaging, Distributing and Running LLMs in Cloud-Native Environments - 187 stars
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models &amp; providers. One command to find what runs on your hardware. - 18521 stars
 - [netresearch/agent-rules-skill](https://github.com/netresearch/agent-rules-skill) - Agent Skill for generating AGENTS.md files following the agents.md convention | Claude Code compatible - 22 stars
 - [trsdn/mcp-server-ppt](https://github.com/trsdn/mcp-server-ppt) - PowerPoint MCP server and CLI for safe Microsoft PowerPoint automation via the native COM API, with GitHub Copilot, Claude, and ChatGPT support. - 18 stars
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json. - 2576 stars
-- [mshumer/unslop](https://github.com/mshumer/unslop) -  - 238 stars
-- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) -  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. - 5081 stars
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference - 15267 stars
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies - 31576 stars
-- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000&#43; toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. - 27471 stars
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration - 18790 stars
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA - 37634 stars
+- [mshumer/unslop](https://github.com/mshumer/unslop) -  - 244 stars
+- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) -  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. - 5083 stars
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference - 15309 stars
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies - 31616 stars
 
 #### 👥 Latest follower
 
