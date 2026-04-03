@@ -60,6 +60,12 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
 
+## 🏗️ My Projects
+
+[devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi)
+
+A Dev Container feature to install the Pulumi CLI for infrastructure as code.
+
 ## 🎓 Certificates & Trainings
 
 badges_tag
