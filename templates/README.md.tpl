@@ -23,7 +23,7 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
 - 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
 - 🧩 **[devcontainer-feature-opencode](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing OpenCode
-- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing yaah
+- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah)** - Devcontainer feature for installing yaah
 - 🔌 **[devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex)** - Devcontainer feature for installing OpenAI Codex CLI
 - ☁️ **[devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi)** - Devcontainer feature for installing the Pulumi CLI
 - 📈 **[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)** - Exports Pulumi Cloud metrics via OpenTelemetry
