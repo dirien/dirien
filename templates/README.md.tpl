@@ -25,6 +25,7 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - 🧩 **[devcontainer-feature-opencode](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing OpenCode
 - 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing yaah
 - 🔌 **[devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex)** - Devcontainer feature for installing OpenAI Codex CLI
+- ☁️ **[devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi)** - Devcontainer feature for installing the Pulumi CLI
 - 📈 **[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)** - Exports Pulumi Cloud metrics via OpenTelemetry
 - 👻 **[backrooms](https://github.com/dirien/backrooms)** - Browser-based horror game inspired by the backrooms, built with Three.js
 
@@ -59,12 +60,6 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
 {{- end}}
-
-## 🏗️ My Projects
-
-[devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi)
-
-A Dev Container feature to install the Pulumi CLI for infrastructure as code.
 
 ## 🎓 Certificates & Trainings
 
