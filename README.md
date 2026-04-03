@@ -23,7 +23,7 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
 - 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
 - 🧩 **[devcontainer-feature-opencode](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing OpenCode
-- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-features)** - Devcontainer feature for installing yaah
+- 🔧 **[devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah)** - Devcontainer feature for installing yaah
 - 🔌 **[devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex)** - Devcontainer feature for installing OpenAI Codex CLI
 - ☁️ **[devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi)** - Devcontainer feature for installing the Pulumi CLI
 - 📈 **[pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter)** - Exports Pulumi Cloud metrics via OpenTelemetry
@@ -42,10 +42,10 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 #### 👷 I'm currently working on
 
 - [dirien/devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi) - A Dev Container feature to install the Pulumi CLI (today)
+- [dirien/devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah) - A Dev Container feature to install yaah (Yet Another Agent Harness) (today)
 - [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (today)
 - [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants (1 day ago)
 - [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -62,7 +62,7 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) - Fast-track AI innovation with a centralized, trusted, curated registry - 243 stars
 - [Kuadrant/kuadrant-operator](https://github.com/Kuadrant/kuadrant-operator) - The Operator to install and manage the lifecycle of the Kuadrant components deployments. - 79 stars
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway - 1478 stars
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. - 156102 stars
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. - 156301 stars
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents. - 9722 stars
 - [rayhanadev/claude-petpet](https://github.com/rayhanadev/claude-petpet) - Find UUIDs that produce specific Claude Code buddy companions! - 9 stars
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture - 492 stars
@@ -78,11 +78,11 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah) - A Dev Container feature to install yaah (Yet Another Agent Harness)
 - [dirien/devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi) - A Dev Container feature to install the Pulumi CLI
 - [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore
 - [dirien/devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents) - Devcontainer with four AI coding agents (Claude Code, Copilot, OpenCode, Codex) and yaah for unified config generation
 - [dirien/devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex) - Dev Container feature to install OpenAI Codex CLI
-- [dirien/homebrew-tap](https://github.com/dirien/homebrew-tap) - Homebrew tap for dirien projects
 
 ## 🎓 Certificates & Trainings
 
