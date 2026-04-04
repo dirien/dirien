@@ -41,32 +41,32 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi) - A Dev Container feature to install the Pulumi CLI (today)
-- [dirien/devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah) - A Dev Container feature to install yaah (Yet Another Agent Harness) (today)
-- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (today)
-- [dirien/pulumi-events](https://github.com/dirien/pulumi-events) - MCP server for managing events on Meetup.com via AI assistants (1 day ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
+- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (1 day ago)
+- [dirien/devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi) - A Dev Container feature to install the Pulumi CLI (1 day ago)
+- [dirien/devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents) - Devcontainer with four AI coding agents (Claude Code, Copilot, OpenCode, Codex) and yaah for unified config generation (1 day ago)
+- [dirien/devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah) - A Dev Container feature to install yaah (Yet Another Agent Harness) (1 day ago)
+- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.42](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.42), 1 day ago) - MCP DigitalOcean Integration
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.24.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.24.0), 3 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
-- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.3.3](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.3.3), 3 days ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
-- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.50](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.50), 5 days ago) - Azure DevOps Extension for GoReleaser
+- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.3.4](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.3.4), 1 day ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.42](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.42), 2 days ago) - MCP DigitalOcean Integration
+- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.24.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.24.0), 4 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+- [goreleaser/goreleaser-azure-devops-extension](https://github.com/goreleaser/goreleaser-azure-devops-extension) ([v0.1.50](https://github.com/goreleaser/goreleaser-azure-devops-extension/releases/tag/v0.1.50), 6 days ago) - Azure DevOps Extension for GoReleaser
 - [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.21.1](https://github.com/port-labs/pulumi-port/releases/tag/v2.21.1), 1 week ago) - Pulumi Port provider
 
 #### ⭐ Latest repositories I starred
 
 - [project-dalec/dalec](https://github.com/project-dalec/dalec) - 📦 Produce secure packages and containers with declarative configurations - 296 stars
-- [kagenti/kagenti](https://github.com/kagenti/kagenti) - Main Kagenti repo - installer, UI and docs - 167 stars
-- [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) - Fast-track AI innovation with a centralized, trusted, curated registry - 243 stars
+- [kagenti/kagenti](https://github.com/kagenti/kagenti) - Main Kagenti repo - installer, UI and docs - 171 stars
+- [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) - Fast-track AI innovation with a centralized, trusted, curated registry - 244 stars
 - [Kuadrant/kuadrant-operator](https://github.com/Kuadrant/kuadrant-operator) - The Operator to install and manage the lifecycle of the Kuadrant components deployments. - 79 stars
-- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway - 1478 stars
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. - 156301 stars
-- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents. - 9722 stars
+- [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway - 1479 stars
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. - 162149 stars
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents. - 9731 stars
 - [rayhanadev/claude-petpet](https://github.com/rayhanadev/claude-petpet) - Find UUIDs that produce specific Claude Code buddy companions! - 9 stars
-- [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture - 492 stars
-- [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code) - 3597 stars
+- [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - The definitive resource for Agent Skills - modular capabilities revolutionizing AI agent architecture - 495 stars
+- [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code) - 3608 stars
 
 #### 👥 Latest follower
 
