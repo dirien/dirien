@@ -33,7 +33,7 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 📖 My latest blog posts
 - [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (3 months ago)
-- [Argo CD: Enable Helm Support in Kustomize](https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize) (1 year ago)
+- [Argo CD: Enable Helm Support in Kustomize](https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize) (2 years ago)
 - [Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator) (2 years ago)
 - [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (2 years ago)
 - [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (2 years ago)
@@ -41,32 +41,32 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/stop-wasting-gpus-how-we-built-a-golden-path-for-gpu-sharing-on-kubernetes](https://github.com/dirien/stop-wasting-gpus-how-we-built-a-golden-path-for-gpu-sharing-on-kubernetes) -  (today)
-- [honeycombio/ai-workshop](https://github.com/honeycombio/ai-workshop) - Honeycomb AI workshop (1 day ago)
-- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (1 day ago)
-- [pulumi/examples](https://github.com/pulumi/examples) - Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi (2 days ago)
-- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (3 days ago)
+- [dirien/stop-building-portals-start-building-conversations](https://github.com/dirien/stop-building-portals-start-building-conversations) - PlatformOps: a conversation-native IDP demo. Backstage-style catalog, Port.io-style self-service, live deploys — built on MCP Apps, A2UI, AG-UI, and CopilotKit. (1 day ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
+- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (2 days ago)
+- [dirien/stop-wasting-gpus-how-we-built-a-golden-path-for-gpu-sharing-on-kubernetes](https://github.com/dirien/stop-wasting-gpus-how-we-built-a-golden-path-for-gpu-sharing-on-kubernetes) -  (4 days ago)
+- [pulumi/workshops](https://github.com/pulumi/workshops) - A definitive place to store all the Pulumi workshops (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.54](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.54), 6 days ago) - MCP DigitalOcean Integration
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.29.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.29.0), 1 week ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.21.10](https://github.com/port-labs/pulumi-port/releases/tag/v2.21.10), 1 week ago) - Pulumi Port provider
-- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.4.1](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.4.1), 4 weeks ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.58](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.58), 1 day ago) - MCP DigitalOcean Integration
+- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.30.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.30.0), 5 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.21.10](https://github.com/port-labs/pulumi-port/releases/tag/v2.21.10), 2 weeks ago) - Pulumi Port provider
+- [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.4.1](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.4.1), 1 month ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
 - [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) ([v2.7.0](https://github.com/pulumi/pulumi-kubernetes-operator/releases/tag/v2.7.0), 1 month ago) - A Kubernetes Operator that automates the deployment of Pulumi Stacks
 
 #### ⭐ Latest repositories I starred
 
-- [dexhorthy/shannon](https://github.com/dexhorthy/shannon) - alternative to claude -p that lifecycles interactive sessions in tmux - 43 stars
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. - 5895 stars
-- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters - 1262 stars
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies The next-generation isolation primitive — brokering access directly within the agent&#39;s operating context, with zero setup and zero latency - 2385 stars
-- [aaronjmars/soul.md](https://github.com/aaronjmars/soul.md) - The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data &amp; build your AI soul. - 482 stars
-- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. - 2398 stars
-- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees. - 2216 stars
-- [vfarcic/dot-agent-deck](https://github.com/vfarcic/dot-agent-deck) - A rich terminal dashboard for monitoring and controlling multiple AI coding agent sessions - 43 stars
-- [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM&#39;s Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory - 1157 stars
-- [vercel-labs/ai-cli](https://github.com/vercel-labs/ai-cli) - Generate anything from your terminal - 457 stars
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create. - 26731 stars
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks - 12843 stars
+- [vercel-labs/zero](https://github.com/vercel-labs/zero) - The programming language for agents - 2288 stars
+- [dexhorthy/shannon](https://github.com/dexhorthy/shannon) - alternative to claude -p that lifecycles interactive sessions in tmux - 206 stars
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. - 6069 stars
+- [terraform-google-modules/terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine) - Configures opinionated GKE clusters - 1264 stars
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent&#39;s operating context, with zero setup and zero latency - 2417 stars
+- [aaronjmars/soul.md](https://github.com/aaronjmars/soul.md) - The best way to build a personality for your agent. Let Claude Code / OpenClaw ingest your data &amp; build your AI soul. - 505 stars
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. - 2441 stars
+- [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) - Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid Coding. Uses tmux and git worktrees. - 2298 stars
 
 #### 👥 Latest follower
 
@@ -78,36 +78,15 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/stop-building-portals-start-building-conversations](https://github.com/dirien/stop-building-portals-start-building-conversations) - PlatformOps: a conversation-native IDP demo. Backstage-style catalog, Port.io-style self-service, live deploys — built on MCP Apps, A2UI, AG-UI, and CopilotKit.
 - [dirien/stop-wasting-gpus-how-we-built-a-golden-path-for-gpu-sharing-on-kubernetes](https://github.com/dirien/stop-wasting-gpus-how-we-built-a-golden-path-for-gpu-sharing-on-kubernetes)
 - [dirien/from-zero-to-ai-agent-building-with-azure-ai-agent-service](https://github.com/dirien/from-zero-to-ai-agent-building-with-azure-ai-agent-service) - Companion repo for the Microsoft Foundry talk: From Zero to AI Agent. Three stages — local prototype with Foundry Local, single hosted agent on Foundry, and a production fleet with Foundry IQ, MCP, AI Gateway, MemoryStoreV2, evals &#43; AI red team. Pulumi IaC, Microsoft Agent Framework, all swedencentral.
 - [dirien/devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah) - A Dev Container feature to install yaah (Yet Another Agent Harness)
 - [dirien/devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi) - A Dev Container feature to install the Pulumi CLI
-- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore
 
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/e093fff3-cc24-4c30-b79c-e5ead3b8b207" title="Speaker - KCD Suisse Romande 2025"><img src="https://images.credly.com/size/80x80/images/6b0d293e-574e-430d-a92f-b26ae5100f43/blob" alt="Speaker - KCD Suisse Romande 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e6023297-1339-4b94-91e0-d200fab3498f" title="Speaker at Cloud Native Denmark 2025 Aarhus"><img src="https://images.credly.com/size/80x80/images/59e7f5b1-5be0-4512-a023-bf1cbd136609/blob" alt="Speaker at Cloud Native Denmark 2025 Aarhus" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9553cee5-f3b3-4978-a041-d076d73069e6" title="Speaker - KCD Sofia 2025"><img src="https://images.credly.com/size/80x80/images/38f79b07-67de-4d0c-bd80-3be0050f958e/blob" alt="Speaker - KCD Sofia 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/7d8386d2-1df9-4f46-8bcb-87cc474e545b" title="Speaker: WasmCon 2024"><img src="https://images.credly.com/size/80x80/images/8db81a62-2bd7-4afd-a041-65f0eea57c3f/blob" alt="Speaker: WasmCon 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/73110e58-46f4-4af6-ac1c-9e3a1359b87d" title="ArgoCon NA 2024 Speaker Badge"><img src="https://images.credly.com/size/80x80/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob" alt="ArgoCon NA 2024 Speaker Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/26314a98-1f37-4342-906a-295b1c5096c8" title="Speaker - KCD Washington DC 2024"><img src="https://images.credly.com/size/80x80/images/1ca55cae-1529-4e01-940d-4600ba97b857/blob" alt="Speaker - KCD Washington DC 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/803e5b78-a4b6-47ba-bdc3-0b947be6a1c9" title="Speaker - Continuous Delivery Mini Summit 2024"><img src="https://images.credly.com/size/80x80/images/2738acec-9405-4558-bd0c-64353c852d58/image.png" alt="Speaker - Continuous Delivery Mini Summit 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d" title="Speaker - KCD Istanbul 2024"><img src="https://images.credly.com/size/80x80/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png" alt="Speaker - KCD Istanbul 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364" title="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023"><img src="https://images.credly.com/size/80x80/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" alt="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5" title="Cilium Cluster Mesh"><img src="https://images.credly.com/size/80x80/images/00f31c5d-eb40-458f-aa11-22e9ff35deb7/tempfile20250605-95-6sagl8.png" alt="Cilium Cluster Mesh" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5" title="Cilium Gateway API"><img src="https://images.credly.com/size/80x80/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway API" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca" title="Cilium Ingress Controller"><img src="https://images.credly.com/size/80x80/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb" title="Cilium IPv6 Networking and Observability"><img src="https://images.credly.com/size/80x80/images/fb0a6e4c-55fa-41c2-ae43-3b1ebe7a921c/tempfile20250605-85-21t8t.png" alt="Cilium IPv6 Networking and Observability" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6" title="Cilium Getting Started"><img src="https://images.credly.com/size/80x80/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" alt="Cilium Getting Started" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad" title="GitOps at Scale"><img src="https://images.credly.com/size/80x80/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2" title="GitOps Fundamentals"><img src="https://images.credly.com/size/80x80/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483" title="LFS460: Kubernetes Security Fundamentals"><img src="https://images.credly.com/size/80x80/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob" alt="LFS460: Kubernetes Security Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88" title="LFS458: Kubernetes Administration"><img src="https://images.credly.com/size/80x80/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" alt="LFS458: Kubernetes Administration" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701" title="LFD459: Kubernetes for App Developers"><img src="https://images.credly.com/size/80x80/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob" alt="LFD459: Kubernetes for App Developers" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
