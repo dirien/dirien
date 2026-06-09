@@ -41,15 +41,15 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (5 days ago)
+- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (6 days ago)
 - [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary (1 week ago)
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) - Minecraft Prometheus exporter (1 week ago)
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 week ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 weeks ago)
 - [dirien/stop-building-portals-start-building-conversations](https://github.com/dirien/stop-building-portals-start-building-conversations) - PlatformOps: a conversation-native IDP demo. Backstage-style catalog, Port.io-style self-service, live deploys — built on MCP Apps, A2UI, AG-UI, and CopilotKit. (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v6.83.4](https://github.com/pulumi/pulumi-aws/releases/tag/v6.83.4), 5 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v6.83.4](https://github.com/pulumi/pulumi-aws/releases/tag/v6.83.4), 6 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
 - [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.5.0](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.5.0), 1 week ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.16.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.16.0-helm), 1 week ago) - Minecraft Prometheus exporter
 - [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.59](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.59), 2 weeks ago) - MCP DigitalOcean Integration
@@ -57,16 +57,16 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### ⭐ Latest repositories I starred
 
-- [mistlehq/mistle](https://github.com/mistlehq/mistle) - Open source background agents - 37 stars
-- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp; more. - 1096 stars
-- [OverloadBlitz/cloudcent-cli](https://github.com/OverloadBlitz/cloudcent-cli) - Estimate cloud costs from Draw.io diagrams and Pulumi code. - 74 stars
-- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. - 4273 stars
+- [mistlehq/mistle](https://github.com/mistlehq/mistle) - Open source background agents - 50 stars
+- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp; more. - 1127 stars
+- [OverloadBlitz/cloudcent-cli](https://github.com/OverloadBlitz/cloudcent-cli) - Estimate cloud costs for Pulumi. - 74 stars
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. - 4288 stars
 - [kajogo777/tutorial-agent-harness](https://github.com/kajogo777/tutorial-agent-harness) -  - 20 stars
-- [sidpalas/deputies](https://github.com/sidpalas/deputies) - Engineering agents for delegated work. - 62 stars
-- [LiteLLM-Labs/litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) - Self-hosted platform for running coding agents (Claude Code, Codex, Hermes) in isolated sandboxes with vault proxy.  - 714 stars
-- [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents. - 193 stars
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create. - 29526 stars
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks - 21736 stars
+- [sidpalas/deputies](https://github.com/sidpalas/deputies) - Engineering agents for delegated work. - 64 stars
+- [LiteLLM-Labs/litellm-agent-platform](https://github.com/LiteLLM-Labs/litellm-agent-platform) - Self-hosted platform for running coding agents (Claude Code, Codex, Hermes) in isolated sandboxes with vault proxy.  - 721 stars
+- [kelos-dev/kelos](https://github.com/kelos-dev/kelos) - Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents. - 202 stars
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create. - 29579 stars
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks - 21930 stars
 
 #### 👥 Latest follower
 
