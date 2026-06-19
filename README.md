@@ -41,31 +41,31 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/fable-countdown](https://github.com/dirien/fable-countdown) - Split-flap departure board counting down the days until Fable 5 leaves Claude subscription plans (6 days ago)
-- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (6 days ago)
+- [dirien/fable-countdown](https://github.com/dirien/fable-countdown) - Split-flap departure board counting down the days until Fable 5 leaves Claude subscription plans (1 week ago)
+- [dirien/pulumi-ai-aws-bedrock-workshop](https://github.com/dirien/pulumi-ai-aws-bedrock-workshop) - Deploying AI Agents on AWS with Pulumi and Amazon Bedrock AgentCore (1 week ago)
 - [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 week ago)
 - [dirien/backrooms](https://github.com/dirien/backrooms) - A browser-based backrooms horror game built with Three.js (1 week ago)
 - [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.34.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.34.0), 1 day ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
-- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.61](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.61), 2 days ago) - MCP DigitalOcean Integration
+- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.34.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.34.0), 2 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.61](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.61), 3 days ago) - MCP DigitalOcean Integration
 - [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.5.0](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.5.0), 2 weeks ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
 - [dirien/minecraft-prometheus-exporter](https://github.com/dirien/minecraft-prometheus-exporter) ([0.16.0-helm](https://github.com/dirien/minecraft-prometheus-exporter/releases/tag/0.16.0-helm), 3 weeks ago) - Minecraft Prometheus exporter
 - [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.21.10](https://github.com/port-labs/pulumi-port/releases/tag/v2.21.10), 1 month ago) - Pulumi Port provider
 
 #### ⭐ Latest repositories I starred
 
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary - 43981 stars
-- [Chaosman-One/Stop-Slop-v2](https://github.com/Chaosman-One/Stop-Slop-v2) - Produce clean, human-register prose by routing into specific voice basins. Rebuilt from Hardik Pandya&#39;s Stop Slop using retrieval-shaped architecture. - 17 stars
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. - 3500 stars
-- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Next-Gen AI-Aware Git. Auditable sandbox, prompt-aware commits, 95% less token waste, 3.5x richer PR brief, 1.8x faster multi-agent loops. - 397 stars
-- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system - 566 stars
-- [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. - 2948 stars
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - 38222 stars
-- [mistlehq/mistle](https://github.com/mistlehq/mistle) - Open source background agents - 70 stars
-- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp; more. - 1284 stars
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary - 44410 stars
+- [Chaosman-One/Stop-Slop-v2](https://github.com/Chaosman-One/Stop-Slop-v2) - Produce clean, human-register prose by routing into specific voice basins. Rebuilt from Hardik Pandya&#39;s Stop Slop using retrieval-shaped architecture. - 18 stars
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. - 3804 stars
+- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Next-Gen AI-Aware Git. Auditable sandbox, prompt-aware commits, 95% less token waste, 3.5x richer PR brief, 1.8x faster multi-agent loops. - 406 stars
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system - 579 stars
+- [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. - 2991 stars
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - 38585 stars
+- [mistlehq/mistle](https://github.com/mistlehq/mistle) - Open source background agents - 71 stars
+- [cyberpapiii/chipotlai-max](https://github.com/cyberpapiii/chipotlai-max) - The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp; more. - 1286 stars
 - [OverloadBlitz/cloudcent-cli](https://github.com/OverloadBlitz/cloudcent-cli) - Estimate cloud costs for Pulumi. - 75 stars
 
 #### 👥 Latest follower
