@@ -41,40 +41,40 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (1 day ago)
-- [dirien/getting-started-with-devops-ai-skills](https://github.com/dirien/getting-started-with-devops-ai-skills) - Getting Started with DevOps AI Skills — a Pulumi workshop: build, share, and run Agent Skills with Microsoft APM. Slides, chapters, skills, LSP&#43;hooks, and a Claude/Codex/Pulumi devcontainer. (1 day ago)
-- [dirien/fable-countdown](https://github.com/dirien/fable-countdown) - Split-flap departure board counting down the days until Fable 5 leaves Claude subscription plans (2 days ago)
-- [dirien/fully-automated-ai-inference-pulumi](https://github.com/dirien/fully-automated-ai-inference-pulumi) - Zero-touch GPU inference server (Ollama) on AWS, Azure, and Google Cloud with Pulumi. Companion code for the Pulumi blog post. (3 days ago)
-- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) - OpenTelemetry Pulumi Cloud metrics exporter (4 days ago)
+- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
+- [dirien/getting-started-with-devops-ai-skills](https://github.com/dirien/getting-started-with-devops-ai-skills) - Getting Started with DevOps AI Skills — a Pulumi workshop: build, share, and run Agent Skills with Microsoft APM. Slides, chapters, skills, LSP&#43;hooks, and a Claude/Codex/Pulumi devcontainer. (2 days ago)
+- [dirien/fable-countdown](https://github.com/dirien/fable-countdown) - Split-flap departure board counting down the days until Fable 5 leaves Claude subscription plans (3 days ago)
+- [dirien/fully-automated-ai-inference-pulumi](https://github.com/dirien/fully-automated-ai-inference-pulumi) - Zero-touch GPU inference server (Ollama) on AWS, Azure, and Google Cloud with Pulumi. Companion code for the Pulumi blog post. (4 days ago)
+- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) - OpenTelemetry Pulumi Cloud metrics exporter (5 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.35.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.35.0), 2 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.22.0](https://github.com/port-labs/pulumi-port/releases/tag/v2.22.0), 3 days ago) - Pulumi Port provider
-- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) ([v0.1.3](https://github.com/pulumi-labs/pulumi-exporter/releases/tag/v0.1.3), 4 days ago) - OpenTelemetry Pulumi Cloud metrics exporter
+- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.35.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.35.0), 3 days ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.22.0](https://github.com/port-labs/pulumi-port/releases/tag/v2.22.0), 4 days ago) - Pulumi Port provider
+- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) ([v0.1.3](https://github.com/pulumi-labs/pulumi-exporter/releases/tag/v0.1.3), 5 days ago) - OpenTelemetry Pulumi Cloud metrics exporter
 - [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.65](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.65), 1 week ago) - MCP DigitalOcean Integration
 - [dirien/yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness) ([v0.5.0](https://github.com/dirien/yet-another-agent-harness/releases/tag/v0.5.0), 1 month ago) - A Go agent harness for Claude Code — runtime hooks, MCP server, session tracking, middleware chains, and full config generation in one binary
 
 #### ⭐ Latest repositories I starred
 
-- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes - 3659 stars
-- [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules. - 291 stars
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework - 28923 stars
-- [huggingface/tau](https://github.com/huggingface/tau) - a minimalist agent that teaches you to create coding agents - 476 stars
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi) - Heterogeneous GPU Sharing on Kubernetes - 3668 stars
+- [Gitlawb/zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules. - 766 stars
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework - 28935 stars
+- [huggingface/tau](https://github.com/huggingface/tau) - a minimalist agent that teaches you to create coding agents - 494 stars
 - [ferdinandobons/AWSBedrockAgentCoreSkill](https://github.com/ferdinandobons/AWSBedrockAgentCoreSkill) - Authoritative, source-cited Claude Code plugin/skill that lets a coding agent autonomously build production-grade AI agents on AWS (Strands Agents, Amazon Bedrock, Bedrock AgentCore) with official best practices. - 196 stars
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. - 4911 stars
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. - 5358 stars
 - [weirdmachine64/SharkMCP](https://github.com/weirdmachine64/SharkMCP) - A swiss-knife MCP server for analysing PCAP files - 71 stars
 - [tanrikuluozlem/burn](https://github.com/tanrikuluozlem/burn) - See what&#39;s burning your Kubernetes budget - 84 stars
-- [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) - Visa Vulnerability Agentic Harness - 600 stars
+- [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness) - Visa Vulnerability Agentic Harness - 628 stars
 - [ai-ecoverse/gh-reaper](https://github.com/ai-ecoverse/gh-reaper) - Harvest stale git worktrees: find them by age &amp; size across your machine and reap them. Read-only by default, macOS TCC-safe. (Don&#39;t Fear) The Reaper for forgotten worktrees. - 3 stars
 
 #### 👥 Latest follower
 
+- [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork) - Ridhwan Razali
 - [bulmust](https://github.com/bulmust) - Taygun Bulmus
 - [yashpawar6849](https://github.com/yashpawar6849) - Yash Sanjivkumar Pawar
 - [Nicholas-Westby](https://github.com/Nicholas-Westby) - 
 - [lastpossiblesolution](https://github.com/lastpossiblesolution) - 
-- [noamyoyo](https://github.com/noamyoyo) - Noam Peifel
 
 #### 👨‍💻 Repositories I created recently
 
