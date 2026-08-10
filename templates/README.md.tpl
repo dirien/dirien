@@ -19,6 +19,8 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - 🏴‍☠️ **[K3SAIR](https://github.com/dirien/k3sair-cli)** - k3s in air-gapped environments — born out of necessity at work, zero-trust by design
 - 🖥️ **[lazy-pulumi](https://github.com/dirien/lazy-pulumi)** - TUI for managing Pulumi Cloud without leaving the terminal
 - 🤖 **[yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness)** - Go agent harness for Claude Code — hooks, MCP server, session tracking, and config generation in one binary
+- ⚙️ **[my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup)** - Self-contained APM-managed Claude Code + Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context
+- 🛠️ **[infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit)** - Docker Sandboxes template + kit: an IaC (Pulumi/Terraform/OpenTofu + AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home
 - 🧠 **[claude-skills](https://github.com/dirien/claude-skills)** - Claude Code skills for working with Pulumi infrastructure as code
 - 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
 - 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
