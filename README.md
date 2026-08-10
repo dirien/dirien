@@ -19,6 +19,8 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 - 🏴‍☠️ **[K3SAIR](https://github.com/dirien/k3sair-cli)** - k3s in air-gapped environments — born out of necessity at work, zero-trust by design
 - 🖥️ **[lazy-pulumi](https://github.com/dirien/lazy-pulumi)** - TUI for managing Pulumi Cloud without leaving the terminal
 - 🤖 **[yet-another-agent-harness](https://github.com/dirien/yet-another-agent-harness)** - Go agent harness for Claude Code — hooks, MCP server, session tracking, and config generation in one binary
+- ⚙️ **[my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup)** - Self-contained APM-managed Claude Code + Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context
+- 🛠️ **[infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit)** - Docker Sandboxes template + kit: an IaC (Pulumi/Terraform/OpenTofu + AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home
 - 🧠 **[claude-skills](https://github.com/dirien/claude-skills)** - Claude Code skills for working with Pulumi infrastructure as code
 - 📦 **[devcontainer-coding-agents](https://github.com/dirien/devcontainer-coding-agents)** - Devcontainer with four AI coding agents, 29 skills, and all the Pulumi tooling — open in VS Code and go
 - 📊 **[pulumi-ccstatusline](https://github.com/dirien/pulumi-ccstatusline)** - Pulumi stack info right in the Claude Code status line
@@ -32,82 +34,61 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 ## 🎬 My Activities
 
 #### 📖 My latest blog posts
-- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (5 months ago)
+- [Kubernetes GPU Sharing: NVIDIA MIG &#43; DRA on Amazon EKS](https://blog.ediri.io/kubernetes-gpu-sharing-nvidia-mig-dra-on-amazon-eks) (6 months ago)
 - [Argo CD: Enable Helm Support in Kustomize](https://blog.ediri.io/argo-cd-enable-helm-support-in-kustomize) (2 years ago)
 - [Advanced Secret Management on Kubernetes with Pulumi: External Secrets Operator](https://blog.ediri.io/advanced-secret-management-on-kubernetes-with-pulumi-external-secrets-operator) (2 years ago)
 - [Rust in the Cloud: Running Rust Based Functions in AWS](https://blog.ediri.io/rust-in-the-cloud-running-rust-based-functions-in-aws) (2 years ago)
 - [A Step-by-Step Guide to Using Velero on AWS EKS Clusters via Pulumi](https://blog.ediri.io/a-step-by-step-guide-to-using-velero-on-aws-eks-clusters-via-pulumi) (2 years ago)
-- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (2 years ago)
+- [Deploying a Kubernetes Cluster in Strasbourg?!](https://blog.ediri.io/deploying-a-kubernetes-cluster-in-strasbourg) (3 years ago)
 
 #### 👷 I'm currently working on
 
-- [pulumi/docs](https://github.com/pulumi/docs) - All things Pulumi docs! (2 days ago)
-- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) - A terminal UI (TUI) application for Pulumi Cloud (6 days ago)
-- [dirien/minectl](https://github.com/dirien/minectl) - minectl 🗺  is a cli for creating Minecraft server on different cloud provider. (6 days ago)
-- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) - OpenTelemetry Pulumi Cloud metrics exporter (6 days ago)
-- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context. (6 days ago)
+- [dirien/devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex) - Dev Container feature to install OpenAI Codex CLI (today)
+- [dirien/doplane](https://github.com/dirien/doplane) - Kubernetes operator managing individual cloud resources declaratively via &#39;pulumi do&#39; — no Pulumi programs, stacks, or state files; etcd is the state store (today)
+- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context. (today)
+- [dirien/devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi) - A Dev Container feature to install the Pulumi CLI (today)
+- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home. (today)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws) ([v7.38.0](https://github.com/pulumi/pulumi-aws/releases/tag/v7.38.0), 1 day ago) - An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.40.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.40.2), 1 day ago) - Node-red Helm Chart
-- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) ([v0.9.2](https://github.com/dirien/lazy-pulumi/releases/tag/v0.9.2), 6 days ago) - A terminal UI (TUI) application for Pulumi Cloud
-- [pulumi-labs/pulumi-exporter](https://github.com/pulumi-labs/pulumi-exporter) ([v0.1.4](https://github.com/pulumi-labs/pulumi-exporter/releases/tag/v0.1.4), 6 days ago) - OpenTelemetry Pulumi Cloud metrics exporter
-- [dirien/doplane](https://github.com/dirien/doplane) ([v0.1.0](https://github.com/dirien/doplane/releases/tag/v0.1.0), 1 week ago) - Kubernetes operator managing individual cloud resources declaratively via &#39;pulumi do&#39; — no Pulumi programs, stacks, or state files; etcd is the state store
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.68](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.68), today) - MCP DigitalOcean Integration
+- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) ([v0.7.0](https://github.com/dirien/infrastructure-sandbox-kit/releases/tag/v0.7.0), today) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home.
+- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) ([v0.6.2](https://github.com/dirien/my-claude-apm-setup/releases/tag/v0.6.2), today) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context.
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.40.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.40.2), 2 weeks ago) - Node-red Helm Chart
+- [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) ([v0.9.2](https://github.com/dirien/lazy-pulumi/releases/tag/v0.9.2), 3 weeks ago) - A terminal UI (TUI) application for Pulumi Cloud
 
 #### ⭐ Latest repositories I starred
 
-- [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models. - 1385 stars
-- [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration - 3071 stars
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples - 7563 stars
-- [jeffvestal/agent-memory](https://github.com/jeffvestal/agent-memory) - Elasticsearch as persistent semantic memory for Claude Code agents - 4 stars
-- [turfbuild/turf](https://github.com/turfbuild/turf) - Turf — a drop-in replacement for Terraform with agentic superpowers. Alpha binary releases (turf CLI &#43; turf-mcp-server). - 6 stars
-- [AlexsJones/repo-steward](https://github.com/AlexsJones/repo-steward) - An autonomous agent for open-source repository management — triages issues, reviews PRs across iterations, watches your sites, and escalates only the decisions that are yours - 20 stars
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. - 87323 stars
-- [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40&#43; providers. Auto-fallback, RTK -40% tokens, never hit limits. - 22975 stars
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab - 797 stars
-- [davidondrej/skills](https://github.com/davidondrej/skills) - access to david ondrej&#39;s personal agent skills - 2632 stars
+- [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself - 1571 stars
+- [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. - 7347 stars
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent - 27811 stars
+- [sirius0xdev/gcloud-lab](https://github.com/sirius0xdev/gcloud-lab) - Google cloud lab repo.  - 9 stars
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  - 4074 stars
+- [vinhhien112/img2obj](https://github.com/vinhhien112/img2obj) - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models. - 1576 stars
+- [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration - 3097 stars
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples - 8445 stars
+- [jeffvestal/agent-memory](https://github.com/jeffvestal/agent-memory) - Elasticsearch as persistent semantic memory for Claude Code agents - 5 stars
+- [turfbuild/turf](https://github.com/turfbuild/turf) - Turf — a drop-in replacement for Terraform with agentic superpowers. Alpha binary releases (turf CLI &#43; turf-mcp-server). - 8 stars
 
 #### 👥 Latest follower
 
+- [webbrain-one](https://github.com/webbrain-one) - WebBrain
 - [ClassyAJ](https://github.com/ClassyAJ) - Aaron J.
 - [jorithanx](https://github.com/jorithanx) - Jomari Cruz
 - [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork) - Ridhwan Razali
 - [bulmust](https://github.com/bulmust) - Taygun Bulmus
-- [yashpawar6849](https://github.com/yashpawar6849) - Yash Sanjivkumar Pawar
 
 #### 👨‍💻 Repositories I created recently
 
+- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home.
 - [dirien/pulumi-pagerduty-fargate-demo](https://github.com/dirien/pulumi-pagerduty-fargate-demo) - Companion example for the Pulumi blog post &#39;Incident Response as Code&#39;: a Fargate payment service that pages you via PagerDuty
+- [dirien/openinspect-operator](https://github.com/dirien/openinspect-operator) - Kubernetes operator that provisions the Open-Inspect platform
 - [dirien/pulumi-platform-okf-bundle](https://github.com/dirien/pulumi-platform-okf-bundle) - An Open Knowledge Format (OKF v0.1) bundle for a Pulumi platform team — runbooks, decision records, and service pages as agent-readable knowledge. Companion to the &#39;Knowledge as Code&#39; blog post.
 - [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context.
-- [dirien/doplane-components](https://github.com/dirien/doplane-components) - Pulumi component packages for the pulumi-do-operator demos
-- [dirien/doplane](https://github.com/dirien/doplane) - Kubernetes operator managing individual cloud resources declaratively via &#39;pulumi do&#39; — no Pulumi programs, stacks, or state files; etcd is the state store
 
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/e093fff3-cc24-4c30-b79c-e5ead3b8b207" title="Speaker - KCD Suisse Romande 2025"><img src="https://images.credly.com/size/80x80/images/6b0d293e-574e-430d-a92f-b26ae5100f43/blob" alt="Speaker - KCD Suisse Romande 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e6023297-1339-4b94-91e0-d200fab3498f" title="Speaker at Cloud Native Denmark 2025 Aarhus"><img src="https://images.credly.com/size/80x80/images/59e7f5b1-5be0-4512-a023-bf1cbd136609/blob" alt="Speaker at Cloud Native Denmark 2025 Aarhus" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9553cee5-f3b3-4978-a041-d076d73069e6" title="Speaker - KCD Sofia 2025"><img src="https://images.credly.com/size/80x80/images/38f79b07-67de-4d0c-bd80-3be0050f958e/blob" alt="Speaker - KCD Sofia 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/7d8386d2-1df9-4f46-8bcb-87cc474e545b" title="Speaker: WasmCon 2024"><img src="https://images.credly.com/size/80x80/images/8db81a62-2bd7-4afd-a041-65f0eea57c3f/blob" alt="Speaker: WasmCon 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/73110e58-46f4-4af6-ac1c-9e3a1359b87d" title="ArgoCon NA 2024 Speaker Badge"><img src="https://images.credly.com/size/80x80/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob" alt="ArgoCon NA 2024 Speaker Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/26314a98-1f37-4342-906a-295b1c5096c8" title="Speaker - KCD Washington DC 2024"><img src="https://images.credly.com/size/80x80/images/1ca55cae-1529-4e01-940d-4600ba97b857/blob" alt="Speaker - KCD Washington DC 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/803e5b78-a4b6-47ba-bdc3-0b947be6a1c9" title="Speaker - Continuous Delivery Mini Summit 2024"><img src="https://images.credly.com/size/80x80/images/2738acec-9405-4558-bd0c-64353c852d58/image.png" alt="Speaker - Continuous Delivery Mini Summit 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d" title="Speaker - KCD Istanbul 2024"><img src="https://images.credly.com/size/80x80/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png" alt="Speaker - KCD Istanbul 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364" title="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023"><img src="https://images.credly.com/size/80x80/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" alt="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5" title="Cilium Cluster Mesh"><img src="https://images.credly.com/size/80x80/images/00f31c5d-eb40-458f-aa11-22e9ff35deb7/tempfile20250605-95-6sagl8.png" alt="Cilium Cluster Mesh" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5" title="Cilium Gateway API"><img src="https://images.credly.com/size/80x80/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway API" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca" title="Cilium Ingress Controller"><img src="https://images.credly.com/size/80x80/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb" title="Cilium IPv6 Networking and Observability"><img src="https://images.credly.com/size/80x80/images/fb0a6e4c-55fa-41c2-ae43-3b1ebe7a921c/tempfile20250605-85-21t8t.png" alt="Cilium IPv6 Networking and Observability" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6" title="Cilium Getting Started"><img src="https://images.credly.com/size/80x80/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" alt="Cilium Getting Started" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad" title="GitOps at Scale"><img src="https://images.credly.com/size/80x80/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2" title="GitOps Fundamentals"><img src="https://images.credly.com/size/80x80/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483" title="LFS460: Kubernetes Security Fundamentals"><img src="https://images.credly.com/size/80x80/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob" alt="LFS460: Kubernetes Security Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88" title="LFS458: Kubernetes Administration"><img src="https://images.credly.com/size/80x80/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" alt="LFS458: Kubernetes Administration" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701" title="LFD459: Kubernetes for App Developers"><img src="https://images.credly.com/size/80x80/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob" alt="LFD459: Kubernetes for App Developers" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
