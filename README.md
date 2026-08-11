@@ -43,30 +43,30 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex) - Dev Container feature to install OpenAI Codex CLI (today)
-- [dirien/doplane](https://github.com/dirien/doplane) - Kubernetes operator managing individual cloud resources declaratively via &#39;pulumi do&#39; — no Pulumi programs, stacks, or state files; etcd is the state store (today)
-- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context. (today)
-- [dirien/devcontainer-feature-pulumi](https://github.com/dirien/devcontainer-feature-pulumi) - A Dev Container feature to install the Pulumi CLI (today)
-- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home. (today)
+- [dirien/doplane](https://github.com/dirien/doplane) - Kubernetes operator managing individual cloud resources declaratively via &#39;pulumi do&#39; — no Pulumi programs, stacks, or state files; etcd is the state store (1 day ago)
+- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context. (1 day ago)
+- [dirien/devcontainer-feature-yaah](https://github.com/dirien/devcontainer-feature-yaah) - A Dev Container feature to install yaah (Yet Another Agent Harness) (1 day ago)
+- [dirien/devcontainer-feature-codex](https://github.com/dirien/devcontainer-feature-codex) - Dev Container feature to install OpenAI Codex CLI (1 day ago)
+- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home. (1 day ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.68](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.68), today) - MCP DigitalOcean Integration
-- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) ([v0.7.0](https://github.com/dirien/infrastructure-sandbox-kit/releases/tag/v0.7.0), today) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home.
-- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) ([v0.6.2](https://github.com/dirien/my-claude-apm-setup/releases/tag/v0.6.2), today) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context.
-- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.40.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.40.2), 2 weeks ago) - Node-red Helm Chart
+- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) ([v0.8.0](https://github.com/dirien/infrastructure-sandbox-kit/releases/tag/v0.8.0), 1 day ago) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home.
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) ([v1.0.68](https://github.com/digitalocean-labs/mcp-digitalocean/releases/tag/v1.0.68), 1 day ago) - MCP DigitalOcean Integration
+- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) ([v0.6.2](https://github.com/dirien/my-claude-apm-setup/releases/tag/v0.6.2), 1 day ago) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context.
+- [SchwarzIT/node-red-chart](https://github.com/SchwarzIT/node-red-chart) ([node-red-0.40.2](https://github.com/SchwarzIT/node-red-chart/releases/tag/node-red-0.40.2), 3 weeks ago) - Node-red Helm Chart
 - [dirien/lazy-pulumi](https://github.com/dirien/lazy-pulumi) ([v0.9.2](https://github.com/dirien/lazy-pulumi/releases/tag/v0.9.2), 3 weeks ago) - A terminal UI (TUI) application for Pulumi Cloud
 
 #### ⭐ Latest repositories I starred
 
-- [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself - 1571 stars
-- [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. - 7347 stars
-- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent - 27811 stars
+- [get-bb/bb](https://github.com/get-bb/bb) - The agent IDE that builds itself - 1587 stars
+- [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. - 7452 stars
+- [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent - 27828 stars
 - [sirius0xdev/gcloud-lab](https://github.com/sirius0xdev/gcloud-lab) - Google cloud lab repo.  - 9 stars
-- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  - 4074 stars
+- [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents  - 4090 stars
 - [vinhhien112/img2obj](https://github.com/vinhhien112/img2obj) - Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models. - 1576 stars
 - [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration - 3097 stars
-- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples - 8445 stars
+- [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog) - Google Cloud Knowledge Catalog Tools and Samples - 8460 stars
 - [jeffvestal/agent-memory](https://github.com/jeffvestal/agent-memory) - Elasticsearch as persistent semantic memory for Claude Code agents - 5 stars
 - [turfbuild/turf](https://github.com/turfbuild/turf) - Turf — a drop-in replacement for Terraform with agentic superpowers. Alpha binary releases (turf CLI &#43; turf-mcp-server). - 8 stars
 
