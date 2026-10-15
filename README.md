@@ -44,38 +44,38 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [dirien/pulumi-docker-agent](https://github.com/dirien/pulumi-docker-agent) - Pulumi provider for Docker Agent: typed agent configs, OCI-shared agents, in-process agent runs (1 day ago)
-- [dirien/huebar](https://github.com/dirien/huebar) - Control your Philips Hue lights from the macOS menu bar (2 days ago)
-- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (2 days ago)
-- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home. (3 days ago)
-- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context. (5 days ago)
+- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context. (today)
+- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home. (today)
+- [dirien/pulumi-docker-agent](https://github.com/dirien/pulumi-docker-agent) - Pulumi provider for Docker Agent: typed agent configs, OCI-shared agents, in-process agent runs (2 days ago)
+- [dirien/huebar](https://github.com/dirien/huebar) - Control your Philips Hue lights from the macOS menu bar (3 days ago)
+- [dirien/homebrew-dirien](https://github.com/dirien/homebrew-dirien) - Homebrew Tap for dirien (3 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [dirien/pulumi-docker-agent](https://github.com/dirien/pulumi-docker-agent) ([v0.2.0-rc.2](https://github.com/dirien/pulumi-docker-agent/releases/tag/v0.2.0-rc.2), 1 day ago) - Pulumi provider for Docker Agent: typed agent configs, OCI-shared agents, in-process agent runs
-- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.32.1](https://github.com/port-labs/pulumi-port/releases/tag/v2.32.1), 1 day ago) - Pulumi Port provider
-- [dirien/huebar](https://github.com/dirien/huebar) ([v0.2.0](https://github.com/dirien/huebar/releases/tag/v0.2.0), 2 days ago) - Control your Philips Hue lights from the macOS menu bar
-- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) ([v0.10.6](https://github.com/dirien/infrastructure-sandbox-kit/releases/tag/v0.10.6), 5 days ago) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home.
-- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) ([v0.6.10](https://github.com/dirien/my-claude-apm-setup/releases/tag/v0.6.10), 5 days ago) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context.
+- [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) ([v0.10.7](https://github.com/dirien/infrastructure-sandbox-kit/releases/tag/v0.10.7), 1 day ago) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home.
+- [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) ([v0.6.11](https://github.com/dirien/my-claude-apm-setup/releases/tag/v0.6.11), 1 day ago) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context.
+- [port-labs/pulumi-port](https://github.com/port-labs/pulumi-port) ([v2.32.2](https://github.com/port-labs/pulumi-port/releases/tag/v2.32.2), 1 day ago) - Pulumi Port provider
+- [dirien/pulumi-docker-agent](https://github.com/dirien/pulumi-docker-agent) ([v0.2.0-rc.2](https://github.com/dirien/pulumi-docker-agent/releases/tag/v0.2.0-rc.2), 2 days ago) - Pulumi provider for Docker Agent: typed agent configs, OCI-shared agents, in-process agent runs
+- [dirien/huebar](https://github.com/dirien/huebar) ([v0.2.0](https://github.com/dirien/huebar/releases/tag/v0.2.0), 3 days ago) - Control your Philips Hue lights from the macOS menu bar
 
 #### ⭐ Latest repositories I starred
 
-- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. - 34175 stars
-- [Atoll92/agent-standup](https://github.com/Atoll92/agent-standup) - Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens. - 177 stars
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. - 211101 stars
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks. - 34223 stars
+- [Atoll92/agent-standup](https://github.com/Atoll92/agent-standup) - Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens. - 209 stars
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. - 244640 stars
 - [rshade/go-decide](https://github.com/rshade/go-decide) -  - 3 stars
-- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. - 4607 stars
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. - 83827 stars
-- [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack. - 5216 stars
-- [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark. - 11062 stars
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. - 4701 stars
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. - 83874 stars
+- [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) - Your always-on AI coworkers that move between text, calls, and Slack. - 5339 stars
+- [tigerless-labs/autoharness](https://github.com/tigerless-labs/autoharness) - Autoharness — a self-learning skill layer for Claude Code — distills skills from your real sessions, updates them as you work, and prunes the ones that stop getting used. No daemon, no benchmark. - 11122 stars
 - [jamiezigelbaum/expert-agents](https://github.com/jamiezigelbaum/expert-agents) - Machinery for creating and operating cited expert agents on OpenClaw (plugin &#43; Vertex RAG worker) - 6 stars
-- [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI &#43; Composio. - 639 stars
+- [composio-community/open-dot](https://github.com/composio-community/open-dot) - Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI &#43; Composio. - 645 stars
 
 #### 👥 Latest follower
 
 - [Christober-S](https://github.com/Christober-S) - Christober
 - [24601](https://github.com/24601) - Basit Mustafa
-- [noorgx](https://github.com/noorgx) - 
+- [noorgx](https://github.com/noorgx) - Noor Zakaria
 - [UjjavalParmar](https://github.com/UjjavalParmar) - Ujjaval Parmar
 - [muhammadnawzad](https://github.com/muhammadnawzad) - Muhammad Nawzad
 
@@ -90,28 +90,6 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/8d2c61c5-555a-4cec-8373-6b404c46a2bc" title="KCD Texas 2026: Speaker"><img src="https://images.credly.com/size/80x80/images/c5e282e7-b3f9-47f7-a19c-9960122990c5/blob" alt="KCD Texas 2026: Speaker" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e093fff3-cc24-4c30-b79c-e5ead3b8b207" title="Speaker - KCD Suisse Romande 2025"><img src="https://images.credly.com/size/80x80/images/6b0d293e-574e-430d-a92f-b26ae5100f43/blob" alt="Speaker - KCD Suisse Romande 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e6023297-1339-4b94-91e0-d200fab3498f" title="Speaker at Cloud Native Denmark 2025 Aarhus"><img src="https://images.credly.com/size/80x80/images/59e7f5b1-5be0-4512-a023-bf1cbd136609/blob" alt="Speaker at Cloud Native Denmark 2025 Aarhus" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9553cee5-f3b3-4978-a041-d076d73069e6" title="Speaker - KCD Sofia 2025"><img src="https://images.credly.com/size/80x80/images/38f79b07-67de-4d0c-bd80-3be0050f958e/blob" alt="Speaker - KCD Sofia 2025" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/7d8386d2-1df9-4f46-8bcb-87cc474e545b" title="Speaker: WasmCon 2024"><img src="https://images.credly.com/size/80x80/images/8db81a62-2bd7-4afd-a041-65f0eea57c3f/blob" alt="Speaker: WasmCon 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/73110e58-46f4-4af6-ac1c-9e3a1359b87d" title="ArgoCon NA 2024 Speaker Badge"><img src="https://images.credly.com/size/80x80/images/d6e43cba-214b-4b68-801e-6f17304aa5bf/blob" alt="ArgoCon NA 2024 Speaker Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/26314a98-1f37-4342-906a-295b1c5096c8" title="Speaker - KCD Washington DC 2024"><img src="https://images.credly.com/size/80x80/images/1ca55cae-1529-4e01-940d-4600ba97b857/blob" alt="Speaker - KCD Washington DC 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/803e5b78-a4b6-47ba-bdc3-0b947be6a1c9" title="Speaker - Continuous Delivery Mini Summit 2024"><img src="https://images.credly.com/size/80x80/images/2738acec-9405-4558-bd0c-64353c852d58/image.png" alt="Speaker - Continuous Delivery Mini Summit 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68694bc0-ef3b-443f-9a2f-0eddd116924d" title="Speaker - KCD Istanbul 2024"><img src="https://images.credly.com/size/80x80/images/26e04592-19c5-4393-875f-1724f3fc26de/image.png" alt="Speaker - KCD Istanbul 2024" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d9a7a54d-7a8d-4937-b2f2-188d04dbd364" title="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023"><img src="https://images.credly.com/size/80x80/images/23f11122-3a84-4796-9854-6cbdae8a73bf/image.png" alt="Speaker: KubeCon + CloudNativeCon + Open Source Summit China 2023" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/2272b1df-3087-4044-b7e3-a1842dbff6a5" title="Cilium Cluster Mesh"><img src="https://images.credly.com/size/80x80/images/00f31c5d-eb40-458f-aa11-22e9ff35deb7/tempfile20250605-95-6sagl8.png" alt="Cilium Cluster Mesh" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/68bb9d11-b199-4a00-a3c8-c282d7ddbde5" title="Cilium Gateway API"><img src="https://images.credly.com/size/80x80/images/c8229ec6-54c3-420f-8453-12a0e0596c8c/tempfile20250605-57-c5zt7d.png" alt="Cilium Gateway API" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/0a7cbad3-9136-4a86-a573-e0af4a39b5ca" title="Cilium Ingress Controller"><img src="https://images.credly.com/size/80x80/images/97452400-58b1-4982-aba2-29bec73e487c/tempfile20250605-69-udkrvg.png" alt="Cilium Ingress Controller" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/ed925e87-d542-441f-a507-6da6826620cb" title="Cilium IPv6 Networking and Observability"><img src="https://images.credly.com/size/80x80/images/fb0a6e4c-55fa-41c2-ae43-3b1ebe7a921c/tempfile20250605-85-21t8t.png" alt="Cilium IPv6 Networking and Observability" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aaf501ac-2ccf-485c-b976-4861815f7ce6" title="Cilium Getting Started"><img src="https://images.credly.com/size/80x80/images/d74820be-3dba-40b9-a254-a8e7381bf63d/tempfile20250605-64-wqikcw.png" alt="Cilium Getting Started" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/aea3eb59-9bea-4a31-a1c3-315755fb26ad" title="GitOps at Scale"><img src="https://images.credly.com/size/80x80/images/89046afe-b82b-4dc1-9c20-384ea505fd01/blob" alt="GitOps at Scale" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c5c336dd-b4e8-4d73-bfe9-65268f1f69f2" title="GitOps Fundamentals"><img src="https://images.credly.com/size/80x80/images/fbd71e9c-07f7-4a8b-a874-2bf5001a6dbf/blob" alt="GitOps Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/c2872a4c-4d78-4e83-b799-36d203fad483" title="LFS460: Kubernetes Security Fundamentals"><img src="https://images.credly.com/size/80x80/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob" alt="LFS460: Kubernetes Security Fundamentals" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d0e3043e-4d3a-4af1-9dc4-dbaadd4a8e88" title="LFS458: Kubernetes Administration"><img src="https://images.credly.com/size/80x80/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" alt="LFS458: Kubernetes Administration" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/4d2b1460-b7f4-41c3-a20e-91d2faacd701" title="LFD459: Kubernetes for App Developers"><img src="https://images.credly.com/size/80x80/images/debd8568-2b7c-4f94-a99d-a47e2c37ce6d/blob" alt="LFD459: Kubernetes for App Developers" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/9d947b2a-e186-40a0-bf4c-0d513ebab6d6" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/492ae49a-b546-4451-b90d-73451e078ed7" title="CKAD: Certified Kubernetes Application Developer"><img src="https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## 💻 Technologies & Tools
