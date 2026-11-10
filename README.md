@@ -44,40 +44,40 @@ I am a software engineer obsessed with DevOps, Serverless, Kubernetes, and latel
 
 #### 👷 I'm currently working on
 
-- [pulumi-labs/pulumi-modal](https://github.com/pulumi-labs/pulumi-modal) -  (1 day ago)
+- [pulumi-labs/pulumi-twilio](https://github.com/pulumi-labs/pulumi-twilio) - Pulumi provider for twilio (experimental, generated mirror of pulumi/autoregistry; do not edit by hand) (1 day ago)
 - [pulumi-labs/pulumi-huggingface](https://github.com/pulumi-labs/pulumi-huggingface) - Pulumi provider for huggingface (experimental, generated mirror of pulumi/autoregistry; do not edit by hand) (1 day ago)
-- [pulumi-labs/pulumi-vonage](https://github.com/pulumi-labs/pulumi-vonage) - Pulumi provider for vonage (experimental, generated mirror of pulumi/autoregistry; do not edit by hand) (1 day ago)
-- [pulumi-labs/pulumi-clerk](https://github.com/pulumi-labs/pulumi-clerk) - Pulumi provider for clerk (experimental, generated mirror of pulumi/autoregistry; do not edit by hand) (3 days ago)
-- [pulumi-labs/pulumi-twilio](https://github.com/pulumi-labs/pulumi-twilio) - Pulumi provider for twilio (experimental, generated mirror of pulumi/autoregistry; do not edit by hand) (3 days ago)
+- [pulumi-labs/pulumi-modal](https://github.com/pulumi-labs/pulumi-modal) -  (1 day ago)
+- [dirien/skill-ci](https://github.com/dirien/skill-ci) - CI for agent skills on Kubernetes: Harbor, NVIDIA SkillEvaluator and Agent Sandbox, triggered by skill pushes and model changes (1 day ago)
+- [pulumi-labs/pulumi-clerk](https://github.com/pulumi-labs/pulumi-clerk) - Pulumi provider for clerk (experimental, generated mirror of pulumi/autoregistry; do not edit by hand) (2 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [pulumi-labs/pulumi-huggingface](https://github.com/pulumi-labs/pulumi-huggingface) ([v0.1.3](https://github.com/pulumi-labs/pulumi-huggingface/releases/tag/v0.1.3), today) - Pulumi provider for huggingface (experimental, generated mirror of pulumi/autoregistry; do not edit by hand)
-- [pulumi-labs/pulumi-modal](https://github.com/pulumi-labs/pulumi-modal) ([v0.5.1](https://github.com/pulumi-labs/pulumi-modal/releases/tag/v0.5.1), today)
-- [dirien/skill-ci](https://github.com/dirien/skill-ci) ([v0.12.0](https://github.com/dirien/skill-ci/releases/tag/v0.12.0), 6 days ago) - CI for agent skills on Kubernetes: Harbor, NVIDIA SkillEvaluator and Agent Sandbox, triggered by skill pushes and model changes
+- [pulumi-labs/pulumi-huggingface](https://github.com/pulumi-labs/pulumi-huggingface) ([v0.1.4](https://github.com/pulumi-labs/pulumi-huggingface/releases/tag/v0.1.4), 1 day ago) - Pulumi provider for huggingface (experimental, generated mirror of pulumi/autoregistry; do not edit by hand)
+- [pulumi-labs/pulumi-modal](https://github.com/pulumi-labs/pulumi-modal) ([v0.5.2](https://github.com/pulumi-labs/pulumi-modal/releases/tag/v0.5.2), 1 day ago)
+- [dirien/skill-ci](https://github.com/dirien/skill-ci) ([v0.12.0](https://github.com/dirien/skill-ci/releases/tag/v0.12.0), 1 week ago) - CI for agent skills on Kubernetes: Harbor, NVIDIA SkillEvaluator and Agent Sandbox, triggered by skill pushes and model changes
 - [dirien/infrastructure-sandbox-kit](https://github.com/dirien/infrastructure-sandbox-kit) ([v0.10.9](https://github.com/dirien/infrastructure-sandbox-kit/releases/tag/v0.10.9), 1 week ago) - Docker Sandboxes template &#43; kit: an IaC (Pulumi/Terraform/OpenTofu &#43; AWS/Azure/GCP CLIs) Claude Code workstation with APM baked into the agent home.
 - [dirien/my-claude-apm-setup](https://github.com/dirien/my-claude-apm-setup) ([v0.6.12](https://github.com/dirien/my-claude-apm-setup/releases/tag/v0.6.12), 1 week ago) - A self-contained APM-managed Claude Code &#43; Codex setup — pinned skills, agents, guardrail hooks, MCP, LSP, and single-source generated context.
 
 #### ⭐ Latest repositories I starred
 
-- [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) - NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. - 900 stars
-- [pavangudiwada/awesome-ai-sre](https://github.com/pavangudiwada/awesome-ai-sre) - AI SRE tools for RCA, Incident Response, Cost-Saving, Infra management, DevOps and more - 83 stars
-- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents - 19761 stars
-- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents - 15304 stars
+- [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) - NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. - 1054 stars
+- [pavangudiwada/awesome-ai-sre](https://github.com/pavangudiwada/awesome-ai-sre) - AI SRE tools for RCA, Incident Response, Cost-Saving, Infra management, DevOps and more - 84 stars
+- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents - 20687 stars
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source plugin for designing and reviewing software with agents - 16601 stars
 - [redhat-et/skillimage](https://github.com/redhat-et/skillimage) - Framework-agnostic OCI-based registry for AI agent skills - 16 stars
-- [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes. - 5372 stars
+- [iflytek/skillhub](https://github.com/iflytek/skillhub) - Self-hosted, open-source agent skill registry for enterprises. Publish &amp; version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes. - 5384 stars
 - [microsoft/wassette](https://github.com/microsoft/wassette) - Wassette: A security-oriented runtime that runs WebAssembly Components via MCP - 975 stars
-- [FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) - 120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex. - 104 stars
-- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source factory for one-shot engineering - 9197 stars
-- [rudderlabs/devbox](https://github.com/rudderlabs/devbox) - Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside. - 324 stars
+- [FeedHive/ai-slop-detector](https://github.com/FeedHive/ai-slop-detector) - 120 patterns that make writing read like AI slop, with an agent skill for Claude Code and Codex. - 108 stars
+- [superplanehq/superplane](https://github.com/superplanehq/superplane) - Open source factory for one-shot engineering - 9476 stars
+- [rudderlabs/devbox](https://github.com/rudderlabs/devbox) - Open source autonomous engineering harness in your cloud. One sandbox per task, no real secrets inside. - 327 stars
 
 #### 👥 Latest follower
 
+- [BoweFlex](https://github.com/BoweFlex) - Jonathan Bowe
 - [sebastianbartmann](https://github.com/sebastianbartmann) - bartmann.xyz
 - [regham555](https://github.com/regham555) - 
 - [7collinear-aromatise](https://github.com/7collinear-aromatise) - 
 - [Christober-S](https://github.com/Christober-S) - Christober
-- [24601](https://github.com/24601) - Basit Mustafa
 
 #### 👨‍💻 Repositories I created recently
 
